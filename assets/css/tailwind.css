@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+    html {
+        font-family: "Roboto" "sans-serif", "Hiragino Sans", "Meiryo", "Hiragino Kaku Gothic ProN";
+    }
+}
+
 .marker {
     background: linear-gradient(transparent 60%, #ff6 60%);
 }
