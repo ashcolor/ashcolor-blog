@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.marker {
+    background: linear-gradient(transparent 60%, #ff6 60%);
+}
