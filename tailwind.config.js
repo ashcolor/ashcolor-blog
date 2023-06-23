@@ -9,6 +9,9 @@ module.exports = {
     ],
     plugins: [require("@tailwindcss/typography"), require("daisyui")],
     theme: {
+        fontFamily: {
+            body: ["Roboto", "Hiragino Sans", "Meiryo", "Hiragino Kaku Gothic ProN", "sans-serif"],
+        },
         extend: {
             colors: {},
         },
