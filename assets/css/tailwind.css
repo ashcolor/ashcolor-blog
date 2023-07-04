@@ -4,8 +4,13 @@
 
 @layer base {
     html {
-        font-family: "Roboto" "sans-serif", "Hiragino Sans", "Meiryo", "Hiragino Kaku Gothic ProN";
+        font-family: "Noto Sans JP", "Roboto" "sans-serif", "Hiragino Sans", "Meiryo",
+            "Hiragino Kaku Gothic ProN";
     }
+}
+
+body {
+    overflow-x: hidden;
 }
 
 .marker {

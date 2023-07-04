@@ -32,6 +32,7 @@ export default defineNuxtConfig({
     googleFonts: {
         families: {
             "M+PLUS+Rounded+1c": true,
+            "Noto+Sans+JP": true,
         },
     },
 
