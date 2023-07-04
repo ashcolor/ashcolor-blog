@@ -6,6 +6,7 @@ export default defineNuxtConfig({
     modules: [
         "@nuxtjs/tailwindcss",
         "@nuxtjs/eslint-module",
+        "@nuxtjs/google-fonts",
         "@nuxt/content",
         "@pinia/nuxt",
         "@vueuse/nuxt",
@@ -26,6 +27,12 @@ export default defineNuxtConfig({
     eslint: {
         // yarn dev開始にlintを実行するか
         lintOnStart: false,
+    },
+
+    googleFonts: {
+        families: {
+            "M+PLUS+Rounded+1c": true,
+        },
     },
 
     devtools: {
