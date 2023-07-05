@@ -1,5 +1,9 @@
+<script setup lang="ts">
+import { BLOG_TITLE } from "@/utils/const";
+</script>
+
 <template>
-    <header class="sticky top-0">
+    <header class="sticky top-0 z-50">
         <div class="navbar bg-base-200">
             <div class="container m-auto">
                 <div class="navbar-start">
@@ -36,7 +40,7 @@
                             <li><NuxtLink to="">お問い合わせ</NuxtLink></li>
                         </ul>
                     </div>
-                    <NuxtLink to="/" class="btn-ghost btn text-xl normal-case">{{
+                    <NuxtLink to="/" class="btn-ghost btn font-logo text-xl normal-case">{{
                         BLOG_TITLE
                     }}</NuxtLink>
                 </div>
