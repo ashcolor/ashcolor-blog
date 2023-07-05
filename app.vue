@@ -1,10 +1,9 @@
 <script setup lang="ts">
-const siteTitle = "個人ブログ";
 useHead({
     titleTemplate: (titleChunk) => {
-        return titleChunk ? `${titleChunk} - ${siteTitle}` : `${siteTitle}`;
+        return titleChunk ? `${titleChunk} - ${BLOG_TITLE}` : `${BLOG_TITLE}`;
     },
-    htmlAttrs: { "data-theme": "corporate" },
+    htmlAttrs: { "data-theme": "mytheme" },
 });
 </script>
 
