@@ -1,52 +1,109 @@
 <script setup lang="ts">
 import { Icon } from "@iconify/vue";
-import type { QueryBuilderParams } from "@nuxt/content/dist/runtime/types";
-const query: QueryBuilderParams = {
-    path: "/blog",
-    // where: [{ layout: "article" }],
-    // limit: 5,
-    // sort: [{ date: -1 }],
-};
+import { BLOG_TITLE } from "@/utils/const";
+
+const articleTags = await queryContent("/blog").only("tags").find();
+const tags = articleTags.map((article) => article.tags).flat();
+const tagCounts = new Map();
+
+tags.forEach((tag) => {
+    if (tagCounts.has(tag)) {
+        tagCounts.set(tag, tagCounts.get(tag) + 1);
+    } else {
+        tagCounts.set(tag, 1);
+    }
+});
 </script>
 
 <template>
     <NuxtLayout>
-        <ProseH1 class="text-center font-banana">{{ BLOG_TITLE }}</ProseH1>
-        <ProseH3>新着記事</ProseH3>
-        <ProseH3>オススメ記事</ProseH3>
-        <ContentList :query="query">
-            <template #default="{ list }">
-                <div class="flex flex-col flex-wrap place-content-center gap-8 md:flex-row">
-                    <!-- {{ article.category }} -->
-                    <template v-for="article in list" :key="article._path">
-                        <NuxtLink
-                            :to="article._path"
-                            class="card w-96 min-w-[24rem] border bg-base-100"
-                        >
-                            <figure>
-                                <img :src="article.thumbnail" :alt="article.title" />
-                            </figure>
-                            <div class="card-body">
-                                <h2 class="card-title">{{ article.title }}</h2>
-                                <div class="flex flex-row gap-2">
-                                    <span v-for="tag in article.tags" :key="tag" class="badge">
-                                        {{ tag }}
-                                    </span>
-                                </div>
-                                <p
-                                    class="flex flex-row items-center gap-1 align-baseline text-sm font-thin"
-                                >
-                                    <Icon icon="bi:arrow-counterclockwise" class="inline"></Icon>
-                                    <span>{{ article.updatedAt }}</span>
-                                </p>
-                            </div>
-                        </NuxtLink>
-                    </template>
+        <ProseH1 class="my-4 text-center font-logo text-4xl">{{ BLOG_TITLE }}</ProseH1>
+        <div class="text-center font-logo text-slate-400">
+            <p>{{ BLOG_SUBTITLE }}</p>
+        </div>
+        <div
+            class="hero mx-[calc(50%_-_50vw)] my-16 h-96 w-screen"
+            style="background-image: url(https://placehold.jp/800×600.png)"
+        >
+            <div class="hero-overlay opacity-60"></div>
+            <div class="hero-content text-center text-neutral-content">
+                <div class="max-w-md">
+                    <!-- <h1 class="mb-5 text-2xl font-bold">クリエイター向けブログ</h1>
+                    <p class="mb-5">役立つガジェット・情報を紹介します。</p> -->
                 </div>
-            </template>
-            <template #not-found>
-                <p>No articles found.</p>
-            </template>
-        </ContentList>
+            </div>
+        </div>
+        <ProseH3>オススメ記事</ProseH3>
+        <div class="flex flex-col">
+            <div class="my-8">
+                <TopRecommendArticles></TopRecommendArticles>
+            </div>
+        </div>
+        <ProseH3>新着記事</ProseH3>
+        <div class="flex flex-col">
+            <div class="my-8">
+                <TopRecentArticles></TopRecentArticles>
+            </div>
+            <NuxtLink to="/search" class="btn-primary btn-outline btn-wide btn self-center"
+                >もっと見る
+            </NuxtLink>
+        </div>
+        <ProseH3>記事を探す</ProseH3>
+
+        <div class="flex flex-col xl:flex-row">
+            <div class="shrink-0 basis-1/2">
+                <ProseH4>カテゴリーから探す</ProseH4>
+                <div class="flex flex-row flex-wrap justify-evenly gap-2">
+                    <NuxtLink
+                        v-for="category in BLOG_CATEGORIES"
+                        :key="category.name"
+                        :to="`/search?category=${category.name}`"
+                        class="card"
+                    >
+                        <div
+                            class="hero h-[128px] w-[256px]"
+                            style="
+                                background-image: url(https://placehold.jp/3d4070/ffffff/300x150.png);
+                            "
+                        >
+                            <div class="hero-overlay opacity-90"></div>
+                            <div class="hero-content text-center text-neutral-content">
+                                <div class="max-w-md">
+                                    <p class="text-xl font-thin">{{ category.name }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </NuxtLink>
+                </div>
+            </div>
+            <div class="shrink-0 basis-1/2">
+                <div>
+                    <ProseH4>ワード検索</ProseH4>
+                    <div class="join w-full">
+                        <div class="join-item btn pointer-events-none cursor-default">
+                            <Icon icon="bi:search"></Icon>
+                        </div>
+                        <input
+                            class="input-bordered input join-item grow"
+                            placeholder="例：キーボード イヤホン"
+                        />
+                        <button class="join-item btn">Search</button>
+                    </div>
+                    <ProseH4>タグから探す</ProseH4>
+                    <div class="flex flex-row flex-wrap gap-2 border p-4">
+                        <NuxtLink
+                            v-for="tagCount in tagCounts"
+                            :key="tagCount[0]"
+                            :to="`/search?word=${tagCount[0]}`"
+                            class="badge badge-outline"
+                        >
+                            {{ tagCount[0] }}
+                        </NuxtLink>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <ProseH3>この記事を書いた人</ProseH3>
+        <div></div>
     </NuxtLayout>
 </template>
