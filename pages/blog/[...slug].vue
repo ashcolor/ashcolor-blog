@@ -1,4 +1,6 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { Icon } from "@iconify/vue";
+</script>
 
 <template>
     <NuxtLayout>
@@ -6,7 +8,10 @@
             <template #default="{ doc }">
                 <div class="mb-8">
                     <ProseH1>{{ doc.title }}</ProseH1>
-                    <p class="text-sm font-light">{{ doc.createdAt }}</p>
+                    <p class="flex flex-row items-center gap-1 text-sm text-gray-400">
+                        <Icon icon="bi:arrow-counterclockwise" class="inline"></Icon>
+                        <span>{{ doc.updatedAt }}</span>
+                    </p>
                 </div>
                 <div class="grid grid-cols-12">
                     <div class="col-span-12 flex flex-col gap-4 lg:col-span-8">
