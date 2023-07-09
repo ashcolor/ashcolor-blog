@@ -1,10 +1,22 @@
 <script setup lang="ts">
+interface Props {
+    category: string;
+}
+
+const props = withDefaults(defineProps<Props>(), {
+    category: "",
+});
+
 const LIMIT = 6;
 
-const query = queryContent("blog");
+const query = queryContent("/blog/");
 
 query.limit(LIMIT);
 query.sort({ updatedAt: -1 });
+
+if (props.category) {
+    query.where({ category: props.category });
+}
 
 const articles = await query.find();
 </script>

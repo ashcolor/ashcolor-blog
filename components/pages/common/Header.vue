@@ -19,10 +19,9 @@ import { BLOG_TITLE } from "@/utils/const";
                             <li
                                 v-for="category in BLOG_CATEGORIES"
                                 :key="category.name"
-                                :to="category.path"
                                 class="link-hover link"
                             >
-                                <NuxtLink to="">{{ category.name }}</NuxtLink>
+                                <NuxtLink :to="category.path">{{ category.name }}</NuxtLink>
                             </li>
                             <li><NuxtLink to="/profile">運営者情報</NuxtLink></li>
                             <li><NuxtLink to="/contact">お問い合わせ</NuxtLink></li>
@@ -37,10 +36,9 @@ import { BLOG_TITLE } from "@/utils/const";
                         <li
                             v-for="category in BLOG_CATEGORIES"
                             :key="category.name"
-                            :to="category.path"
                             class="link-hover link"
                         >
-                            <NuxtLink to="">{{ category.name }}</NuxtLink>
+                            <NuxtLink :to="category.path">{{ category.name }}</NuxtLink>
                         </li>
                         <li><NuxtLink to="/profile">運営者情報</NuxtLink></li>
                         <li><NuxtLink to="/contact">お問い合わせ</NuxtLink></li>
