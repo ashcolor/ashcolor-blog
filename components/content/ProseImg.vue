@@ -30,8 +30,14 @@ const refinedSrc = computed(() => {
 </script>
 
 <template>
-    <div class="my-8 flex flex-col place-items-center gap-2">
-        <img :src="refinedSrc" :alt="alt" :width="width" :height="height" class="border" />
+    <div class="my-8 flex max-h-[48rem] flex-col place-items-center gap-2">
+        <img
+            :src="refinedSrc"
+            :alt="alt"
+            :width="width"
+            :height="height"
+            class="min-h-0 grow-0 border"
+        />
         <p v-if="alt" class="text-sm font-thin">{{ props.alt }}</p>
     </div>
 </template>
