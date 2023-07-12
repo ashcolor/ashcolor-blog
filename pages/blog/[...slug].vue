@@ -7,11 +7,36 @@ import { Icon } from "@iconify/vue";
         <ContentDoc>
             <template #default="{ doc }">
                 <div class="mb-8">
+                    <div class="flex flex-row gap-1">
+                        <NuxtLink
+                            v-if="doc.category"
+                            :to="`/blog/${doc.category}`"
+                            class="badge badge-neutral gap-1"
+                        >
+                            <Icon icon="bi:folder-fill"></Icon>
+                            {{ doc.category }}
+                        </NuxtLink>
+                        <NuxtLink
+                            v-for="tag in doc.tags"
+                            :key="tag"
+                            :to="`/search?word=${tag}`"
+                            class="badge gap-1"
+                        >
+                            <Icon icon="bi:tag"></Icon>
+                            {{ tag }}
+                        </NuxtLink>
+                    </div>
                     <ProseH1>{{ doc.title }}</ProseH1>
-                    <p class="flex flex-row items-center gap-1 text-sm text-gray-400">
-                        <Icon icon="bi:arrow-counterclockwise" class="inline"></Icon>
-                        <span>{{ doc.updatedAt }}</span>
-                    </p>
+                    <div class="text-mute flex flex-row items-center gap-2 text-sm">
+                        <div v-if="doc.createdAt" class="flex flex-row items-center gap-1">
+                            <Icon icon="bi:pencil-square"></Icon>
+                            <span>{{ doc.createdAt }}</span>
+                        </div>
+                        <div v-if="doc.updatedAt" class="flex flex-row items-center gap-1">
+                            <Icon icon="bi:arrow-counterclockwise"></Icon>
+                            <span>{{ doc.updatedAt }}</span>
+                        </div>
+                    </div>
                 </div>
                 <div class="grid grid-cols-12">
                     <div class="col-span-12 flex flex-col gap-4 lg:col-span-8">
