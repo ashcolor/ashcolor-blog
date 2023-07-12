@@ -28,18 +28,18 @@ const props = withDefaults(defineProps<Props>(), {
         <div class="card-body justify-center">
             <h2 class="card-title">{{ props.title }}</h2>
 
-            <div class="flex grow-0 flex-row items-center gap-2 text-sm text-gray-400">
+            <div class="text-mute flex grow-0 flex-row items-center gap-2 text-sm">
                 <Icon icon="bi:folder" />
                 <p>{{ props.category }}</p>
             </div>
-            <p class="flex grow-0 flex-row items-center gap-2 text-sm text-gray-400">
+            <p class="text-mute flex grow-0 flex-row items-center gap-2 text-sm">
                 <Icon icon="bi:arrow-counterclockwise" class="inline"></Icon>
                 <span>{{ props.updatedAt }}</span>
             </p>
-            <!-- <div class="flex flex-row items-center gap-1 text-sm text-gray-400">
+            <!-- <div class="flex flex-row items-center gap-1 text-sm text-mute">
                 <Icon icon="bi:tags" />
                 <div class="flex flex-row gap-2">
-                    <span v-for="tag in props.tags" :key="tag" class="badge text-gray-400">
+                    <span v-for="tag in props.tags" :key="tag" class="badge text-mute">
                         {{ tag }}
                     </span>
                 </div>
