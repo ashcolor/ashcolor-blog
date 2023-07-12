@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import { Icon } from "@iconify/vue";
 import { BLOG_TITLE } from "@/utils/const";
+
+const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowHeader);
 </script>
 
 <template>
@@ -34,7 +36,7 @@ import { BLOG_TITLE } from "@/utils/const";
                 <div class="navbar-center hidden lg:flex">
                     <ul class="menu menu-horizontal px-1">
                         <li
-                            v-for="category in BLOG_CATEGORIES"
+                            v-for="category in headerCategories"
                             :key="category.name"
                             class="link-hover link"
                         >

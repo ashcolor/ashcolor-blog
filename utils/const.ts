@@ -7,21 +7,25 @@ export const BLOG_CATEGORIES = [
         key: "gadget",
         name: "ガジェット",
         path: "/blog/gadget",
+        isShowHeader: true,
     },
     {
         key: "programming",
         name: "プログラミング",
         path: "/blog/programming",
+        isShowHeader: true,
     },
     {
         key: "dtm",
         name: "DTM",
         path: "/blog/dtm",
+        isShowHeader: true,
     },
     {
         key: "random-note",
         name: "雑記",
         path: "/blog/random-note",
+        isShowHeader: false,
     },
 ];
 
