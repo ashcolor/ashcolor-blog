@@ -52,6 +52,8 @@ const article = await queryContent(route.path)
                         <PageToc></PageToc>
                     </div>
                     <ContentRenderer :value="article" />
+                    <div class="divider"></div>
+                    <BlogSnsShareContainer></BlogSnsShareContainer>
                 </div>
                 <div class="col-span-4 hidden px-4 lg:block">
                     <div class="sticky top-24 flex flex-col">
