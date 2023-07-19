@@ -9,8 +9,15 @@ const props = withDefaults(defineProps<Props>(), {
     type: "info",
 });
 
-const classType = computed(() => {
-    return `alert-${props.type}`;
+const typeClass = computed(() => {
+    const typeClassMapping = {
+        info: "alert-info",
+        success: "alert-success",
+        warning: "alert-warning",
+        error: "alert-error",
+    };
+
+    return `${typeClassMapping[props.type]}`;
 });
 
 const icon = computed(() => {
@@ -25,7 +32,7 @@ const icon = computed(() => {
 </script>
 
 <template>
-    <div class="alert my-4" :class="[classType]">
+    <div class="alert my-4" :class="[typeClass]">
         <Icon :icon="icon"></Icon>
         <span><slot /></span>
     </div>
