@@ -12,7 +12,7 @@ const article = await queryContent(route.path)
     <NuxtLayout>
         <div v-if="article">
             <div class="mb-8">
-                <div class="flex flex-row gap-1">
+                <div class="flex flex-row flex-wrap gap-1">
                     <NuxtLink
                         v-if="article.category"
                         :to="`/blog/${article.category}`"
