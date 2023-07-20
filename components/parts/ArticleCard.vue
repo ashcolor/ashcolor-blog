@@ -7,6 +7,7 @@ interface Props {
     title: string;
     category: string;
     tags: Array<string>;
+    createdAt: string;
     updatedAt: string;
 }
 
@@ -16,6 +17,7 @@ const props = withDefaults(defineProps<Props>(), {
     title: "",
     category: "",
     tags: () => [],
+    createdAt: "",
     updatedAt: "",
 });
 </script>
@@ -28,14 +30,10 @@ const props = withDefaults(defineProps<Props>(), {
         <div class="card-body justify-center">
             <h2 class="card-title">{{ props.title }}</h2>
 
-            <div class="text-mute flex grow-0 flex-row items-center gap-2 text-sm">
+            <div class="text-mute flex grow-0 flex-row items-center gap-1 text-sm">
                 <Icon icon="bi:folder" />
                 <p>{{ props.category }}</p>
             </div>
-            <p class="text-mute flex grow-0 flex-row items-center gap-2 text-sm">
-                <Icon icon="bi:arrow-counterclockwise" class="inline"></Icon>
-                <span>{{ props.updatedAt }}</span>
-            </p>
             <!-- <div class="flex flex-row items-center gap-1 text-sm text-mute">
                 <Icon icon="bi:tags" />
                 <div class="flex flex-row gap-2">
@@ -44,6 +42,16 @@ const props = withDefaults(defineProps<Props>(), {
                     </span>
                 </div>
             </div> -->
+            <div class="text-mute flex flex-row items-center gap-2 text-sm">
+                <div v-if="props.createdAt" class="flex flex-row items-center gap-1">
+                    <Icon icon="bi:pencil-square"></Icon>
+                    <span>{{ props.createdAt }}</span>
+                </div>
+                <div v-if="props.updatedAt" class="flex flex-row items-center gap-1">
+                    <Icon icon="bi:arrow-counterclockwise"></Icon>
+                    <span>{{ props.updatedAt }}</span>
+                </div>
+            </div>
         </div>
     </NuxtLink>
 </template>
