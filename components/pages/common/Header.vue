@@ -8,7 +8,7 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowHea
 <template>
     <div class="navbar border-b bg-base-100">
         <div class="container m-auto">
-            <div class="navbar-start w-full lg:w-1/2">
+            <div class="navbar-start flex w-full flex-row lg:w-1/2">
                 <div class="dropdown">
                     <label tabindex="0" class="btn-ghost btn lg:hidden">
                         <Icon icon="bi:list" width="24"></Icon>
