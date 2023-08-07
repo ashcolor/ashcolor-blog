@@ -22,8 +22,7 @@ tags.forEach((tag) => {
             <p>{{ BLOG_SUBTITLE }}</p>
         </div>
         <div
-            class="hero mx-[calc(50%_-_50vw)] my-16 h-96 w-screen"
-            style="background-image: url(https://placehold.jp/800×600.png)"
+            class="hero mx-[calc(50%_-_50vw)] my-16 h-[50vh] w-screen bg-[url('https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour/overall.jpg')]"
         >
             <div class="hero-overlay opacity-60"></div>
             <div class="hero-content text-center text-neutral-content">
