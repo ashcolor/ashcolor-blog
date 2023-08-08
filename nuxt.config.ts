@@ -3,6 +3,8 @@ export default defineNuxtConfig({
     ssr: false,
     css: ["@/assets/css/tailwind.css"],
     build: {},
+    extends: "@nuxt-themes/typography",
+
     modules: [
         "@nuxtjs/tailwindcss",
         "@nuxtjs/eslint-module",
