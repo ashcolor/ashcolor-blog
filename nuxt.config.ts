@@ -26,6 +26,13 @@ export default defineNuxtConfig({
         markdown: {
             remarkPlugins: ["remark-breaks"],
         },
+        highlight: {
+            theme: {
+                default: "github-light",
+                dark: "github-dark",
+            },
+            preload: ["vue"],
+        },
     },
 
     eslint: {
