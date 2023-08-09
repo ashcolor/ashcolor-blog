@@ -1,3 +1,3 @@
 <template>
-    <li class="list-inside list-disc"><slot /></li>
+    <li class="list-inside"><slot /></li>
 </template>
