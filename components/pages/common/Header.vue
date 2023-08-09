@@ -28,7 +28,7 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowHea
                         <li><NuxtLink to="/contact">お問い合わせ</NuxtLink></li>
                     </ul>
                 </div>
-                <NuxtLink to="/" class="btn-ghost btn pl-0 font-logo text-xl normal-case">{{
+                <NuxtLink to="/" class="btn-ghost btn font-logo text-xl normal-case">{{
                     BLOG_TITLE
                 }}</NuxtLink>
             </div>
