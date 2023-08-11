@@ -2,8 +2,8 @@
 import { Icon } from "@iconify/vue";
 
 interface Navigation {
-    title: String;
-    path: String;
+    title: string;
+    path: string;
 }
 interface Props {
     navigations: Array<Navigation>;
@@ -12,6 +12,7 @@ interface Props {
 const props = withDefaults(defineProps<Props>(), {
     navigations: () => [],
 });
+console.log([props.navigations[0]]);
 </script>
 
 <template>
@@ -23,7 +24,7 @@ const props = withDefaults(defineProps<Props>(), {
                     ホーム
                 </NuxtLink>
             </li>
-            <li v-for="(navigation, index) in props.navigations" :key="index">
+            <li v-for="navigation in props.navigations" :key="navigation.path">
                 <NuxtLink class="flex flex-row gap-1">
                     <Icon icon="bi:folder-fill"></Icon>
                     <NuxtLink :to="navigation.path">

@@ -22,7 +22,7 @@ const navigations = computed(() => {
     return [
         {
             title: categoryName,
-            path: BLOG_CATEGORIES.find((c) => c.key === category)?.path,
+            path: BLOG_CATEGORIES.find((c) => c.name === category)?.path,
         },
     ];
 });
