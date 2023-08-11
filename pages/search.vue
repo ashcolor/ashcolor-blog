@@ -1,9 +1,19 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+const navigations = computed(() => {
+    return [
+        {
+            title: "記事検索",
+            path: "/search",
+        },
+    ];
+});
+</script>
 
 <template>
     <NuxtLayout>
-        <ProseH1 class="text-center">ブログ検索</ProseH1>
-        <ProseH3>ブログ一覧</ProseH3>
+        <BreadCrumb :navigations="navigations"></BreadCrumb>
+        <ProseH1 class="text-center">記事検索</ProseH1>
+        <ProseH3>記事一覧</ProseH3>
         <div class="my-8 flex flex-col">
             <SearchArticles></SearchArticles>
         </div>

@@ -12,11 +12,10 @@ interface Props {
 const props = withDefaults(defineProps<Props>(), {
     navigations: () => [],
 });
-console.log([props.navigations[0]]);
 </script>
 
 <template>
-    <div class="breadcrumbs bg-base-200 px-2 text-sm">
+    <div class="breadcrumbs border-b border-primary px-2 text-sm">
         <ul class="text-xs">
             <li>
                 <NuxtLink to="/" class="flex flex-row gap-1">
