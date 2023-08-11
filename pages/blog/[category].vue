@@ -1,9 +1,10 @@
 <script setup lang="ts">
-import { BLOG_CATEGORY_MAP } from "@/utils/const";
+import { BLOG_CATEGORIES, BLOG_CATEGORY_MAP } from "@/utils/const";
 
 const route = useRoute();
 const category = typeof route.params.category === "string" ? route.params.category : "";
 const categoryName = BLOG_CATEGORY_MAP.get(category);
+const categoryThumbnail = BLOG_CATEGORIES.find((c) => c.key === category)?.thumbnail;
 
 const articleTags = await queryContent(`/blog/${category}`).only("tags").find();
 const tags = articleTags.map((article) => article.tags).flat();
@@ -16,22 +17,27 @@ tags.forEach((tag) => {
         tagCounts.set(tag, 1);
     }
 });
+
+const navigations = computed(() => {
+    return [
+        {
+            title: categoryName,
+            path: BLOG_CATEGORIES.find((c) => c.key === category)?.path,
+        },
+    ];
+});
 </script>
 
 <template>
     <NuxtLayout>
+        <BreadCrumb :navigations="navigations"></BreadCrumb>
         <ProseH1 class="my-4 text-center font-logo text-4xl">{{ categoryName }}</ProseH1>
         <div
             class="hero mx-[calc(50%_-_50vw)] my-16 h-96 w-screen"
-            style="background-image: url(https://placehold.jp/800×600.png)"
+            :style="`background-image: url(${categoryThumbnail})`"
         >
             <div class="hero-overlay opacity-60"></div>
-            <div class="hero-content text-center text-neutral-content">
-                <div class="max-w-md">
-                    <!-- <h1 class="mb-5 text-2xl font-bold">クリエイター向けブログ</h1>
-                    <p class="mb-5">役立つガジェット・情報を紹介します。</p> -->
-                </div>
-            </div>
+            <div class="hero-content text-center text-neutral-content"></div>
         </div>
         <ProseH3>オススメ記事</ProseH3>
         <div class="flex flex-col">

@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { Icon } from "@iconify/vue";
-import { BLOG_TITLE } from "@/utils/const";
+import { BLOG_TITLE, BLOG_CATEGORIES } from "@/utils/const";
 
-const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowHeader);
+const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowList);
 </script>
 
 <template>

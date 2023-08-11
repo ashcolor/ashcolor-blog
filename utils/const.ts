@@ -7,25 +7,32 @@ export const BLOG_CATEGORIES = [
         key: "gadget",
         name: "ガジェット",
         path: "/blog/gadget",
-        isShowHeader: true,
+        thumbnail:
+            "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour/overall.jpg",
+        isShowList: true,
     },
     {
         key: "programming",
         name: "プログラミング",
         path: "/blog/programming",
-        isShowHeader: true,
+        thumbnail:
+            "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/key-cap.jpg",
+        isShowList: true,
     },
     {
         key: "dtm",
         name: "DTM",
         path: "/blog/dtm",
-        isShowHeader: true,
+        thumbnail:
+            "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/thumbnail.png",
+        isShowList: true,
     },
     {
         key: "random-note",
         name: "雑記",
         path: "/blog/random-note",
-        isShowHeader: false,
+        thumbnail: "",
+        isShowList: false,
     },
 ];
 

@@ -6,39 +6,39 @@ const route = useRoute();
 const article = await queryContent(route.path)
     .findOne()
     .catch(() => null);
+
+const navigations = computed(() => {
+    return [
+        {
+            title: article.category,
+            path: BLOG_CATEGORIES[article.category]?.path,
+        },
+    ];
+});
 </script>
 
 <template>
     <NuxtLayout>
         <div v-if="article">
             <div class="mb-8">
-                <div class="flex flex-row flex-wrap gap-1">
-                    <NuxtLink
-                        v-if="article.category"
-                        :to="`/blog/${article.category}`"
-                        class="badge badge-neutral gap-1"
-                    >
-                        <Icon icon="bi:folder-fill"></Icon>
-                        {{ article.category }}
-                    </NuxtLink>
-                    <NuxtLink
-                        v-for="tag in article.tags"
-                        :key="tag"
-                        :to="`/search?word=${tag}`"
-                        class="badge gap-1"
-                    >
-                        <Icon icon="bi:tag"></Icon>
-                        {{ tag }}
-                    </NuxtLink>
-                </div>
+                <BreadCrumb :navigations="navigations"></BreadCrumb>
+                <NuxtLink
+                    v-for="tag in article.tags"
+                    :key="tag"
+                    :to="`/search?word=${tag}`"
+                    class="badge badge-sm gap-1"
+                >
+                    <Icon icon="bi:tag"></Icon>
+                    {{ tag }}
+                </NuxtLink>
                 <ProseH1>{{ article.title }}</ProseH1>
                 <div class="text-mute flex flex-row items-center gap-2 text-sm">
                     <div v-if="article.createdAt" class="flex flex-row items-center gap-1">
-                        <Icon icon="bi:pencil-square"></Icon>
+                        <Icon icon="ph:clock"></Icon>
                         <span>{{ article.createdAt }}</span>
                     </div>
                     <div v-if="article.updatedAt" class="flex flex-row items-center gap-1">
-                        <Icon icon="bi:arrow-counterclockwise"></Icon>
+                        <Icon icon="ph:clock-clockwise"></Icon>
                         <span>{{ article.updatedAt }}</span>
                     </div>
                 </div>

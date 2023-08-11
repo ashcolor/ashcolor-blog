@@ -13,6 +13,8 @@ tags.forEach((tag) => {
         tagCounts.set(tag, 1);
     }
 });
+
+const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList);
 </script>
 
 <template>
@@ -54,16 +56,14 @@ tags.forEach((tag) => {
                 <ProseH4>カテゴリーから探す</ProseH4>
                 <div class="flex flex-row flex-wrap justify-evenly gap-2">
                     <NuxtLink
-                        v-for="category in BLOG_CATEGORIES"
+                        v-for="category in listCategories"
                         :key="category.name"
                         :to="`/search?category=${category.name}`"
                         class="card"
                     >
                         <div
-                            class="hero h-[128px] w-[256px]"
-                            style="
-                                background-image: url(https://placehold.jp/3d4070/ffffff/300x150.png);
-                            "
+                            class="hero h-[128px] w-[256px] bg-[url('')]"
+                            :style="`background-image: url(${category.thumbnail});`"
                         >
                             <div class="hero-overlay opacity-90"></div>
                             <div class="hero-content text-center text-neutral-content">

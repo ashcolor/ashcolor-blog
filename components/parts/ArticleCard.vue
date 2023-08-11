@@ -44,11 +44,11 @@ const props = withDefaults(defineProps<Props>(), {
             </div> -->
             <div class="text-mute flex flex-row items-center gap-2 text-sm">
                 <div v-if="props.createdAt" class="flex flex-row items-center gap-1">
-                    <Icon icon="bi:pencil-square"></Icon>
+                    <Icon icon="ph:clock"></Icon>
                     <span>{{ props.createdAt }}</span>
                 </div>
                 <div v-if="props.updatedAt" class="flex flex-row items-center gap-1">
-                    <Icon icon="bi:arrow-counterclockwise"></Icon>
+                    <Icon icon="ph:clock-clockwise"></Icon>
                     <span>{{ props.updatedAt }}</span>
                 </div>
             </div>
