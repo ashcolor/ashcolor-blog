@@ -102,7 +102,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                 </div>
             </div>
         </div>
-        <ProseH3>この記事を書いた人</ProseH3>
-        <div></div>
+        <!-- <ProseH3>この記事を書いた人</ProseH3> -->
+        <!-- <div></div> -->
     </NuxtLayout>
 </template>

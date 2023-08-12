@@ -3,6 +3,7 @@ const navigations = computed(() => {
     return [
         {
             title: "記事検索",
+            icon: "bi:search",
             path: "/search",
         },
     ];

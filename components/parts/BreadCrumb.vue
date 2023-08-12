@@ -3,6 +3,7 @@ import { Icon } from "@iconify/vue";
 
 interface Navigation {
     title: string;
+    icon: string;
     path: string;
 }
 interface Props {
@@ -23,13 +24,19 @@ const props = withDefaults(defineProps<Props>(), {
                     ホーム
                 </NuxtLink>
             </li>
-            <li v-for="navigation in props.navigations" :key="navigation.path">
-                <NuxtLink class="flex flex-row gap-1">
-                    <Icon icon="bi:folder-fill"></Icon>
-                    <NuxtLink :to="navigation.path">
+            <li v-for="navigation in props.navigations" :key="navigation.title">
+                <NuxtLink v-if="navigation.path" :to="navigation.path" class="flex flex-row gap-1">
+                    <Icon v-if="navigation.icon" :icon="navigation.icon"></Icon>
+                    <span>
                         {{ navigation.title }}
-                    </NuxtLink>
+                    </span>
                 </NuxtLink>
+                <div v-else class="flex flex-row items-center gap-1">
+                    <Icon v-if="navigation.icon" :icon="navigation.icon"></Icon>
+                    <span>
+                        {{ navigation.title }}
+                    </span>
+                </div>
             </li>
         </ul>
     </div>

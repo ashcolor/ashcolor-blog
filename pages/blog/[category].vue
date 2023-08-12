@@ -22,6 +22,7 @@ const navigations = computed(() => {
     return [
         {
             title: categoryName,
+            icon: "bi:folder",
             path: BLOG_CATEGORIES.find((c) => c.name === category)?.path,
         },
     ];

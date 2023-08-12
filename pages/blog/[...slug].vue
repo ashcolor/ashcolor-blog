@@ -12,7 +12,12 @@ const navigations = computed(() => {
     return [
         {
             title: article?.category,
+            icon: "bi:folder",
             path: BLOG_CATEGORIES.find((c) => c.name === article?.category)?.path,
+        },
+        {
+            title: article?.title,
+            icon: "bi:file-earmark-text",
         },
     ];
 });
