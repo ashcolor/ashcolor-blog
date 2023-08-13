@@ -15,6 +15,7 @@ export default defineNuxtConfig({
         "@nuxt/content",
         "nuxt-simple-robots",
         "nuxt-simple-sitemap",
+        "nuxt-gtag",
         "@pinia/nuxt",
         "@vueuse/nuxt",
     ],
@@ -51,6 +52,10 @@ export default defineNuxtConfig({
             "M+PLUS+Rounded+1c": true,
             "Noto+Sans+JP": true,
         },
+    },
+
+    gtag: {
+        id: "G-Z20F8MTC2Q",
     },
 
     devtools: {

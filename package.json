@@ -25,6 +25,7 @@
     "eslint-plugin-tailwindcss": "^3.12.1",
     "markdownlint": "^0.29.0",
     "nuxt": "^3.6.5",
+    "nuxt-gtag": "^0.5.7",
     "nuxt-simple-robots": "^3.0.2",
     "nuxt-simple-sitemap": "^3.0.8",
     "prettier": "^2.8.8",
