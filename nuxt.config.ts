@@ -54,6 +54,10 @@ export default defineNuxtConfig({
         },
     },
 
+    site: {
+        url: "https://blog.ashcolor.work",
+    },
+
     gtag: {
         id: "G-Z20F8MTC2Q",
     },
