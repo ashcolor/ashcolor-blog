@@ -16,7 +16,7 @@ const props = withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-    <div class="breadcrumbs border-b border-primary px-2 text-sm">
+    <div class="breadcrumbs border-b border-base-300 px-2 text-sm text-neutral">
         <ul class="text-xs">
             <li>
                 <NuxtLink to="/" class="flex flex-row gap-1">
