@@ -56,6 +56,8 @@ export default defineNuxtConfig({
 
     site: {
         url: "https://blog.ashcolor.work",
+        "/_story": { index: false },
+        "/_story/**": { index: false },
     },
 
     gtag: {
