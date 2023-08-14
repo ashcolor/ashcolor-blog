@@ -423,3 +423,18 @@ _Just an italic paragraph._
 ```
 
 ::
+
+### アフィリエイトブロック
+
+::preview-and-code
+#preview
+
+:affiliate-block{title="IKEA(イケア) LAGKAPTEN テーブル ホワイト" asin="B09196WS7C"}
+
+#code
+
+```markdown
+:affiliate-block{title="IKEA(イケア) LAGKAPTEN テーブル ホワイト" asin="B09196WS7C"}
+```
+
+::
