@@ -13,7 +13,6 @@ export default defineNuxtConfig({
         "@nuxtjs/eslint-module",
         "@nuxtjs/google-fonts",
         "@nuxt/content",
-        "@nuxt/image",
         "nuxt-simple-robots",
         "nuxt-simple-sitemap",
         "nuxt-gtag",

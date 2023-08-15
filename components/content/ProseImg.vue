@@ -37,6 +37,7 @@ const refinedSrc = computed(() => {
             :width="width"
             :height="height"
             class="min-h-0 grow-0 border"
+            loading="lazy"
         />
         <p v-if="alt" class="text-sm font-thin">{{ props.alt }}</p>
     </div>
