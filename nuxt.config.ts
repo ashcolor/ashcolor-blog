@@ -66,6 +66,7 @@ export default defineNuxtConfig({
     },
 
     sitemap: {
+        xsl: false,
         exclude: ["/_story"],
     },
 
