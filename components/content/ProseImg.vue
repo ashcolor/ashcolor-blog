@@ -31,7 +31,8 @@ const refinedSrc = computed(() => {
 
 <template>
     <div class="my-8 flex max-h-[48rem] flex-col place-items-center gap-2">
-        <img
+        <nuxt-img
+            loading="lazy"
             :src="refinedSrc"
             :alt="alt"
             :width="width"
