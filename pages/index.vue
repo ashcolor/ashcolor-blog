@@ -98,7 +98,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                         <button class="join-item btn">Search</button>
                     </div>
                     <ProseH4>タグから探す</ProseH4>
-                    <div class="flex flex-row flex-wrap gap-2 border p-4">
+                    <div class="flex flex-row flex-wrap gap-3 border p-4 text-slate-500">
                         <NuxtLink
                             v-for="tagCount in tagCounts"
                             :key="tagCount[0]"
