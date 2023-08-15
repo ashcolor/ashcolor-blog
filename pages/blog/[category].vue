@@ -48,13 +48,13 @@ const navigations = computed(() => {
             <div class="hero-overlay opacity-60"></div>
             <div class="hero-content text-center text-neutral-content"></div>
         </div>
-        <ProseH3>オススメ記事</ProseH3>
+        <ProseH2>オススメ記事</ProseH2>
         <div class="flex flex-col">
             <div class="my-8">
                 <TopRecommendArticles :category="categoryName"></TopRecommendArticles>
             </div>
         </div>
-        <ProseH3>新着記事</ProseH3>
+        <ProseH2>新着記事</ProseH2>
         <div class="flex flex-col">
             <div class="my-8">
                 <TopRecentArticles :category="categoryName"></TopRecentArticles>

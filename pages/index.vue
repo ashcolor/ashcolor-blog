@@ -43,13 +43,13 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                 </div>
             </div>
         </div>
-        <ProseH3>オススメ記事</ProseH3>
+        <ProseH2>オススメ記事</ProseH2>
         <div class="flex flex-col">
             <div class="my-8">
                 <TopRecommendArticles></TopRecommendArticles>
             </div>
         </div>
-        <ProseH3>新着記事</ProseH3>
+        <ProseH2>新着記事</ProseH2>
         <div class="flex flex-col">
             <div class="my-8">
                 <TopRecentArticles></TopRecentArticles>
@@ -58,11 +58,10 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                 >もっと見る
             </NuxtLink>
         </div>
-        <ProseH3>記事を探す</ProseH3>
-
+        <ProseH2>記事を探す</ProseH2>
         <div class="flex flex-col xl:flex-row">
             <div class="shrink-0 basis-1/2">
-                <ProseH4>カテゴリーから探す</ProseH4>
+                <ProseH3>カテゴリーから探す</ProseH3>
                 <div class="flex flex-row flex-wrap justify-evenly gap-2">
                     <NuxtLink
                         v-for="category in listCategories"
@@ -86,7 +85,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
             </div>
             <div class="shrink-0 basis-1/2">
                 <div>
-                    <ProseH4>ワード検索</ProseH4>
+                    <ProseH3>ワード検索</ProseH3>
                     <div class="join w-full">
                         <div class="join-item btn pointer-events-none cursor-default">
                             <Icon icon="bi:search"></Icon>
@@ -97,7 +96,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                         />
                         <button class="join-item btn">Search</button>
                     </div>
-                    <ProseH4>タグから探す</ProseH4>
+                    <ProseH3>タグから探す</ProseH3>
                     <div class="flex flex-row flex-wrap gap-3 border p-4 text-slate-500">
                         <NuxtLink
                             v-for="tagCount in tagCounts"
