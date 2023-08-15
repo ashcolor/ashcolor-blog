@@ -6,6 +6,14 @@ const category = typeof route.params.category === "string" ? route.params.catego
 const categoryName = BLOG_CATEGORY_MAP.get(category);
 const categoryThumbnail = BLOG_CATEGORIES.find((c) => c.key === category)?.thumbnail;
 
+useSeoMeta({
+    title: `${categoryName} | ${BLOG_TITLE}`,
+    ogTitle: `${categoryName} | ${BLOG_TITLE}`,
+    description: BLOG_SUBTITLE,
+    ogDescription: BLOG_SUBTITLE,
+    ogImage: categoryThumbnail,
+});
+
 const articleTags = await queryContent(`/blog/${category}`).only("tags").find();
 const tags = articleTags.map((article) => article.tags).flat();
 const tagCounts = new Map();
@@ -40,13 +48,13 @@ const navigations = computed(() => {
             <div class="hero-overlay opacity-60"></div>
             <div class="hero-content text-center text-neutral-content"></div>
         </div>
-        <ProseH3>オススメ記事</ProseH3>
+        <ProseH2>オススメ記事</ProseH2>
         <div class="flex flex-col">
             <div class="my-8">
                 <TopRecommendArticles :category="categoryName"></TopRecommendArticles>
             </div>
         </div>
-        <ProseH3>新着記事</ProseH3>
+        <ProseH2>新着記事</ProseH2>
         <div class="flex flex-col">
             <div class="my-8">
                 <TopRecentArticles :category="categoryName"></TopRecentArticles>

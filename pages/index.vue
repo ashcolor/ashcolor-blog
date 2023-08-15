@@ -1,6 +1,15 @@
 <script setup lang="ts">
 import { Icon } from "@iconify/vue";
-import { BLOG_TITLE } from "@/utils/const";
+import { BLOG_TITLE, BLOG_SUBTITLE } from "@/utils/const";
+
+useSeoMeta({
+    title: `${BLOG_TITLE} | ${BLOG_SUBTITLE}`,
+    ogTitle: `${BLOG_TITLE} | ${BLOG_SUBTITLE}`,
+    description: BLOG_SUBTITLE,
+    ogDescription: BLOG_SUBTITLE,
+    ogImage:
+        "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour/overall.jpg",
+});
 
 const articleTags = await queryContent("/blog").only("tags").find();
 const tags = articleTags.map((article) => article.tags).flat();
@@ -20,7 +29,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
 <template>
     <NuxtLayout>
         <ProseH1 class="my-4 text-center font-logo text-4xl">{{ BLOG_TITLE }}</ProseH1>
-        <div class="text-center font-logo text-slate-400">
+        <div class="text-center font-logo text-slate-500">
             <p>{{ BLOG_SUBTITLE }}</p>
         </div>
         <div
@@ -34,13 +43,13 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                 </div>
             </div>
         </div>
-        <ProseH3>オススメ記事</ProseH3>
+        <ProseH2>オススメ記事</ProseH2>
         <div class="flex flex-col">
             <div class="my-8">
                 <TopRecommendArticles></TopRecommendArticles>
             </div>
         </div>
-        <ProseH3>新着記事</ProseH3>
+        <ProseH2>新着記事</ProseH2>
         <div class="flex flex-col">
             <div class="my-8">
                 <TopRecentArticles></TopRecentArticles>
@@ -49,11 +58,10 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                 >もっと見る
             </NuxtLink>
         </div>
-        <ProseH3>記事を探す</ProseH3>
-
+        <ProseH2>記事を探す</ProseH2>
         <div class="flex flex-col xl:flex-row">
             <div class="shrink-0 basis-1/2">
-                <ProseH4>カテゴリーから探す</ProseH4>
+                <ProseH3>カテゴリーから探す</ProseH3>
                 <div class="flex flex-row flex-wrap justify-evenly gap-2">
                     <NuxtLink
                         v-for="category in listCategories"
@@ -77,7 +85,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
             </div>
             <div class="shrink-0 basis-1/2">
                 <div>
-                    <ProseH4>ワード検索</ProseH4>
+                    <ProseH3>ワード検索</ProseH3>
                     <div class="join w-full">
                         <div class="join-item btn pointer-events-none cursor-default">
                             <Icon icon="bi:search"></Icon>
@@ -88,8 +96,8 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                         />
                         <button class="join-item btn">Search</button>
                     </div>
-                    <ProseH4>タグから探す</ProseH4>
-                    <div class="flex flex-row flex-wrap gap-2 border p-4">
+                    <ProseH3>タグから探す</ProseH3>
+                    <div class="flex flex-row flex-wrap gap-3 border p-4 text-slate-500">
                         <NuxtLink
                             v-for="tagCount in tagCounts"
                             :key="tagCount[0]"

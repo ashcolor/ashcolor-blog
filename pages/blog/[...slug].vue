@@ -1,12 +1,20 @@
 <script setup lang="ts">
 import { Icon } from "@iconify/vue";
-import { BLOG_CATEGORIES } from "@/utils/const";
+import { BLOG_TITLE, BLOG_CATEGORIES } from "@/utils/const";
 
 const route = useRoute();
 
 const article = await queryContent(route.path)
     .findOne()
     .catch(() => null);
+
+useSeoMeta({
+    title: `${article?.title} | ${BLOG_TITLE}`,
+    ogTitle: `${article?.title} | ${BLOG_TITLE}`,
+    description: article?.description,
+    ogDescription: article?.description,
+    ogImage: article?.thumbnail,
+});
 
 const navigations = computed(() => {
     return [
@@ -29,7 +37,7 @@ const navigations = computed(() => {
             <div class="mb-8">
                 <BreadCrumb :navigations="navigations"></BreadCrumb>
                 <ProseH1>{{ article.title }}</ProseH1>
-                <div class="text-mute flex flex-row items-center gap-2 text-sm">
+                <div class="flex flex-row items-center gap-2 text-sm text-slate-500">
                     <div v-if="article.createdAt" class="flex flex-row items-center gap-1">
                         <Icon icon="ph:clock"></Icon>
                         <span>{{ article.createdAt }}</span>

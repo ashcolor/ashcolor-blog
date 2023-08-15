@@ -1,4 +1,9 @@
 <script setup lang="ts">
+useSeoMeta({
+    title: `記事検索 | ${BLOG_TITLE}`,
+    ogTitle: `記事検索 | ${BLOG_TITLE}`,
+});
+
 const navigations = computed(() => {
     return [
         {
