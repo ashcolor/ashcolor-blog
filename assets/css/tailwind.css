@@ -20,9 +20,3 @@ body {
 .marker {
     background: linear-gradient(transparent 60%, #ff6 60%);
 }
-
-.text-mute {
-    --tw-text-opacity: 1;
-    color: rgb(156 163 175 / 1);
-    color: rgb(156 163 175 / var(--tw-text-opacity));
-}

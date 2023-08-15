@@ -20,7 +20,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
 <template>
     <NuxtLayout>
         <ProseH1 class="my-4 text-center font-logo text-4xl">{{ BLOG_TITLE }}</ProseH1>
-        <div class="text-center font-logo text-slate-400">
+        <div class="text-center font-logo text-slate-500">
             <p>{{ BLOG_SUBTITLE }}</p>
         </div>
         <div

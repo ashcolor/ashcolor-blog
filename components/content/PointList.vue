@@ -18,7 +18,7 @@ const quotedListStyle = computed(() => {
 <template>
     <div class="my-8 border-2 px-4 py-8">
         <div v-if="props.title" class="mb-4 px-4">
-            <p class="text-mute text-sm">{{ props.title }}</p>
+            <p class="text-sm text-slate-500">{{ props.title }}</p>
         </div>
         <div class="px-4">
             <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
