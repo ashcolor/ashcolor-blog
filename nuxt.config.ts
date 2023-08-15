@@ -4,6 +4,13 @@ export default defineNuxtConfig({
     nitro: {
         preset: "service-worker",
     },
+    app: {
+        head: {
+            htmlAttrs: {
+                lang: "ja",
+            },
+        },
+    },
     css: ["@/assets/css/tailwind.css"],
     build: {},
     extends: "@nuxt-themes/typography",
