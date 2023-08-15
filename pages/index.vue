@@ -1,6 +1,15 @@
 <script setup lang="ts">
 import { Icon } from "@iconify/vue";
-import { BLOG_TITLE } from "@/utils/const";
+import { BLOG_TITLE, BLOG_SUBTITLE } from "@/utils/const";
+
+useSeoMeta({
+    title: `${BLOG_TITLE} | ${BLOG_SUBTITLE}`,
+    ogTitle: `${BLOG_TITLE} | ${BLOG_SUBTITLE}`,
+    description: BLOG_SUBTITLE,
+    ogDescription: BLOG_SUBTITLE,
+    ogImage:
+        "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour/overall.jpg",
+});
 
 const articleTags = await queryContent("/blog").only("tags").find();
 const tags = articleTags.map((article) => article.tags).flat();

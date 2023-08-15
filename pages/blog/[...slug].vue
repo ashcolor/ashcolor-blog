@@ -1,12 +1,20 @@
 <script setup lang="ts">
 import { Icon } from "@iconify/vue";
-import { BLOG_CATEGORIES } from "@/utils/const";
+import { BLOG_TITLE, BLOG_CATEGORIES } from "@/utils/const";
 
 const route = useRoute();
 
 const article = await queryContent(route.path)
     .findOne()
     .catch(() => null);
+
+useSeoMeta({
+    title: `${article?.title} | ${BLOG_TITLE}`,
+    ogTitle: `${article?.title} | ${BLOG_TITLE}`,
+    description: article?.description,
+    ogDescription: article?.description,
+    ogImage: article?.thumbnail,
+});
 
 const navigations = computed(() => {
     return [

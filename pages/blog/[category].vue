@@ -6,6 +6,14 @@ const category = typeof route.params.category === "string" ? route.params.catego
 const categoryName = BLOG_CATEGORY_MAP.get(category);
 const categoryThumbnail = BLOG_CATEGORIES.find((c) => c.key === category)?.thumbnail;
 
+useSeoMeta({
+    title: `${categoryName} | ${BLOG_TITLE}`,
+    ogTitle: `${categoryName} | ${BLOG_TITLE}`,
+    description: BLOG_SUBTITLE,
+    ogDescription: BLOG_SUBTITLE,
+    ogImage: categoryThumbnail,
+});
+
 const articleTags = await queryContent(`/blog/${category}`).only("tags").find();
 const tags = articleTags.map((article) => article.tags).flat();
 const tagCounts = new Map();
