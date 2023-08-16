@@ -3,6 +3,9 @@ export default defineNuxtConfig({
     ssr: false,
     nitro: {
         preset: "service-worker",
+        prerender: {
+            routes: ["/sitemap.xml"],
+        },
     },
     app: {
         head: {
@@ -21,7 +24,6 @@ export default defineNuxtConfig({
         "@nuxtjs/google-fonts",
         "@nuxt/content",
         "nuxt-simple-robots",
-        "nuxt-simple-sitemap",
         "nuxt-gtag",
         "@pinia/nuxt",
         "@vueuse/nuxt",
@@ -59,16 +61,6 @@ export default defineNuxtConfig({
             "M+PLUS+Rounded+1c": true,
             "Noto+Sans+JP": true,
         },
-    },
-
-    site: {
-        url: "https://blog.ashcolor.work",
-    },
-
-    sitemap: {
-        xsl: false,
-        autoLastmod: false,
-        exclude: ["/_story"],
     },
 
     gtag: {
