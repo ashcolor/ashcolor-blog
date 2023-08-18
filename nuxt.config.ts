@@ -1,8 +1,6 @@
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
-    ssr: false,
     nitro: {
-        preset: "service-worker",
         prerender: {
             routes: ["/sitemap.xml"],
         },
@@ -45,9 +43,6 @@ export default defineNuxtConfig({
                 dark: "github-dark",
             },
             preload: ["vue"],
-        },
-        experimental: {
-            clientDB: true,
         },
     },
 

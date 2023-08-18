@@ -2,8 +2,9 @@
 import { Icon } from "@iconify/vue";
 
 const route = useRoute();
-const content = await queryContent(route.path).findOne();
-const links = content.body.toc?.links;
+const { data: article } = await useAsyncData("hello", () => queryContent(route.path).findOne());
+
+const links = article.value?.body.toc?.links;
 
 const filteredLinks = computed(() => {
     return links.filter((link) => link.id !== "footnote-label");

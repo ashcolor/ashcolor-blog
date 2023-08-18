@@ -4,27 +4,28 @@ import { BLOG_TITLE, BLOG_CATEGORIES } from "@/utils/const";
 
 const route = useRoute();
 
-const article = await queryContent(route.path)
-    .findOne()
-    .catch(() => null);
+const { data: article } = await useAsyncData("hello", () => queryContent(route.path).findOne());
+
+const title = `${article.value?.title} | ${BLOG_TITLE}`;
+const url = `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}${article.value?._path}`;
 
 useSeoMeta({
-    title: `${article?.title} | ${BLOG_TITLE}`,
-    ogTitle: `${article?.title} | ${BLOG_TITLE}`,
-    description: article?.description,
-    ogDescription: article?.description,
-    ogImage: article?.thumbnail,
+    title,
+    ogTitle: `${article.value?.title} | ${BLOG_TITLE}`,
+    description: article.value?.description,
+    ogDescription: article.value?.description,
+    ogImage: article.value?.thumbnail,
 });
 
 const navigations = computed(() => {
     return [
         {
-            title: article?.category,
+            title: article.value?.category,
             icon: "bi:folder",
-            path: BLOG_CATEGORIES.find((c) => c.name === article?.category)?.path,
+            path: BLOG_CATEGORIES.find((c) => c.name === article.value?.category)?.path,
         },
         {
-            title: article?.title,
+            title: article.value?.title,
             icon: "bi:file-earmark-text",
         },
     ];
@@ -65,11 +66,11 @@ const navigations = computed(() => {
                         <img :src="article.thumbnail" />
                     </div>
                     <div class="col-span-4 mb-8 block lg:hidden">
-                        <PageToc></PageToc>
+                        <!-- <PageToc></PageToc> -->
                     </div>
                     <ContentRenderer :value="article" />
                     <div class="divider"></div>
-                    <BlogSnsShareContainer></BlogSnsShareContainer>
+                    <BlogSnsShareContainer :title="title" :url="url"></BlogSnsShareContainer>
                 </div>
                 <div class="col-span-4 hidden px-4 lg:block">
                     <div class="sticky top-24 flex flex-col">

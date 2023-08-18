@@ -9,10 +9,9 @@ if (import.meta.env.PROD) {
 
 const route = useRoute();
 
-const article = await queryContent(route.path)
-    .findOne()
-    .catch(() => null);
-const links = article?.body.toc?.links;
+const { data: article } = await useAsyncData("hello", () => queryContent(route.path).findOne());
+
+const links = article.value?.body.toc?.links;
 </script>
 
 <template>

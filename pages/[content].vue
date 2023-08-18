@@ -3,13 +3,11 @@ import { BLOG_TITLE } from "@/utils/const";
 
 const route = useRoute();
 
-const article = await queryContent(route.path)
-    .findOne()
-    .catch(() => null);
+const { data: article } = await useAsyncData("hello", () => queryContent(route.path).findOne());
 
 useSeoMeta({
-    title: `${article?.title} | ${BLOG_TITLE}`,
-    ogTitle: `${article?.title} | ${BLOG_TITLE}`,
+    title: `${article.value?.title} | ${BLOG_TITLE}`,
+    ogTitle: `${article.value?.title} | ${BLOG_TITLE}`,
 });
 </script>
 
