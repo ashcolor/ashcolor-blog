@@ -19,7 +19,7 @@ export default defineEventHandler(async (event) => {
     }
 
     for (const doc of docs) {
-        if (doc._path?.startsWith("_")) continue;
+        if (doc._path?.startsWith("/_")) continue;
         sitemap.write({
             url: doc._path,
             // lastMod: doc.updatedAt,
