@@ -1,16 +1,31 @@
 <script setup lang="ts">
-const encodedTitle = encodeURIComponent(document.title);
+interface Props {
+    title: string;
+    url: string;
+}
 
-const url = new URL(window.location.href);
-const encodedHref = encodeURIComponent(url.href);
-const encodedHostPath = encodeURIComponent(`${url.host}${url.pathname}`);
+const props = withDefaults(defineProps<Props>(), {
+    title: "",
+    url: "",
+});
+
+const encodedTitle = computed(() => encodeURIComponent(props.title));
+const url = computed(() => new URL(props.url));
+const encodedHref = computed(() => encodeURIComponent(url.value.href));
+const encodedHostPath = computed(() =>
+    encodeURIComponent(`${url.value.host}${url.value.pathname}`)
+);
 
 const twitterURL = computed(
-    () => `http://twitter.com/share?url=${encodedHref}&text=${encodedTitle}`
+    () => `http://twitter.com/share?url=${encodedHref.value}&text=${encodedTitle.value}`
 );
-const facebookURL = computed(() => `https://www.facebook.com/sharer/sharer.php?u=${encodedHref}`);
-const lineURL = computed(() => `https://social-plugins.line.me/lineit/share?url=${encodedHref}`);
-const hatenabookmarkURL = computed(() => `https://b.hatena.ne.jp/entry/s/${encodedHostPath}`);
+const facebookURL = computed(
+    () => `https://www.facebook.com/sharer/sharer.php?u=${encodedHref.value}`
+);
+const lineURL = computed(
+    () => `https://social-plugins.line.me/lineit/share?url=${encodedHref.value}`
+);
+const hatenabookmarkURL = computed(() => `https://b.hatena.ne.jp/entry/s/${encodedHostPath.value}`);
 </script>
 
 <template>

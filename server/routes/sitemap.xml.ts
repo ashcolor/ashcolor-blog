@@ -5,7 +5,7 @@ import { BLOG_CATEGORIES } from "@/utils/const";
 export default defineEventHandler(async (event) => {
     const docs = await serverQueryContent(event).find();
     const sitemap = new SitemapStream({
-        hostname: "https://blog.ashcolor.work",
+        hostname: import.meta.env.VITE_NUXT_PUBLIC_SITE_URL,
     });
 
     sitemap.write({
