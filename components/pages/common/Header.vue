@@ -10,7 +10,7 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
         <div class="container m-auto">
             <div class="navbar-start flex w-full flex-row lg:w-1/2">
                 <div class="dropdown">
-                    <label tabindex="0" class="btn btn-ghost lg:hidden">
+                    <label tabindex="0" class="btn btn-ghost px-2 sm:px-4 lg:hidden">
                         <Icon icon="bi:list" width="24"></Icon>
                     </label>
                     <ul
@@ -28,7 +28,7 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
                         <li><NuxtLink to="/contact">お問い合わせ</NuxtLink></li>
                     </ul>
                 </div>
-                <NuxtLink to="/" class="btn btn-ghost font-logo text-xl normal-case">{{
+                <NuxtLink to="/" class="btn btn-ghost px-2 font-logo text-xl normal-case sm:px-4">{{
                     BLOG_TITLE
                 }}</NuxtLink>
             </div>
