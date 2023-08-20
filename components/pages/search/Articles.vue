@@ -35,7 +35,7 @@ const fetchArticle = async () => {
 
     query.limit(LIMIT + 1);
 
-    const sort = typeof params.sort === "string" ? Util.kebabToCamelCase(params.sort) : "updatedAt";
+    const sort = typeof params.sort === "string" ? Util.kebabToCamelCase(params.sort) : "createdAt";
     const orderValue = params.order === "asc" ? 1 : -1;
     query.sort({ [sort]: orderValue });
 
