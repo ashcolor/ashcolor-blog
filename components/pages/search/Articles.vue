@@ -108,6 +108,7 @@ await fetchArticle();
                 :title="article.title"
                 :category="article.category"
                 :tags="article.tags"
+                :created-at="article.createdAt"
                 :updated-at="article.updatedAt"
             ></ArticleCard>
         </div>
