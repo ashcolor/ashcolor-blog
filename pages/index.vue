@@ -23,6 +23,19 @@ tags.forEach((tag) => {
     }
 });
 
+const famousTags = computed(() =>
+    Array.from(tagCounts)
+        .map((tag) => {
+            return {
+                name: tag[0],
+                count: tag[1],
+            };
+        })
+        .filter((tag) => {
+            return tag.count > 1;
+        })
+);
+
 const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList);
 </script>
 
@@ -54,7 +67,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
             <div class="my-8">
                 <TopRecentArticles></TopRecentArticles>
             </div>
-            <NuxtLink to="/search" class="btn-primary btn-outline btn-wide btn self-center"
+            <NuxtLink to="/search" class="btn btn-primary btn-outline btn-wide self-center"
                 >もっと見る
             </NuxtLink>
         </div>
@@ -87,24 +100,24 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                 <div>
                     <ProseH3>ワード検索</ProseH3>
                     <div class="join w-full">
-                        <div class="join-item btn pointer-events-none cursor-default">
+                        <div class="btn join-item pointer-events-none cursor-default">
                             <Icon icon="bi:search"></Icon>
                         </div>
                         <input
-                            class="input-bordered input join-item grow"
+                            class="input join-item input-bordered grow"
                             placeholder="例：キーボード イヤホン"
                         />
-                        <button class="join-item btn">Search</button>
+                        <button class="btn join-item">Search</button>
                     </div>
                     <ProseH3>タグから探す</ProseH3>
                     <div class="flex flex-row flex-wrap gap-3 border p-4 text-slate-500">
                         <NuxtLink
-                            v-for="tagCount in tagCounts"
-                            :key="tagCount[0]"
-                            :to="`/search?word=${tagCount[0]}`"
+                            v-for="tagCount in famousTags"
+                            :key="tagCount.name"
+                            :to="`/search?word=${tagCount.name}`"
                             class="badge badge-outline"
                         >
-                            {{ tagCount[0] }}
+                            {{ tagCount.name }}
                         </NuxtLink>
                     </div>
                 </div>

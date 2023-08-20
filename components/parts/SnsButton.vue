@@ -15,7 +15,7 @@ const props = withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-    <NuxtLink :to="props.href" target="_blank" class="btn-sm btn p-2 text-white">
+    <NuxtLink :to="props.href" target="_blank" class="btn btn-sm p-2 text-white">
         <Icon :icon="`simple-icons:${props.icon}`" width="16" height="16"></Icon>
     </NuxtLink>
 </template>

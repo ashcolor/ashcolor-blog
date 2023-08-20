@@ -35,7 +35,7 @@ const fetchArticle = async () => {
 
     query.limit(LIMIT + 1);
 
-    const sort = typeof params.sort === "string" ? Util.kebabToCamelCase(params.sort) : "updatedAt";
+    const sort = typeof params.sort === "string" ? Util.kebabToCamelCase(params.sort) : "createdAt";
     const orderValue = params.order === "asc" ? 1 : -1;
     query.sort({ [sort]: orderValue });
 
@@ -72,10 +72,10 @@ await fetchArticle();
     <div class="flex flex-col gap-8">
         <div class="flex flex-row flex-wrap gap-4">
             <div class="join">
-                <div class="btn-sm join-item btn pointer-events-none">カテゴリ</div>
+                <div class="btn join-item btn-sm pointer-events-none">カテゴリ</div>
                 <select
                     v-model="searchCategory"
-                    class="select-bordered select join-item select-sm w-full max-w-xs"
+                    class="select join-item select-bordered select-sm w-full max-w-xs"
                 >
                     <option value="">すべて</option>
                     <option v-for="category in BLOG_CATEGORIES" :key="category.name">
@@ -84,16 +84,16 @@ await fetchArticle();
                 </select>
             </div>
             <div class="join">
-                <div class="btn-sm join-item btn pointer-events-none cursor-default">
+                <div class="btn join-item btn-sm pointer-events-none cursor-default">
                     <Icon icon="bi:search"></Icon>
                 </div>
                 <input
                     v-model="searchWord"
-                    class="input-bordered input input-sm join-item grow"
+                    class="input join-item input-bordered input-sm grow"
                     placeholder="例：キーボード イヤホン"
                 />
             </div>
-            <button class="btn-sm btn" @click="onClickSearchButton()">検索</button>
+            <button class="btn btn-sm" @click="onClickSearchButton()">検索</button>
         </div>
         <div>{{ page }}&nbsp;ページ</div>
         <div
@@ -108,6 +108,7 @@ await fetchArticle();
                 :title="article.title"
                 :category="article.category"
                 :tags="article.tags"
+                :created-at="article.createdAt"
                 :updated-at="article.updatedAt"
             ></ArticleCard>
         </div>
@@ -115,12 +116,12 @@ await fetchArticle();
             <p class="text-center">該当する記事がみつかりませんでした</p>
         </div>
         <div class="join justify-center">
-            <button class="join-item btn" :class="{ 'btn-disabled': page === 1 }" @click="page--">
+            <button class="btn join-item" :class="{ 'btn-disabled': page === 1 }" @click="page--">
                 «
             </button>
-            <div class="join-item btn pointer-events-none">{{ page }}&nbsp;ページ</div>
+            <div class="btn join-item pointer-events-none">{{ page }}&nbsp;ページ</div>
             <button
-                class="join-item btn"
+                class="btn join-item"
                 :class="{ 'btn-disabled': !isNextPageAvailable }"
                 @click="page++"
             >
