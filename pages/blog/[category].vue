@@ -59,7 +59,7 @@ const navigations = computed(() => {
             <div class="my-8">
                 <TopRecentArticles :category="categoryName"></TopRecentArticles>
             </div>
-            <NuxtLink to="/search" class="btn-primary btn-outline btn-wide btn self-center"
+            <NuxtLink to="/search" class="btn btn-primary btn-outline btn-wide self-center"
                 >もっと見る
             </NuxtLink>
         </div>

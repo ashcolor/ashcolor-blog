@@ -10,12 +10,12 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
         <div class="container m-auto">
             <div class="navbar-start flex w-full flex-row lg:w-1/2">
                 <div class="dropdown">
-                    <label tabindex="0" class="btn-ghost btn lg:hidden">
+                    <label tabindex="0" class="btn btn-ghost px-2 sm:px-4 lg:hidden">
                         <Icon icon="bi:list" width="24"></Icon>
                     </label>
                     <ul
                         tabindex="0"
-                        class="dropdown-content menu rounded-box menu-sm mt-3 w-52 bg-base-100 p-2 shadow"
+                        class="menu dropdown-content rounded-box menu-sm mt-3 w-52 bg-base-100 p-2 shadow"
                     >
                         <li
                             v-for="category in BLOG_CATEGORIES"
@@ -28,7 +28,7 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
                         <li><NuxtLink to="/contact">お問い合わせ</NuxtLink></li>
                     </ul>
                 </div>
-                <NuxtLink to="/" class="btn-ghost btn font-logo text-xl normal-case">{{
+                <NuxtLink to="/" class="btn btn-ghost px-2 font-logo text-xl normal-case sm:px-4">{{
                     BLOG_TITLE
                 }}</NuxtLink>
             </div>
@@ -46,7 +46,7 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
                 </ul>
             </div>
             <div class="navbar-end hidden lg:flex">
-                <NuxtLink to="/search" class="btn-ghost btn">
+                <NuxtLink to="/search" class="btn btn-ghost">
                     <Icon icon="bi:search" width="16"></Icon>
                 </NuxtLink>
             </div>
