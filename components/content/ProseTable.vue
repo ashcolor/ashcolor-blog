@@ -1,5 +1,5 @@
 <template>
-    <table class="my-8 table">
+    <table class="table my-8">
         <slot />
     </table>
 </template>

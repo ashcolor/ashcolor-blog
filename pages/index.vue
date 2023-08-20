@@ -54,7 +54,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
             <div class="my-8">
                 <TopRecentArticles></TopRecentArticles>
             </div>
-            <NuxtLink to="/search" class="btn-primary btn-outline btn-wide btn self-center"
+            <NuxtLink to="/search" class="btn btn-primary btn-outline btn-wide self-center"
                 >もっと見る
             </NuxtLink>
         </div>
@@ -87,14 +87,14 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                 <div>
                     <ProseH3>ワード検索</ProseH3>
                     <div class="join w-full">
-                        <div class="join-item btn pointer-events-none cursor-default">
+                        <div class="btn join-item pointer-events-none cursor-default">
                             <Icon icon="bi:search"></Icon>
                         </div>
                         <input
-                            class="input-bordered input join-item grow"
+                            class="input join-item input-bordered grow"
                             placeholder="例：キーボード イヤホン"
                         />
-                        <button class="join-item btn">Search</button>
+                        <button class="btn join-item">Search</button>
                     </div>
                     <ProseH3>タグから探す</ProseH3>
                     <div class="flex flex-row flex-wrap gap-3 border p-4 text-slate-500">

@@ -15,7 +15,7 @@ const { copy, copied } = useClipboard({
 </script>
 
 <template>
-    <button class="btn-sm btn font-normal" @click="copy(props.text)">
+    <button class="btn btn-sm font-normal" @click="copy(props.text)">
         <Icon
             :icon="copied ? 'bi:clipboard-check-fill' : 'bi:clipboard'"
             width="16"

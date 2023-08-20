@@ -17,12 +17,12 @@ const links = article.value?.body.toc?.links;
 <template>
     <div class="navbar border-b bg-base-100">
         <div class="flex-none">
-            <label class="btn-ghost btn-square btn lg:hidden" for="my-drawer-2">
+            <label class="btn btn-square btn-ghost lg:hidden" for="my-drawer-2">
                 <Icon icon="bi:list" width="24"></Icon>
             </label>
         </div>
         <div class="flex-1">
-            <a class="btn-ghost btn text-xl normal-case">{{ BLOG_TITLE }}</a>
+            <a class="btn btn-ghost text-xl normal-case">{{ BLOG_TITLE }}</a>
         </div>
     </div>
     <div class="drawer lg:drawer-open">

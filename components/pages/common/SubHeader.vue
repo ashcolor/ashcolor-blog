@@ -13,7 +13,7 @@ import { BLOG_SUBTITLE } from "@/utils/const";
                 <NuxtLink
                     to="https://twitter.com/ashcolor06"
                     target="_blank"
-                    class="btn-ghost btn-xs btn"
+                    class="btn btn-ghost btn-xs"
                 >
                     <Icon icon="bi:twitter" width="16"></Icon>
                 </NuxtLink>

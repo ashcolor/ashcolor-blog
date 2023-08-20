@@ -8,21 +8,21 @@ const tabState = ref("preview");
     <div class="grid">
         <div class="tabs z-10 -mb-px">
             <button
-                class="tab-lifted tab"
+                class="tab tab-lifted"
                 :class="{ 'tab-active': tabState === 'preview' }"
                 @click="tabState = 'preview'"
             >
                 Preview
             </button>
             <button
-                class="tab-lifted tab"
+                class="tab tab-lifted"
                 :class="{ 'tab-active': tabState === 'code' }"
                 @click="tabState = 'code'"
             >
                 Code
             </button>
             <div
-                class="tab-lifted tab mr-6 flex-1 cursor-default [--tab-border-color:transparent]"
+                class="tab tab-lifted mr-6 flex-1 cursor-default [--tab-border-color:transparent]"
             ></div>
         </div>
         <div class="rounded-b-box rounded-tr-box relative overflow-x-auto bg-base-300">
