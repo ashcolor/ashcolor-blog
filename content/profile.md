@@ -1,4 +1,5 @@
 ---
+createdAt: "2023/08/01"
 title: "運営者情報"
 description: "運営者情報"
 ---

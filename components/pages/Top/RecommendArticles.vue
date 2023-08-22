@@ -12,7 +12,7 @@ const LIMIT = 3;
 const query = queryContent("/blog/");
 
 query.limit(LIMIT);
-query.sort({ updatedAt: -1 });
+query.sort({ createdAt: -1 });
 query.where({ isRecommend: true });
 
 if (props.category) {

@@ -27,7 +27,6 @@
     "nuxt": "^3.6.5",
     "nuxt-gtag": "^0.5.7",
     "nuxt-simple-robots": "^3.0.2",
-    "nuxt-simple-sitemap": "^3.1.5",
     "prettier": "^2.8.8",
     "sass": "^1.63.4",
     "sitemap": "^7.1.1",
