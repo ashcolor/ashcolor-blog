@@ -6,7 +6,6 @@ interface Props {
     thumbnail: string;
     title: string;
     category: string;
-    tags: Array<string>;
     createdAt: string;
     updatedAt: string;
 }
@@ -16,33 +15,27 @@ const props = withDefaults(defineProps<Props>(), {
     thumbnail: "",
     title: "",
     category: "",
-    tags: () => [],
     createdAt: "",
     updatedAt: "",
 });
 </script>
 
 <template>
-    <NuxtLink :to="props.linkPath" class="card w-96 min-w-[24rem] border bg-base-100">
-        <figure class="h-48">
+    <NuxtLink :to="props.linkPath" class="card card-compact w-96 min-w-[24rem] bg-base-100">
+        <!-- <div class="relative"> -->
+        <figure class="relative h-48">
+            <div class="absolute left-0 top-0 bg-base-200 px-2 py-0.5">
+                <div class="flex grow-0 flex-row items-center gap-1 text-sm">
+                    <Icon icon="bi:folder" />
+                    <p>{{ props.category }}</p>
+                </div>
+            </div>
             <img :src="props.thumbnail" :alt="props.title" />
         </figure>
-        <div class="card-body justify-center">
-            <h2 class="card-title">{{ props.title }}</h2>
-
-            <div class="flex grow-0 flex-row items-center gap-1 text-sm text-slate-500">
-                <Icon icon="bi:folder" />
-                <p>{{ props.category }}</p>
-            </div>
-            <!-- <div class="flex flex-row items-center gap-1 text-sm text-slate-500">
-                <Icon icon="bi:tags" />
-                <div class="flex flex-row gap-2">
-                    <span v-for="tag in props.tags" :key="tag" class="badge text-slate-500">
-                        {{ tag }}
-                    </span>
-                </div>
-            </div> -->
-            <div class="flex flex-row items-center gap-2 text-sm text-slate-500">
+        <!-- </div> -->
+        <div class="card-body">
+            <h3 class="card-title">{{ props.title }}</h3>
+            <div class="flex flex-row gap-2 text-sm text-slate-500">
                 <div v-if="props.createdAt" class="flex flex-row items-center gap-1">
                     <Icon icon="ph:clock"></Icon>
                     <span>{{ props.createdAt }}</span>
