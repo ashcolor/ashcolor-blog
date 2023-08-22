@@ -12,7 +12,7 @@ const LIMIT = 6;
 const query = queryContent("/blog/");
 
 query.limit(LIMIT);
-query.sort({ updatedAt: -1 });
+query.sort({ createdAt: -1 });
 
 if (props.category) {
     query.where({ category: props.category });
