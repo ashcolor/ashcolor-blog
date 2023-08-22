@@ -39,14 +39,12 @@ const navigations = computed(() => {
                 <BreadCrumb :navigations="navigations"></BreadCrumb>
                 <ProseH1>{{ article.title }}</ProseH1>
                 <div class="flex flex-row items-center gap-2 text-sm text-slate-500">
-                    <div v-if="article.createdAt" class="flex flex-row items-center gap-1">
-                        <Icon icon="ph:clock"></Icon>
-                        <span>{{ article.createdAt }}</span>
-                    </div>
-                    <div v-if="article.updatedAt" class="flex flex-row items-center gap-1">
-                        <Icon icon="ph:clock-clockwise"></Icon>
-                        <span>{{ article.updatedAt }}</span>
-                    </div>
+                    <IconWithText v-if="article.createdAt" icon="ph:clock">
+                        {{ article.createdAt }}
+                    </IconWithText>
+                    <IconWithText v-if="article.updatedAt" icon="ph:clock-clockwise">
+                        {{ article.updatedAt }}
+                    </IconWithText>
                     <div class="flex flex-row gap-1">
                         <NuxtLink
                             v-for="tag in article.tags"
