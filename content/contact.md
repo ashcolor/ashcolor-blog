@@ -1,4 +1,5 @@
 ---
+createdAt: "2023/08/01"
 title: "お問い合わせ"
 description: "お問い合わせ"
 ---

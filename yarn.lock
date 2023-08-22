@@ -893,15 +893,6 @@
     "@nuxt/schema" "^3.6.1"
     execa "^7.1.1"
 
-"@nuxt/devtools-kit@^0.8.0":
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/@nuxt/devtools-kit/-/devtools-kit-0.8.0.tgz#2d987a5a3794b3ba59f50c45ffc94df84b18e791"
-  integrity sha512-zHwotLFwmYPFDg0JHyInn0L3i2gZK24JYDfgOzqBuvCD/Q3ytQVyAMrX2Mp4iIrHjwToZBJ0dlyV+UYXCiWwSg==
-  dependencies:
-    "@nuxt/kit" "^3.6.5"
-    "@nuxt/schema" "^3.6.5"
-    execa "^7.2.0"
-
 "@nuxt/devtools-wizard@0.6.7":
   version "0.6.7"
   resolved "https://registry.yarnpkg.com/@nuxt/devtools-wizard/-/devtools-wizard-0.6.7.tgz#70cdda61d785e9809c3f2b6dbdd858d1065cfb0e"
@@ -4076,7 +4067,7 @@ execa@^5.0.0, execa@^5.1.1:
     signal-exit "^3.0.3"
     strip-final-newline "^2.0.0"
 
-execa@^7.1.1, execa@^7.2.0:
+execa@^7.1.1:
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/execa/-/execa-7.2.0.tgz#657e75ba984f42a70f38928cedc87d6f2d4fe4e9"
   integrity sha512-UduyVP7TLB5IcAQl+OzLyLcS/l32W/GLg+AhHJ+ow40FOk2U3SAllPwR44v4vmdFwIWqpdwxxpQbF1n5ta9seA==
@@ -6943,26 +6934,6 @@ nuxt-simple-robots@^3.0.2:
     pathe "^1.1.1"
     ufo "^1.2.0"
 
-nuxt-simple-sitemap@^3.1.5:
-  version "3.1.7"
-  resolved "https://registry.yarnpkg.com/nuxt-simple-sitemap/-/nuxt-simple-sitemap-3.1.7.tgz#b045632ecba1bf4d260ca83b2c7ac848a401a52a"
-  integrity sha512-H9N2mVhLyDD8p5hsLbd0nLJGSUDwgEjEz3EBUiFGYp6uN83YxR/Qjcn88iIw8WL2GAmhIBO+1oqO/lbGZO2u4w==
-  dependencies:
-    "@nuxt/devtools-kit" "^0.8.0"
-    "@nuxt/kit" "^3.6.5"
-    chalk "^5.3.0"
-    defu "^6.1.2"
-    escape-string-regexp "^5.0.0"
-    fast-glob "^3.3.1"
-    knitwork "^1.0.0"
-    nuxt-site-config "^1.0.10"
-    nuxt-site-config-kit "^1.0.10"
-    pathe "^1.1.1"
-    radix3 "^1.0.1"
-    semver "^7.5.4"
-    site-config-stack "^1.0.10"
-    ufo "^1.2.0"
-
 nuxt-site-config-kit@1.0.10, nuxt-site-config-kit@^1.0.10:
   version "1.0.10"
   resolved "https://registry.yarnpkg.com/nuxt-site-config-kit/-/nuxt-site-config-kit-1.0.10.tgz#5907bbc3bb8f5ef366455cfc87b5fe9c62d7b164"
@@ -8601,7 +8572,7 @@ sisteransi@^1.0.5:
   resolved "https://registry.yarnpkg.com/sisteransi/-/sisteransi-1.0.5.tgz#134d681297756437cc05ca01370d3a7a571075ed"
   integrity sha512-bLGGlR1QxBcynn2d5YmDX4MGjlZvy2MRBDRNHLJ8VI6l6+9FUiyTFNJ0IveOSP0bcXgVDPRcfGqA0pjaqUpfVg==
 
-site-config-stack@1.0.10, site-config-stack@^1.0.10:
+site-config-stack@1.0.10:
   version "1.0.10"
   resolved "https://registry.yarnpkg.com/site-config-stack/-/site-config-stack-1.0.10.tgz#c641f97ea255ee0d5e293c4740f0da97a0ad1439"
   integrity sha512-sEKECSkg9XYrzs6ykKWbelxj/P/K8kUgKtWZdETTfLlnKl7e/0JsTS0UZf2Gu4aNEXWUwHrOxtZcvIa3ASYhHA==
