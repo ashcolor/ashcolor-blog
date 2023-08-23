@@ -15,7 +15,7 @@ useSeoMeta({
     description: article.value?.description,
     ogDescription: article.value?.description,
     ogImage: article.value?.thumbnail,
-    ogUrl: `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}/${article.value?._path}`,
+    ogUrl: `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}${article.value?._path}`,
     ogType: "article",
     ogSiteName: BLOG_TITLE,
     twitterCard: "summary_large_image",
