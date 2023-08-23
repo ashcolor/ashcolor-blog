@@ -10,6 +10,7 @@ export default defineNuxtConfig({
             htmlAttrs: {
                 lang: "ja",
             },
+            script: [{ src: "https://platform.twitter.com/widgets.js" }],
         },
     },
     css: ["@/assets/css/tailwind.css"],
