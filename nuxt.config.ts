@@ -9,6 +9,7 @@ export default defineNuxtConfig({
         head: {
             htmlAttrs: {
                 lang: "ja",
+                prefix: "og: http://ogp.me/ns#",
             },
             script: [{ src: "https://platform.twitter.com/widgets.js" }],
         },
