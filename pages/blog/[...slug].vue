@@ -15,7 +15,7 @@ useSeoMeta({
     description: article.value?.description,
     ogDescription: article.value?.description,
     ogImage: article.value?.thumbnail,
-    ogUrl: `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}${article.value?._path}`,
+    ogUrl: url,
     ogType: "article",
     ogSiteName: BLOG_TITLE,
     twitterCard: "summary_large_image",
@@ -72,7 +72,7 @@ const navigations = computed(() => {
                     </div>
                     <ContentRenderer :value="article" />
                     <div class="divider"></div>
-                    <BlogSnsShareContainer :title="title" :url="url"></BlogSnsShareContainer>
+                    <SnsShareContainer :title="title" :url="url"></SnsShareContainer>
                 </div>
                 <div class="col-span-4 hidden px-4 lg:block">
                     <div class="sticky top-24 flex flex-col">
