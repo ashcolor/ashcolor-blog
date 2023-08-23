@@ -50,13 +50,13 @@ const navigations = computed(() => {
         </div>
         <ProseH2>オススメ記事</ProseH2>
         <div class="flex flex-col">
-            <div class="my-8">
+            <div class="my-6">
                 <TopRecommendArticles :category="categoryName"></TopRecommendArticles>
             </div>
         </div>
         <ProseH2>新着記事</ProseH2>
         <div class="flex flex-col">
-            <div class="my-8">
+            <div class="my-6">
                 <TopRecentArticles :category="categoryName"></TopRecentArticles>
             </div>
             <NuxtLink to="/search" class="btn btn-primary btn-outline btn-wide self-center"

@@ -19,7 +19,7 @@ const navigations = computed(() => {
     <NuxtLayout>
         <BreadCrumb :navigations="navigations"></BreadCrumb>
         <ProseH1 class="text-center">記事検索</ProseH1>
-        <ProseH3>記事一覧</ProseH3>
+        <ProseH2>記事一覧</ProseH2>
         <div class="my-8 flex flex-col">
             <SearchArticles></SearchArticles>
         </div>

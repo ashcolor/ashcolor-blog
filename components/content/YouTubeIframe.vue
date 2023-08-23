@@ -2,11 +2,13 @@
 interface Props {
     videoId: string;
     title: string;
+    start?: number;
 }
 
 const props = withDefaults(defineProps<Props>(), {
     videoId: "",
     title: "",
+    start: 0,
 });
 </script>
 
@@ -17,7 +19,7 @@ const props = withDefaults(defineProps<Props>(), {
             <!-- @https://www.ankursheel.com/blog/full-width-you-tube-video-embed -->
             <iframe
                 class="absolute m-auto h-full w-full"
-                :src="`https://www.youtube.com/embed/${props.videoId}`"
+                :src="`https://www.youtube.com/embed/${props.videoId}?start=${props.start}`"
                 title="YouTube video player"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
