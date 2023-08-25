@@ -10,36 +10,33 @@ const props = withDefaults(defineProps<Props>(), {
 const params = { url: props.url };
 const query = new URLSearchParams(params);
 
-let data: Object | null = null;
-
-try {
+const { state } = useAsyncState(async () => {
     const response = await fetch(`${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}/api/ogp?${query}`);
-
     if (response.ok) {
-        data = await response?.json();
+        return await response?.json();
     }
-} catch (error) {}
+}, null);
 </script>
 
 <template>
-    <div v-if="!data">
+    <div v-if="!state">
         <NuxtLink :href="props.url" target="_blank"></NuxtLink>
     </div>
     <NuxtLink
         v-else
-        :href="data?.ogUrl ?? data?.requestUrl"
+        :href="state?.ogUrl ?? state?.requestUrl"
         target="_blank"
         class="card card-side card-compact my-2 max-h-[8rem] border bg-base-100"
     >
         <div class="card-body justify-between">
             <div class="flex flex-col gap-2">
-                <p>{{ data?.ogTitle }}</p>
-                <p class="line-clamp-2 text-xs text-slate-500">{{ data?.ogDescription }}</p>
+                <p>{{ state?.ogTitle }}</p>
+                <p class="line-clamp-2 text-xs text-slate-500">{{ state?.ogDescription }}</p>
             </div>
-            <p class="grow-0 text-xs">{{ data?.ogUrl ?? data?.requestUrl }}</p>
+            <p class="grow-0 text-xs">{{ state?.ogUrl ?? state?.requestUrl }}</p>
         </div>
-        <figure v-show="!data?.ogImage" class="!hidden w-56 shrink-0 sm:!flex">
-            <img :src="data?.ogImage[0]?.url" :alt="data?.ogTitle" />
+        <figure v-show="!state?.ogImage" class="!hidden w-56 shrink-0 sm:!flex">
+            <img :src="state?.ogImage[0]?.url" :alt="state?.ogTitle" />
         </figure>
     </NuxtLink>
 </template>
