@@ -9,7 +9,7 @@ if (import.meta.env.PROD) {
 
 const route = useRoute();
 
-const { data: article } = await useAsyncData("hello", () => queryContent(route.path).findOne());
+const { data: article } = await useAsyncData("article", () => queryContent(route.path).findOne());
 
 const links = article.value?.body.toc?.links;
 </script>
@@ -28,7 +28,7 @@ const links = article.value?.body.toc?.links;
     <div class="drawer lg:drawer-open">
         <input id="my-drawer-2" type="checkbox" class="drawer-toggle" />
         <div class="drawer-content flex flex-col items-center justify-center">
-            <div class="container mx-auto px-4">
+            <div class="container mx-auto mb-24 px-4">
                 <ContentRenderer :value="article" />
             </div>
         </div>

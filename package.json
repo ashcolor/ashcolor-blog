@@ -41,6 +41,7 @@
     "axios": "^1.4.0",
     "color": "^4.2.3",
     "daisyui": "^3.5.1",
+    "open-graph-scraper": "^6.2.2",
     "pinia": "^2.1.4",
     "remark-breaks": "^3.0.3"
   }
