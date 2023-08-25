@@ -9,6 +9,10 @@ useSeoMeta({
     ogDescription: BLOG_SUBTITLE,
     ogImage:
         "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour/overall.jpg",
+    ogUrl: import.meta.env.VITE_NUXT_PUBLIC_SITE_URL,
+    ogType: "website",
+    ogSiteName: BLOG_TITLE,
+    twitterCard: "summary_large_image",
 });
 
 const articleTags = await queryContent("/blog").only("tags").find();

@@ -12,6 +12,10 @@ useSeoMeta({
     description: BLOG_SUBTITLE,
     ogDescription: BLOG_SUBTITLE,
     ogImage: categoryThumbnail,
+    ogUrl: `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}/blog/${category}`,
+    ogType: "website",
+    ogSiteName: BLOG_TITLE,
+    twitterCard: "summary_large_image",
 });
 
 const articleTags = await queryContent(`/blog/${category}`).only("tags").find();
