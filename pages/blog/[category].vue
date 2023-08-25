@@ -12,6 +12,10 @@ useSeoMeta({
     description: BLOG_SUBTITLE,
     ogDescription: BLOG_SUBTITLE,
     ogImage: categoryThumbnail,
+    ogUrl: `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}/blog/${category}`,
+    ogType: "website",
+    ogSiteName: BLOG_TITLE,
+    twitterCard: "summary_large_image",
 });
 
 const articleTags = await queryContent(`/blog/${category}`).only("tags").find();
@@ -59,7 +63,9 @@ const navigations = computed(() => {
             <div class="my-6">
                 <TopRecentArticles :category="categoryName"></TopRecentArticles>
             </div>
-            <NuxtLink to="/search" class="btn btn-primary btn-outline btn-wide self-center"
+            <NuxtLink
+                :to="`/search?category=${categoryName}`"
+                class="btn btn-primary btn-outline btn-wide self-center"
                 >もっと見る
             </NuxtLink>
         </div>

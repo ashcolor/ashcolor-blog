@@ -438,3 +438,18 @@ _Just an italic paragraph._
 ```
 
 ::
+
+### リンクカード
+
+::preview-and-code
+#preview
+
+:link-card{url="https://github.com/ashcolor/ashcolor-blog"}
+
+#code
+
+```markdown
+:link-card{url="https://github.com/ashcolor/ashcolor-blog"}
+```
+
+::

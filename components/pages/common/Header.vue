@@ -18,7 +18,7 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
                         class="menu dropdown-content rounded-box menu-sm mt-3 w-52 bg-base-100 p-2 shadow"
                     >
                         <li
-                            v-for="category in BLOG_CATEGORIES"
+                            v-for="category in headerCategories"
                             :key="category.name"
                             class="link-hover link"
                         >
