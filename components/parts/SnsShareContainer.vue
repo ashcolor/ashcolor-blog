@@ -10,7 +10,8 @@ const props = withDefaults(defineProps<Props>(), {
 });
 
 const encodedTitle = computed(() => encodeURIComponent(props.title));
-const url = computed(() => new URL(props.url));
+const isValidUrl = computed(() => Util.isValidUrl(props.url));
+const url = computed(() => (isValidUrl.value ? new URL(props.url) : ""));
 const encodedHref = computed(() => encodeURIComponent(url.value.href));
 const encodedHostPath = computed(() =>
     encodeURIComponent(`${url.value.host}${url.value.pathname}`)
