@@ -4,18 +4,18 @@ import { BLOG_TITLE, BLOG_CATEGORIES } from "@/utils/const";
 
 const route = useRoute();
 
-const { data: article } = await useAsyncData("hello", () => queryContent(route.path).findOne());
+const { data: article } = await useAsyncData(() => queryContent(route.path).findOne());
 
-const title = `${article.value?.title} | ${BLOG_TITLE}`;
-const url = `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}${article.value?._path}`;
+const title = computed(() => `${article.value?.title} | ${BLOG_TITLE}`);
+const url = computed(() => `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}${article.value?._path}`);
 
 useSeoMeta({
-    title,
-    ogTitle: `${article.value?.title} | ${BLOG_TITLE}`,
+    title: title.value,
+    ogTitle: title.value,
     description: article.value?.description,
     ogDescription: article.value?.description,
     ogImage: article.value?.thumbnail,
-    ogUrl: url,
+    ogUrl: url.value,
     ogType: "article",
     ogSiteName: BLOG_TITLE,
     twitterCard: "summary_large_image",
@@ -41,17 +41,17 @@ const navigations = computed(() => {
         <div v-if="article">
             <div class="mb-8">
                 <BreadCrumb :navigations="navigations"></BreadCrumb>
-                <ProseH1>{{ article.title }}</ProseH1>
+                <ProseH1>{{ article?.title }}</ProseH1>
                 <div class="flex flex-row items-center gap-2 text-sm text-slate-500">
-                    <IconWithText v-if="article.createdAt" icon="ph:clock">
-                        {{ article.createdAt }}
+                    <IconWithText v-if="article?.createdAt" icon="ph:clock">
+                        {{ article?.createdAt }}
                     </IconWithText>
-                    <IconWithText v-if="article.updatedAt" icon="ph:clock-clockwise">
-                        {{ article.updatedAt }}
+                    <IconWithText v-if="article?.updatedAt" icon="ph:clock-clockwise">
+                        {{ article?.updatedAt }}
                     </IconWithText>
                     <div class="flex flex-row gap-1">
                         <NuxtLink
-                            v-for="tag in article.tags"
+                            v-for="tag in article?.tags"
                             :key="tag"
                             :to="`/search?word=${tag}`"
                             class="badge badge-sm gap-1"
@@ -65,10 +65,10 @@ const navigations = computed(() => {
             <div class="grid grid-cols-12">
                 <div class="col-span-12 flex flex-col gap-4 lg:col-span-8">
                     <div class="mx-auto mb-8">
-                        <img :src="article.thumbnail" />
+                        <img :src="article?.thumbnail" />
                     </div>
                     <div class="col-span-4 mb-8 block lg:hidden">
-                        <!-- <PageToc></PageToc> -->
+                        <PageToc></PageToc>
                     </div>
                     <ContentRenderer :value="article" />
                     <div class="divider"></div>

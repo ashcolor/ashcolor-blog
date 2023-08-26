@@ -1,6 +1,6 @@
 <script setup lang="ts">
 interface Props {
-    category: string;
+    category?: string;
 }
 
 const props = withDefaults(defineProps<Props>(), {

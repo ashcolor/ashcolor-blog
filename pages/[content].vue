@@ -3,7 +3,7 @@ import { BLOG_TITLE } from "@/utils/const";
 
 const route = useRoute();
 
-const { data: article } = await useAsyncData("hello", () => queryContent(route.path).findOne());
+const { data: article } = await useAsyncData(() => queryContent(route.path).findOne());
 
 useSeoMeta({
     title: `${article.value?.title} | ${BLOG_TITLE}`,
