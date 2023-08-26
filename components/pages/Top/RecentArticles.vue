@@ -1,6 +1,6 @@
 <script setup lang="ts">
 interface Props {
-    category: string;
+    category?: string;
 }
 
 const props = withDefaults(defineProps<Props>(), {
@@ -31,7 +31,7 @@ const articles = await query.find();
             :link-path="article._path"
             :thumbnail="article.thumbnail"
             :title="article.title"
-            :category="article.category"
+            :category="article?.category"
             :tags="article.tags"
             :created-at="article.createdAt"
             :updated-at="article.updatedAt"
