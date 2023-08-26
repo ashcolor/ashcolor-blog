@@ -1,5 +1,8 @@
 <script setup lang="ts">
 import { Icon } from "@iconify/vue";
+import { BLOG_CATEGORIES } from "@/utils/const";
+
+const showCategories = BLOG_CATEGORIES.filter((category) => category.isShowList);
 </script>
 
 <template>
@@ -7,7 +10,7 @@ import { Icon } from "@iconify/vue";
         <div class="flex w-full flex-col gap-4">
             <span class="footer-title">BLOG</span>
             <NuxtLink
-                v-for="category in BLOG_CATEGORIES"
+                v-for="category in showCategories"
                 :key="category.name"
                 :to="category.path"
                 class="link-hover link"
