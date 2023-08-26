@@ -35,7 +35,10 @@ export default defineNuxtConfig({
 
     content: {
         // https://content.nuxtjs.org/api/configuration
-        documentDriven: true,
+        documentDriven: {
+            page: true,
+            surround: false,
+        },
         markdown: {
             remarkPlugins: ["remark-breaks"],
         },
