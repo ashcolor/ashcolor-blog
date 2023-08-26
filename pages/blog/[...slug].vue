@@ -4,18 +4,18 @@ import { BLOG_TITLE, BLOG_CATEGORIES } from "@/utils/const";
 
 const route = useRoute();
 
-const { data: article } = await useAsyncData("hello", () => queryContent(route.path).findOne());
+const { data: article } = await useAsyncData(route.path, () => queryContent(route.path).findOne());
 
-const title = `${article.value?.title} | ${BLOG_TITLE}`;
-const url = `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}${article.value?._path}`;
+const title = computed(() => `${article.value?.title} | ${BLOG_TITLE}`);
+const url = computed(() => `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}${article.value?._path}`);
 
 useSeoMeta({
-    title,
-    ogTitle: `${article.value?.title} | ${BLOG_TITLE}`,
+    title: title.value,
+    ogTitle: title.value,
     description: article.value?.description,
     ogDescription: article.value?.description,
     ogImage: article.value?.thumbnail,
-    ogUrl: url,
+    ogUrl: url.value,
     ogType: "article",
     ogSiteName: BLOG_TITLE,
     twitterCard: "summary_large_image",
@@ -68,7 +68,7 @@ const navigations = computed(() => {
                         <img :src="article.thumbnail" />
                     </div>
                     <div class="col-span-4 mb-8 block lg:hidden">
-                        <!-- <PageToc></PageToc> -->
+                        <PageToc></PageToc>
                     </div>
                     <ContentRenderer :value="article" />
                     <div class="divider"></div>

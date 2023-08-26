@@ -2,7 +2,7 @@
 import { Icon } from "@iconify/vue";
 
 const route = useRoute();
-const { data: article } = await useAsyncData("hello", () => queryContent(route.path).findOne());
+const { data: article } = await useAsyncData(route.path, () => queryContent(route.path).findOne());
 
 const links = article.value?.body.toc?.links;
 
