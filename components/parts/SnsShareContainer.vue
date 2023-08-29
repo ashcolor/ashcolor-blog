@@ -18,7 +18,7 @@ const encodedHostPath = computed(() =>
 );
 
 const twitterURL = computed(
-    () => `http://twitter.com/share?url=${encodedHref.value}&text=${encodedTitle.value}`
+    () => `https://twitter.com/intent/tweet?url=${encodedHref.value}&text=${encodedTitle.value}`
 );
 const facebookURL = computed(
     () => `https://www.facebook.com/sharer/sharer.php?u=${encodedHref.value}`
