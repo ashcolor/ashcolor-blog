@@ -35,8 +35,8 @@ const { state } = useAsyncState(async () => {
             </div>
             <p class="grow-0 text-xs">{{ state?.ogUrl ?? state?.requestUrl }}</p>
         </div>
-        <figure v-show="!state?.ogImage" class="!hidden w-56 shrink-0 sm:!flex">
-            <img :src="state?.ogImage[0]?.url" :alt="state?.ogTitle" />
+        <figure v-if="state?.ogImage?.[0]" class="!hidden w-56 shrink-0 sm:!flex">
+            <img :src="state?.ogImage?.[0]?.url" :alt="state?.ogTitle" />
         </figure>
     </NuxtLink>
 </template>

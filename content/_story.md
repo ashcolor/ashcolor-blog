@@ -349,7 +349,7 @@ _Just an italic paragraph._
 ::preview-and-code
 #preview
 
-::call-back{type=info}
+::call-out{type=info}
 
 コールバック文章。
 
@@ -358,7 +358,7 @@ _Just an italic paragraph._
 #code
 
 ```markdown
-::call-back{type=info}
+::call-out{type=info}
 
 コールバック文章。
 
