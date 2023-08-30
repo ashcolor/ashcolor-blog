@@ -131,19 +131,19 @@
 
 ```js [file.js]{4-6,7} meta-info=val
 export default () => {
-  console.log('Code block')
-}
+  console.log("Code block");
+};
 ```
 
 #code
 
-```markdown
-  \```js [file.js]{4-6,7} meta-info=val
-  export default () => {
-    console.log('Code block')
-  }
-  \```
+````markdown
+```js [file.js]{4-6,7} meta-info=val
+export default () => {
+  console.log("Code block");
+};
 ```
+````
 
 ::
 
@@ -163,6 +163,8 @@ export default () => {
 
 `const codeInline: string = 'highlighted code inline'`{lang="ts"}
 ```
+
+````
 
 ::
 
@@ -453,3 +455,8 @@ _Just an italic paragraph._
 ```
 
 ::
+
+```
+
+```
+````

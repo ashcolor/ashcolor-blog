@@ -8,7 +8,7 @@ description: "お問い合わせ"
 
 ## 連絡先
 
-- ツイッター：[@ashcolor06](https://twitter.com/ashcolor06){target="_blank"}
+- ツイッター：[@ashcolor06](https://twitter.com/ashcolor06){target="\_blank"}
 - メール：ashcolor27@gmail.com
 
 ## お問い合わせフォーム
