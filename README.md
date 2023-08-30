@@ -47,4 +47,4 @@ mainブランチへマージすることによって自動的に本番環境に�
 
 mdファイルで使用することのできるコンポーネントは以下に記載
 
-http://localhost:3000/_story
+http://localhost:3000/\_story

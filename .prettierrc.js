@@ -45,4 +45,13 @@ module.exports = {
     vueIndentScriptAndStyle: false,
     // endOfLine: "lf",
     embeddedLanguageFormatting: "auto",
+    overrides: [
+        {
+            files: ["*.md"],
+            options: {
+                tabWidth: 2,
+                parser: "markdown-nocjsp",
+            },
+        },
+    ],
 };
