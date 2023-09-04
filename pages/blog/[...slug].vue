@@ -63,7 +63,7 @@ const navigations = computed(() => {
                 </div>
             </div>
             <div class="grid grid-cols-12">
-                <div class="col-span-12 flex flex-col gap-4 lg:col-span-8">
+                <div class="col-span-12 flex flex-col gap-8 lg:col-span-8">
                     <div class="mx-auto mb-8">
                         <img :src="article?.thumbnail" />
                     </div>
@@ -73,6 +73,12 @@ const navigations = computed(() => {
                     <ContentRenderer :value="article" />
                     <div class="divider"></div>
                     <SnsShareContainer :title="title" :url="url"></SnsShareContainer>
+                    <ProseH3>関連記事</ProseH3>
+                    <BlogRelationArticles
+                        :current-path="article?._path"
+                        :tags="article?.tags"
+                    ></BlogRelationArticles>
+                    <!-- <ProseH3>この記事を書いた人</ProseH3> -->
                 </div>
                 <div class="col-span-4 hidden px-4 lg:block">
                     <div class="sticky top-24 flex flex-col">

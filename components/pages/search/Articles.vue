@@ -89,7 +89,7 @@ await fetchArticle();
                 </div>
                 <input
                     v-model="searchWord"
-                    class="input join-item input-bordered input-sm grow"
+                    class="input input-bordered join-item input-sm grow"
                     placeholder="例：キーボード イヤホン"
                 />
             </div>
@@ -100,7 +100,7 @@ await fetchArticle();
             v-if="articles.length > 0"
             class="flex flex-col flex-wrap place-content-center gap-8 md:flex-row"
         >
-            <ArticleCard
+            <ArticleCardVertical
                 v-for="article in articles"
                 :key="article._path"
                 :link-path="article._path"
@@ -110,7 +110,7 @@ await fetchArticle();
                 :tags="article.tags"
                 :created-at="article.createdAt"
                 :updated-at="article.updatedAt"
-            ></ArticleCard>
+            ></ArticleCardVertical>
         </div>
         <div v-else>
             <p class="text-center">該当する記事がみつかりませんでした</p>

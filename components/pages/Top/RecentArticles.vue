@@ -25,7 +25,7 @@ const articles = await query.find();
         v-if="articles.length > 0"
         class="flex flex-col flex-wrap place-content-center gap-8 md:flex-row"
     >
-        <ArticleCard
+        <ArticleCardVertical
             v-for="article in articles"
             :key="article._path"
             :link-path="article._path"
@@ -35,7 +35,7 @@ const articles = await query.find();
             :tags="article.tags"
             :created-at="article.createdAt"
             :updated-at="article.updatedAt"
-        ></ArticleCard>
+        ></ArticleCardVertical>
     </div>
     <div v-else>
         <p class="text-center">該当する記事がみつかりませんでした</p>
