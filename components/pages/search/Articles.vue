@@ -1,23 +1,24 @@
 <script setup lang="ts">
 import { Icon } from "@iconify/vue";
+import { createReusableTemplate } from "@vueuse/core";
+
+const [DefinePaginationTemplate, PaginationTemplate] = createReusableTemplate();
 
 const LIMIT = 6;
 
 const params = useUrlSearchParams("history");
-const page = ref(parseInt(typeof params.page === "string" ? params.page : "1"));
+const currentPage = ref(parseInt(typeof params.page === "string" ? params.page : "1"));
 const searchCategory = ref(typeof params.category === "string" ? params.category : "");
 const searchWord = ref(typeof params.word === "string" ? params.word : "");
 
-const unprocessedArticles = ref<Array<Object>>([]);
-const fetchArticle = async () => {
-    const query = queryContent("blog");
-
+const where = computed(() => {
+    const where = {};
     if (searchCategory.value) {
-        query.where({ category: searchCategory.value });
+        where.category = searchCategory.value;
     }
 
     if (searchWord.value) {
-        query.where({
+        where.$or = {
             $or: [
                 {
                     title: { $regex: searchWord.value },
@@ -26,49 +27,88 @@ const fetchArticle = async () => {
                     tags: { $in: searchWord.value },
                 },
             ],
-        });
+        };
     }
-
-    // TODO カウントを実装して全体のページ数を表示する
-    // const count = await query.only(["_id"]).find();
-    // console.log(count.length);
-
-    query.limit(LIMIT + 1);
-
-    const sort = typeof params.sort === "string" ? Util.kebabToCamelCase(params.sort) : "createdAt";
-    const orderValue = params.order === "asc" ? 1 : -1;
-    query.sort({ [sort]: orderValue });
-
-    query.skip(LIMIT * (page.value - 1));
-
-    unprocessedArticles.value = await query.find();
-};
-
-const articles = computed(() => {
-    if (typeof unprocessedArticles.value !== "object") return [];
-    return unprocessedArticles.value.slice(0, LIMIT);
+    return where;
 });
+
+const articleCount = ref(1);
+const totalPage = computed(() => {
+    return Math.ceil(articleCount.value / LIMIT);
+});
+
+const {
+    data: articles,
+    execute: fetchArticle,
+    pending,
+} = await useAsyncData(
+    async () => {
+        const query = queryContent("blog");
+        const countQuery = queryContent("blog");
+
+        query.where(where.value);
+        countQuery.where(where.value);
+
+        articleCount.value = await countQuery.count();
+
+        query.limit(LIMIT);
+        query.without(["body"]);
+
+        const sort =
+            typeof params.sort === "string" ? Util.kebabToCamelCase(params.sort) : "createdAt";
+        const orderValue = params.order === "asc" ? 1 : -1;
+        query.sort({ [sort]: orderValue });
+
+        query.skip(LIMIT * (currentPage.value - 1));
+
+        return await query.find();
+    },
+    { immediate: false }
+);
 
 const isNextPageAvailable = computed(() => {
-    if (typeof unprocessedArticles.value !== "object") return false;
-    return unprocessedArticles.value.length > LIMIT;
+    return currentPage.value !== totalPage.value;
 });
 
-watch(page, async (newPage) => {
+watch(currentPage, async (newPage) => {
     params.page = newPage.toString();
     await fetchArticle();
 });
 
 const onClickSearchButton = async () => {
-    page.value = 1;
+    currentPage.value = 1;
     params.category = searchCategory.value;
     params.word = searchWord.value;
     await fetchArticle();
 };
 
-await fetchArticle();
+onMounted(async () => {
+    await fetchArticle();
+});
 </script>
 <template>
+    <DefinePaginationTemplate>
+        <div class="join justify-center">
+            <button
+                class="btn join-item"
+                :class="{ 'btn-disabled': currentPage === 1 }"
+                @click="currentPage--"
+            >
+                «
+            </button>
+            <div class="btn join-item pointer-events-none">
+                {{ currentPage }}&nbsp;/&nbsp;{{ totalPage }}&nbsp;ページ
+            </div>
+            <button
+                class="btn join-item"
+                :class="{ 'btn-disabled': !isNextPageAvailable }"
+                @click="currentPage++"
+            >
+                »
+            </button>
+        </div>
+    </DefinePaginationTemplate>
+
     <div class="flex flex-col gap-8">
         <div class="flex flex-row flex-wrap gap-4">
             <div class="join">
@@ -89,15 +129,15 @@ await fetchArticle();
                 </div>
                 <input
                     v-model="searchWord"
-                    class="input input-bordered join-item input-sm grow"
+                    class="input join-item input-bordered input-sm grow"
                     placeholder="例：キーボード イヤホン"
                 />
             </div>
             <button class="btn btn-sm" @click="onClickSearchButton()">検索</button>
         </div>
-        <div>{{ page }}&nbsp;ページ</div>
+        <PaginationTemplate></PaginationTemplate>
         <div
-            v-if="articles.length > 0"
+            v-if="articles?.length > 0"
             class="flex flex-col flex-wrap place-content-center gap-8 md:flex-row"
         >
             <ArticleCardVertical
@@ -112,21 +152,14 @@ await fetchArticle();
                 :updated-at="article.updatedAt"
             ></ArticleCardVertical>
         </div>
+        <div v-else-if="pending">
+            <p class="text-center">
+                <span class="loading loading-spinner loading-lg text-primary"></span>
+            </p>
+        </div>
         <div v-else>
             <p class="text-center">該当する記事がみつかりませんでした</p>
         </div>
-        <div class="join justify-center">
-            <button class="btn join-item" :class="{ 'btn-disabled': page === 1 }" @click="page--">
-                «
-            </button>
-            <div class="btn join-item pointer-events-none">{{ page }}&nbsp;ページ</div>
-            <button
-                class="btn join-item"
-                :class="{ 'btn-disabled': !isNextPageAvailable }"
-                @click="page++"
-            >
-                »
-            </button>
-        </div>
+        <PaginationTemplate></PaginationTemplate>
     </div>
 </template>
