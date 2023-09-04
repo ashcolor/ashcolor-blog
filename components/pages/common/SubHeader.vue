@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { Icon } from "@iconify/vue";
-import { BLOG_SUBTITLE } from "@/utils/const";
+import { ACCOUNTS, BLOG_SUBTITLE } from "@/utils/const";
 </script>
 
 <template>
@@ -11,11 +11,13 @@ import { BLOG_SUBTITLE } from "@/utils/const";
             </div>
             <div class="navbar-end hidden lg:flex">
                 <NuxtLink
-                    to="https://twitter.com/ashcolor06"
+                    v-for="account in ACCOUNTS"
+                    :key="account.name"
+                    :to="account.url"
                     target="_blank"
                     class="btn btn-ghost btn-xs"
                 >
-                    <Icon icon="bi:twitter" width="16"></Icon>
+                    <Icon :icon="account.icon" width="16"></Icon>
                 </NuxtLink>
             </div>
         </div>

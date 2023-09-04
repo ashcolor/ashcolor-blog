@@ -25,10 +25,16 @@ const showCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
             <NuxtLink to="/privacy-policy" class="link-hover link">プライバシーポリシー</NuxtLink>
         </div>
         <div class="flex flex-col">
-            <span class="footer-title">Social</span>
+            <span class="footer-title">Link</span>
             <div class="grid grid-flow-col gap-4">
-                <NuxtLink to="https://twitter.com/ashcolor06" target="_blank" aria-label="X">
-                    <Icon icon="bi:twitter" width="24"></Icon>
+                <NuxtLink
+                    v-for="account in ACCOUNTS"
+                    :key="account.name"
+                    :to="account.url"
+                    target="_blank"
+                    class="btn btn-ghost btn-sm"
+                >
+                    <Icon :icon="account.icon" width="24"></Icon>
                 </NuxtLink>
             </div>
         </div>
