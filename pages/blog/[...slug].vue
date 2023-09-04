@@ -42,7 +42,7 @@ const navigations = computed(() => {
             <div class="mb-8">
                 <BreadCrumb :navigations="navigations"></BreadCrumb>
                 <ProseH1>{{ article?.title }}</ProseH1>
-                <div class="flex flex-row items-center gap-2 text-sm text-slate-500">
+                <div class="flex flex-row items-center gap-2 overflow-auto text-sm text-slate-500">
                     <IconWithText v-if="article?.createdAt" icon="ph:clock">
                         {{ article?.createdAt }}
                     </IconWithText>
