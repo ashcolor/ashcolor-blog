@@ -49,7 +49,7 @@ const navigations = computed(() => {
                     <IconWithText v-if="article?.updatedAt" icon="ph:clock-clockwise">
                         {{ article?.updatedAt }}
                     </IconWithText>
-                    <div class="flex flex-row gap-1">
+                    <div class="flex flex-row gap-1 py-2">
                         <NuxtLink
                             v-for="tag in article?.tags"
                             :key="tag"
