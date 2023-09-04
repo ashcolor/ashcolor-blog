@@ -28,15 +28,15 @@ const { state } = useAsyncState(async () => {
         target="_blank"
         class="card card-side card-compact my-2 max-h-[8rem] border bg-base-100"
     >
-        <div class="card-body justify-between">
+        <div class="card-body justify-between overflow-hidden">
             <div class="flex flex-col gap-2">
                 <p>{{ state?.ogTitle }}</p>
                 <p class="line-clamp-2 text-xs text-slate-500">{{ state?.ogDescription }}</p>
             </div>
             <p class="grow-0 text-xs">{{ state?.ogUrl ?? state?.requestUrl }}</p>
         </div>
-        <figure v-if="state?.ogImage?.[0]" class="!hidden w-56 shrink-0 sm:!flex">
-            <img :src="state?.ogImage?.[0]?.url" :alt="state?.ogTitle" />
+        <figure v-if="state?.ogImage?.[0]" class="relative !hidden shrink-0 sm:!flex sm:w-[20%]">
+            <img :src="state?.ogImage?.[0]?.url" :alt="state?.ogTitle" class="absolute" />
         </figure>
     </NuxtLink>
 </template>
