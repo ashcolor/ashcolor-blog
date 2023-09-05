@@ -14,6 +14,7 @@ const { data: articles, pending } = useLazyAsyncData(() => {
 
     query.limit(LIMIT);
     query.sort({ createdAt: -1 });
+    query.without(["body"]);
 
     if (props.category) {
         query.where({ category: props.category });
