@@ -3,7 +3,7 @@ export class Util {
         return kebabCase.replace(/-([a-z])/g, (_, match) => match.toUpperCase());
     };
 
-    static isValidUrl(url: string): boolean {
+    static isValidUrl = (url: string): boolean => {
         try {
             // eslint-disable-next-line no-new
             new URL(url);
@@ -11,5 +11,10 @@ export class Util {
         } catch (err) {
             return false;
         }
-    }
+    };
+
+    static sleep = (ms: number) =>
+        new Promise((resolve) => {
+            setTimeout(resolve, ms);
+        });
 }
