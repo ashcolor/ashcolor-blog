@@ -18,6 +18,8 @@ const query = queryContent("/blog/");
 query.limit(LIMIT);
 query.sort({ createdAt: -1 });
 
+query.where({ isRecommend: true });
+
 if (props.currentPath) {
     query.where({
         _path: { $ne: props.currentPath },
@@ -29,6 +31,8 @@ if (props.category) {
 }
 
 if (props.tags.length) {
+    console.log("tag");
+
     query.where({ tags: { $in: props.tags } });
 }
 

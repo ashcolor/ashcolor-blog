@@ -78,6 +78,11 @@ const navigations = computed(() => {
                         :current-path="article?._path"
                         :tags="article?.tags"
                     ></BlogRelationArticles>
+                    <ProseH3>オススメ記事</ProseH3>
+                    <BlogRecommendArticles
+                        :current-path="article?._path"
+                        :category="article?.category"
+                    ></BlogRecommendArticles>
                     <!-- <ProseH3>この記事を書いた人</ProseH3> -->
                 </div>
                 <div class="col-span-4 hidden px-4 lg:block">
