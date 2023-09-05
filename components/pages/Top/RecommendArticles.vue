@@ -25,7 +25,7 @@ const { data: articles, pending } = useLazyAsyncData(() => {
 });
 </script>
 <template>
-    <div v-if="pending" class="">
+    <div v-if="pending">
         <div class="loading loading-spinner mx-auto my-8 block text-primary"></div>
     </div>
     <template v-else>

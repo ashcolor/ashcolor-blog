@@ -15,8 +15,16 @@ useSeoMeta({
     twitterCard: "summary_large_image",
 });
 
-const articleTags = await queryContent("/blog").only("tags").find();
-const tags = articleTags.map((article) => article.tags).flat();
+const { data: articleTags, pending } = useLazyAsyncData(
+    () => {
+        return queryContent("/blog").only("tags").find();
+    },
+    {
+        default: () => [],
+    }
+);
+
+const tags = articleTags.value?.map((article) => article.tags).flat();
 const tagCounts = new Map();
 
 tags.forEach((tag) => {
@@ -115,14 +123,21 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                     </div>
                     <ProseH3>タグから探す</ProseH3>
                     <div class="flex flex-row flex-wrap gap-3 border p-4 text-slate-500">
-                        <NuxtLink
-                            v-for="tagCount in famousTags"
-                            :key="tagCount.name"
-                            :to="`/search?word=${tagCount.name}`"
-                            class="badge badge-outline"
-                        >
-                            {{ tagCount.name }}
-                        </NuxtLink>
+                        <div v-if="pending">
+                            <div
+                                class="loading loading-spinner mx-auto my-8 block text-primary"
+                            ></div>
+                        </div>
+                        <template v-else>
+                            <NuxtLink
+                                v-for="tagCount in famousTags"
+                                :key="tagCount.name"
+                                :to="`/search?word=${tagCount.name}`"
+                                class="badge badge-outline"
+                            >
+                                {{ tagCount.name }}
+                            </NuxtLink>
+                        </template>
                     </div>
                 </div>
             </div>

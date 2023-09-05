@@ -18,7 +18,7 @@ const filteredLinks = computed(() => {
         <div class="card-body">
             <h2 class="card-title"><Icon icon="bi:list-ul" />目次</h2>
             <div>
-                <div v-if="pending" class="">
+                <div v-if="pending">
                     <div class="loading loading-spinner mx-auto my-8 block text-primary"></div>
                 </div>
                 <template v-else>
