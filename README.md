@@ -31,8 +31,8 @@ http://localhost:3000
 ## 本番ビルドの確認
 
 ```bash
-yarn generate
-npx serve .output/public
+yarn build
+yarn preview
 ```
 
 ## デプロイ
