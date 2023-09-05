@@ -114,7 +114,7 @@ onMounted(async () => {
                 <div class="btn join-item btn-sm pointer-events-none">カテゴリ</div>
                 <select
                     v-model="searchCategory"
-                    class="join-item select select-bordered select-sm w-full max-w-xs"
+                    class="select join-item select-bordered select-sm w-full max-w-xs"
                 >
                     <option value="">すべて</option>
                     <option v-for="category in BLOG_CATEGORIES" :key="category.name">
