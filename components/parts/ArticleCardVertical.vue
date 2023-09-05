@@ -26,7 +26,7 @@ const props = withDefaults(defineProps<Props>(), {
                     {{ props.category }}
                 </IconWithText>
             </div>
-            <img :src="props.thumbnail" :alt="props.title" />
+            <img :src="props.thumbnail" :alt="props.title" loading="lazy" />
         </figure>
         <div class="card-body !gap-0.5 !px-0 !py-4">
             <h3 class="card-title">{{ props.title }}</h3>

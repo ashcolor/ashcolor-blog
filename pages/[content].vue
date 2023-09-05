@@ -25,13 +25,13 @@ useSeoMeta({
                         <img :src="article.thumbnail" />
                     </div>
                     <div class="col-span-4 mb-8 block lg:hidden">
-                        <PageToc></PageToc>
+                        <BlogPageToc></BlogPageToc>
                     </div>
                     <ContentRenderer :value="article" />
                 </div>
                 <div class="col-span-4 hidden px-4 lg:block">
                     <div class="sticky top-24 flex flex-col">
-                        <PageToc></PageToc>
+                        <BlogPageToc></BlogPageToc>
                     </div>
                 </div>
             </div>

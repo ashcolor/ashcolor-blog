@@ -164,8 +164,6 @@ export default () => {
 `const codeInline: string = 'highlighted code inline'`{lang="ts"}
 ```
 
-````
-
 ::
 
 ### 区切り線
@@ -456,7 +454,15 @@ _Just an italic paragraph._
 
 ::
 
-```
+### 記事引用カード
 
+::preview-and-code
+#preview
+
+:quote-article-card{url="/blog/gadget/desk-tour-desk"}
+
+#code
+
+```markdown
+:quote-article-card{url="/blog/gadget/desk-tour-desk"}
 ```
-````

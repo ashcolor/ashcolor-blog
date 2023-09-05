@@ -18,6 +18,8 @@ const { data: articles, pending } = useLazyAsyncData(() => {
 
     query.limit(LIMIT);
     query.sort({ createdAt: -1 });
+    query.where({ isRecommend: true });
+    query.without(["body"]);
 
     if (props.currentPath) {
         query.where({

@@ -18,17 +18,25 @@ useSeoMeta({
     twitterCard: "summary_large_image",
 });
 
-const articleTags = await queryContent(`/blog/${category}`).only("tags").find();
-const tags = articleTags.map((article) => article.tags).flat();
-const tagCounts = new Map();
+// const { data: articleTags, pending } = useLazyAsyncData(
+//     () => {
+//         return queryContent(`/blog/${category}`).only("tags").find();
+//     },
+//     {
+//         default: () => [],
+//     }
+// );
 
-tags.forEach((tag) => {
-    if (tagCounts.has(tag)) {
-        tagCounts.set(tag, tagCounts.get(tag) + 1);
-    } else {
-        tagCounts.set(tag, 1);
-    }
-});
+// const tags = articleTags.map((article) => article.tags).flat();
+// const tagCounts = new Map();
+
+// tags.forEach((tag) => {
+//     if (tagCounts.has(tag)) {
+//         tagCounts.set(tag, tagCounts.get(tag) + 1);
+//     } else {
+//         tagCounts.set(tag, 1);
+//     }
+// });
 
 const navigations = computed(() => {
     return [
