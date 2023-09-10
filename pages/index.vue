@@ -132,7 +132,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                             <NuxtLink
                                 v-for="tagCount in famousTags"
                                 :key="tagCount.name"
-                                :to="`/search?word=${tagCount.name}`"
+                                :to="`/search?word=${encodeURI(tagCount.name)}`"
                                 class="badge badge-outline"
                             >
                                 {{ tagCount.name }}

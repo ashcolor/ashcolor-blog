@@ -53,7 +53,7 @@ const navigations = computed(() => {
                         <NuxtLink
                             v-for="tag in article?.tags"
                             :key="tag"
-                            :to="`/search?word=${tag}`"
+                            :to="`/search?word=${encodeURI(tag)}`"
                             class="badge badge-sm gap-1"
                         >
                             <Icon icon="bi:tag"></Icon>
