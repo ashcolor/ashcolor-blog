@@ -11,7 +11,12 @@ export default defineNuxtConfig({
                 lang: "ja",
                 prefix: "og: http://ogp.me/ns#",
             },
-            script: [{ src: "https://platform.twitter.com/widgets.js" }],
+            script: [
+                {
+                    src: "https://platform.twitter.com/widgets.js",
+                    defer: true,
+                },
+            ],
         },
     },
     css: ["@/assets/css/tailwind.css"],
