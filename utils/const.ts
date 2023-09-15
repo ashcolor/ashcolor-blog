@@ -28,10 +28,19 @@ export const BLOG_CATEGORIES = [
         isShowList: true,
     },
     {
+        key: "notion",
+        name: "Notion",
+        path: "/blog/notion",
+        thumbnail:
+            "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/formulas/thumbnail.png",
+        isShowList: false,
+    },
+    {
         key: "random-note",
         name: "雑記",
         path: "/blog/random-note",
-        thumbnail: "",
+        thumbnail:
+            "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour/overall.jpg",
         isShowList: false,
     },
 ];
