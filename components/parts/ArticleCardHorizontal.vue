@@ -21,7 +21,7 @@ const props = withDefaults(defineProps<Props>(), {
 <template>
     <NuxtLink
         :to="props.linkPath"
-        class="card-compact card card-side w-full overflow-hidden border bg-base-100"
+        class="card card-side card-compact w-full overflow-hidden border bg-base-100"
     >
         <figure class="relative w-[20%] shrink-0">
             <img :src="props.thumbnail" :alt="props.title" class="absolute" loading="lazy" />

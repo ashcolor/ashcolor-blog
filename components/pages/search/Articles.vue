@@ -72,7 +72,7 @@ watch(currentPage, (newPage) => {
     fetchCount();
 });
 
-const onClickSearchButton = async () => {
+const onClickSearchButton = () => {
     currentPage.value = 1;
     params.category = searchCategory.value;
     params.word = searchWord.value;
