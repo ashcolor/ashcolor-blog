@@ -8,6 +8,7 @@ tags:
   - "Notion"
   - "Formulas"
 thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/formulas/thumbnail.png"
+isRecommend: true
 ---
 
 2023年9月8日、[Notionの関数機能が2.0にアップデート]{.marker}されました🎉
