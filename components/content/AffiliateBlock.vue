@@ -58,6 +58,9 @@ const rakutenAffiliateUrl = computed(() => {
                     </a>
                 </span>
             </div>
+            <div>
+                <p class="text-xs">※アフィリエイトリンクを使用しています。</p>
+            </div>
         </div>
     </div>
 </template>
