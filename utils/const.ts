@@ -56,7 +56,7 @@ export const RAKUTEN_ASSOCIATE_ID = "349366b6.92086da6.349366b7.0d318a37";
 export const ACCOUNTS = [
     {
         name: "Twitter",
-        icon: "mdi:twitter",
+        icon: "mingcute:social-x-line",
         url: "https://twitter.com/ashcolor06",
     },
     {

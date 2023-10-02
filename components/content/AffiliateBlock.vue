@@ -28,7 +28,7 @@ const rakutenAffiliateUrl = computed(() => {
 </script>
 
 <template>
-    <div class="my-4 flex flex-row items-center justify-center gap-4 border-2 border-base-300 p-4">
+    <div class="my-4 flex flex-row items-center justify-center gap-4 border border-base-300 p-4">
         <a v-if="props.asin" :href="amazonUrl" target="_blank" rel="noopener noreferrer">
             <img :src="amazonImageUrl" />
         </a>
@@ -57,6 +57,9 @@ const rakutenAffiliateUrl = computed(() => {
                         楽天市場で探す
                     </a>
                 </span>
+            </div>
+            <div>
+                <p class="text-xs">※アフィリエイトリンクを使用しています。</p>
             </div>
         </div>
     </div>

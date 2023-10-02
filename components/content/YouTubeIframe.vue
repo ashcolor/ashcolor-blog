@@ -2,7 +2,8 @@
 interface Props {
     videoId: string;
     title: string;
-    start?: number;
+    // TODO mdから呼ばれる際には常にstringになる
+    start?: number | string;
 }
 
 const props = withDefaults(defineProps<Props>(), {

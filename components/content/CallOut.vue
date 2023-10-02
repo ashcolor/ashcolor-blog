@@ -2,7 +2,7 @@
 import { Icon } from "@iconify/vue";
 
 interface Props {
-    type: "info" | "success" | "warning" | "error";
+    type?: "info" | "success" | "warning" | "error";
 }
 
 const props = withDefaults(defineProps<Props>(), {
