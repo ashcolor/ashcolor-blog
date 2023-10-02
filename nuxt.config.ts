@@ -35,7 +35,15 @@ export default defineNuxtConfig({
     ],
 
     components: {
-        dirs: ["~/components/content", "~/components/pages", "~/components/parts"],
+        dirs: [
+            "~/components/content",
+            "~/components/pages",
+            "~/components/parts",
+            {
+                path: "~/components/content-feature",
+                global: true,
+            },
+        ],
     },
 
     content: {
