@@ -28,7 +28,7 @@ const rakutenAffiliateUrl = computed(() => {
 </script>
 
 <template>
-    <div class="my-4 flex flex-row items-center justify-center gap-4 border border-base-300 p-4">
+    <div class="my-4 flex flex-row items-center justify-center gap-4 border p-4">
         <a v-if="props.asin" :href="amazonUrl" target="_blank" rel="noopener noreferrer">
             <img :src="amazonImageUrl" />
         </a>
