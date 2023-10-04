@@ -16,7 +16,7 @@ const quotedListStyle = computed(() => {
 </script>
 
 <template>
-    <div class="my-8 border-2 px-4 py-8">
+    <div class="my-8 border px-4 py-8">
         <div v-if="props.title" class="mb-4 px-4">
             <p class="text-sm text-slate-500">{{ props.title }}</p>
         </div>
