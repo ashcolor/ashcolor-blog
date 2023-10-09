@@ -34,6 +34,13 @@ const navigations = computed(() => {
         },
     ];
 });
+
+onMounted(() => {
+    // @https://developer.twitter.com/en/docs/twitter-for-websites/javascript-api/guides/scripting-loading-and-initialization
+    if (twttr) {
+        twttr.widgets.load();
+    }
+});
 </script>
 
 <template>
