@@ -34,6 +34,12 @@ const navigations = computed(() => {
         },
     ];
 });
+
+onMounted(() => {
+    if (twttr) {
+        twttr.widgets.load();
+    }
+});
 </script>
 
 <template>
