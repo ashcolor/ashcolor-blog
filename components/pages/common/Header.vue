@@ -6,7 +6,7 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
 </script>
 
 <template>
-    <div class="navbar border-b bg-base-100/75">
+    <div class="navbar border-b bg-base-100/75 backdrop-blur">
         <div class="container m-auto">
             <div class="navbar-start flex w-full flex-row lg:w-1/2">
                 <div class="dropdown">
