@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { Icon } from "@iconify/vue";
 import { withBase } from "ufo";
 import { useRuntimeConfig, computed } from "#imports";
 
@@ -38,7 +39,7 @@ const isShowModal = ref(false);
             :alt="alt"
             :width="width"
             :height="height"
-            class="min-h-0 grow-0 cursor-pointer border"
+            class="min-h-0 grow-0 cursor-zoom-in border"
             loading="lazy"
             @click="isShowModal = true"
         />
@@ -51,7 +52,10 @@ const isShowModal = ref(false);
         open
         @click="isShowModal = false"
     >
-        <div class="modal-box w-auto p-0 max-w-none max-h-none">
+        <button class="btn btn-square btn-ghost absolute right-2 top-2 text-primary-content">
+            <Icon icon="mdi:close" width="36" />
+        </button>
+        <div class="modal-box max-h-none w-auto max-w-none p-0">
             <img :src="refinedSrc" :alt="alt" class="border" loading="lazy" />
         </div>
     </dialog>
