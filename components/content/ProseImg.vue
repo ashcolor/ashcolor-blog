@@ -27,6 +27,8 @@ const refinedSrc = computed(() => {
     }
     return props.src;
 });
+
+const isShowModal = ref(false);
 </script>
 
 <template>
@@ -36,9 +38,21 @@ const refinedSrc = computed(() => {
             :alt="alt"
             :width="width"
             :height="height"
-            class="min-h-0 grow-0 border"
+            class="min-h-0 grow-0 cursor-pointer border"
             loading="lazy"
+            @click="isShowModal = true"
         />
         <p v-if="alt" class="text-sm font-thin">{{ props.alt }}</p>
     </div>
+    <dialog
+        v-if="isShowModal"
+        id="my_modal_1"
+        class="modal bg-black/40"
+        open
+        @click="isShowModal = false"
+    >
+        <div class="modal-box w-auto p-0 max-w-none max-h-none">
+            <img :src="refinedSrc" :alt="alt" class="border" loading="lazy" />
+        </div>
+    </dialog>
 </template>
