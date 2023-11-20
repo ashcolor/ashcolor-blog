@@ -39,9 +39,8 @@
     "@vueuse/components": "^10.2.0",
     "@vueuse/core": "^10.2.0",
     "@vueuse/nuxt": "^10.2.0",
-    "axios": "^1.4.0",
     "color": "^4.2.3",
-    "daisyui": "^3.5.1",
+    "daisyui": "^4.4.2",
     "open-graph-scraper": "^6.2.2",
     "pinia": "^2.1.4",
     "remark-breaks": "^3.0.3"

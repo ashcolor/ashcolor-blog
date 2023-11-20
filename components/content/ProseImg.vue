@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { Icon } from "@iconify/vue";
 import { withBase } from "ufo";
 import { useRuntimeConfig, computed } from "#imports";
 
@@ -27,6 +28,8 @@ const refinedSrc = computed(() => {
     }
     return props.src;
 });
+
+const isShowModal = ref(false);
 </script>
 
 <template>
@@ -36,9 +39,24 @@ const refinedSrc = computed(() => {
             :alt="alt"
             :width="width"
             :height="height"
-            class="min-h-0 grow-0 border"
+            class="min-h-0 grow-0 cursor-zoom-in border"
             loading="lazy"
+            @click="isShowModal = true"
         />
         <p v-if="alt" class="text-sm font-thin">{{ props.alt }}</p>
     </div>
+    <dialog
+        v-if="isShowModal"
+        id="my_modal_1"
+        class="modal bg-black/40"
+        open
+        @click="isShowModal = false"
+    >
+        <button class="btn btn-square btn-ghost absolute right-2 top-2 text-primary-content">
+            <Icon icon="mdi:close" width="36" />
+        </button>
+        <div class="modal-box max-h-none w-auto max-w-none p-0">
+            <img :src="refinedSrc" :alt="alt" loading="lazy" />
+        </div>
+    </dialog>
 </template>
