@@ -79,7 +79,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
             <div class="my-8">
                 <TopRecentArticles></TopRecentArticles>
             </div>
-            <NuxtLink to="/search" class="btn btn-primary btn-outline btn-wide self-center"
+            <NuxtLink to="/search" class="btn btn-outline btn-primary btn-wide self-center"
                 >もっと見る
             </NuxtLink>
         </div>
