@@ -6,7 +6,7 @@ module.exports = {
     // printWidth: 80
     // tabWidth: 2,
     // useTabs: false,
-    // semi: ture,
+    // semi: true,
     // singleQuote: false,
     // quoteProps: "as-needed",
     // jsxSingleQuote: false,
@@ -50,7 +50,6 @@ module.exports = {
             files: ["*.md"],
             options: {
                 tabWidth: 2,
-                parser: "markdown-nocjsp",
             },
         },
     ],
