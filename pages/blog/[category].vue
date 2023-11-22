@@ -73,7 +73,7 @@ const navigations = computed(() => {
             </div>
             <NuxtLink
                 :to="`/search?category=${categoryName}`"
-                class="btn btn-primary btn-outline btn-wide self-center"
+                class="btn btn-outline btn-primary btn-wide self-center"
                 >もっと見る
             </NuxtLink>
         </div>

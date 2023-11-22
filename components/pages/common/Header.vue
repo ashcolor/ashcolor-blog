@@ -15,7 +15,7 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
                     </label>
                     <ul
                         tabindex="0"
-                        class="menu dropdown-content rounded-box menu-sm mt-3 w-52 bg-base-100 p-2 shadow"
+                        class="menu dropdown-content menu-sm mt-3 w-52 rounded-box bg-base-100 p-2 shadow"
                     >
                         <li
                             v-for="category in headerCategories"
