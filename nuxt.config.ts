@@ -51,10 +51,7 @@ export default defineNuxtConfig({
             remarkPlugins: ["remark-breaks"],
         },
         highlight: {
-            theme: {
-                default: "github-light",
-                dark: "github-dark",
-            },
+            theme: "github-dark",
             preload: ["vue"],
         },
     },
