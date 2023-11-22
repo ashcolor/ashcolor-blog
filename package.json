@@ -33,7 +33,7 @@
     "typescript": "^5.1.3"
   },
   "dependencies": {
-    "@nuxt/content": "^2.9.0",
+    "@nuxt/content": "2.8.2",
     "@pinia/nuxt": "^0.4.11",
     "@vueuse/components": "^10.2.0",
     "@vueuse/core": "^10.2.0",
