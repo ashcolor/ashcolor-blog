@@ -6,24 +6,22 @@ const tabState = ref("preview");
 
 <template>
     <div class="grid">
-        <div class="tabs z-10 -mb-px">
+        <div class="tabs tabs-lifted z-10 -mb-px">
             <button
-                class="tab-lifted tab"
+                class="tab"
                 :class="{ 'tab-active': tabState === 'preview' }"
                 @click="tabState = 'preview'"
             >
                 Preview
             </button>
             <button
-                class="tab-lifted tab"
+                class="tab"
                 :class="{ 'tab-active': tabState === 'code' }"
                 @click="tabState = 'code'"
             >
                 Code
             </button>
-            <div
-                class="tab-lifted tab mr-6 flex-1 cursor-default [--tab-border-color:transparent]"
-            ></div>
+            <div class="tab mr-6 flex-1 cursor-default [--tab-border-color:transparent]"></div>
         </div>
         <div class="relative overflow-x-auto rounded-r-box bg-base-300">
             <div
