@@ -37,7 +37,7 @@ yarn preview
 
 ## デプロイ
 
-mainブランチへマージすることによって自動的に本番環境に反映される
+`main` ブランチへマージすることによって自動的に本番環境に反映される
 
 [プルリクエストの作成](https://github.com/ashcolor/ashcolor-blog/compare/main...develop)
 
@@ -45,6 +45,6 @@ mainブランチへマージすることによって自動的に本番環境に�
 
 ### コンポーネント
 
-mdファイルで使用することのできるコンポーネントは以下に記載
+md ファイルで使用することのできるコンポーネントは以下に記載
 
-http://localhost:3000/\_story
+<http://localhost:3000/_story>
