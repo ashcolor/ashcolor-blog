@@ -72,7 +72,7 @@ onMounted(() => {
             <div class="grid grid-cols-12">
                 <div class="col-span-12 flex flex-col gap-8 lg:col-span-8">
                     <div class="mx-auto mb-8">
-                        <img :src="article?.thumbnail" />
+                        <img :src="article?.thumbnail" alt="サムネイル" />
                     </div>
                     <div class="col-span-4 mb-8 block lg:hidden">
                         <BlogPageToc></BlogPageToc>
