@@ -30,7 +30,7 @@ const rakutenAffiliateUrl = computed(() => {
 <template>
     <div class="my-4 flex flex-row items-center justify-center gap-4 border p-4">
         <a v-if="props.asin" :href="amazonUrl" target="_blank" rel="noopener noreferrer">
-            <img :src="amazonImageUrl" />
+            <img :src="amazonImageUrl" :alt="props.title" />
         </a>
         <div class="flex grow flex-col gap-2">
             <div class="text-lg font-bold">
