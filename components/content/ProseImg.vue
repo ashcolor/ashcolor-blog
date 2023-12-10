@@ -36,9 +36,9 @@ const isShowModal = ref(false);
     <div class="my-8 flex max-h-[48rem] flex-col place-items-center gap-2">
         <img
             :src="refinedSrc"
-            :alt="alt"
             :width="width"
             :height="height"
+            alt="画像"
             class="min-h-0 grow-0 cursor-zoom-in border"
             loading="lazy"
             @click="isShowModal = true"

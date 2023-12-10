@@ -30,7 +30,7 @@ const rakutenAffiliateUrl = computed(() => {
 <template>
     <div class="my-4 flex flex-row items-center justify-center gap-4 border p-4">
         <a v-if="props.asin" :href="amazonUrl" target="_blank" rel="noopener noreferrer">
-            <img :src="amazonImageUrl" />
+            <img :src="amazonImageUrl" :alt="props.title" />
         </a>
         <div class="flex grow flex-col gap-2">
             <div class="text-lg font-bold">
@@ -39,7 +39,7 @@ const rakutenAffiliateUrl = computed(() => {
             <div class="flex flex-row gap-2">
                 <span v-if="props.asin">
                     <a
-                        class="btn bg-[#ff9900] text-primary-content hover:bg-[#ff9900]"
+                        class="btn bg-[#ff9900] text-white hover:bg-[#ff9900]"
                         :href="amazonUrl"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -49,7 +49,7 @@ const rakutenAffiliateUrl = computed(() => {
                 </span>
                 <span>
                     <a
-                        class="btn bg-[#bf0000] text-primary-content hover:bg-[#bf0000]"
+                        class="btn bg-[#bf0000] text-white hover:bg-[#bf0000]"
                         :href="rakutenAffiliateUrl"
                         target="_blank"
                         rel="noopener noreferrer"
