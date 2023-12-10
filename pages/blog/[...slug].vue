@@ -21,6 +21,16 @@ useSeoMeta({
     twitterCard: "summary_large_image",
 });
 
+useHead({
+    script: [
+        {
+            type: "text/javascript",
+            src: "https://platform.twitter.com/widgets.js",
+            defer: true,
+        },
+    ],
+});
+
 const navigations = computed(() => {
     return [
         {
