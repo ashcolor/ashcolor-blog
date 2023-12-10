@@ -25,6 +25,7 @@ const props = withDefaults(defineProps<Props>(), {
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen
+                loading="lazy"
             ></iframe>
         </div>
         <p v-if="props.title" class="text-sm font-thin">{{ props.title }}</p>
