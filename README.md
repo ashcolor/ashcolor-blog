@@ -12,6 +12,9 @@
 - [daisyUI](https://daisyui.com/)
 - [iconify](https://iconify.design/)
 
+> [!WARNING]  
+> Nuxt Contentのバージョンを`2.8.2`から上げるとコードブロックのハイライトが消える不具合がある
+
 ## 環境構築
 
 ### インストール

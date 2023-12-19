@@ -47,7 +47,7 @@ const rakutenAffiliateUrl = computed(() => {
                         Amazonで探す
                     </a>
                 </span>
-                <span>
+                <!-- <span>
                     <a
                         class="btn bg-[#bf0000] text-white hover:bg-[#bf0000]"
                         :href="rakutenAffiliateUrl"
@@ -56,7 +56,7 @@ const rakutenAffiliateUrl = computed(() => {
                     >
                         楽天市場で探す
                     </a>
-                </span>
+                </span> -->
             </div>
             <div>
                 <p class="text-xs">※アフィリエイトリンクを使用しています。</p>
