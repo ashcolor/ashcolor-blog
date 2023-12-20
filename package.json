@@ -6,7 +6,9 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "lint": "eslint --ext .ts,.js,.vue .",
+    "format": "prettier --write ./**/*.{ts,js,vue}",
+    "format:check": "prettier --check ./**/*.{ts,js,vue}",
+    "lint": "eslint --max-warnings=0 --ext .ts,.js,.vue .",
     "lint:fix": "eslint --ext .ts,.js,.vue . --fix"
   },
   "devDependencies": {
