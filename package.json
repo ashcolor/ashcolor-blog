@@ -9,7 +9,9 @@
     "format": "prettier --write ./**/*.{ts,js,vue}",
     "format:check": "prettier --check ./**/*.{ts,js,vue}",
     "lint": "eslint --max-warnings=0 --ext .ts,.js,.vue .",
-    "lint:fix": "eslint --ext .ts,.js,.vue . --fix"
+    "lint:fix": "eslint --ext .ts,.js,.vue . --fix",
+    "mdlint": "markdownlint-cli2 **/*.md #node_modules #.nuxt",
+    "mdlint:fix": "markdownlint-cli2 **/*.md '#node_modules #.nuxt --fix"
   },
   "devDependencies": {
     "@iconify/vue": "^4.1.1",
@@ -26,6 +28,7 @@
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-tailwindcss": "^3.12.1",
     "markdownlint": "^0.29.0",
+    "markdownlint-cli2": "^0.11.0",
     "nuxt": "^3.8.2",
     "nuxt-gtag": "^0.5.7",
     "nuxt-simple-robots": "^3.0.2",
