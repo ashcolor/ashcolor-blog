@@ -19,10 +19,11 @@ const amazonImageUrl = computed(() => {
     return `https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=${props.asin}&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=${AMAZON_ASSOCIATE_ID}&language=ja_JP`;
 });
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const rakutenAffiliateUrl = computed(() => {
-    const rakutenSearhUrl = `https://search.rakuten.co.jp/search/mall/${props.title}/`;
+    const rakutenSearchUrl = `https://search.rakuten.co.jp/search/mall/${props.title}/`;
     return `https://hb.afl.rakuten.co.jp/hgc/${RAKUTEN_ASSOCIATE_ID}/?pc=${encodeURI(
-        rakutenSearhUrl
+        rakutenSearchUrl
     )}`;
 });
 </script>
