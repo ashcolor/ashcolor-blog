@@ -27,6 +27,10 @@ useHead({
             type: "text/javascript",
             src: "https://platform.twitter.com/widgets.js",
             defer: true,
+            onload: () => {
+                if (!twttr) return;
+                twttr.widgets.load();
+            },
         },
     ],
 });
@@ -43,13 +47,6 @@ const navigations = computed(() => {
             icon: "bi:file-earmark-text",
         },
     ];
-});
-
-onMounted(() => {
-    // @https://developer.twitter.com/en/docs/twitter-for-websites/javascript-api/guides/scripting-loading-and-initialization
-    if (twttr) {
-        twttr.widgets.load();
-    }
 });
 </script>
 
