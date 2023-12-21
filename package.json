@@ -1,13 +1,26 @@
 {
   "private": true,
+    "lint-staged": {
+        "*.{ts,js,vue}": [
+            "prettier --write",
+            "eslint --fix",
+            "mdlint:fix --fix"
+        ]
+    },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "lint": "eslint --ext .ts,.js,.vue .",
-    "lint:fix": "eslint --ext .ts,.js,.vue . --fix"
+    "format": "prettier --write ./**/*.{ts,js,vue}",
+    "format:check": "prettier --check ./**/*.{ts,js,vue}",
+    "lint": "eslint --max-warnings=0 --ext .ts,.js,.vue .",
+    "lint:fix": "eslint --ext .ts,.js,.vue . --fix",
+    "mdlint": "markdownlint-cli2 **/*.md #node_modules #.nuxt",
+    "mdlint:fix": "markdownlint-cli2 **/*.md '#node_modules #.nuxt --fix",
+    "prepare": "husky install",
+    "lint-staged": "lint-staged"
   },
   "devDependencies": {
     "@iconify/vue": "^4.1.1",
@@ -23,7 +36,10 @@
     "eslint": "^8.43.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-tailwindcss": "^3.12.1",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.2.0",
     "markdownlint": "^0.29.0",
+    "markdownlint-cli2": "^0.11.0",
     "nuxt": "^3.8.2",
     "nuxt-gtag": "^0.5.7",
     "nuxt-simple-robots": "^3.0.2",
