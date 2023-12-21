@@ -51,6 +51,8 @@ export const BLOG_CATEGORY_MAP = new Map(
 
 export const AMAZON_ASSOCIATE_ID = "ashcolor-22";
 
+export const DLSITE_ASSOCIATE_ID = "ashcolor";
+
 export const RAKUTEN_ASSOCIATE_ID = "349366b6.92086da6.349366b7.0d318a37";
 
 export const ACCOUNTS = [
