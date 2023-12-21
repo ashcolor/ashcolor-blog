@@ -84,6 +84,9 @@ onMounted(() => {
                     <div class="mx-auto mb-8">
                         <img :src="article?.thumbnail" alt="サムネイル" />
                     </div>
+                    <div class="text-sm text-slate-500">
+                        ※当ブログの記事にはアフィリエイトリンクを使用している場合があります。
+                    </div>
                     <div class="col-span-4 mb-8 block lg:hidden">
                         <BlogPageToc></BlogPageToc>
                     </div>
@@ -100,7 +103,6 @@ onMounted(() => {
                         :current-path="article?._path"
                         :category="article?.category"
                     ></BlogRecommendArticles>
-                    <!-- <ProseH3>この記事を書いた人</ProseH3> -->
                 </div>
                 <div class="col-span-4 hidden px-4 lg:block">
                     <div class="sticky top-24 flex flex-col">
