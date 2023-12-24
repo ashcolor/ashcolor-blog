@@ -1,12 +1,12 @@
 {
   "private": true,
-    "lint-staged": {
-        "*.{ts,js,vue}": [
-            "prettier --write",
-            "eslint --fix",
-            "mdlint:fix --fix"
-        ]
-    },
+  "lint-staged": {
+    "*.{ts,js,vue}": [
+      "prettier --write",
+      "eslint --fix",
+      "mdlint:fix --fix"
+    ]
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -59,5 +59,6 @@
     "open-graph-scraper": "^6.2.2",
     "pinia": "^2.1.4",
     "remark-breaks": "^3.0.3"
-  }
+  },
+  "packageManager": "yarn@4.0.2"
 }
