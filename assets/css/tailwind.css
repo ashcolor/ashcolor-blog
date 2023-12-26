@@ -4,7 +4,11 @@
 
 @layer base {
     html {
-        font-family: "Noto Sans JP", "Roboto" "sans-serif", "Hiragino Sans", "Meiryo",
+        font-family:
+            "Noto Sans JP",
+            "Roboto" "sans-serif",
+            "Hiragino Sans",
+            "Meiryo",
             "Hiragino Kaku Gothic ProN";
     }
 }
@@ -18,7 +22,7 @@ body {
 }
 
 .marker {
-    background: linear-gradient(transparent 60%, #ff6 60%);
+    background: linear-gradient(transparent 60%, #ffff6688 60%);
 }
 
 .line-through {
