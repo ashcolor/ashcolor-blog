@@ -20,13 +20,13 @@
 ### インストール
 
 ```bash
-yarn install
+pnpm install
 ```
 
 ### ローカルサーバの起動
 
 ```bash
-yarn dev
+pnpm dev
 ```
 
 http://localhost:3000
@@ -34,8 +34,8 @@ http://localhost:3000
 ## 本番ビルドの確認
 
 ```bash
-yarn build
-yarn preview
+pnpm build
+pnpm preview
 ```
 
 ## デプロイ
