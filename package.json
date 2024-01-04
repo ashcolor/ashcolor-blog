@@ -2,9 +2,12 @@
   "private": true,
   "lint-staged": {
     "*.{ts,js,vue}": [
-      "prettier --write",
-      "eslint --fix",
-      "mdlint:fix --fix"
+      "pnpm format",
+      "pnpm lint:fix"
+    ],
+    "*.md": [
+      "pnpm format",
+      "pnpm mdlint:fix"
     ]
   },
   "scripts": {
@@ -18,7 +21,7 @@
     "lint": "eslint --max-warnings=0 --ext .ts,.js,.vue .",
     "lint:fix": "eslint --ext .ts,.js,.vue . --fix",
     "mdlint": "markdownlint-cli2 **/*.md #node_modules #.nuxt",
-    "mdlint:fix": "markdownlint-cli2 **/*.md '#node_modules #.nuxt --fix",
+    "mdlint:fix": "markdownlint-cli2 --fix **/*.md #node_modules #.nuxt",
     "prepare": "husky install",
     "lint-staged": "lint-staged"
   },

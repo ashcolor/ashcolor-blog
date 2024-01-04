@@ -18,15 +18,17 @@ jobs:
         with:
           node-version-file: ".node-version"
 
+      - uses: pnpm/action-setup@v2.2.2
+
       - name: Install dependencies
         run: |
-          yarn --frozen-lockfile
+          pnpm --frozen-lockfile
 
       - name: Run prettier
-        run: yarn format:check
+        run: pnpm format:check
 
       - name: Run eslint
-        run: yarn lint
+        run: pnpm lint
 
       - name: Run markdownlint
-        run: yarn mdlint
+        run: pnpm mdlint

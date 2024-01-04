@@ -51,7 +51,7 @@ export default defineNuxtConfig({
     },
 
     eslint: {
-        // yarn dev開始にlintを実行するか
+        // pnpm dev開始にlintを実行するか
         lintOnStart: false,
     },
 
