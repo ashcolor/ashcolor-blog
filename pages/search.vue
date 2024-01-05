@@ -1,4 +1,13 @@
 <script setup lang="ts">
+useHead({
+    link: [
+        {
+            rel: "canonical",
+            href: `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}/search`,
+        },
+    ],
+});
+
 useSeoMeta({
     title: `記事検索 | ${BLOG_TITLE}`,
     ogTitle: `記事検索 | ${BLOG_TITLE}`,
