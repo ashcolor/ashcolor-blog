@@ -429,12 +429,12 @@ _Just an italic paragraph._
 ::preview-and-code
 #preview
 
-:affiliate-block{title="IKEA(イケア) LAGKAPTEN テーブル ホワイト" asin="B09196WS7C"}
+:affiliate-block{title="商品名-商品名-商品名-商品名-商品名" imageUrl="https://placehold.jp/160x160.png" asin="ABC" dlSiteLink="https://example.com"}
 
 #code
 
 ```markdown
-:affiliate-block{title="IKEA(イケア) LAGKAPTEN テーブル ホワイト" asin="B09196WS7C"}
+:affiliate-block{title="商品名-商品名-商品名-商品名-商品名" imageUrl="https://placehold.jp/160x160.png" asin="ABC" dlSiteLink="https://example.com"}
 ```
 
 ::

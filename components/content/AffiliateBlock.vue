@@ -29,15 +29,23 @@ const dlSiteUrl = computed(() => {
 </script>
 
 <template>
-    <div class="my-4 flex flex-row items-center justify-center gap-4 border p-4">
-        <a v-if="imageUrl" :href="amazonUrl" target="_blank" rel="noopener noreferrer">
+    <div
+        class="my-4 flex flex-col place-items-stretch gap-4 border p-4 sm:flex-row sm:items-center sm:justify-center"
+    >
+        <a
+            v-if="imageUrl"
+            :href="amazonUrl"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="self-center"
+        >
             <img :src="imageUrl" :alt="props.title" class="max-w-[12rem]" />
         </a>
         <div class="flex grow flex-col gap-2">
             <div class="text-lg font-bold">
                 {{ props.title }}
             </div>
-            <div class="flex flex-row gap-2">
+            <div class="flex flex-col gap-2 sm:flex-row">
                 <a
                     v-if="props.asin"
                     class="btn grow bg-[#ff9900] text-white hover:bg-[#ff9900]"
