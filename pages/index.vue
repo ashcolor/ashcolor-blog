@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
 import { BLOG_TITLE, BLOG_SUBTITLE } from "@/utils/const";
 
 useSeoMeta({
@@ -110,7 +109,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
             </div>
             <div class="shrink-0 basis-1/2">
                 <div>
-                    <ProseH3>ワード検索</ProseH3>
+                    <!-- <ProseH3>ワード検索</ProseH3>
                     <div class="join w-full">
                         <div class="btn join-item pointer-events-none cursor-default">
                             <Icon icon="bi:search"></Icon>
@@ -120,7 +119,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                             placeholder="例：キーボード イヤホン"
                         />
                         <button class="btn join-item">Search</button>
-                    </div>
+                    </div> -->
                     <ProseH3>タグから探す</ProseH3>
                     <div class="flex flex-row flex-wrap gap-3 border p-4 text-slate-500">
                         <div v-if="pending">
