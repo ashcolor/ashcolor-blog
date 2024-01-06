@@ -439,6 +439,10 @@ _Just an italic paragraph._
 
 ::
 
+#### アフィリエイトブロック生成ツール
+
+:story-affiliate-block-create-tool
+
 ### リンクカード
 
 ::preview-and-code
