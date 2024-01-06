@@ -25,7 +25,7 @@ const filteredLinks = computed(() => {
                     <ul v-if="filteredLinks" class="my-2 flex flex-col gap-2 text-base">
                         <li v-for="link in filteredLinks" :key="link.text">
                             <a :href="`#${link.id}`"> ・&nbsp;{{ link.text }} </a>
-                            <ul v-if="link.children" class="my-2 flex flex-col gap-1 pl-5 text-sm">
+                            <ul v-if="link.children" class="my-2 flex flex-col gap-3 pl-5 text-sm">
                                 <li v-for="childrenLink in link.children" :key="childrenLink.id">
                                     <a :href="`#${childrenLink.id}`">
                                         └&nbsp;{{ childrenLink.text }}
