@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /data/
+Disallow: /api/
+Disallow: /_nuxt/
+Sitemap: https://blog.ashcolor.jp/sitemap.xml
