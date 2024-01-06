@@ -18,7 +18,24 @@ const imageUrl = computed(() => {
 });
 
 const code = computed(() => {
-    return `:affiliate-block{title="${title.value}" imageUrl="${imageUrl.value}" asin="${asin.value}" dlSiteLink="${dlSiteLink.value}"}`;
+    const affiliateBlockProps = {
+        title: title.value,
+        imageUrl: imageUrl.value,
+    };
+
+    if (asin.value) {
+        affiliateBlockProps.asin = asin.value;
+    }
+
+    if (dlSiteLink.value) {
+        affiliateBlockProps.dlSiteLink = dlSiteLink.value;
+    }
+
+    const propsString = Object.entries(affiliateBlockProps)
+        .map(([key, value]) => `${key}="${value}"`)
+        .join(" ");
+
+    return `:affiliate-block{${propsString}}`;
 });
 </script>
 
