@@ -57,9 +57,9 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
             <p>{{ BLOG_SUBTITLE }}</p>
         </div>
         <div
-            class="hero mx-[calc(50%_-_50vw)] my-16 h-[50vh] w-screen bg-[url('https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour/overall.jpg')]"
+            class="hero mx-[calc(50%_-_50vw)] my-8 h-[50vh] w-screen bg-[url('https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour/overall.jpg')]"
         >
-            <div class="hero-overlay opacity-60"></div>
+            <div class="hero-overlay"></div>
             <div class="hero-content text-center text-neutral-content">
                 <div class="max-w-md">
                     <!-- <h1 class="mb-5 text-2xl font-bold">クリエイター向けブログ</h1>
