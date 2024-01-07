@@ -54,10 +54,10 @@ const navigations = computed(() => {
         <BreadCrumb :navigations="navigations"></BreadCrumb>
         <ProseH1 class="my-4 text-center font-logo text-4xl">{{ categoryName }}</ProseH1>
         <div
-            class="hero mx-[calc(50%_-_50vw)] my-16 h-96 w-screen"
+            class="hero mx-[calc(50%_-_50vw)] my-8 h-96 w-screen"
             :style="`background-image: url(${categoryThumbnail})`"
         >
-            <div class="hero-overlay opacity-60"></div>
+            <div class="hero-overlay"></div>
             <div class="hero-content text-center text-neutral-content"></div>
         </div>
         <ProseH2>オススメ記事</ProseH2>
