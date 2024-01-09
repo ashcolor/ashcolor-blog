@@ -7,8 +7,11 @@ const props = withDefaults(defineProps<Props>(), {
     url: "",
 });
 
-const { data: article, pending } = await useLazyAsyncData(props.url, () =>
-    queryContent(props.url).without(["body"]).findOne()
+const { data: article, pending } = await useLazyAsyncData(
+    () => queryContent(props.url).without(["body"]).findOne(),
+    {
+        server: false,
+    }
 );
 </script>
 
