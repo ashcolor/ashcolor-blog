@@ -1,6 +1,9 @@
 <script setup lang="ts">
-const { data, pending } = useLazyAsyncData(() =>
-    queryContent("/data/synthesizer-v-singer").findOne()
+const { data, pending } = useLazyAsyncData(
+    () => queryContent("/data/synthesizer-v-singer").findOne(),
+    {
+        server: false,
+    }
 );
 
 const singers = computed(() => {

@@ -7,38 +7,41 @@ const props = withDefaults(defineProps<Props>(), {
     url: "",
 });
 
-const params = { url: props.url };
-const query = new URLSearchParams(params);
-
-const { state } = useAsyncState(async () => {
-    const response = await fetch(`${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}/api/ogp?${query}`);
-    if (response.ok) {
-        return await response?.json();
+const { data, pending } = await useLazyAsyncData(
+    props.url,
+    () => {
+        const query = { url: props.url };
+        return $fetch(`${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}/api/ogp`, {
+            query,
+        });
+    },
+    {
+        server: false,
     }
-}, null);
+);
 </script>
 
 <template>
-    <div v-if="!state">
-        <NuxtLink :href="props.url" target="_blank"></NuxtLink>
+    <div v-if="pending || !data">
+        <NuxtLink :href="props.url" target="_blank" class="link">{{ props.url }}</NuxtLink>
     </div>
     <NuxtLink
         v-else
-        :href="state?.ogUrl ?? state?.requestUrl"
+        :href="data?.ogUrl ?? data?.requestUrl"
         target="_blank"
         class="card card-side card-compact my-2 max-h-[8rem] border bg-base-100"
     >
         <div class="card-body justify-between overflow-hidden">
             <div class="flex flex-col gap-2">
-                <p>{{ state?.ogTitle }}</p>
-                <p class="line-clamp-2 text-xs text-slate-500">{{ state?.ogDescription }}</p>
+                <p>{{ data?.ogTitle }}</p>
+                <p class="line-clamp-2 text-xs text-slate-500">{{ data?.ogDescription }}</p>
             </div>
-            <p class="grow-0 text-xs">{{ state?.ogUrl ?? state?.requestUrl }}</p>
+            <p class="grow-0 text-xs">{{ data?.ogUrl ?? data?.requestUrl }}</p>
         </div>
-        <figure v-if="state?.ogImage?.[0]" class="relative !hidden shrink-0 sm:!flex sm:w-[20%]">
+        <figure v-if="data?.ogImage?.[0]" class="relative !hidden shrink-0 sm:!flex sm:w-[20%]">
             <img
-                :src="state?.ogImage?.[0]?.url"
-                :alt="state?.ogTitle"
+                :src="data?.ogImage?.[0]?.url"
+                :alt="data?.ogTitle"
                 class="absolute"
                 loading="lazy"
             />

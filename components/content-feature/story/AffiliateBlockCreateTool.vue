@@ -1,17 +1,26 @@
-<script setup>
+<script setup lang="ts">
 import { Icon } from "@iconify/vue";
 
 const title = ref("");
 const asin = ref("");
 const dlSiteLink = ref("");
 
-const { data, execute } = await useLazyAsyncData(asin.value, () => {
-    const params = { asin: asin.value };
-    const query = new URLSearchParams(params);
-    return $fetch(
-        `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}/api/amazon-product-advertising?${query}`
-    );
-});
+const { data, execute } = await useLazyAsyncData(
+    asin.value,
+    () => {
+        const query = { asin: asin.value };
+        return $fetch(
+            `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}/api/amazon-product-advertising?${query}`,
+            {
+                query,
+            }
+        );
+    },
+    {
+        immediate: false,
+        server: false,
+    }
+);
 
 const imageUrl = computed(() => {
     return data.value?.image?.Medium?.URL;

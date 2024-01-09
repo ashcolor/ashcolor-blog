@@ -2,9 +2,12 @@
 import { Icon } from "@iconify/vue";
 
 const route = useRoute();
-const { data: article, pending } = useLazyAsyncData(() => {
-    return queryContent(route.path).only(["body"]).findOne();
-});
+const { data: article, pending } = useLazyAsyncData(
+    () => queryContent(route.path).only(["body"]).findOne(),
+    {
+        server: false,
+    }
+);
 
 const links = computed(() => article.value?.body.toc?.links);
 
