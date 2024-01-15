@@ -100,6 +100,9 @@ devDependencies:
   nuxt-og-image:
     specifier: 3.0.0-rc.26
     version: 3.0.0-rc.26(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.3)(nuxt@3.9.0)(postcss@8.4.32)(rollup@3.29.4)(vite@5.0.10)(vue@3.4.3)(webpack@5.89.0)
+  nuxt-schema-org:
+    specifier: ^3.3.2
+    version: 3.3.2(@nuxt/devtools@1.0.8)(@unhead/shared@1.8.9)(@vue/compiler-core@3.4.3)(nuxt@3.9.0)(postcss@8.4.32)(rollup@3.29.4)(unhead@1.8.9)(vite@5.0.10)(vue@3.4.3)(webpack@5.89.0)
   nuxt-simple-robots:
     specifier: ^3.0.2
     version: 3.1.10(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.3)(nuxt@3.9.0)(postcss@8.4.32)(rollup@3.29.4)(vite@5.0.10)(vue@3.4.3)(webpack@5.89.0)
@@ -1415,18 +1418,18 @@ packages:
       '@iconify-json/tabler': 1.1.102
       '@nuxt/devtools': 1.0.8(nuxt@3.9.0)(rollup@3.29.4)(vite@5.0.10)
       '@nuxt/devtools-kit': 1.0.6(nuxt@3.9.0)(rollup@3.29.4)(vite@5.0.10)
-      '@nuxt/kit': 3.9.0(rollup@3.29.4)
+      '@nuxt/kit': 3.9.1(rollup@3.29.4)
       '@nuxtjs/color-mode': 3.3.2(rollup@3.29.4)
-      '@unocss/core': 0.58.2
+      '@unocss/core': 0.58.3
       '@unocss/nuxt': 0.58.2(postcss@8.4.32)(rollup@3.29.4)(vite@5.0.10)(webpack@5.89.0)
       '@unocss/preset-attributify': 0.58.2
       '@unocss/preset-icons': 0.58.2
-      '@unocss/preset-mini': 0.58.2
+      '@unocss/preset-mini': 0.58.3
       '@unocss/reset': 0.58.2
-      '@vueuse/core': 10.7.1(vue@3.4.3)
+      '@vueuse/core': 10.7.2(vue@3.4.3)
       '@vueuse/integrations': 10.7.1(focus-trap@7.5.4)(vue@3.4.3)
       '@vueuse/nuxt': 10.7.1(nuxt@3.9.0)(rollup@3.29.4)(vue@3.4.3)
-      defu: 6.1.3
+      defu: 6.1.4
       focus-trap: 7.5.4
       splitpanes: 3.1.5
       unocss: 0.58.2(@unocss/webpack@0.58.2)(postcss@8.4.32)(rollup@3.29.4)(vite@5.0.10)
@@ -2802,6 +2805,17 @@ packages:
       '@unhead/schema': 1.8.9
       '@unhead/shared': 1.8.9
 
+  /@unhead/schema-org@1.8.9(@unhead/shared@1.8.9)(unhead@1.8.9):
+    resolution: {integrity: sha512-/pas/Uha0E7zbjZ0BxuMCBTOwplq/I1t43wbj2HNs84pjfegLdZQgZD+zlFuMYYFMREUI0D6cnBTZ17HjPSAhA==}
+    peerDependencies:
+      '@unhead/shared': 1.8.9
+      unhead: '>=1.8.8'
+    dependencies:
+      '@unhead/shared': 1.8.9
+      ufo: 1.3.2
+      unhead: 1.8.9
+    dev: true
+
   /@unhead/schema@1.8.9:
     resolution: {integrity: sha512-Cumjt2uLfBMEXflvq7Nk8KNqa/JS4MlRGWkjXx/uUXJ1vUeQqeMV8o3hrnRvDDoTXr9LwPapTMUbtClN3TSBgw==}
     dependencies:
@@ -2862,7 +2876,7 @@ packages:
       consola: 3.2.3
       fast-glob: 3.3.2
       magic-string: 0.30.5
-      pathe: 1.1.1
+      pathe: 1.1.2
       perfect-debounce: 1.0.0
     transitivePeerDependencies:
       - rollup
@@ -3034,7 +3048,7 @@ packages:
     resolution: {integrity: sha512-cbrMvSuLf2ZMqJqmiCzIrrH59wEhnH4Ui/dnq/goWAqFe042nET8TcHz++2npc2T8EZlCMoC3zstCJzVbxGCVQ==}
     engines: {node: '>=14'}
     dependencies:
-      '@unocss/core': 0.58.2
+      '@unocss/core': 0.58.3
       magic-string: 0.30.5
     dev: true
 
@@ -3851,7 +3865,7 @@ packages:
     dependencies:
       '@babel/parser': 7.23.6
       '@rollup/pluginutils': 5.1.0(rollup@3.29.4)
-      pathe: 1.1.1
+      pathe: 1.1.2
     transitivePeerDependencies:
       - rollup
 
@@ -3861,7 +3875,7 @@ packages:
     dependencies:
       '@babel/parser': 7.23.6
       '@rollup/pluginutils': 5.1.0(rollup@3.29.4)
-      pathe: 1.1.1
+      pathe: 1.1.2
     transitivePeerDependencies:
       - rollup
 
@@ -8055,7 +8069,7 @@ packages:
       jiti: 1.21.0
       mlly: 1.4.2
       mri: 1.2.0
-      pathe: 1.1.1
+      pathe: 1.1.2
       postcss: 8.4.32
       postcss-nested: 6.0.1(postcss@8.4.32)
       sass: 1.69.6
@@ -8487,6 +8501,46 @@ packages:
       - rollup
       - sortablejs
       - supports-color
+      - universal-cookie
+      - vite
+      - vue
+      - webpack
+    dev: true
+
+  /nuxt-schema-org@3.3.2(@nuxt/devtools@1.0.8)(@unhead/shared@1.8.9)(@vue/compiler-core@3.4.3)(nuxt@3.9.0)(postcss@8.4.32)(rollup@3.29.4)(unhead@1.8.9)(vite@5.0.10)(vue@3.4.3)(webpack@5.89.0):
+    resolution: {integrity: sha512-OAxv9qSowUkDA+RUX0LDa/KST38Y0719T8d5XjcVAyUVXyVWAOHXCjzUWaLiepgqrSlvVbYyccR+puIuPe40cQ==}
+    dependencies:
+      '@nuxt/devtools-kit': 1.0.8(nuxt@3.9.0)(rollup@3.29.4)(vite@5.0.10)
+      '@nuxt/devtools-ui-kit': 1.0.6(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.3)(nuxt@3.9.0)(postcss@8.4.32)(rollup@3.29.4)(vite@5.0.10)(vue@3.4.3)(webpack@5.89.0)
+      '@nuxt/kit': 3.9.1(rollup@3.29.4)
+      '@unhead/schema-org': 1.8.9(@unhead/shared@1.8.9)(unhead@1.8.9)
+      floating-vue: 2.0.0-beta.24(@nuxt/kit@3.9.1)(vue@3.4.3)
+      nuxt-site-config: 2.2.5(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.3)(nuxt@3.9.0)(postcss@8.4.32)(rollup@3.29.4)(vite@5.0.10)(vue@3.4.3)(webpack@5.89.0)
+      nuxt-site-config-kit: 2.2.5(rollup@3.29.4)(vue@3.4.3)
+      pathe: 1.1.2
+      shiki-es: 0.14.0
+      sirv: 2.0.4
+    transitivePeerDependencies:
+      - '@nuxt/devtools'
+      - '@unhead/shared'
+      - '@unocss/webpack'
+      - '@vue/compiler-core'
+      - '@vue/composition-api'
+      - async-validator
+      - axios
+      - change-case
+      - drauu
+      - fuse.js
+      - idb-keyval
+      - jwt-decode
+      - nprogress
+      - nuxt
+      - postcss
+      - qrcode
+      - rollup
+      - sortablejs
+      - supports-color
+      - unhead
       - universal-cookie
       - vite
       - vue
@@ -10315,6 +10369,7 @@ packages:
 
   /shiki-es@0.14.0:
     resolution: {integrity: sha512-e+/aueHx0YeIEut6RXC6K8gSf0PykwZiHD7q7AHtpTW8Kd8TpFUIWqTwhAnrGjOyOMyrwv+syr5WPagMpDpVYQ==}
+    deprecated: Please migrate to https://github.com/antfu/shikiji
 
   /side-channel@1.0.4:
     resolution: {integrity: sha512-q5XPytqFEIKHkGdiMIrY10mvLRvnQh42/+GoBlFW3b2LXLE2xxJpZFdm94we0BaoV3RwJyGqg5wS7epxTv0Zvw==}
