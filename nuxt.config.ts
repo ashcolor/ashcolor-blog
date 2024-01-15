@@ -71,8 +71,4 @@ export default defineNuxtConfig({
         url: "https://blog.ashcolor.jp",
         name: "あしゅログ",
     },
-
-    devtools: {
-        enabled: false,
-    },
 });
