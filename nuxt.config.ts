@@ -22,6 +22,7 @@ export default defineNuxtConfig({
         "@nuxtjs/eslint-module",
         "@nuxtjs/google-fonts",
         "@nuxt/content",
+        "nuxt-schema-org",
         "nuxt-simple-robots",
         "nuxt-gtag",
         "@pinia/nuxt",
@@ -66,7 +67,8 @@ export default defineNuxtConfig({
         id: "G-Z20F8MTC2Q",
     },
 
-    devtools: {
-        enabled: false,
+    site: {
+        url: "https://blog.ashcolor.jp",
+        name: "あしゅログ",
     },
 });
