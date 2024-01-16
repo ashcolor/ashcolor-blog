@@ -12,7 +12,6 @@ useSeoMeta({
 </script>
 
 <template>
-    <!-- https://github.com/nuxt/nuxt/issues/25214 -->
     <NuxtLayout>
         <div v-if="article">
             <ProseH1 class="text-center">{{ BLOG_TITLE }}</ProseH1>

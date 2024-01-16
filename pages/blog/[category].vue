@@ -50,7 +50,6 @@ const navigations = computed(() => {
 </script>
 
 <template>
-    <!-- https://github.com/nuxt/nuxt/issues/25214 -->
     <NuxtLayout>
         <BreadCrumb :navigations="navigations"></BreadCrumb>
         <ProseH1 class="my-4 text-center font-logo text-4xl">{{ categoryName }}</ProseH1>
