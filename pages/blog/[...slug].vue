@@ -51,6 +51,7 @@ const navigations = computed(() => {
 </script>
 
 <template>
+    <!-- https://github.com/nuxt/nuxt/issues/25214 -->
     <NuxtLayout>
         <div v-if="article">
             <div class="mb-8">

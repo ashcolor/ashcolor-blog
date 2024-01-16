@@ -25,6 +25,7 @@ const navigations = computed(() => {
 </script>
 
 <template>
+    <!-- https://github.com/nuxt/nuxt/issues/25214 -->
     <NuxtLayout>
         <BreadCrumb :navigations="navigations"></BreadCrumb>
         <ProseH1 class="text-center">記事検索</ProseH1>

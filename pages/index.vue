@@ -51,6 +51,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
 </script>
 
 <template>
+    <!-- https://github.com/nuxt/nuxt/issues/25214 -->
     <NuxtLayout>
         <ProseH1 class="my-4 text-center font-logo text-4xl">{{ BLOG_TITLE }}</ProseH1>
         <div class="text-center font-logo text-slate-500">
