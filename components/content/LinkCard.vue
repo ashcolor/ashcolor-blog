@@ -23,7 +23,7 @@ const { data, pending } = await useLazyAsyncData(
 
 <template>
     <div v-if="pending || !data">
-        <NuxtLink :href="props.url" target="_blank" class="link">{{ props.url }}</NuxtLink>
+        <NuxtLink :to="props.url" target="_blank" class="link">{{ props.url }}</NuxtLink>
     </div>
     <NuxtLink
         v-else
