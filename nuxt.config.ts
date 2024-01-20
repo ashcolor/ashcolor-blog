@@ -23,7 +23,6 @@ export default defineNuxtConfig({
         "@nuxtjs/google-fonts",
         "@nuxt/content",
         "nuxt-schema-org",
-        "nuxt-simple-robots",
         "nuxt-gtag",
         "@pinia/nuxt",
         "@vueuse/nuxt",
@@ -70,5 +69,9 @@ export default defineNuxtConfig({
     site: {
         url: "https://blog.ashcolor.jp",
         name: "あしゅログ",
+    },
+
+    robots: {
+        enabled: true,
     },
 });
