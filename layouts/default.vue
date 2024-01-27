@@ -1,3 +1,9 @@
+<script setup lang="ts">
+useSeoMeta({
+    author: "あっしゅからー",
+});
+</script>
+
 <template>
     <div>
         <NuxtLoadingIndicator />
