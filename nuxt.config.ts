@@ -72,7 +72,7 @@ export default defineNuxtConfig({
         name: "あしゅログ",
     },
 
-    robots: {
-        enabled: true,
+    schemaOrg: {
+        identity: "Person",
     },
 });
