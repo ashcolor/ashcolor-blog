@@ -19,6 +19,11 @@ const props = defineProps({
         type: [String, Number],
         default: undefined,
     },
+    class: {
+        type: String,
+        default: "",
+        require: false,
+    },
 });
 
 const refinedSrc = computed(() => {
@@ -39,6 +44,7 @@ const isShowModal = ref(false);
             :height="height"
             alt="画像"
             class="min-h-0 grow-0 cursor-zoom-in border"
+            :class="props.class"
             loading="lazy"
             @click="isShowModal = true"
         />

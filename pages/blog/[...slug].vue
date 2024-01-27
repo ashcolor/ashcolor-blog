@@ -87,18 +87,25 @@ const navigations = computed(() => {
                         <BlogPageToc></BlogPageToc>
                     </div>
                     <ContentRenderer :value="article" />
+
                     <div class="divider"></div>
+
                     <SnsShareContainer :title="title" :url="url"></SnsShareContainer>
+
                     <ProseH3>関連記事</ProseH3>
                     <BlogRelationArticles
                         :current-path="article?._path"
                         :tags="article?.tags"
                     ></BlogRelationArticles>
+
                     <ProseH3>オススメ記事</ProseH3>
                     <BlogRecommendArticles
                         :current-path="article?._path"
                         :category="article?.category"
                     ></BlogRecommendArticles>
+
+                    <ProseH3>このブログを運営している人</ProseH3>
+                    <BlogProfile></BlogProfile>
                 </div>
                 <div class="col-span-4 hidden px-4 lg:block">
                     <div class="sticky top-24 flex flex-col">
