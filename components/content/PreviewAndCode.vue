@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
-
 const tabState = ref("preview");
 </script>
 
@@ -38,7 +36,7 @@ const tabState = ref("preview");
                     <slot name="code" class="border-none"></slot>
                 </span>
 
-                <Icon icon="clip-board"></Icon>
+                <Icon name="clip-board"></Icon>
             </div>
         </div>
     </div>

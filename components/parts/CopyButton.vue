@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
-
 interface Props {
     text: string;
 }
@@ -16,11 +14,7 @@ const { copy, copied } = useClipboard({
 
 <template>
     <button class="btn btn-sm font-normal" @click="copy(props.text)">
-        <Icon
-            :icon="copied ? 'bi:clipboard-check-fill' : 'bi:clipboard'"
-            width="16"
-            height="16"
-        ></Icon>
+        <Icon :name="copied ? 'bi:clipboard-check-fill' : 'bi:clipboard'"></Icon>
         URLをコピー
     </button>
 </template>

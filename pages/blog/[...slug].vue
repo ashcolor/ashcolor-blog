@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
 import { BLOG_TITLE, BLOG_CATEGORIES } from "@/utils/const";
 
 const route = useRoute();
@@ -57,10 +56,10 @@ const navigations = computed(() => {
                 <BreadCrumb :navigations="navigations"></BreadCrumb>
                 <ProseH1>{{ article?.title }}</ProseH1>
                 <div class="flex flex-row items-center gap-2 overflow-auto text-sm text-slate-500">
-                    <IconWithText v-if="article?.createdAt" icon="ph:clock">
+                    <IconWithText v-if="article?.createdAt" name="ph:clock">
                         {{ article?.createdAt }}
                     </IconWithText>
-                    <IconWithText v-if="article?.updatedAt" icon="ph:clock-clockwise">
+                    <IconWithText v-if="article?.updatedAt" name="ph:clock-clockwise">
                         {{ article?.updatedAt }}
                     </IconWithText>
                     <div class="flex flex-row gap-1 py-2">
@@ -70,7 +69,7 @@ const navigations = computed(() => {
                             :to="`/search?word=${encodeURI(tag)}`"
                             class="badge badge-sm gap-1"
                         >
-                            <Icon icon="bi:tag"></Icon>
+                            <Icon name="bi:tag"></Icon>
                             {{ tag }}
                         </NuxtLink>
                     </div>

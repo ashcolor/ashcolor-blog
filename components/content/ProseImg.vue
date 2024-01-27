@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
 import { withBase } from "ufo";
 import { useRuntimeConfig, computed } from "#imports";
 
@@ -53,7 +52,7 @@ const isShowModal = ref(false);
         @click="isShowModal = false"
     >
         <button class="btn btn-square btn-ghost absolute right-2 top-2 text-primary-content">
-            <Icon icon="mdi:close" width="36" />
+            <Icon name="mdi:close" size="48px" />
         </button>
         <div class="modal-box max-h-none w-auto max-w-none p-0">
             <img :src="refinedSrc" :alt="alt" loading="lazy" />

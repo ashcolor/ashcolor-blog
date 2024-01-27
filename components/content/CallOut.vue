@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
-
 interface Props {
     type?: "info" | "success" | "warning" | "error";
 }
@@ -33,7 +31,7 @@ const icon = computed(() => {
 
 <template>
     <div class="alert my-4 bg-base-100" :class="[typeClass]">
-        <Icon :icon="icon"></Icon>
+        <Icon :name="icon"></Icon>
         <span><slot /></span>
     </div>
 </template>

@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
 import { BLOG_TITLE, BLOG_CATEGORIES } from "@/utils/const";
 
 const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowList);
@@ -11,7 +10,7 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
             <div class="navbar-start flex w-full flex-row lg:w-1/2">
                 <div class="dropdown">
                     <label tabindex="0" class="btn btn-ghost px-2 sm:px-4 lg:hidden">
-                        <Icon icon="bi:list" width="24"></Icon>
+                        <Icon name="bi:list" size="24px"></Icon>
                     </label>
                     <ul
                         tabindex="0"
@@ -47,7 +46,7 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
             </div>
             <div class="navbar-end hidden lg:flex">
                 <NuxtLink to="/search" class="btn btn-ghost">
-                    <Icon icon="bi:search" width="16"></Icon>
+                    <Icon name="bi:search" size="16px"></Icon>
                 </NuxtLink>
             </div>
         </div>

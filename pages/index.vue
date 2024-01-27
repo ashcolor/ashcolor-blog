@@ -112,7 +112,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                     <!-- <ProseH3>ワード検索</ProseH3>
                     <div class="join w-full">
                         <div class="btn join-item pointer-events-none cursor-default">
-                            <Icon icon="bi:search"></Icon>
+                            <Icon name="bi:search"></Icon>
                         </div>
                         <input
                             class="input join-item input-bordered grow"

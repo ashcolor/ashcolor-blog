@@ -1,18 +1,16 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
-
 interface Props {
-    icon: string;
+    name: string;
 }
 
 const props = withDefaults(defineProps<Props>(), {
-    icon: "",
+    name: "",
 });
 </script>
 
 <template>
     <div class="flex flex-row items-center gap-1">
-        <Icon :icon="props.icon"></Icon>
+        <Icon :name="props.name"></Icon>
         <span>
             <slot />
         </span>

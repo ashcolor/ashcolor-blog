@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
-
 if (import.meta.env.PROD) {
     navigateTo({
         path: "/",
@@ -18,7 +16,7 @@ const links = article.value?.body.toc?.links;
     <div class="navbar border-b bg-base-100">
         <div class="flex-none">
             <label class="btn btn-square btn-ghost lg:hidden" for="my-drawer-2">
-                <Icon icon="bi:list" width="24"></Icon>
+                <Icon name="bi:list" size="24px"></Icon>
             </label>
         </div>
         <div class="flex-1">

@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
 import { BLOG_CATEGORIES } from "@/utils/const";
 
 const showCategories = BLOG_CATEGORIES.filter((category) => category.isShowList);
@@ -34,7 +33,7 @@ const showCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                     target="_blank"
                     class="btn btn-ghost btn-sm"
                 >
-                    <Icon :icon="account.icon" width="24"></Icon>
+                    <Icon :name="account.icon" size="24px"></Icon>
                 </NuxtLink>
             </div>
         </div>
