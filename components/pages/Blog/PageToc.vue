@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
-
 const route = useRoute();
 const { data: article, pending } = useLazyAsyncData(
     () => queryContent(route.path).only(["body"]).findOne(),
@@ -19,7 +17,7 @@ const filteredLinks = computed(() => {
 <template>
     <div class="card max-h-[80vh] overflow-y-auto border">
         <div class="card-body">
-            <h2 class="card-title"><Icon icon="bi:list-ul" />目次</h2>
+            <h2 class="card-title"><Icon name="bi:list-ul" />目次</h2>
             <div>
                 <div v-if="pending">
                     <div class="loading loading-spinner mx-auto my-8 block text-primary"></div>

@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
-
 const title = ref("");
 const asin = ref("");
 const dlSiteLink = ref("");
@@ -90,7 +88,7 @@ const code = computed(() => {
                 <button class="btn btn-primary btn-wide" @click="execute()">生成</button>
             </div>
         </div>
-        <div class="place-self-center"><Icon icon="fa:angle-double-down" width="24"></Icon></div>
+        <div class="place-self-center"><Icon name="fa:angle-double-down" size="16px"></Icon></div>
         <div>
             <PreviewAndCode>
                 <template #preview>

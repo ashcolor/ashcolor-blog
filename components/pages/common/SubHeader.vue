@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
 import { ACCOUNTS, BLOG_SUBTITLE } from "@/utils/const";
 </script>
 
@@ -17,7 +16,7 @@ import { ACCOUNTS, BLOG_SUBTITLE } from "@/utils/const";
                     target="_blank"
                     class="btn btn-ghost btn-xs"
                 >
-                    <Icon :icon="account.icon" width="16"></Icon>
+                    <Icon :name="account.icon" size="16px"></Icon>
                 </NuxtLink>
             </div>
         </div>

@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { Icon } from "@iconify/vue";
 import { createReusableTemplate } from "@vueuse/core";
 
 const [DefinePaginationTemplate, PaginationTemplate] = createReusableTemplate();
@@ -119,7 +118,7 @@ const onClickSearchButton = () => {
             </div>
             <div class="join">
                 <div class="btn join-item btn-sm pointer-events-none cursor-default">
-                    <Icon icon="bi:search"></Icon>
+                    <Icon name="bi:search" size="24px"></Icon>
                 </div>
                 <input
                     v-model="searchWord"

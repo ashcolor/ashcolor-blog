@@ -29,10 +29,10 @@ const props = withDefaults(defineProps<Props>(), {
         <div class="card-body !gap-0.5">
             <h3 class="card-title text-base">{{ props.title }}</h3>
             <div class="flex flex-row gap-2 text-sm text-slate-500">
-                <IconWithText v-if="props.createdAt" icon="ph:clock">
+                <IconWithText v-if="props.createdAt" name="ph:clock">
                     {{ props.createdAt }}
                 </IconWithText>
-                <IconWithText v-if="props.updatedAt" icon="ph:clock-clockwise">
+                <IconWithText v-if="props.updatedAt" name="ph:clock-clockwise">
                     {{ props.updatedAt }}
                 </IconWithText>
             </div>

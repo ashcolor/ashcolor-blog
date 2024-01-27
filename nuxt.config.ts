@@ -24,6 +24,7 @@ export default defineNuxtConfig({
         "@nuxt/content",
         "nuxt-schema-org",
         "nuxt-gtag",
+        "nuxt-icon",
         "@pinia/nuxt",
         "@vueuse/nuxt",
     ],
@@ -71,7 +72,7 @@ export default defineNuxtConfig({
         name: "あしゅログ",
     },
 
-    robots: {
-        enabled: true,
+    schemaOrg: {
+        identity: "Person",
     },
 });
