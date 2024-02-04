@@ -18,7 +18,9 @@ description: "運営者情報"
 
 システムエンジニア歴は約5年、DTM歴は約14年です。
 
-<!-- ### 外部リンク -->
+### SNSアカウント
+
+<CommonAccountButtonList></CommonAccountButtonList>
 
 ## 当ブログのコンセプト
 
