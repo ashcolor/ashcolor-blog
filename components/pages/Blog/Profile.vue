@@ -28,9 +28,6 @@
                     <Icon :name="account.icon" size="24px"></Icon>
                 </NuxtLink>
             </div>
-            <div>
-                <ProducerAccountButtonList></ProducerAccountButtonList>
-            </div>
         </div>
     </div>
 </template>
