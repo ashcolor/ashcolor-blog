@@ -1,5 +1,10 @@
 {
   "private": true,
+  "husky": {
+     "hooks": {
+       "pre-commit": "lint-staged --no-stash"
+     }
+   },
   "lint-staged": {
     "*.{ts,js,vue}": [
       "pnpm format",
