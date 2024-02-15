@@ -60,7 +60,7 @@ const isShowModal = ref(false);
         <button class="btn btn-square btn-ghost absolute right-2 top-2 text-primary-content">
             <Icon name="mdi:close" size="48px" />
         </button>
-        <div class="modal-box max-h-none w-auto max-w-none p-0">
+        <div class="modal-box max-h-screen w-auto max-w-none p-0">
             <img :src="refinedSrc" :alt="alt" loading="lazy" />
         </div>
     </dialog>
