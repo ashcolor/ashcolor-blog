@@ -4,6 +4,7 @@ updatedAt: ""
 title: "Synthesizer V が ARA に対応！Cubase で ARA を使用する方法と注意点"
 description: "Synthesizer V の ARA プラグイン を Cubase で使用する方法と注意点を解説します。"
 category: "DTM"
+subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
