@@ -22,6 +22,7 @@ export default defineNuxtConfig({
         "@nuxtjs/eslint-module",
         "@nuxtjs/google-fonts",
         "@nuxt/content",
+        "@nuxtjs/web-vitals",
         "nuxt-schema-org",
         "nuxt-gtag",
         "nuxt-icon",
