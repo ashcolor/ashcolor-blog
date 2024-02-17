@@ -4,6 +4,7 @@ updatedAt: "2024/01/07"
 title: "Synthesizer V をお得に購入する方法"
 description: "Synthesizer V（SynthV）をお得に購入する方法をまとめました。"
 category: "DTM"
+subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
@@ -11,7 +12,7 @@ thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/s
 isRecommend: true
 ---
 
-**Synthesizer V** (SynthV)は、**Dreamtonics**が開発する歌声合成ソフトウェアです。
+**Synthesizer V**は、**Dreamtonics**が開発する歌声合成ソフトウェアです。
 
 この記事では、**Synthesizer V**を[少しでもお得に購入する方法を紹介]{.marker}します。
 

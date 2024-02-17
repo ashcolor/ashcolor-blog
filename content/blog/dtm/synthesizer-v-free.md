@@ -1,9 +1,10 @@
 ---
 createdAt: "2024/02/15"
 updatedAt: ""
-title: "Synthesizer Vを無料で使う方法！Basicエディタやライト版の歌声データベースについてまとめました"
+title: "Synthesizer V を無料で使う方法！Basicエディタやライト版の歌声データベースについてまとめました"
 description: "Synthesizer Vを無料で使う方法を解説します。Basicエディタやライト版の歌声データベースについての詳細をまとめました。"
 category: "DTM"
+subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
@@ -143,7 +144,7 @@ Synthesizer Vの無料歌声データベースを使用する場合は以下の�
 Maiはフル版のため、[制限なく使用することができます]{.marker}。
 歌声は以下の動画で確認することができます。
 
-:you-tube-iframe{videoId=lkel9YC3m68 title="【Synthesizer V AI Mai】Merry-Go-Round【公式デモ曲】"}
+:you-tube-iframe{videoId="lkel9YC3m68" title="【Synthesizer V AI Mai】Merry-Go-Round【公式デモ曲】"}
 
 逆に有料の歌声データベースだけを購入した場合、[無料のStudio Basicエディタで歌わせる]{.marker}ことができます。
 Studio Basicの制限が気にならないようであれば、Studio Proを購入する必要はありません。

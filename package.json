@@ -1,15 +1,5 @@
 {
   "private": true,
-  "lint-staged": {
-    "*.{ts,js,vue}": [
-      "pnpm format",
-      "pnpm lint:fix"
-    ],
-    "*.md": [
-      "pnpm format",
-      "pnpm mdlint:fix"
-    ]
-  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -21,9 +11,7 @@
     "lint": "eslint --max-warnings=0 --ext .ts,.js,.vue .",
     "lint:fix": "eslint --ext .ts,.js,.vue . --fix",
     "mdlint": "markdownlint-cli2 **/*.md #node_modules #.nuxt",
-    "mdlint:fix": "markdownlint-cli2 --fix **/*.md #node_modules #.nuxt",
-    "prepare": "husky install",
-    "lint-staged": "lint-staged"
+    "mdlint:fix": "markdownlint-cli2 --fix **/*.md #node_modules #.nuxt"
   },
   "devDependencies": {
     "@nuxt-themes/typography": "^1.0.0",
@@ -32,14 +20,13 @@
     "@nuxtjs/eslint-module": "^4.1.0",
     "@nuxtjs/google-fonts": "^3.0.1",
     "@nuxtjs/tailwindcss": "^6.10.3",
+    "@nuxtjs/web-vitals": "^0.2.6",
     "@tailwindcss/typography": "^0.5.9",
     "@types/color": "^3.0.3",
     "autoprefixer": "^10.4.14",
     "eslint": "^8.43.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-tailwindcss": "^3.13.1",
-    "husky": "^8.0.3",
-    "lint-staged": "^15.2.0",
     "markdownlint": "^0.29.0",
     "markdownlint-cli2": "^0.11.0",
     "nuxt": "^3.9.1",

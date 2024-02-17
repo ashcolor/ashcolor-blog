@@ -4,6 +4,7 @@ updatedAt: "2023/11/26"
 title: "Synthesizer V 日本語ラップ対応！ラップ機能の詳細と使い方について解説します"
 description: "Synthesizer Vに新しく搭載された日本語ラップについて解説します。"
 category: "DTM"
+subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
