@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/08/01"
-updatedAt: "2024/01/19"
-title: "システムエンジニア/DTMerのデスク周り紹介 自作PC編"
+updatedAt: "2024/02/19"
+title: "システムエンジニア/DTMerのデスク周り紹介 自作PC編！普段使用しているPCのスペックや構成についてまとめてみた"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。特に自作PCについて紹介します。"
 category: "ガジェット"
 tags:
