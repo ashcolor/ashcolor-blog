@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/11/20"
-updatedAt: "2024/01/07"
+updatedAt: "2024/02/19"
 title: "Synthesizer V をお得に購入する方法"
 description: "Synthesizer V（SynthV）をお得に購入する方法をまとめました。"
 category: "DTM"
@@ -90,6 +90,27 @@ AHS ストアでは、Synthesizer V 関連の商品に**AHS ユーザー特別�
 
 また、DLsiteと同様にこちらも[ダウンロード版のみの販売]{.marker}となります。
 
+### Amazonで購入する
+
+[パッケージ版を購入したい場合は**Amazon**で購入]{.marker}するのがオススメです。
+
+例えば、**Synthesizer V Studio Pro スターターパック**は2024年2月19日現在では[27%オフの14,545円]{.marker}で販売されています。
+
+:affiliate-block{title="Synthesizer V Studio Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/51jy+o9TSXL._SL160_.jpg" asin="B08B3CNY2D"}
+
+歌声データベースはそれぞれ割引率が異なります。
+
+販売された時期が昔なほど割引率が高くなっている傾向がありました。
+
+![2024年2月19日現在 Amazonの販売価格](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-buy/amazon.png)
+
+また、Amazonでは定期的にポイントアップキャンペーンを行っているため、[ポイント分さらにお得に購入]{.marker}することができます。
+
+パッケージ版を購入したい方は、Amazonでの購入をオススメします。
+以下のボタンから、Amazonで販売されているパッケージ版を探すことができます。
+
+[Amazonでパッケージ版を探す]{.btn .btn-primary .w-full}
+
 ## まとめ
 
 この記事では、**Synthesizer V**を[少しでもお得に購入する方法を紹介]{.marker}しました。
@@ -98,9 +119,9 @@ AHS ストアでは、Synthesizer V 関連の商品に**AHS ユーザー特別�
 
 ::point-list{title="Synthesizer V を少しでもお得に購入する方法"}
 
-- これから**Synthesizer V**をはじめる場合は[スターターパックがオススメ]{.marker}
+- これから**Synthesizer V**をはじめる場合は、[スターターパックがオススメ]{.marker}
 - ダウンロード版は[**DLsite**のクーポンを使うと安い]{.marker}
-- AHS 登録ユーザーの場合は[AHS ユーザー特別版を購入することができる]{.marker}
+- パッケージ版は[**Amazon**で購入すると安い]{.marker}
 
 ::
 
@@ -109,10 +130,6 @@ AHS ストアでは、Synthesizer V 関連の商品に**AHS ユーザー特別�
 :quote-article-card{url="/blog/dtm/synthesizer-v-singer"}
 
 Synthesizer V を購入する際の参考になれば幸いです。
-
-:affiliate-block{title="Synthesizer V Studio Pro" imageUrl="https://m.media-amazon.com/images/I/41nl+l0DddL._SL160_.jpg" asin="B08B34MWKF" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ013608.html"}
-
-:affiliate-block{title="Synthesizer V Studio Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/51jy+o9TSXL._SL160_.jpg" asin="B08B3CNY2D"}
 
 :affiliate-block{title="Synthesizer V AI Megpoid パッケージ版" asin="B0CNSLGNH7" imageUrl="https://m.media-amazon.com/images/I/41PINo4+UcL._SL160_.jpg"}
 
