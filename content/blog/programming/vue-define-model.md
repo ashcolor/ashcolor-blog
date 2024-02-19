@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/01/07"
-updatedAt: "2024/01/19"
+updatedAt: "2024/02/19"
 title: "【Vue.js 3.4】defineModelを活用した入力コンポーネントの作成方法"
 description: "Vue.js 3.4で追加されたdefineModelの使い方を紹介しています。"
 category: "プログラミング"

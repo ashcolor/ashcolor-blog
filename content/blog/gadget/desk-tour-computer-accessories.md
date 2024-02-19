@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/08/01"
-updatedAt: "2024/01/19"
-title: "システムエンジニア/DTMerのデスク周り紹介 PC周辺機器編"
+updatedAt: "2024/02/19"
+title: "システムエンジニア/DTMerのデスク周り紹介 PC周辺機器編！愛用のマウスやキーボードについてまとめてみた"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。特にPC周辺機器について紹介します。"
 category: "ガジェット"
 tags:

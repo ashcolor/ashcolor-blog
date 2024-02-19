@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/11/20"
 updatedAt: "2024/02/19"
-title: "Synthesizer V をお得に購入する方法"
+title: "Synthesizer V を少しでも安く購入する方法！スターターパックについてと割引率の高い購入先まとめ"
 description: "Synthesizer V（SynthV）をお得に購入する方法をまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
