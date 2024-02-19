@@ -27,7 +27,7 @@ Synthesizer Vのエディタである**Studio Pro**が有料なのに対して�
 
 Studio BasicとStudio Proの違いは以下の通りです。
 
-![Studio ProとStudio Basicの違い](https://www.ah-soft.com/images/products/synth-v/hikaku.jpg)
+![Studio ProとStudio Basicの違い](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-free/editor-compare.jpg)
 
 [AHSより](https://www.ah-soft.com/synth-v/sp/index.html)
 
@@ -103,7 +103,7 @@ AHS
 
 ライト版の機能制限は、以下の表で確認することができます。
 
-![ライト版の機能制限](https://www.ah-soft.com/images/products/synth-v/hikaku_saki.jpg)
+![ライト版の機能制限](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-free/singer-compare.jpg))
 
 [AHSより](https://www.ah-soft.com/synth-v/sp/index.html)
 
