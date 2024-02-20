@@ -14,7 +14,7 @@ tags:
   - "オーディオテクニカ"
   - "Steinberg"
   - "ROLAND"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-dtm/a49-2.jpg"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/a49-2.jpg"
 ---
 
 この記事では[デスク周り紹介](/blog/gadget/desk-tour)で紹介したデスクの内、[DTM（音楽）機器]{.marker}について紹介していきます。
@@ -23,7 +23,7 @@ thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadge
 
 ### スピーカー：YAMAHA MSP5
 
-![YAMAHA MSP5](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-dtm/msp5.jpg)
+![YAMAHA MSP5](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/msp5.jpg)
 
 スピーカーは**YAMAHA**の**MSP5**を使用しています。
 
@@ -39,7 +39,7 @@ DTMでミキシングをする際に使うため、こちらのスピーカー�
 
 ### ヘッドホン：AKG K702
 
-![AKG K702](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-dtm/k702.jpg)
+![AKG K702](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/k702.jpg)
 
 ヘッドホンは**AKG**の**K702**を使用しています。
 
@@ -57,7 +57,7 @@ DTMでミキシングをする際に使うため、こちらのスピーカー�
 
 ### イヤホン：SHURE SE425
 
-![SHURE SE425](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-dtm/se425.jpg)
+![SHURE SE425](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/se425.jpg)
 
 イヤホンは**SHURE**は**SE425**を使っています。
 
@@ -86,7 +86,7 @@ https://www.amazon.co.jp/gp/product/B0B48P171D/ref=ppx_yo_dt_b_search_asin_title
 
 ### マイク：オーディオテクニカ AT2020
 
-![オーディオテクニカ AT2020](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-dtm/at2020.jpg)
+![オーディオテクニカ AT2020](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/at2020.jpg)
 
 マイクは**オーディオテクニカ**の**AT2020**を使用しています。
 
@@ -101,7 +101,7 @@ https://www.amazon.co.jp/gp/product/B0B48P171D/ref=ppx_yo_dt_b_search_asin_title
 
 ### マイクアーム：CLASSIC PRO CDA10B
 
-![CLASSIC PRO CDA10B](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-dtm/mic-arm.jpg)
+![CLASSIC PRO CDA10B](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/mic-arm.jpg)
 
 マイクアームは**CLASSIC PRO**の**CDA10B**を使用しています。
 
@@ -114,7 +114,7 @@ https://www.amazon.co.jp/gp/product/B0B48P171D/ref=ppx_yo_dt_b_search_asin_title
 
 ### ポップガード：micawber U型ポップガード
 
-![micawber U型ポップガード](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-dtm/pop-guard.jpg)
+![micawber U型ポップガード](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/pop-guard.jpg)
 
 ポップガードは**micawber**の**U型ポップガード**を使用しています。
 
@@ -128,7 +128,7 @@ https://www.amazon.co.jp/gp/product/B0B48P171D/ref=ppx_yo_dt_b_search_asin_title
 
 ### オーディオインターフェイス：Steinberg UR44
 
-![Steinberg UR44](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-dtm/ur44.jpg)
+![Steinberg UR44](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/ur44.jpg)
 
 オーディオインターフェイスは**Steinberg**の**UR44**を使っています。
 
@@ -143,7 +143,7 @@ https://www.amazon.co.jp/gp/product/B0B48P171D/ref=ppx_yo_dt_b_search_asin_title
 
 ### キーボード：ROLAND A-49
 
-![ROLAND A-49](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-dtm/a49.jpg)
+![ROLAND A-49](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/a49.jpg)
 
 キーボードは**ROLAND**の**A-49**を使っています。
 
@@ -151,7 +151,7 @@ https://www.amazon.co.jp/gp/product/B0B48P171D/ref=ppx_yo_dt_b_search_asin_title
 オクターブ・ボタンの右側にはLEDが搭載されていて、[現在のオクターブ位置を瞬時に確認]{.marker}できるのが便利です。
 また、TRANSPOSEボタンを押している間はトランスポーズ状態が確認できます。
 
-![コントローラー周り](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-dtm/a49-2.jpg)
+![コントローラー周り](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/a49-2.jpg)
 
 [打感はMIDIキーボードにしては重い]{.marker}です。
 以前は**ALESIS Q49**を使っていたのですが、買い替えた直後は重めの打感に戸惑いました。

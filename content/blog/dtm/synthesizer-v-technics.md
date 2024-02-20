@@ -8,7 +8,7 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thumbnail.png"
 isRecommend: true
 ---
 
@@ -29,12 +29,12 @@ Synthesizer Vは[ベタ打ちでもピッチや音色がAIにより自動生成]
 母音だけを消す場合はまず、文字を入力したあとに[音素記号をダブルクリック]{.marker}します。
 そのあとに該当の「a」「i」「u」「e」「o」を消してください。
 
-![音素を編集して一部の母音を消した状態](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-technics/museika1.png)
+![音素を編集して一部の母音を消した状態](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/museika1.png)
 
 母音を消しただけだと、[子音の長さに違和感]{.marker}がある場合があります。
 その場合は該当のノートを選択した状態で、[ノートプロパティパネルの**音素**の部分を確認]{.marker}します。
 
-![ノートプロパティ 音素](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-technics/museika2.png)
+![ノートプロパティ 音素](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/museika2.png)
 
 先に`ノートを音節で均等に分割`のチェックボックスを外して、`長さ`を調整します。
 子音をよく聞かせたい場合は、[子音の長さを長めにすると強調]{.marker}されて聞こえるようになります。
@@ -43,9 +43,9 @@ Synthesizer Vは[ベタ打ちでもピッチや音色がAIにより自動生成]
 
 実際に母音を消す前と後でどのように変化するのか聞いてみましょう。
 
-:custom-audio{title="無声化前" src="https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-technics/museika_default.mp3"}
+:custom-audio{title="無声化前" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/museika_default.mp3"}
 
-:custom-audio{title="無声化後" src="https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-technics/museika_museika.mp3"}
+:custom-audio{title="無声化後" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/museika_museika.mp3"}
 
 簡単な作業で機械っぽさが一気に消えるテクニックなので、ぜひ実践してみてください。
 
@@ -62,9 +62,9 @@ Synthesizer Vで高音を打ち込んだ際に、[地声になるか裏声にな
 
 実際に、テンションパラメータを下げた例を聞いてみましょう。
 
-:custom-audio{title="テンション：0" src="https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-technics/uragoe_default.mp3"}
+:custom-audio{title="テンション：0" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/uragoe_default.mp3"}
 
-:custom-audio{title="テンション：-1.000" src="https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-technics/uragoe_tension.mp3"}
+:custom-audio{title="テンション：-1.000" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/uragoe_tension.mp3"}
 
 声の緊張感が下がったのと合わせて、[裏声のような声質]{.marker}になったのが確認できます。
 
@@ -77,9 +77,9 @@ Synthesizer Vで高音を打ち込んだ際に、[地声になるか裏声にな
 
 実際にボーカルスタイルだけを変えた例を聞いてみましょう。
 
-:custom-audio{title="ボーカルスタイル：Mai デフォルト" src="https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-technics/uragoe_default.mp3"}
+:custom-audio{title="ボーカルスタイル：Mai デフォルト" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/uragoe_default.mp3"}
 
-:custom-audio{title="ボーカルスタイル：Mai Soft" src="https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-technics/uragoe_vocal_style.mp3"}
+:custom-audio{title="ボーカルスタイル：Mai Soft" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/uragoe_vocal_style.mp3"}
 
 ボーカルスタイルは画面下部の[**パラメータパネル**を使うと曲の途中で変更することができる]{.marker}ので、地声/裏声を調整したい部分だけ値を変更しましょう。
 
@@ -100,9 +100,9 @@ Synthesizer Vで高音を打ち込んだ際に、[地声になるか裏声にな
 
 実際にトーンシフトを変えた例を聞いてみましょう。
 
-:custom-audio{title="トーンシフト：0 cents" src="https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-technics/uragoe_default.mp3"}
+:custom-audio{title="トーンシフト：0 cents" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/uragoe_default.mp3"}
 
-:custom-audio{title="トーンシフト：+400 cents" src="https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-technics/uragoe_tone_shift.mp3"}
+:custom-audio{title="トーンシフト：+400 cents" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/uragoe_tone_shift.mp3"}
 
 トーンシフトを上げることによって裏声っぽい声になったのが確認できます。
 ただ、[他のパラメータと比べると効果が分かりづらい]{.marker}かなと感じます。
@@ -123,13 +123,13 @@ Synthesizer Vには[「**cl**」という特殊な**音素記号**が用意]{.ma
 [この記号をア行の発音の前に付ける]{.marker}ことで、エッジボイスを再現することができます。
 （または文字の前に「'(半角クオーテーション)」を付けても「cl」が付与されます。）
 
-![文字を「'あ」と入力すると音素記号は「cl a」となる](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-technics/edge.png)
+![文字を「'あ」と入力すると音素記号は「cl a」となる](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/edge.png)
 
 実際にア行の発音の前に「cl」を付けると、どのようになるのか聞いてみましょう。
 
-:custom-audio{title="clなし" src="https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-technics/edge_default.mp3"}
+:custom-audio{title="clなし" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/edge_default.mp3"}
 
-:custom-audio{title="clあり" src="https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-technics/edge_edge.mp3"}
+:custom-audio{title="clあり" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/edge_edge.mp3"}
 
 歌いはじめにエッジボイスが入ることによって、[表現豊かな歌唱]{.marker}に聞こえるようになったのではないでしょうか。
 

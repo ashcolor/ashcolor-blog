@@ -7,7 +7,7 @@ category: "プログラミング"
 subCategory: "Vue.js"
 tags:
   - "Vue.js"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/programming/vue-define-model/vue.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/vue-define-model/vue.png"
 isRecommend: false
 ---
 
@@ -29,7 +29,7 @@ isRecommend: false
 
 以下に例を示します。
 
-![今回作成するコンポーネント](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/programming/vue-define-model/define-model.png)
+![今回作成するコンポーネント](https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/vue-define-model/define-model.png)
 
 インプット部分が子コンポーネントとなっており、子コンポーネントのインプットに入力された内容を親コンポーネントに表示しています。
 

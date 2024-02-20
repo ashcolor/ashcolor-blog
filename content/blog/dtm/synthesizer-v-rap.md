@@ -8,7 +8,7 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thumbnail.png"
 isRecommend: false
 ---
 
@@ -49,11 +49,11 @@ Synthesizer V のラップ機能について、公式では以下のように説
 
 ラップ機能は、[ノートプロパティのピッチモードを**ラップ**にすることで使用できる機能]{.marker}です。
 
-![ノートプロパティ ピッチモードにラップ追加](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-rap/setting.png)
+![ノートプロパティ ピッチモードにラップ追加](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-rap/setting.png)
 
 ノートを**ラップ**モードにすると[ラップ用のピッチが生成]{.marker}されます。
 
-![ピッチモードによるピッチの違い（左：歌唱モード、右：ラップモード）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-rap/rap.png)
+![ピッチモードによるピッチの違い（左：歌唱モード、右：ラップモード）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-rap/rap.png)
 
 歌唱モードとラップモードで生成される音程が異なることが確認できます。
 
@@ -76,13 +76,13 @@ Synthesizer V のラップ機能について、公式では以下のように説
 
 **イントネーション**では、[ノートの語尾に向けての音程の変化]{.marker}を設定できます。
 
-![イントネーションによるピッチの変化（左：-5.00、右：+0.500）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-rap/intonation.png)
+![イントネーションによるピッチの変化（左：-5.00、右：+0.500）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-rap/intonation.png)
 
 ### トーン
 
 **トーン**では、[基準となる音程]{.marker}を設定できます。
 
-![トーンによるピッチの変化（左：-1.000、右：+1.000）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-rap/tone.png)
+![トーンによるピッチの変化（左：-1.000、右：+1.000）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-rap/tone.png)
 
 基準となる音程はノートを配置する音程でも設定できるため、トーンは細かい音程を設定するのに使うのがオススメです。
 

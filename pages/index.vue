@@ -6,8 +6,7 @@ useSeoMeta({
     ogTitle: `${BLOG_TITLE} | ${BLOG_SUBTITLE}`,
     description: BLOG_SUBTITLE,
     ogDescription: BLOG_SUBTITLE,
-    ogImage:
-        "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour/overall.jpg",
+    ogImage: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour/overall.jpg",
     ogUrl: import.meta.env.VITE_NUXT_PUBLIC_SITE_URL,
     ogType: "website",
     ogSiteName: BLOG_TITLE,
@@ -57,7 +56,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
             <p>{{ BLOG_SUBTITLE }}</p>
         </div>
         <div
-            class="hero mx-[calc(50%_-_50vw)] my-8 h-[50vh] w-screen bg-[url('https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour/overall.jpg')]"
+            class="hero mx-[calc(50%_-_50vw)] my-8 h-[50vh] w-screen bg-[url('https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour/overall.jpg')]"
         >
             <div class="hero-overlay"></div>
             <div class="hero-content text-center text-neutral-content">

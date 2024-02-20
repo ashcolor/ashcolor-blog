@@ -7,8 +7,7 @@ export const BLOG_CATEGORIES = [
         key: "gadget",
         name: "ガジェット",
         path: "/blog/gadget",
-        thumbnail:
-            "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour/overall.jpg",
+        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour/overall.jpg",
         isShowList: true,
     },
     {
@@ -16,31 +15,28 @@ export const BLOG_CATEGORIES = [
         name: "プログラミング",
         path: "/blog/programming",
         thumbnail:
-            "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/key-cap.jpg",
+            "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/key-cap.jpg",
         isShowList: true,
     },
     {
         key: "dtm",
         name: "DTM",
         path: "/blog/dtm",
-        thumbnail:
-            "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/thumbnail.png",
+        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/thumbnail.png",
         isShowList: true,
     },
     {
         key: "notion",
         name: "Notion",
         path: "/blog/notion",
-        thumbnail:
-            "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/formulas/thumbnail.png",
+        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/notion/formulas/thumbnail.png",
         isShowList: false,
     },
     {
         key: "random-note",
         name: "雑記",
         path: "/blog/random-note",
-        thumbnail:
-            "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour/overall.jpg",
+        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour/overall.jpg",
         isShowList: false,
     },
 ];

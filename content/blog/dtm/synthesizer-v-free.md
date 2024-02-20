@@ -8,7 +8,7 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thumbnail.png"
 isRecommend: true
 ---
 
@@ -27,7 +27,7 @@ Synthesizer Vのエディタである**Studio Pro**が有料なのに対して�
 
 Studio BasicとStudio Proの違いは以下の通りです。
 
-![Studio ProとStudio Basicの違い](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-free/editor-compare.jpg)
+![Studio ProとStudio Basicの違い](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-free/editor-compare.jpg)
 
 [AHSより](https://www.ah-soft.com/synth-v/sp/index.html)
 
@@ -103,7 +103,7 @@ AHS
 
 ライト版の機能制限は、以下の表で確認することができます。
 
-![ライト版の機能制限](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-free/singer-compare.jpg))
+![ライト版の機能制限](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-free/singer-compare.jpg))
 
 [AHSより](https://www.ah-soft.com/synth-v/sp/index.html)
 

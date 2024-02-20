@@ -7,7 +7,7 @@ category: "DTM"
 tags:
   - "ソフトウェア"
   - "VST"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/thumbnail.png"
 isRecommend: true
 ---
 
@@ -34,7 +34,7 @@ isRecommend: true
 
 ### Ample Sound：Ample Guitar T
 
-![Ample Guitar T](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/ag_t.png)
+![Ample Guitar T](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/ag_t.png)
 
 最近お気に入りの**Ample Sound**社が出しているアコースティックギター音源です。
 
@@ -53,7 +53,7 @@ Taylor 714 CEというギターをサンプリングしていて、とにかく�
 
 ### MUSIC LAB：Real Guitar 4
 
-![Real Guitar 4](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/real_guitar.png)
+![Real Guitar 4](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/real_guitar.png)
 
 **MUSIC LAB**社のアコースティック音源にです。
 
@@ -66,7 +66,7 @@ Real Guitarシリーズは[起動が早い]{.marker}のと、[コード演奏の
 
 ### Ample Sound：Ample Guitar LP Library
 
-![Ample Guitar LP](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/ag_lp.png)
+![Ample Guitar LP](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/ag_lp.png)
 
 Ample Guitar Tと同じく**Ample Sound**社のエレキギター音源です。
 
@@ -83,7 +83,7 @@ Ample Guitarシリーズは自由度が高い分、初めて使うときは挙�
 
 ### XLN Audio：Addictive Keys
 
-![Addictive Keys](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/addictive_keys.png)
+![Addictive Keys](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/addictive_keys.png)
 
 Addictive Drumsで有名な**XLN Audio**社のピアノ音源です。
 
@@ -99,7 +99,7 @@ Addictive Drumsで有名な**XLN Audio**社のピアノ音源です。
 
 ### Synth1
 
-![Synth1](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/synth1.png)
+![Synth1](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/synth1.png)
 
 20年以上前からある無料のシンセサイザー音源です。
 
@@ -109,7 +109,7 @@ Addictive Drumsで有名な**XLN Audio**社のピアノ音源です。
 
 ### Magical 8bit Plug
 
-![Magical 8bit Plug](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/magical_8bit_plug.png)
+![Magical 8bit Plug](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/magical_8bit_plug.png)
 
 8bitサウンドの定番となっている無料のシンセサイザー音源です。
 
@@ -120,7 +120,7 @@ GUIも出音もシンプルでとにかく使いやすいです。
 
 ### XLN Audio：Addictive Drums 2
 
-![Addictive Drums 2](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/addictive_drums_2.png)
+![Addictive Drums 2](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/addictive_drums_2.png)
 
 **XLN Audio**社のドラム音源です。
 
@@ -146,7 +146,7 @@ GUIも出音もシンプルでとにかく使いやすいです。
 
 ### FXpansion：BFD 3
 
-![BFD 3](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/bfd_3.png)
+![BFD 3](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/bfd_3.png)
 
 **FXpansion**社のドラム音源です。
 
@@ -163,7 +163,7 @@ GUIも出音もシンプルでとにかく使いやすいです。
 
 ### Native Instruments：Battery 4
 
-![Battery 4](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/battery_4.png)
+![Battery 4](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/battery_4.png)
 
 **Native Instruments**社のドラム・サンプラーです。
 
@@ -178,7 +178,7 @@ Batteryは主に[打ち込み系の曲のドラム]{.marker}に使っていま�
 
 ### IK Multimedia MODO BASS
 
-![MODO BASS](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/modo_bass.png)
+![MODO BASS](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/modo_bass.png)
 
 **IK Multimedia**社のベース音源です。
 
@@ -196,7 +196,7 @@ Batteryは主に[打ち込み系の曲のドラム]{.marker}に使っていま�
 
 ### Native Instruments：KOMPLETE 7 ELEMENTS
 
-![KOMPLETE7 ELEMENTS](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/kontact_4.png)
+![KOMPLETE7 ELEMENTS](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/kontact_4.png)
 
 **Native Instruments**社の総合音源です。
 
@@ -214,7 +214,7 @@ KOMPLETEシリーズは最も有名な総合音源と言ってもいいでしょ
 
 ### YAMAHA：VOCALOID
 
-![V4 Editor for Cubase](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/vocaloid_cubase.png)
+![V4 Editor for Cubase](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/vocaloid_cubase.png)
 
 説明不要なくらい有名な**YAMAHA**社の合成音声です。
 
@@ -234,7 +234,7 @@ KOMPLETEシリーズは最も有名な総合音源と言ってもいいでしょ
 
 ### Dreamtonics：Synthesizer V
 
-![Synthesizer V](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/my-vst/synthesizer_v.png)
+![Synthesizer V](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/synthesizer_v.png)
 
 最近のお気に入りの**Dreamtonics**社の合成音声音源です。
 

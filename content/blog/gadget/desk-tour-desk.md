@@ -13,7 +13,7 @@ tags:
   - "サイドデスク"
   - "IKEA"
   - "ニトリ"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-desk/linnmon.jpg"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-desk/linnmon.jpg"
 ---
 
 この記事では[デスク周り紹介](/blog/gadget/desk-tour)で紹介したデスクの内、[デスク周辺のアイテム]{.marker}を紹介していきます。
@@ -22,7 +22,7 @@ thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadge
 
 ### デスク：IKEA リンモン（150cm×75cm）
 
-![IKEA リンモン](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-desk/linnmon.jpg)
+![IKEA リンモン](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-desk/linnmon.jpg)
 
 デスクは**IKEA**の**リンモン**を使っています。
 サイズは150cm×75cmを選択しました。
@@ -43,7 +43,7 @@ IKEAのリンモンシリーズはとにかくコスパが良く、最小サイ�
 天板の構造は**ハニカム構造ペーパーパッキング**という紙製の部材をハチの巣構造で組み立てられています。
 強度は低めでディスプレイ2枚とスピーカーを設置しているせいか、[中央部分がたわんできています]{.marker}。
 
-![天板がたわむ](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-desk/linnmon-distortion.jpg)
+![天板がたわむ](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-desk/linnmon-distortion.jpg)
 
 その代わり[重量は軽い]{.marker}ため、デスクに何も乗っていない状態であればひとりでも簡単に移動することができます。
 
@@ -53,7 +53,7 @@ IKEAのリンモンシリーズはとにかくコスパが良く、最小サイ�
 
 ### サイドデスク、収納：IKEA アレクス
 
-![IKEA アレクス](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-desk/alex.jpg)
+![IKEA アレクス](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-desk/alex.jpg)
 
 サイドデスクと収納スペースとして**IKEA**の**アレクス**を使用しています。
 
@@ -80,7 +80,7 @@ IKEAのリンモンシリーズはとにかくコスパが良く、最小サイ�
 また、私が購入したものは[背面の右下には穴が空いていて、コードを通すことができます]{.marker}。
 ただ、IKEAに掲載されている画像を見る限りでは背面に穴が空いていないため、構造が変わったのかもしれません。
 
-![IKEA アレクス 背面に穴が空いている](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-desk/alex-2.jpg)
+![IKEA アレクス 背面に穴が空いている](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-desk/alex-2.jpg)
 
 アレクスの上にはゲーム用のマウスやサブのキーボード・お菓子・ウェットティッシュなど、たまに使うモノを雑多に置いています。
 メインのデスクにモノが置いていると気が散りがちですが、サブのデスクにモノが置いてある分には視界にあまり入らないので、気軽にモノを置いておけます。
@@ -89,7 +89,7 @@ IKEAのリンモンシリーズはとにかくコスパが良く、最小サイ�
 
 ### 椅子：ニトリ フォリスト
 
-![ニトリ フォリスト](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-desk/forist.jpg)
+![ニトリ フォリスト](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-desk/forist.jpg)
 
 椅子は**ニトリ**の**フォリスト**を使用しています。
 
@@ -133,14 +133,14 @@ IKEAのリンモンシリーズはとにかくコスパが良く、最小サイ�
 
 座面の下は現在、以下のようになっています。
 
-![座面の下にホコリが異常に溜まる](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-desk/forist-3.jpg)
+![座面の下にホコリが異常に溜まる](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-desk/forist-3.jpg)
 
 掃除したいとは思っているのですが、手が入らない場所なので購入時からそのまま放置しています。
 覗き込まなければ見えない場所のため、そこまで気にする必要はないかもしれません。
 
 ヘッドレストは上下に可動する仕様ではありますが、あまり上までは動かせません。
 
-![ヘッドレストを最大まで上げた状態](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-desk/forist-2.jpg)
+![ヘッドレストを最大まで上げた状態](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-desk/forist-2.jpg)
 
 私の身長が175cmくらいのため、同じくらいかもっと高い人はうまく首がフィットしないかもしれません。
 

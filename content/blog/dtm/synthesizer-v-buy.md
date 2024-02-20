@@ -8,7 +8,7 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thumbnail.png"
 isRecommend: true
 ---
 
@@ -67,7 +67,7 @@ DLsiteでは定期的に[割引クーポン]{.marker}を配布しています。
 
 さらに、新作以外のソフトは[定期的に10%オフセール]{.marker}を行っています。
 
-![2024年1月7日のDlsite 新作以外はセールになっている](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-buy/dlsite.png)
+![2024年1月7日のDlsite 新作以外はセールになっている](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-buy/dlsite.png)
 
 上記に書いた[クーポンはセール商品にも適用することができる]{.marker}ため、非常に安価に購入することができます。
 
@@ -102,7 +102,7 @@ AHS ストアでは、Synthesizer V 関連の商品に**AHS ユーザー特別�
 
 販売された時期が昔なほど割引率が高くなっている傾向がありました。
 
-![2024年2月19日現在 Amazonの販売価格](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-buy/amazon.png)
+![2024年2月19日現在 Amazonの販売価格](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-buy/amazon.png)
 
 また、Amazonでは定期的にポイントアップキャンペーンを行っているため、[ポイント分さらにお得に購入]{.marker}することができます。
 

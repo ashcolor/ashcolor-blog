@@ -7,7 +7,7 @@ category: "ガジェット"
 tags:
   - "キーボード"
   - "EPOMAKER"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/cidoo-v65-keyboard-review/cidoo-v65-keyboard-review-1.jpg"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/cidoo-v65-keyboard-review/cidoo-v65-keyboard-review-1.jpg"
 isRecommend: false
 ---
 
@@ -22,7 +22,7 @@ isRecommend: false
 CIDOO V65 V2は[ケースの色が異なる**Retro Grey**と**Moon White**]{.marker}の2色展開です。
 Retro Greyはグレー、Moon Whiteは白色となっています。
 
-![CIDOO V65 V2 Moon White](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/cidoo-v65-keyboard-review/cidoo-v65-keyboard-review-2.jpg)
+![CIDOO V65 V2 Moon White](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/cidoo-v65-keyboard-review/cidoo-v65-keyboard-review-2.jpg)
 
 キーキャップはどちらも同じで基本の色はグレーベージュとなっています。
 
@@ -111,7 +111,7 @@ CIDOO V65 V2を使用する際の注意点をまとめます。
 
 CIDOO V65 V2には[角度調整用の足が付いていません]{.marker}。
 
-![CIDOO V65 V2 Moon White 背面](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/cidoo-v65-keyboard-review/cidoo-v65-keyboard-review-3.jpg)
+![CIDOO V65 V2 Moon White 背面](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/cidoo-v65-keyboard-review/cidoo-v65-keyboard-review-3.jpg)
 
 キーボード自体には多少の角度は付いてはいますが、他のキーボードで足を立てた状態で使用していたので、[少し角度が足りなく感じました]{.marker}。
 
@@ -152,7 +152,7 @@ JSONファイルは以下からダウンロードできます。
 また、[JSONファイルを読み込む前に`Use V2 definitions (deprecated)`をオンにする]{.marker}必要があります。
 （取扱説明書にも記載があります。）
 
-![Use V2 definitions (deprecated)](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/cidoo-v65-keyboard-review/via1.png)
+![Use V2 definitions (deprecated)](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/cidoo-v65-keyboard-review/via1.png)
 
 オンにしないと、JSONファイルの読込み時に`CIDOO V65.JSON Object: should NOT have additional properties`というエラーが出ます。
 上記のエラーが出た場合は確認してみてください。
@@ -199,4 +199,4 @@ CIDOO V65 V2はUSBケーブルをパソコンに接続しただけではモー�
 安価な割にとても満足度が高かったです。
 気になった方はぜひ使ってみてください。
 
-![CIDOO V65 V2 Moon White](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/cidoo-v65-keyboard-review/cidoo-v65-keyboard-review-2.jpg)
+![CIDOO V65 V2 Moon White](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/cidoo-v65-keyboard-review/cidoo-v65-keyboard-review-2.jpg)

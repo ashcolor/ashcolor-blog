@@ -9,7 +9,7 @@ tags:
   - "Mac"
   - "DAW"
   - "VOCALOID"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/windows-vs-mac/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/windows-vs-mac/thumbnail.png"
 isRecommend: true
 ---
 

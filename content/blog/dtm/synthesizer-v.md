@@ -7,7 +7,7 @@ category: "DTM"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thumbnail.png"
 isRecommend: true
 ---
 
@@ -219,7 +219,7 @@ AI リテイクパネルには[声の高さやビブラートの深さなどが�
 
 以下が実際にピッチの表現の強弱を変えた場合に出力されるピッチの音程です。
 
-![表現の強弱によるピッチの違い（左：-100、右：+100](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/expression.png)
+![表現の強弱によるピッチの違い（左：-100、右：+100](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/expression.png)
 
 表現の強弱が **-100** の場合は元の音程の軸から大きくずれることなく[安定したピッチ]{.marker}になるのに対して、 **+100** の場合は[ビブラートの幅に揺らぎがある]{.marker}のが分かります。
 
@@ -276,7 +276,7 @@ AI のピッチが生成されたあとに聞いてみて、気になる箇所�
 
 次の画像では 2 つ目のノートのタイミングの値を変えています。
 
-![タイミングによるピッチの変化（左：-0.500sec、右：+0.500sec）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/pitch-timing.png)
+![タイミングによるピッチの変化（左：-0.500sec、右：+0.500sec）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/pitch-timing.png)
 
 マイナスの値を設定すると、前のノートの後ろの部分にも影響します。
 
@@ -288,7 +288,7 @@ AI のピッチが生成されたあとに聞いてみて、気になる箇所�
 
 次の画像では 2 つ目のノートの長さ - 左の値を変えています。
 
-![長さ - 左によるピッチの変化（左：0sec、右：+0.500sec）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/pitch-length-left.png)
+![長さ - 左によるピッチの変化（左：0sec、右：+0.500sec）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/pitch-length-left.png)
 
 ### [長さ - 右]{#length-right}
 
@@ -296,7 +296,7 @@ AI のピッチが生成されたあとに聞いてみて、気になる箇所�
 
 次の画像では 2 つ目のノートの長さ - 右の値を変えています。
 
-![長さ - 右によるピッチの変化（左：0sec、右：+0.500sec）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/pitch-length-right.png)
+![長さ - 右によるピッチの変化（左：0sec、右：+0.500sec）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/pitch-length-right.png)
 
 ### [深さ - 左]{#depth-left}
 
@@ -304,7 +304,7 @@ AI のピッチが生成されたあとに聞いてみて、気になる箇所�
 
 次の画像では 2 つ目のノートの深さ - 左の値を変えています。
 
-![深さ - 左によるピッチの変化（左：-6.00smt.、右：+6.00smt.）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/pitch-depth-left.png)
+![深さ - 左によるピッチの変化（左：-6.00smt.、右：+6.00smt.）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/pitch-depth-left.png)
 
 ### [深さ - 右]{#depth-right}
 
@@ -312,7 +312,7 @@ AI のピッチが生成されたあとに聞いてみて、気になる箇所�
 
 次の画像では 2 つ目のノートの深さ - 右の値を変えています。
 
-![深さ - 右によるピッチの変化（左：-6.00smt.、右：+6.00smt.）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/pitch-depth-right.png)
+![深さ - 右によるピッチの変化（左：-6.00smt.、右：+6.00smt.）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/pitch-depth-right.png)
 
 ## ビブラートプロパティ
 
@@ -353,37 +353,37 @@ AI のピッチが生成されたあとに聞いてみて、気になる箇所�
 
 **開始タイミング**は[ビブラートが開始するまでの時間]{.marker}を調整できます。
 
-![開始タイミングによるピッチの変化（左：0sec、右：+1.000sec）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/vibrato-timing.png)
+![開始タイミングによるピッチの変化（左：0sec、右：+1.000sec）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/vibrato-timing.png)
 
 ### 左
 
 **左**は[ビブラートが最大の強さになるまでの時間]{.marker}を調整できます。
 
-![左によるピッチの変化（左：+0.02sec、右：+0.50sec）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/vibrato-left.png)
+![左によるピッチの変化（左：+0.02sec、右：+0.50sec）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/vibrato-left.png)
 
 ### 右
 
 **右**は[ビブラートがなくなるまでの時間]{.marker}を調整できます。
 
-![右によるピッチの変化（左：+0.02sec、右：+0.50sec）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/vibrato-right.png)
+![右によるピッチの変化（左：+0.02sec、右：+0.50sec）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/vibrato-right.png)
 
 ### 深さ
 
 **深さ**は[ビブラートの強さ]{.marker}を調整できます。
 
-![深さによるピッチの変化（左：0.00smt.、右：+2.00smt.）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/vibrato-depth.png)
+![深さによるピッチの変化（左：0.00smt.、右：+2.00smt.）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/vibrato-depth.png)
 
 ### 周波数
 
 **周波数**は[ビブラートの振動の早さ]{.marker}を調整できます。
 
-![周波数によるピッチの変化（左：+1.00Hz、右：+10.00Hz）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/vibrato-freq.png)
+![周波数によるピッチの変化（左：+1.00Hz、右：+10.00Hz）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/vibrato-freq.png)
 
 ### 位相
 
 **位相**は[ビブラート開始時の位相]{.marker}を調整できます。
 
-![位相によるピッチの変化（左：0.000x、右：+1.000x）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/vibrato-phase.png)
+![位相によるピッチの変化（左：0.000x、右：+1.000x）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/vibrato-phase.png)
 
 ### ゆらぎ
 

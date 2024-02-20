@@ -8,7 +8,7 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thumbnail.png"
 isRecommend: false
 ---
 
@@ -77,42 +77,42 @@ ARA プラグインを使う際のモードは以下の 2 種類があります�
 
 1. トラックリストを右クリック → `Audio トラックを追加`をクリック
 
-   ![トラックリストを右クリック](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-1.png)
+   ![トラックリストを右クリック](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-1.png)
 
 1. 必要に応じてプロパティを変更して、`トラックを追加`をクリック
 
-   ![トラックを追加ウィンドウ](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-2.png)
+   ![トラックを追加ウィンドウ](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-2.png)
 
 1. 追加したトラックを選択して、トラックインスペクター（画面左部）を表示
 
-   ![トラックインスペクター](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-3.png)
+   ![トラックインスペクター](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-3.png)
 
 1. `エクステンションなし`と表示されている部分をクリックして、`Synthesizer V Studio ARA Plugin`を選択
 
-   ![Synthesizer V Studio ARA Pluginを選択](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-5.png)
+   ![Synthesizer V Studio ARA Pluginを選択](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-5.png)
 
 1. トラックにオーディオデータをドラッグ & ドロップ
 
    右上に丸いマークが付いていればエクステンションが有効になっています。
 
-   ![イベントの右上に丸いマークが付いている](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-6.png)
+   ![イベントの右上に丸いマークが付いている](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-6.png)
 
 1. オーディオイベントをダブルクリック
 
    Synthesizer V Studio のインターフェイスが表示されます。
 
-   ![Synthesizer V Studio のインターフェイス](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-6-2.png)
+   ![Synthesizer V Studio のインターフェイス](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-6-2.png)
 
 1. Synthesizer V Studio 画面上のオーディオを右クリック → `オーディオをノートに変換`をクリック
 
-   ![オーディオをノートに変換](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-7.png)
+   ![オーディオをノートに変換](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-7.png)
 
 1. 必要に応じてプロパティを変更したら、`確定`をクリック
 
-   ![ボーカルMIDI変換ウィンドウ](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-8.png)
+   ![ボーカルMIDI変換ウィンドウ](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-8.png)
 
 1. 変換結果が表示される
-   ![変換結果が表示されている](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-9.png)
+   ![変換結果が表示されている](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-9.png)
 
 #### 高位の ARA 機能モードの注意点
 
@@ -142,45 +142,45 @@ ARA ブリッジモードでは、[再生、ループ、テンポの同期]{.mar
 
 1. トラックリストを右クリック → `Audio トラックを追加`をクリック
 
-   ![トラックリストを右クリック](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-1.png)
+   ![トラックリストを右クリック](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-1.png)
 
 1. 必要に応じてプロパティを変更して、`トラックを追加`をクリック
 
-   ![トラックを追加ウィンドウ](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-2.png)
+   ![トラックを追加ウィンドウ](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-2.png)
 
 1. 追加したトラックを選択して、トラックインスペクター（画面左部）を表示
 
-   ![トラックインスペクター](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-3.png)
+   ![トラックインスペクター](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-3.png)
 
 1. `エクステンションなし`と表示されている部分をクリックして、`Synthesizer V Studio ARA Plugin`を選択
 
-   ![Synthesizer V Studio ARA Pluginを選択](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-5.png)
+   ![Synthesizer V Studio ARA Pluginを選択](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-5.png)
 
 1. トラックに適当なオーディオデータをドラッグ & ドロップ
 
    [エクステンションが有効になっているトラックに適当なオーディオデータを配置することで、プロジェクト全体で ARA が有効になります。]{.marker}
 
-   ![イベントの右上に丸いマークが付いている](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/high-6.png)
+   ![イベントの右上に丸いマークが付いている](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/high-6.png)
 
 1. オーディオトラックは ARA プラグインの有効化のためだけに使用するため、トラックの`M`をクリックしてミュート
 
-   ![トラックをミュート](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/bridge-0.png)
+   ![トラックをミュート](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/bridge-0.png)
 
    ここから先は、アップデート前と同様で Synthesizer V Studio の VST を追加する手順になります。
 
 1. トラックリストを右クリック → `インストゥルメント トラックを追加`をクリック
 
-   ![インストゥルメントトラックの追加](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/bridge-1.png)
+   ![インストゥルメントトラックの追加](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/bridge-1.png)
 
 1. 必要に応じてプロパティを変更して、`トラックを追加`をクリック
 
-   ![トラックを追加ウィンドウ](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/bridge-2.png)
+   ![トラックを追加ウィンドウ](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/bridge-2.png)
 
 1. インストゥルメントを編集ボタン（鍵盤アイコン）をクリック
 
    Synthesizer V Studio インターフェイスの右上に`ARA Bridge Link`ボタンが表示されていれば、ARA ブリッジモードが有効化されています。
 
-   ![Synthesizer V Studio インターフェイス 右上にARA Bridge Linkボタンが表示されている](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-ara-cubase/bridge-3.png)
+   ![Synthesizer V Studio インターフェイス 右上にARA Bridge Linkボタンが表示されている](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-ara-cubase/bridge-3.png)
 
 #### ARA ブリッジモードの注意点
 
