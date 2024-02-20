@@ -11,7 +11,7 @@ tags:
   - "Laravel"
   - "Vite"
   - "React"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/programming/php-vite-warning/php-vite.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/php-vite-warning/php-vite.png"
 isRecommend: false
 ---
 

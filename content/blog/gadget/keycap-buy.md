@@ -7,7 +7,7 @@ category: "ガジェット"
 tags:
   - "キーボード"
   - "キーキャップ"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/keycap-buy/thumbnail.jpg"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/keycap-buy/thumbnail.jpg"
 isRecommend: true
 ---
 
@@ -96,7 +96,7 @@ ABSは[安価ですが、耐久性は劣っており触り心地はどちらか�
 キーキャップ引き抜き工具はキーボードに付属していたり、交換用のキーキャップに付属していたりします。
 [手元にキートップ引き抜き工具がない場合は、別途用意する必要]{.marker}があるため注意しましょう。
 
-![キートップ引き抜き工具 いくつかの形状がある](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/keycap-buy/key-puller.jpg)
+![キートップ引き抜き工具 いくつかの形状がある](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/keycap-buy/key-puller.jpg)
 
 ## Amazonで購入できるオススメのキーキャップ
 

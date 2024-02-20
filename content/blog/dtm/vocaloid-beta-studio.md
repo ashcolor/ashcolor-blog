@@ -6,7 +6,7 @@ description: "YAMAHAが発表したVOCALOID β-STUDIOの情報についてまと
 category: "DTM"
 tags:
   - "VOCALOID"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/vocaloid-beta-studio/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-beta-studio/thumbnail.png"
 isRecommend: true
 ---
 

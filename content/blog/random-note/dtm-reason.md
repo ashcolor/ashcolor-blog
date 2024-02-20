@@ -5,9 +5,9 @@ title: "DTMをはじめたきっかけ"
 description: "DTMをはじめたきっかけ"
 category: "雑記"
 tags:
-    - "自分語り"
-    - "DTM"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/random-note/band_bro_p.JPG"
+  - "自分語り"
+  - "DTM"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/random-note/band_bro_p.JPG"
 isRecommend: true
 ---
 
@@ -38,10 +38,9 @@ DTMは中学生の頃からはじめて、今でも趣味と言えるぐらい�
 
 次に本題のDTMについてです。
 
-DTMが趣味になる最初のきっかけはニンテンドーDSと共に発売された音ゲー「[**大合奏！バンドブラザーズ**](https://www.nintendo.co.jp/ds/abbj/index.html
-)」（通称：バンブラ）でした。
+DTMが趣味になる最初のきっかけはニンテンドーDSと共に発売された音ゲー「[**大合奏！バンドブラザーズ**](https://www.nintendo.co.jp/ds/abbj/index.html)」（通称：バンブラ）でした。
 
-![バンブラシリーズ最新作「大合奏！バンドブラザーズP」](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/random-note/band_bro_p.JPG)
+![バンブラシリーズ最新作「大合奏！バンドブラザーズP」](https://d2s4ypph6g1t06.cloudfront.net/img/blog/random-note/band_bro_p.JPG)
 
 バンブラは音ゲーでありながら、DAWのように五線譜に音符を打ち込むと音を再生する機能が搭載されています。
 （打ち込んだ曲はそのまま音ゲーとして遊ぶことができます。）
@@ -76,7 +75,7 @@ VOCALOIDを使って作られた音楽は当時でも無数にあり、その日
 
 高校生でお金もあまりありませんでしたが、なんとかバイトで稼いではじめてのVOCALOID「**初音ミク**」をお迎えしました。
 
-![初音ミク](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/random-note/miku.JPG){}
+![初音ミク](https://d2s4ypph6g1t06.cloudfront.net/img/blog/random-note/miku.JPG){}
 
 最初に完成させて投稿した曲は拙い完成度ではあるものの、いろんな方に聞いてもらえたりコメントをもらえたりしたときはとにかく嬉しい気持ちでいっぱいでした。
 オリジナル曲という[誰とも替えの効かないものが評価される喜び]{.marker}は、なかなか体験することができない感情だと思っています。

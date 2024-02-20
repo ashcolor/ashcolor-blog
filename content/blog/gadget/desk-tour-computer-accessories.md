@@ -16,7 +16,7 @@ tags:
   - "Kensington"
   - "ロジクール"
   - "Keychron"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/key-cap.jpg"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/key-cap.jpg"
 ---
 
 この記事では[デスク周り紹介](/blog/gadget/desk-tour)で紹介したデスクの内、[PC周辺機器]{.marker}について紹介していきます。
@@ -27,7 +27,7 @@ thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadge
 
 ### トラックボール：Kensington：SlimBlade Pro
 
-![Kensington SlimBlade Pro](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/slimblade-pro.jpg)
+![Kensington SlimBlade Pro](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/slimblade-pro.jpg)
 
 トラックボールは**Kensington**の**SlimBlade Pro**を使用しています。
 私が購入したのはAmazon.co.jp限定のボール色がグレーのモデルになります。（機能は通常版と同じです。）
@@ -40,7 +40,7 @@ DTMをする際はMIDIキーボードを机に置くため、机のスペース�
 SlimBlade Proは4つボタンがあり、さらに同時押しに対しても専用ソフトウェアを使用することで機能を割り当てることができるため、合計[8つの機能を割り当てる]{.marker}ことができます。
 また、アクティブなアプリケーションによって、実行する機能を切り替えることもできます。
 
-![Kensington Works](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/kensington-works.png)
+![Kensington Works](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/kensington-works.png)
 
 ただ、[上側のボタン2つの同時押しのみ機能せず]{.marker}に各ボタンの機能が実行されることが頻繁にあります。
 他の同時押しは普通に押せば反応するのですが、上ボタンの同時だけちょっとでも押下タイミングがずれると同時押し判定にならないです。
@@ -55,7 +55,7 @@ SlimBlade Proは4つボタンがあり、さらに同時押しに対しても専
 
 ### ゲーム用マウス：ロジクール G PRO X SUPERLIGHT ホワイト
 
-![ロジクール G PRO X SUPERLIGHT ホワイト](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/g-pro.jpg)
+![ロジクール G PRO X SUPERLIGHT ホワイト](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/g-pro.jpg)
 
 ゲーム用のマウスは**ロジクール**の**G PRO X SUPERLIGHT**を使用しています。
 
@@ -69,7 +69,7 @@ SlimBlade Proは4つボタンがあり、さらに同時押しに対しても専
 
 ### マウスパッド：ロジクール MP10GR グラファイト
 
-![ロジクール MP10GR グラファイト](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/mouse-pad.jpg)
+![ロジクール MP10GR グラファイト](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/mouse-pad.jpg)
 
 マウスを使う際のマウスパッドは**ロジクール**の**MP10GR**を使用しています。
 
@@ -84,7 +84,7 @@ SlimBlade Proは4つボタンがあり、さらに同時押しに対しても専
 
 ### キーボード：Keychron K6 Pro
 
-![Keychron K6 Pro](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/keychron-2.jpg)
+![Keychron K6 Pro](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/keychron-2.jpg)
 
 キーボードは**Keychron**の**K6 Pro**を使用しています。
 
@@ -106,7 +106,7 @@ K6 Proシリーズの特徴は以下の通りです。
 
 特に便利だと感じるのは[VIAによるキーのカスタムが可能]{.marker}な点です。
 
-![VIA](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/via.png)
+![VIA](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/via.png)
 
 VIAは主に自作キーボードを作成する際に使用するソフトウェアで、[パソコン上からキーマップを自由に変更]{.marker}することができます。
 例えば、「Caps Lockキーに別の機能を割り当てる」、「FnとAltキーの位置を入れ替える」といったことをすることができます。
@@ -122,7 +122,7 @@ VIAなら[Fnキーも自由な場所に配置]{.marker}することができま�
 
 ### キーキャップ：XVX PBTキーキャップセット (ホワイト/グリーン)
 
-![XVX PBTキーキャップセット](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/key-cap.jpg)
+![XVX PBTキーキャップセット](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/key-cap.jpg)
 
 キーキャップは**XVX**というメーカーの**PBTキーキャップセット**を使用しています。
 
@@ -137,7 +137,7 @@ VIAなら[Fnキーも自由な場所に配置]{.marker}することができま�
 
 <!-- ### リストレスト：LGBN White-61
 
-![LGBN White-61](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/wrist-rest.jpg)
+![LGBN White-61](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/wrist-rest.jpg)
 
 リストレストは**LGBN**というメーカーの**White-61**を使用しています。
 
@@ -156,7 +156,7 @@ VIAなら[Fnキーも自由な場所に配置]{.marker}することができま�
 
 ディスプレイは**IODATA**の**GigaCrysta WQHD 23.8インチ**を使用しています。
 
-![IODATA GigaCrysta WQHD 23.8インチ](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/display.jpg)
+![IODATA GigaCrysta WQHD 23.8インチ](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/display.jpg)
 
 [高さ調整と縦横回転が可能]{.marker}があったので購入しました。
 ただ、後からモニターアームを使用するようになったので、そこにこだわる必要はなかったです。
@@ -168,7 +168,7 @@ VIAなら[Fnキーも自由な場所に配置]{.marker}することができま�
 
 ### モニターアーム：エルゴトロン LX デスクマウント モニターアーム マットブラック
 
-![エルゴトロン LX デスクマウント モニターアーム](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/monitor-arm.jpg)
+![エルゴトロン LX デスクマウント モニターアーム](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/monitor-arm.jpg)
 
 モニターアームは**エルゴトロン**の**LX デスクマウント モニターアーム**を使用しています。
 
@@ -179,7 +179,7 @@ VIAなら[Fnキーも自由な場所に配置]{.marker}することができま�
 
 ### モニターアーム：エルゴトロン LX デスクマウント 延長用アーム マットブラック
 
-![エルゴトロン LX デスクマウント 延長用アーム](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/monitor-arm-2.jpg)
+![エルゴトロン LX デスクマウント 延長用アーム](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/monitor-arm-2.jpg)
 
 モニターを上下に配置する際、[上側のディスプレイの高さが足りなかった]{.marker}ので購入しました。
 
@@ -191,7 +191,7 @@ VIAなら[Fnキーも自由な場所に配置]{.marker}することができま�
 
 ### Webカメラ：Anker PowerConf C200
 
-![Anker PowerConf C200](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/web-camera.jpg)
+![Anker PowerConf C200](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/web-camera.jpg)
 
 Webカメラは**Anker**の**PowerConf C200**を使用しています。
 
@@ -199,7 +199,7 @@ Webカメラは**Anker**の**PowerConf C200**を使用しています。
 
 また、[プライバシーシールド]{.marker}があるため、使用しないときは物理的にカメラにカバーをすることができて安心です。
 
-![プライバシーシールド](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/gadget/desk-tour-computer-accessories/web-camera-privacy.jpg)
+![プライバシーシールド](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/web-camera-privacy.jpg)
 
 :affiliate-block{title="Anker PowerConf C200 ウェブカメラ" imageUrl="https://m.media-amazon.com/images/I/41PNelNJ2SL._SL160_.jpg" asin="B09MHPFV4Q"}
 

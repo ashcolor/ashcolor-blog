@@ -8,7 +8,7 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thumbnail.png"
 isRecommend: true
 ---
 
@@ -21,7 +21,7 @@ Synthesizer V は、**Dreamtonics**が開発する歌声合成ソフトウェア
 
 Synthesizer V には[40 を超える歌声データベース]{.marker}が存在しています。
 
-![歌声データベースの一部（公式サイトより）](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-singer/singer.png)
+![歌声データベースの一部（公式サイトより）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-singer/singer.png)
 
 Synthesizer V を購入する際にはどの歌声データベースを購入するか、悩む方も多いのではないでしょうか。
 
@@ -54,14 +54,14 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 公式サイトの下の方までスクロールすると[歌声データベースの一覧]{.marker}を確認することができます。
 
-![公式サイト 歌声データベース一覧](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-singer/player1.png)
+![公式サイト 歌声データベース一覧](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-singer/player1.png)
 
 試聴したい歌声データベースの横の「▶️」をクリックすると、歌声を試聴することができます。
 （※PC版の場合はマウスをホバーすると「▶️」が表示されます。）
 
 さらに、試聴中に表示されるプレイヤーには[デモソングとボーカルスタイルの変更]{.marker}をする機能が備わっています。
 
-![公式サイト デモソングプレイヤー デモソングやボーカルスタイルを切り替えられる](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-singer/player2.png)
+![公式サイト デモソングプレイヤー デモソングやボーカルスタイルを切り替えられる](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-singer/player2.png)
 
 [デモソングの数も充実しており、全てのボーカルスタイルも試聴することができる]{.marker}ため、[好みの歌声データベースを探すのが楽]{.marker}になります。
 
@@ -69,7 +69,7 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 歌声データベースには収録言語の記載がされていますが、実際には[全ての音源で日本語、英語、中国の 3 つの言語で歌わせることが可能]{.marker}です。
 
-![Maiの言語設定 日本語以外の言語も選ぶことができる](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/dtm/synthesizer-v-singer/language.png)
+![Maiの言語設定 日本語以外の言語も選ぶことができる](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-singer/language.png)
 
 以下の動画では収録言語が中国語の **Feng Yi** と **An Xiao** が日本語で歌っているカバー動画を確認することができます。
 
