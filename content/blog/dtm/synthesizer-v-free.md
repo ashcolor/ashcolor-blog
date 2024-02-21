@@ -1,7 +1,7 @@
 ---
 createdAt: "2024/02/15"
 updatedAt: "2024/02/21"
-title: "Synthesizer V を無料で使う方法！Basicエディタやライト版の歌声データベースについてまとめました"
+title: "Synthesizer V を無料で使う方法！入手方法や有料版との違いについて詳しく解説"
 description: "Synthesizer Vを無料で使う方法を解説します。Basicエディタやライト版の歌声データベースについての詳細をまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
@@ -19,6 +19,20 @@ isRecommend: true
 Synthesizer Vは有料のソフトウェアですが、[無料で利用できるエディタと歌声データベース]{.marker}も配布されています。
 無料版でも多くの機能を使うことができるので、Synthesizer Vに興味がある方はぜひ使ってみてください。
 
+## 入手方法
+
+無料のエディタである「Studio Basic」、無料の歌声データベースどちらも、**AHS**か**Dreamtonics**のサイトからダウンロードすることができます。
+
+AHS
+
+:link-card{url="https://www.ah-soft.com/trial/synth-v.html"}
+
+Dreamtonics
+
+:link-card{url="https://resource.dreamtonics.com/download/%E6%97%A5%E6%9C%AC%E8%AA%9E/"}
+
+[無料の歌声データベースはサイトよってダウンロード可能なデータベースが異なる]{.marker}ため、[無料歌声データベース一覧](#無料歌声データベース一覧)を参考にサイトを使い分けてみてください。
+
 ## 無料エディタ「Studio Basic」
 
 Synthesizer Vのエディタである**Studio Pro**が有料なのに対して、[**Studio Basic**という無料のエディタも配布]{.marker}されています。
@@ -35,18 +49,6 @@ Studio BasicとStudio Proの違いは以下の通りです。
 
 一方で、機能面では[3トラックまでの制限やVSTプラグインがない]{.marker}、[調声面では自動ピッチの調整ができない、ボーカルスタイルがない]{.marker}などの制限もあります。
 
-### 入手方法
-
-Studio Basicは**AHS**か**Dreamtonics**のサイトからダウンロードすることができます。
-
-AHS
-
-:link-card{url="https://www.ah-soft.com/trial/synth-v.html"}
-
-Dreamtonics
-
-:link-card{url="https://resource.dreamtonics.com/download/%E6%97%A5%E6%9C%AC%E8%AA%9E/Synthesizer%20V%20Studio%20Basic/"}
-
 ## 無料の歌声データベース
 
 Synthesizer Vは[無料の歌声データベースを数多く配布]{.marker}しています。
@@ -55,45 +57,29 @@ Synthesizer Vは[無料の歌声データベースを数多く配布]{.marker}�
 
 現在（2024年2月）配布されている無料の歌声データベースは以下の通りです。
 
-| DB名          | AI機能 | 種類       | [AHS](https://www.ah-soft.com/trial/synth-v.html)からDL可 | [Dreamtonics](https://resource.dreamtonics.com/download/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E6%AD%8C%E5%A3%B0%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9/)からDL可 |
-| ------------- | ------ | ---------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Eri           | ⭕     | 機能限定版 | ⭕                                                        | ⭕                                                                                                                                                                     |
-| 桜乃そら      | ⭕     | ライト版   | ⭕                                                        | -                                                                                                                                                                      |
-| 重音テト      | ⭕     | ライト版   | ⭕                                                        | ⭕                                                                                                                                                                     |
-| Ritchy        | ⭕     | 機能限定版 | ⭕                                                        | ⭕                                                                                                                                                                     |
-| D-Lin         | ⭕     | 機能限定版 | ⭕                                                        | ⭕                                                                                                                                                                     |
-| 花隈千冬      | ⭕     | ライト版   | ⭕                                                        | ⭕                                                                                                                                                                     |
-| 夏色花梨      | ⭕     | ライト版   | ⭕                                                        | ⭕                                                                                                                                                                     |
-| 京町セイカ    | ⭕     | ライト版   | ⭕                                                        | ⭕                                                                                                                                                                     |
-| ついなちゃん  | ⭕     | ライト版   | ⭕                                                        | ⭕                                                                                                                                                                     |
-| 弦巻マキ AI   | ⭕     | ライト版   | ⭕                                                        | -                                                                                                                                                                      |
-| 小春六花      | ⭕     | ライト版   | ⭕                                                        | ⭕                                                                                                                                                                     |
-| Saki          | ⭕     | ライト版   | ⭕                                                        | ⭕                                                                                                                                                                     |
-| 琴葉 茜・葵   | -      | ライト版   | ⭕                                                        | ⭕                                                                                                                                                                     |
-| AiKO          | -      | ライト版   | -                                                         | ⭕                                                                                                                                                                     |
-| ANRI          | ⭕     | ライト版   | -                                                         | ⭕                                                                                                                                                                     |
-| ASTERIAN      | ⭕     | ライト版   | -                                                         | ⭕                                                                                                                                                                     |
-| Chiyu         | -      | ライト版   | -                                                         | ⭕                                                                                                                                                                     |
-| Genbu         | -      | ライト版   | -                                                         | ⭕                                                                                                                                                                     |
-| Eleanor Forte | ⭕     | ライト版   | -                                                         | ⭕                                                                                                                                                                     |
+| DB名          | AI機能 | 種類       | AHSからDL可 | DreamtonicsからDL可 |
+| ------------- | ------ | ---------- | ----------- | ------------------- |
+| Eri           | ⭕     | 機能限定版 | ⭕          | ⭕                  |
+| 桜乃そら      | ⭕     | ライト版   | ⭕          | -                   |
+| 重音テト      | ⭕     | ライト版   | ⭕          | ⭕                  |
+| Ritchy        | ⭕     | 機能限定版 | ⭕          | ⭕                  |
+| D-Lin         | ⭕     | 機能限定版 | ⭕          | ⭕                  |
+| 花隈千冬      | ⭕     | ライト版   | ⭕          | ⭕                  |
+| 夏色花梨      | ⭕     | ライト版   | ⭕          | ⭕                  |
+| 京町セイカ    | ⭕     | ライト版   | ⭕          | ⭕                  |
+| ついなちゃん  | ⭕     | ライト版   | ⭕          | ⭕                  |
+| 弦巻マキ AI   | ⭕     | ライト版   | ⭕          | -                   |
+| 小春六花      | ⭕     | ライト版   | ⭕          | ⭕                  |
+| Saki          | ⭕     | ライト版   | ⭕          | ⭕                  |
+| 琴葉 茜・葵   | -      | ライト版   | ⭕          | ⭕                  |
+| AiKO          | -      | ライト版   | -           | ⭕                  |
+| ANRI          | ⭕     | ライト版   | -           | ⭕                  |
+| ASTERIAN      | ⭕     | ライト版   | -           | ⭕                  |
+| Chiyu         | -      | ライト版   | -           | ⭕                  |
+| Genbu         | -      | ライト版   | -           | ⭕                  |
+| Eleanor Forte | ⭕     | ライト版   | -           | ⭕                  |
 
 AI機能が⭕になっていないものは、AIの補正がかからないためオススメしません。
-
-入手方法や種類による違いは次の項目で説明します。
-
-### 入手方法
-
-無料の歌声データベースは**AHS**か**Dreamtonics**のサイトからダウンロードすることができます。
-
-AHS
-
-:link-card{url="https://www.ah-soft.com/trial/synth-v.html"}
-
-Dreamtonics
-
-:link-card{url="https://resource.dreamtonics.com/download/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E6%AD%8C%E5%A3%B0%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9/"}
-
-[歌声データベースによって配布先が異なる]{.marker}ため、上の表を参考にサイトを使い分けてみてください。
 
 ### 無料版の種類
 
