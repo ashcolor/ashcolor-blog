@@ -1,3 +1,4 @@
+<!-- @see https://github.com/nuxt-themes/typography/blob/main/components/global/ProseBlockquote.vue -->
 <template>
     <blockquote class="prose-blockquote">
         <slot />
