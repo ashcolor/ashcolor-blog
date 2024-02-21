@@ -93,13 +93,9 @@ AHS ストアでは、Synthesizer V 関連の商品に**AHS ユーザー特別�
 ### Amazonで購入する
 
 [パッケージ版を購入したい場合は**Amazon**で購入]{.marker}するのがオススメです。
-
 例えば、**Synthesizer V Studio Pro スターターパック**は2024年2月19日現在では[27%オフの14,545円]{.marker}で販売されています。
 
-:affiliate-block{title="Synthesizer V Studio Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/51jy+o9TSXL._SL160_.jpg" asin="B08B3CNY2D"}
-
 歌声データベースはそれぞれ割引率が異なります。
-
 販売された時期が昔なほど割引率が高くなっている傾向がありました。
 
 ![2024年2月19日現在 Amazonの販売価格](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-buy/amazon.png)
@@ -109,7 +105,11 @@ AHS ストアでは、Synthesizer V 関連の商品に**AHS ユーザー特別�
 パッケージ版を購入したい方は、Amazonでの購入をオススメします。
 以下のボタンから、Amazonで販売されているパッケージ版を探すことができます。
 
-[Amazonでパッケージ版を探す]{.btn .btn-primary .w-full}
+<a href="https://amzn.to/49nYcbu" target="_blank" rel="noopener noreferrer">
+<button class="btn btn-primary w-full">
+Amazonでパッケージ版を探す
+</button>
+</a>
 
 ## まとめ
 
