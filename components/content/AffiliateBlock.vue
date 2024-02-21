@@ -48,7 +48,7 @@ const dlSiteUrl = computed(() => {
             <div class="flex flex-col gap-2 sm:flex-row">
                 <a
                     v-if="props.asin"
-                    class="btn grow bg-[#ff9900] text-white hover:bg-[#ff9900]"
+                    class="btn grow bg-[#ffd814] hover:bg-[#ffd814]"
                     :href="amazonUrl"
                     target="_blank"
                     rel="noopener noreferrer"

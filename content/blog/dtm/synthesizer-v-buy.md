@@ -106,7 +106,7 @@ AHS ストアでは、Synthesizer V 関連の商品に**AHS ユーザー特別�
 以下のボタンから、Amazonで販売されているパッケージ版を探すことができます。
 
 <a href="https://amzn.to/49nYcbu" target="_blank" rel="noopener noreferrer">
-<button class="btn btn-primary w-full">
+<button class="btn bg-[#ffd814] hover:bg-[#ffd814] w-full">
 Amazonでパッケージ版を探す
 </button>
 </a>
