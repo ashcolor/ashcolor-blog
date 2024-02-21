@@ -103,7 +103,7 @@ AHS
 
 ライト版の機能制限は、以下の表で確認することができます。
 
-![ライト版の機能制限](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-free/singer-compare.jpg))
+![ライト版の機能制限](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-free/singer-compare.jpg)
 
 [AHSより](https://www.ah-soft.com/synth-v/sp/index.html)
 
