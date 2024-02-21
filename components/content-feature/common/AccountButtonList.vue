@@ -4,6 +4,7 @@
             v-for="account in ACCOUNTS"
             :key="account.name"
             :to="account.url"
+            :aria-label="account.name"
             target="_blank"
             class="btn btn-circle btn-outline btn-primary btn-sm"
         >

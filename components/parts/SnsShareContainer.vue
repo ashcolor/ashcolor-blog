@@ -35,24 +35,32 @@ const hatenabookmarkURL = computed(() => `https://b.hatena.ne.jp/entry/s/${encod
         <div class="flex flex-row justify-center gap-4">
             <div>
                 <SnsButton
-                    name="mingcute:social-x-fill"
+                    label="X(Twitter)"
+                    icon-name="mingcute:social-x-fill"
                     :color="'#0f1419'"
                     :href="twitterURL"
                 ></SnsButton>
             </div>
             <div>
                 <SnsButton
-                    name="simple-icons:facebook"
+                    label="Facebook"
+                    icon-name="simple-icons:facebook"
                     :color="'#1877f2'"
                     :href="facebookURL"
                 ></SnsButton>
             </div>
             <div>
-                <SnsButton name="simple-icons:line" :color="'#06c755'" :href="lineURL"></SnsButton>
+                <SnsButton
+                    label="LINE"
+                    icon-name="simple-icons:line"
+                    :color="'#06c755'"
+                    :href="lineURL"
+                ></SnsButton>
             </div>
             <div>
                 <SnsButton
-                    name="simple-icons:hatenabookmark"
+                    label="はてなブックマーク"
+                    icon-name="simple-icons:hatenabookmark"
                     :color="'#00a4de'"
                     :href="hatenabookmarkURL"
                 ></SnsButton>

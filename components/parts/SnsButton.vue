@@ -1,20 +1,27 @@
 <script setup lang="ts">
 interface Props {
-    name: string;
+    label: string;
+    iconName: string;
     color: string;
     href: string;
 }
 
 const props = withDefaults(defineProps<Props>(), {
-    name: "",
+    label: "",
+    iconName: "",
     color: "",
     href: "",
 });
 </script>
 
 <template>
-    <NuxtLink :to="props.href" target="_blank" class="btn btn-sm p-2 text-white">
-        <Icon :name="`${props.name}`" size="16px"></Icon>
+    <NuxtLink
+        :to="props.href"
+        target="_blank"
+        class="btn btn-sm p-2 text-white"
+        :aria-label="props.label"
+    >
+        <Icon :name="`${props.iconName}`" size="16px"></Icon>
     </NuxtLink>
 </template>
 
