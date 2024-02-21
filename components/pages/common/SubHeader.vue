@@ -13,6 +13,7 @@ import { ACCOUNTS, BLOG_SUBTITLE } from "@/utils/const";
                     v-for="account in ACCOUNTS"
                     :key="account.name"
                     :to="account.url"
+                    :aria-label="account.name"
                     target="_blank"
                     class="btn btn-ghost btn-xs"
                 >

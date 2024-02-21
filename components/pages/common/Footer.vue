@@ -30,6 +30,7 @@ const showCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                     v-for="account in ACCOUNTS"
                     :key="account.name"
                     :to="account.url"
+                    :aria-label="account.name"
                     target="_blank"
                     class="btn btn-ghost btn-sm"
                 >
