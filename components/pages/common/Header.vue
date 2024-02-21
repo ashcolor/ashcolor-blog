@@ -45,7 +45,7 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
                 </ul>
             </div>
             <div class="navbar-end hidden lg:flex">
-                <NuxtLink to="/search" class="btn btn-ghost">
+                <NuxtLink to="/search" aria-label="記事検索" class="btn btn-ghost">
                     <Icon name="bi:search" size="16px"></Icon>
                 </NuxtLink>
             </div>
