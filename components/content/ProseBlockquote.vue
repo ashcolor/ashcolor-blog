@@ -1,5 +1,6 @@
 <!-- @see https://github.com/nuxt-themes/typography/blob/main/components/global/ProseBlockquote.vue -->
 <template>
+    <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
     <blockquote class="prose-blockquote">
         <slot />
     </blockquote>
