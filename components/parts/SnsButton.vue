@@ -8,7 +8,7 @@ interface Props {
 
 const props = withDefaults(defineProps<Props>(), {
     label: "",
-    name: "",
+    iconName: "",
     color: "",
     href: "",
 });
