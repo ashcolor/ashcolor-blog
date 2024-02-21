@@ -1,8 +1,8 @@
 ---
 createdAt: "2023/08/01"
-updatedAt: "2024/01/19"
-title: "Ample Guitarを使用する際の注意点"
-description: "VST音源であるAmple Guitarを使う際の注意点についてまとめます。"
+updatedAt: "2024/02/21"
+title: "Ample Guitarの演奏モードと使用する際の注意点について解説"
+description: "VST音源であるAmple Guitarの演奏モードと使う際の注意点についてまとめます。"
 category: "DTM"
 tags:
   - "ギター音源"

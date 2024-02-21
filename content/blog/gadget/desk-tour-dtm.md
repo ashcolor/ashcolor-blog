@@ -72,16 +72,6 @@ SEシリーズはイヤホンを装着する際に**SHURE掛け**と呼ばれる
 
 :affiliate-block{title="SHURE イヤホン SEシリーズ SE425 カナル型" imageUrl="https://m.media-amazon.com/images/I/31qWFf5m5JL._SL160_.jpg" asin="B07DNKZ74Y"}
 
-<!-- ### イヤホンケーブル：GAOHOU ブラックMMCXイヤホンケーブルDIY WESTONE W10 / W20 / W30 / W40 / W50 / W60 / W80 / UE900用
-
-https://www.amazon.co.jp/gp/product/B074NNSPRV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 -->
-
-<!-- ### ワイヤレスイヤホン：Jabra Elite 85t -->
-
-<!-- ### イヤーパッド：AZLA SednaEarfit MAX [イヤーピース M/ML/Lサイズ各1ペア] テーパード構造 医療用シリコン スタンダード設計 一体型シリコンフィルター搭載 細軸ノズルアダプター付属 低刺激 快適フィット
-
-https://www.amazon.co.jp/gp/product/B0B48P171D/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 -->
-
 ## マイク
 
 ### マイク：オーディオテクニカ AT2020

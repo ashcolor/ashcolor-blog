@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/11/20"
-updatedAt: "2024/02/19"
+updatedAt: "2024/02/21"
 title: "Synthesizer V を少しでも安く購入する方法！スターターパックについてと割引率の高い購入先まとめ"
 description: "Synthesizer V（SynthV）をお得に購入する方法をまとめました。"
 category: "DTM"
@@ -133,12 +133,4 @@ Synthesizer V を購入する際の参考になれば幸いです。
 
 :affiliate-block{title="Synthesizer V AI Megpoid パッケージ版" asin="B0CNSLGNH7" imageUrl="https://m.media-amazon.com/images/I/41PINo4+UcL._SL160_.jpg"}
 
-:affiliate-block{title="Synthesizer V AI Megpoid ダウンロード版" imageUrl="https:///img.dlsite.jp/modpub/images2/work/professional/VJ01002000/VJ01001252_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001252.html"}
-
 :affiliate-block{title="Synthesizer V AI 重音テト パッケージ版" imageUrl="https://m.media-amazon.com/images/I/417GBcwOqaL._SL160_.jpg" asin="B0BYZ417DW"}
-
-:affiliate-block{title="Synthesizer V AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000376_img_main.webp" asin="B0BYZ417DW" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000376.html"}
-
-:affiliate-block{title="Synthesizer V POPY(ポピー) ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01002000/VJ01001165_img_main.webp" asin="B0BMV7QYWS" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001165.html"}
-
-:affiliate-block{title="Synthesizer V ROSE(ローズ) ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01002000/VJ01001167_img_main.webp" asin="B0BMTTT3V7" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001167.html"}
