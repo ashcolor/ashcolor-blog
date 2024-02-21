@@ -37,7 +37,7 @@ Studio BasicとStudio Proの違いは以下の通りです。
 
 ### 入手方法
 
-AHSかDreamtonicsのサイトからダウンロードすることができます。
+Studio Basicは**AHS**か**Dreamtonics**のサイトからダウンロードすることができます。
 
 AHS
 
@@ -83,15 +83,15 @@ AI機能が⭕になっていないものは、AIの補正がかからないた�
 
 ### 入手方法
 
-無料の歌声データベースは**Dreamtonics**または**AHSのサイト**で配布しています。
-
-Dreamtonics
-
-:link-card{url="https://resource.dreamtonics.com/download/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E6%AD%8C%E5%A3%B0%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9/"}
+無料の歌声データベースは**AHS**か**Dreamtonics**のサイトからダウンロードすることができます。
 
 AHS
 
 :link-card{url="https://www.ah-soft.com/trial/synth-v.html"}
+
+Dreamtonics
+
+:link-card{url="https://resource.dreamtonics.com/download/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E6%AD%8C%E5%A3%B0%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9/"}
 
 [歌声データベースによって配布先が異なる]{.marker}ため、上の表を参考にサイトを使い分けてみてください。
 
