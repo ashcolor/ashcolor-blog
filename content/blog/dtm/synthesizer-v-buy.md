@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/11/20"
-updatedAt: "2024/02/21"
+updatedAt: "2024/02/29"
 title: "Synthesizer V を少しでも安く購入する方法！スターターパックについてと割引率の高い購入先まとめ"
 description: "Synthesizer V（SynthV）をお得に購入する方法をまとめました。"
 category: "DTM"
@@ -128,6 +128,11 @@ Amazonでパッケージ版を探す
 どの歌声データベースを購入するか悩んでいる場合は以下の記事も参考にしてみてください。
 
 :quote-article-card{url="/blog/dtm/synthesizer-v-singer"}
+
+また、Synthesizer Vには無料版があるので、購入前に試したい場合に使ってみてください。
+以下の記事に導入方法や有料版との違いをまとめています。
+
+:quote-article-card{url="/blog/dtm/synthesizer-v-free"}
 
 Synthesizer V を購入する際の参考になれば幸いです。
 
