@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/02/04"
+updatedAt: "2024/02/29"
 title: "Synthesizer V 歌声データベース一覧とオススメの歌声"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -232,12 +232,17 @@ CeVIO AI 版の可不はアンケート結果などを元に歌声の方向性�
 
 この記事では歌声データベースの一覧・選び方・オススメ・発売予定の歌声データベースを紹介しました。
 
-Synthesizer V の歌声データベースはどれも[高品質であり、男声・女声どちらも充実]{.marker}しているのが魅力です。
-お気に入りの歌声データベースを探す際の参考になれば幸いです。
+Synthesizer Vの歌声データベースには無料で使用できるバージョンもあります。
+以下の記事に導入方法や有料版との違いをまとめているので参考にしてみてください。
 
-また、歌声データベースをお得に購入する方法は以下の記事にまとめてあるので、合わせてご覧ください。
+:quote-article-card{url="/blog/dtm/synthesizer-v-free"}
+
+また、歌声データベースをお得に購入する方法は以下の記事にまとめてあります。
 
 :quote-article-card{url="/blog/dtm/synthesizer-v-buy"}
+
+Synthesizer V の歌声データベースはどれも[高品質であり、男声・女声どちらも充実]{.marker}しているのが魅力です。
+お気に入りの歌声データベースを探す際の参考になれば幸いです。
 
 :affiliate-block{title="Synthesizer V Studio Pro" imageUrl="https://m.media-amazon.com/images/I/41nl+l0DddL._SL160_.jpg" asin="B08B34MWKF" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ013608.html"}
 
