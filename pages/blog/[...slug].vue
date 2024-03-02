@@ -3,6 +3,20 @@ import { BLOG_TITLE, BLOG_CATEGORIES } from "@/utils/const";
 
 const route = useRoute();
 
+let fullPath = route.fullPath;
+if (fullPath.endsWith("/")) {
+    fullPath = fullPath.slice(0, -1);
+}
+
+useHead({
+    link: [
+        {
+            rel: "canonical",
+            href: `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}${fullPath}`,
+        },
+    ],
+});
+
 const { data: article } = await useAsyncData(() => queryContent(route.path).findOne());
 
 const title = computed(() => `${article.value?.title} | ${BLOG_TITLE}`);
