@@ -16,7 +16,7 @@
             </div>
             <div>
                 <p>フリーランスでWebシステムエンジニアをやっています。</p>
-                <p>趣味でDTMをしていて、オリジナル曲をニコニコ動画やYouTubeに投稿しています。</p>
+                <p>趣味ではDTMをしていて、オリジナル曲をニコニコ動画やYouTubeに投稿しています。</p>
             </div>
             <div class="flex flex-row gap-4">
                 <NuxtLink
