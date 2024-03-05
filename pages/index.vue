@@ -50,15 +50,15 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
 </script>
 
 <template>
-    <ProseH1 class="my-4 text-center font-logo text-4xl">{{ BLOG_TITLE }}</ProseH1>
-    <div class="text-center font-logo text-slate-500">
+    <ProseH1 class="font-logo my-4 text-center text-4xl">{{ BLOG_TITLE }}</ProseH1>
+    <div class="font-logo text-center text-slate-500">
         <p>{{ BLOG_SUBTITLE }}</p>
     </div>
     <div
         class="hero mx-[calc(50%_-_50vw)] my-8 h-[50vh] w-screen bg-[url('https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour/overall.jpg')]"
     >
         <div class="hero-overlay"></div>
-        <div class="hero-content text-center text-neutral-content">
+        <div class="hero-content text-neutral-content text-center">
             <div class="max-w-md">
                 <!-- <h1 class="mb-5 text-2xl font-bold">クリエイター向けブログ</h1>
                     <p class="mb-5">役立つガジェット・情報を紹介します。</p> -->
@@ -96,7 +96,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                         :style="`background-image: url(${category.thumbnail});`"
                     >
                         <div class="hero-overlay opacity-90"></div>
-                        <div class="hero-content text-center text-neutral-content">
+                        <div class="hero-content text-neutral-content text-center">
                             <div class="max-w-md">
                                 <p class="text-xl font-thin">{{ category.name }}</p>
                             </div>
@@ -121,7 +121,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                 <ProseH3>タグから探す</ProseH3>
                 <div class="flex flex-row flex-wrap gap-3 border p-4 text-slate-500">
                     <div v-if="pending">
-                        <div class="loading loading-spinner mx-auto my-8 block text-primary"></div>
+                        <div class="loading loading-spinner text-primary mx-auto my-8 block"></div>
                     </div>
                     <template v-else>
                         <NuxtLink
@@ -137,4 +137,7 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
             </div>
         </div>
     </div>
+    <ProseH2>このサイトについて</ProseH2>
+    <ProseH3>このブログを運営している人</ProseH3>
+    <BlogProfile></BlogProfile>
 </template>
