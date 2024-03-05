@@ -50,32 +50,30 @@ const navigations = computed(() => {
 </script>
 
 <template>
-    <NuxtLayout>
-        <BreadCrumb :navigations="navigations"></BreadCrumb>
-        <ProseH1 class="my-4 text-center font-logo text-4xl">{{ categoryName }}</ProseH1>
-        <div
-            class="hero mx-[calc(50%_-_50vw)] my-8 h-96 w-screen"
-            :style="`background-image: url(${categoryThumbnail})`"
-        >
-            <div class="hero-overlay"></div>
-            <div class="hero-content text-center text-neutral-content"></div>
+    <BreadCrumb :navigations="navigations"></BreadCrumb>
+    <ProseH1 class="my-4 text-center font-logo text-4xl">{{ categoryName }}</ProseH1>
+    <div
+        class="hero mx-[calc(50%_-_50vw)] my-8 h-96 w-screen"
+        :style="`background-image: url(${categoryThumbnail})`"
+    >
+        <div class="hero-overlay"></div>
+        <div class="hero-content text-center text-neutral-content"></div>
+    </div>
+    <ProseH2>オススメ記事</ProseH2>
+    <div class="flex flex-col">
+        <div class="my-6">
+            <TopRecommendArticles :category="categoryName"></TopRecommendArticles>
         </div>
-        <ProseH2>オススメ記事</ProseH2>
-        <div class="flex flex-col">
-            <div class="my-6">
-                <TopRecommendArticles :category="categoryName"></TopRecommendArticles>
-            </div>
+    </div>
+    <ProseH2>新着記事</ProseH2>
+    <div class="flex flex-col">
+        <div class="my-6">
+            <TopRecentArticles :category="categoryName"></TopRecentArticles>
         </div>
-        <ProseH2>新着記事</ProseH2>
-        <div class="flex flex-col">
-            <div class="my-6">
-                <TopRecentArticles :category="categoryName"></TopRecentArticles>
-            </div>
-            <NuxtLink
-                :to="`/search?category=${categoryName}`"
-                class="btn btn-outline btn-primary btn-wide self-center"
-                >もっと見る
-            </NuxtLink>
-        </div>
-    </NuxtLayout>
+        <NuxtLink
+            :to="`/search?category=${categoryName}`"
+            class="btn btn-outline btn-primary btn-wide self-center"
+            >もっと見る
+        </NuxtLink>
+    </div>
 </template>
