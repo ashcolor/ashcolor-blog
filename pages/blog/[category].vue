@@ -51,13 +51,13 @@ const navigations = computed(() => {
 
 <template>
     <BreadCrumb :navigations="navigations"></BreadCrumb>
-    <ProseH1 class="font-logo my-4 text-center text-4xl">{{ categoryName }}</ProseH1>
+    <ProseH1 class="my-4 text-center font-logo text-4xl">{{ categoryName }}</ProseH1>
     <div
         class="hero mx-[calc(50%_-_50vw)] my-8 h-96 w-screen"
         :style="`background-image: url(${categoryThumbnail})`"
     >
         <div class="hero-overlay"></div>
-        <div class="hero-content text-neutral-content text-center"></div>
+        <div class="hero-content text-center text-neutral-content"></div>
     </div>
     <ProseH2>オススメ記事</ProseH2>
     <div class="flex flex-col">
