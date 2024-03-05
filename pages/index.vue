@@ -50,65 +50,64 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
 </script>
 
 <template>
-    <NuxtLayout>
-        <ProseH1 class="my-4 text-center font-logo text-4xl">{{ BLOG_TITLE }}</ProseH1>
-        <div class="text-center font-logo text-slate-500">
-            <p>{{ BLOG_SUBTITLE }}</p>
-        </div>
-        <div
-            class="hero mx-[calc(50%_-_50vw)] my-8 h-[50vh] w-screen bg-[url('https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour/overall.jpg')]"
-        >
-            <div class="hero-overlay"></div>
-            <div class="hero-content text-center text-neutral-content">
-                <div class="max-w-md">
-                    <!-- <h1 class="mb-5 text-2xl font-bold">クリエイター向けブログ</h1>
+    <ProseH1 class="my-4 text-center font-logo text-4xl">{{ BLOG_TITLE }}</ProseH1>
+    <div class="text-center font-logo text-slate-500">
+        <p>{{ BLOG_SUBTITLE }}</p>
+    </div>
+    <div
+        class="hero mx-[calc(50%_-_50vw)] my-8 h-[50vh] w-screen bg-[url('https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour/overall.jpg')]"
+    >
+        <div class="hero-overlay"></div>
+        <div class="hero-content text-center text-neutral-content">
+            <div class="max-w-md">
+                <!-- <h1 class="mb-5 text-2xl font-bold">クリエイター向けブログ</h1>
                     <p class="mb-5">役立つガジェット・情報を紹介します。</p> -->
-                </div>
             </div>
         </div>
-        <ProseH2>オススメ記事</ProseH2>
-        <div class="flex flex-col">
-            <div class="my-8">
-                <TopRecommendArticles></TopRecommendArticles>
-            </div>
+    </div>
+    <ProseH2>オススメ記事</ProseH2>
+    <div class="flex flex-col">
+        <div class="my-8">
+            <TopRecommendArticles></TopRecommendArticles>
         </div>
-        <ProseH2>新着記事</ProseH2>
-        <div class="flex flex-col">
-            <div class="my-8">
-                <TopRecentArticles></TopRecentArticles>
-            </div>
-            <NuxtLink to="/search" class="btn btn-outline btn-primary btn-wide self-center"
-                >もっと見る
-            </NuxtLink>
+    </div>
+    <ProseH2>新着記事</ProseH2>
+    <div class="flex flex-col">
+        <div class="my-8">
+            <TopRecentArticles></TopRecentArticles>
         </div>
-        <ProseH2>記事を探す</ProseH2>
-        <div class="flex flex-col xl:flex-row">
-            <div class="shrink-0 basis-1/2">
-                <ProseH3>カテゴリーから探す</ProseH3>
-                <div class="flex flex-row flex-wrap justify-evenly gap-2">
-                    <NuxtLink
-                        v-for="category in listCategories"
-                        :key="category.name"
-                        :to="`/search?category=${category.name}`"
-                        class="card"
+        <NuxtLink to="/search" class="btn btn-outline btn-primary btn-wide self-center"
+            >もっと見る
+        </NuxtLink>
+    </div>
+    <ProseH2>記事を探す</ProseH2>
+    <div class="flex flex-col xl:flex-row">
+        <div class="shrink-0 basis-1/2">
+            <ProseH3>カテゴリーから探す</ProseH3>
+            <div class="flex flex-row flex-wrap justify-evenly gap-2">
+                <NuxtLink
+                    v-for="category in listCategories"
+                    :key="category.name"
+                    :to="`/search?category=${category.name}`"
+                    class="card"
+                >
+                    <div
+                        class="hero h-[128px] w-[256px] bg-[url('')]"
+                        :style="`background-image: url(${category.thumbnail});`"
                     >
-                        <div
-                            class="hero h-[128px] w-[256px] bg-[url('')]"
-                            :style="`background-image: url(${category.thumbnail});`"
-                        >
-                            <div class="hero-overlay opacity-90"></div>
-                            <div class="hero-content text-center text-neutral-content">
-                                <div class="max-w-md">
-                                    <p class="text-xl font-thin">{{ category.name }}</p>
-                                </div>
+                        <div class="hero-overlay"></div>
+                        <div class="hero-content text-center text-primary-content">
+                            <div class="max-w-md">
+                                <p class="text-2xl">{{ category.name }}</p>
                             </div>
                         </div>
-                    </NuxtLink>
-                </div>
+                    </div>
+                </NuxtLink>
             </div>
-            <div class="shrink-0 basis-1/2">
-                <div>
-                    <!-- <ProseH3>ワード検索</ProseH3>
+        </div>
+        <div class="shrink-0 basis-1/2">
+            <div>
+                <!-- <ProseH3>ワード検索</ProseH3>
                     <div class="join w-full">
                         <div class="btn join-item pointer-events-none cursor-default">
                             <Icon name="bi:search"></Icon>
@@ -119,28 +118,26 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
                         />
                         <button class="btn join-item">Search</button>
                     </div> -->
-                    <ProseH3>タグから探す</ProseH3>
-                    <div class="flex flex-row flex-wrap gap-3 border p-4 text-slate-500">
-                        <div v-if="pending">
-                            <div
-                                class="loading loading-spinner mx-auto my-8 block text-primary"
-                            ></div>
-                        </div>
-                        <template v-else>
-                            <NuxtLink
-                                v-for="tagCount in famousTags"
-                                :key="tagCount.name"
-                                :to="`/search?word=${encodeURI(tagCount.name)}`"
-                                class="badge badge-outline"
-                            >
-                                {{ tagCount.name }}
-                            </NuxtLink>
-                        </template>
+                <ProseH3>タグから探す</ProseH3>
+                <div class="flex flex-row flex-wrap gap-3 border p-4 text-slate-500">
+                    <div v-if="pending">
+                        <div class="loading loading-spinner mx-auto my-8 block text-primary"></div>
                     </div>
+                    <template v-else>
+                        <NuxtLink
+                            v-for="tagCount in famousTags"
+                            :key="tagCount.name"
+                            :to="`/search?word=${encodeURI(tagCount.name)}`"
+                            class="badge badge-outline"
+                        >
+                            {{ tagCount.name }}
+                        </NuxtLink>
+                    </template>
                 </div>
             </div>
         </div>
-        <!-- <ProseH3>この記事を書いた人</ProseH3> -->
-        <!-- <div></div> -->
-    </NuxtLayout>
+    </div>
+    <ProseH2>このサイトについて</ProseH2>
+    <ProseH3>このブログを運営している人</ProseH3>
+    <BlogProfile></BlogProfile>
 </template>

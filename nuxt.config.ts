@@ -52,11 +52,6 @@ export default defineNuxtConfig({
         },
     },
 
-    eslint: {
-        // pnpm dev開始にlintを実行するか
-        lintOnStart: false,
-    },
-
     googleFonts: {
         families: {
             "M+PLUS+Rounded+1c": true,
