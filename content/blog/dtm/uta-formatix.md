@@ -2,7 +2,7 @@
 createdAt: "2024/03/06"
 updatedAt: ""
 title: "【UtaFormaix】VOCALOID/Synthesizer V/CeVIOのプロジェクトデータを相互変換する方法"
-description: "Synthesizer Vの調声をする際に用いるパラメータとプロパティについて解説します。"
+description: "UtaFormaixを使ってVOCALOID/Synthesizer V/CeVIOのプロジェクトデータを相互変換する方法について詳しく解説します。"
 category: "DTM"
 tags:
   - "VOCALOID"
