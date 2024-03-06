@@ -10,7 +10,7 @@ tags:
   - "CeVIO"
   - "UTAU"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/uta-formatix/thumbnail.png"
-isRecommend: true
+isRecommend: false
 ---
 
 ## はじめに
