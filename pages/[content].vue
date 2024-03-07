@@ -30,7 +30,7 @@ useSeoMeta({
             </div>
             <div class="col-span-4 hidden px-4 lg:block">
                 <div class="sticky top-24 flex flex-col">
-                    <BlogPageToc></BlogPageToc>
+                    <BlogPageToc :links="article?.body?.toc?.links || []"></BlogPageToc>
                 </div>
             </div>
         </div>
