@@ -29,7 +29,7 @@
     "eslint-plugin-tailwindcss": "^3.13.1",
     "markdownlint": "^0.29.0",
     "markdownlint-cli2": "^0.11.0",
-    "nuxt": "^3.9.1",
+    "nuxt": "^3.10.3",
     "nuxt-gtag": "^0.5.7",
     "nuxt-icon": "^0.6.8",
     "nuxt-schema-org": "^3.3.2",
