@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/01/07"
-updatedAt: "2024/02/19"
+updatedAt: "2024/03/07"
 title: "【Vue.js 3.4】defineModelを活用した入力コンポーネントの作成方法"
 description: "Vue.js 3.4で追加されたdefineModelの使い方を紹介しています。"
 category: "プログラミング"
@@ -23,11 +23,11 @@ isRecommend: false
 
 ## defineModelを使った入力コンポーネントの作成
 
-`input`を含むコンポーネントに含むコンポーネントを作成する場合、今までは引数を定義するための`props`と、親コンポーネントへ値を受け渡す関数を定義するための`emits`、どちらも記述する必要がありました。
+`input`を含むコンポーネントを作成する場合、今までは引数を定義するための`props`と、親コンポーネントへ値を受け渡す関数を定義するための`emits`、どちらも記述する必要がありました。
 
-今回追加された`defineModel`を使うと`props`と`emits`を記述することなく、入力コンポーネントを実現することができます。
+`defineModel`を使うと`props`と`emits`を記述することなく、入力コンポーネントを実現することができます。
 
-以下に例を示します。
+例として、今回は以下のようなコンポーネントを作成してみます。
 
 ![今回作成するコンポーネント](https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/vue-define-model/define-model.png)
 
@@ -153,7 +153,7 @@ const model = defineModel<string>();
 ### まとめ
 
 この記事ではVue.js 3.4の中で特に便利だと感じた`defineModel`について、実例を交えながら使い方を解説しました。
-`defineModel`を知っていると入力コンポーネントを短く分かりやすく書くことができるので、ぜひ使ってみてください。
+`defineModel`を使うと入力コンポーネントを少ないコード量で書くことができるので、ぜひ使ってみてください。
 
 :affiliate-block{title="Vue 3　フロントエンド開発の教科書" imageUrl="https://m.media-amazon.com/images/I/51EEdM8QBtL._SL160_.jpg" asin="B0BG3YF6ZY"}
 
