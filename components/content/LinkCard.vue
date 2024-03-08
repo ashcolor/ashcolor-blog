@@ -29,7 +29,7 @@ const { data, pending } = await useLazyAsyncData(
         v-else
         :href="data?.ogUrl ?? data?.requestUrl"
         target="_blank"
-        class="card card-side card-compact my-2 max-h-[8rem] border bg-base-100"
+        class="card card-side card-compact my-4 max-h-[8rem] border bg-base-100"
     >
         <div class="card-body justify-between overflow-hidden">
             <div class="flex flex-col gap-2">
