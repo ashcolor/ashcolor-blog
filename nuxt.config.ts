@@ -71,4 +71,8 @@ export default defineNuxtConfig({
     schemaOrg: {
         identity: "Person",
     },
+
+    eslint: {
+        lintOnStart: false,
+    },
 });
