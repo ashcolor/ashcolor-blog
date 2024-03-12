@@ -24,7 +24,13 @@ const props = withDefaults(defineProps<Props>(), {
         class="card card-side card-compact w-full overflow-hidden border bg-base-100"
     >
         <figure class="relative w-[20%] shrink-0">
-            <img :src="props.thumbnail" :alt="props.title" class="absolute" loading="lazy" />
+            <NuxtImg
+                :src="props.thumbnail"
+                sizes="200px"
+                :alt="props.title"
+                class="absolute"
+                loading="lazy"
+            />
         </figure>
         <div class="card-body !gap-0.5">
             <h3 class="card-title text-base">{{ props.title }}</h3>

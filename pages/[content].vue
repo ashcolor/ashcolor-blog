@@ -21,7 +21,7 @@ useSeoMeta({
         <div class="grid grid-cols-12">
             <div class="col-span-12 flex flex-col gap-4 lg:col-span-8">
                 <div v-if="article.thumbnail" class="mx-auto mb-8">
-                    <img :src="article.thumbnail" />
+                    <NuxtImg :src="article.thumbnail" sizes="100vw lg:600px" :alt="article.title" />
                 </div>
                 <div class="col-span-4 mb-8 block lg:hidden">
                     <BlogPageToc></BlogPageToc>

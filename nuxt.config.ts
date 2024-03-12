@@ -22,6 +22,7 @@ export default defineNuxtConfig({
         "@nuxtjs/eslint-module",
         "@nuxtjs/google-fonts",
         "@nuxt/content",
+        "@nuxt/image",
         "@nuxtjs/web-vitals",
         "nuxt-schema-org",
         "nuxt-gtag",
@@ -50,6 +51,11 @@ export default defineNuxtConfig({
             theme: "github-dark",
             preload: ["vue", "python"],
         },
+    },
+
+    image: {
+        domains: ["d2s4ypph6g1t06.cloudfront.net"],
+        format: ["webp"],
     },
 
     googleFonts: {

@@ -38,10 +38,11 @@ const isShowModal = ref(false);
 
 <template>
     <div class="my-8 flex max-h-[48rem] flex-col place-items-center gap-2">
-        <img
+        <NuxtImg
             :src="refinedSrc"
             :width="width"
             :height="height"
+            sizes="100vw lg:600px"
             alt="画像"
             class="min-h-0 grow-0 cursor-zoom-in border"
             :class="props.class"
@@ -60,7 +61,7 @@ const isShowModal = ref(false);
                 <Icon name="mdi:close" size="48px" />
             </button>
             <div class="modal-box max-h-screen w-auto max-w-none p-0">
-                <img :src="refinedSrc" :alt="alt" loading="lazy" />
+                <NuxtImg :src="refinedSrc" format="webp" :alt="alt" loading="lazy" />
             </div>
         </dialog>
     </div>
