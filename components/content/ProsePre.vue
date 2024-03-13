@@ -44,6 +44,15 @@ const codeHtml = await codeToHtml(props.code.replace(/\n$/, ""), {
                 <span>{{ props.filename }}</span>
             </div>
         </div>
+        <div
+            v-else-if="
+                props.filename ||
+                ['bash', 'sh', 'zsh', 'PowerShell', 'Shell'].includes(props.language)
+            "
+            class="tab flex cursor-default flex-row justify-start gap-1 bg-primary text-primary-content"
+        >
+            <Icon name="mdi:keyboard-arrow-right"></Icon><span>{{ props.language }}</span>
+        </div>
         <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
         <div :class="props.class" class="prose-code" v-html="codeHtml"></div>
     </div>
