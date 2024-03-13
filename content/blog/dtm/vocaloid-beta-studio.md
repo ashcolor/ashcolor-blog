@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/08/23"
-updatedAt: "2023/10/09"
+updatedAt: "2024/03/13"
 title: "新しいVOCALOID？VOCALOID β-STUDIOまとめ"
 description: "YAMAHAが発表したVOCALOID β-STUDIOの情報についてまとめます。"
 category: "DTM"
@@ -128,6 +128,8 @@ VX-βがCubaseで調整を完結できるのであれば単純に時短にもな
 今回は[別の歌手、しかも17人ものデータを切り替えながら使用することができる]{.marker}ということで、どのような音声になるのか気になるところです。
 
 ### VX-βの入手方法
+
+[（追記）2024年3月7日（木）をもって抽選による配布は終了しました。]{.text-red-500}
 
 VOCALOID β-STUDIOではクリエイターの募集を開始しました。
 
