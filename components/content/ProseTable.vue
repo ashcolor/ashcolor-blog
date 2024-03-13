@@ -1,5 +1,7 @@
 <template>
-    <table class="table my-8">
-        <slot />
-    </table>
+    <div class="my-8 overflow-auto">
+        <table class="table">
+            <slot />
+        </table>
+    </div>
 </template>
