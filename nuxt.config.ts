@@ -65,7 +65,7 @@ export default defineNuxtConfig({
 
     site: {
         url: "https://blog.ashcolor.jp",
-        name: "あしゅログ",
+        name: "あっしゅからーのブログ",
     },
 
     schemaOrg: {
