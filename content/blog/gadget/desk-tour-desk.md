@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/08/01"
-updatedAt: "2024/02/19"
+updatedAt: "2024/03/18"
 title: "システムエンジニア/DTMerのデスク周り紹介 デスク編！デスクやチェアについてまとめてみた"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。特にデスク関連のアイテムについて詳しく紹介します。"
 category: "ガジェット"
@@ -16,7 +16,7 @@ tags:
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-desk/linnmon.jpg"
 ---
 
-この記事では[デスク周り紹介](/blog/gadget/desk-tour)で紹介したデスクの内、[デスク周辺のアイテム]{.marker}を紹介していきます。
+この記事では、[職業：システムエンジニア、趣味：DTM]{.marker}な私のデスクの、[デスク周辺のアイテム]{.marker}を紹介していきます。
 
 ## デスク関係
 
@@ -157,3 +157,7 @@ IKEAのリンモンシリーズはとにかくコスパが良く、最小サイ�
 
 今回はデスク周りのアイテムについて紹介しました。
 デスク環境の構築に役立てば幸いです。
+
+デスク周り紹介のまとめは以下の記事にまとめているので、興味があれば覗いてみてください。
+
+:quote-article-card{url="/blog/gadget/desk-tour"}

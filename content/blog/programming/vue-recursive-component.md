@@ -31,7 +31,7 @@ Vue.jsで再帰的コンポーネントを作成するのは簡単です。
 
 ## ディレクトリ構造を再帰的コンポーネントで再現する
 
-再帰的コンポーネントの例としてディレクトリ構造を表現するコンポーネントを作成します。
+再帰的コンポーネントの例として、ディレクトリ構造を表現するコンポーネントを作成します。
 コンポーネントの見た目は以下のようになります。
 
 ![今回作成するコンポーネント](https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/vue-recursive-component/sample.png)
@@ -152,8 +152,6 @@ Vue.jsではあるコンポーネント内で自身を呼び出すことがで�
 
 既に誰かがまとめていると思ったのですが、Vue3かつ`<script setup>`構文で書かれた例がまだなかったためまとめてみました。
 参考になれば幸いです。
-
-:affiliate-block{title="Vue 3　フロントエンド開発の教科書" imageUrl="https://m.media-amazon.com/images/I/51EEdM8QBtL._SL160_.jpg" asin="B0BG3YF6ZY"}
 
 ## 参考
 

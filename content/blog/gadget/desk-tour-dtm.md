@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/08/01"
-updatedAt: "2024/02/19"
+updatedAt: "2024/03/18"
 title: "システムエンジニア/DTMerのデスク周り紹介 DTM（音楽）機器編！スピーカーやヘッドホンについてまとめてみた"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。"
 category: "ガジェット"
@@ -17,7 +17,7 @@ tags:
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/a49-2.jpg"
 ---
 
-この記事では[デスク周り紹介](/blog/gadget/desk-tour)で紹介したデスクの内、[DTM（音楽）機器]{.marker}について紹介していきます。
+この記事では、[職業：システムエンジニア、趣味：DTM]{.marker}な私のデスクの、[DTM（音楽）機器]{.marker}について紹介していきます。
 
 ## アウトプット
 
@@ -155,3 +155,7 @@ SEシリーズはイヤホンを装着する際に**SHURE掛け**と呼ばれる
 実際に現在も使用している機器のみを紹介しているため、どれもオススメのモノばかりです。
 
 デスク周りのモノを購入する際の参考になれば幸いです。
+
+デスク周り紹介のまとめは以下の記事にまとめているので、興味があれば覗いてみてください。
+
+:quote-article-card{url="/blog/gadget/desk-tour"}

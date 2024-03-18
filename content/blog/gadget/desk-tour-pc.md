@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/08/01"
-updatedAt: "2024/02/19"
+updatedAt: "2024/03/18"
 title: "システムエンジニア/DTMerのデスク周り紹介 自作PC編！普段使用しているPCのスペックや構成についてまとめてみた"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。特に自作PCについて紹介します。"
 category: "ガジェット"
@@ -19,7 +19,7 @@ tags:
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-pc/thumbnail.jpg"
 ---
 
-この記事では[デスク周り紹介](/blog/gadget/desk-tour)で紹介したデスクの内、[自作PC]{.marker}について紹介していきます。
+この記事では、[職業：システムエンジニア、趣味：DTM]{.marker}な私のデスクの、[自作PC]{.marker}について紹介していきます。
 
 普段からプログラミング・DTM・ゲームに使用している自作PCのパーツについて全て記載してあるので、同じような作業をする方の参考になれば幸いです。
 
@@ -191,3 +191,7 @@ PCを台車に乗せておくとパッと動かすことができるので、[�
 
 今回は自作PCについて紹介しました。
 PC選び、自作PCのパーツ選びの参考になれば幸いです。
+
+デスク周り紹介のまとめは以下の記事にまとめているので、興味があれば覗いてみてください。
+
+:quote-article-card{url="/blog/gadget/desk-tour"}

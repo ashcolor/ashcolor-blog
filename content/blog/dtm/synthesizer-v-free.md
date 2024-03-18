@@ -1,7 +1,7 @@
 ---
 createdAt: "2024/02/15"
-updatedAt: "2024/02/21"
-title: "Synthesizer V を無料で使う方法！入手方法や有料版との違いについて詳しく解説"
+updatedAt: "2024/03/18"
+title: "Synthesizer V を無料で使う方法！入手方法や有料版との違いについて詳しく解説【Basicエディタ・ライト版】"
 description: "Synthesizer Vを無料で使う方法を解説します。Basicエディタやライト版の歌声データベースについての詳細をまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
@@ -17,17 +17,17 @@ isRecommend: true
 **Synthesizer V**は、**Dreamtonics**が開発する歌声合成ソフトウェアです。
 
 Synthesizer Vは有料のソフトウェアですが、[無料で利用できるエディタと歌声データベース]{.marker}も配布されています。
-無料版でも多くの機能を使うことができるので、Synthesizer Vに興味がある方はぜひ使ってみてください。
+無料版でも多くの機能を使うことができるので、Synthesizer Vを試しに使ってみたい方や購入を検討されている方はぜひ使ってみてください。
 
 ## 入手方法
 
 無料のエディタである「Studio Basic」、無料の歌声データベースどちらも、**AHS**か**Dreamtonics**のサイトからダウンロードすることができます。
 
-AHS
+### AHSのダウンロードページ
 
 :link-card{url="https://www.ah-soft.com/trial/synth-v.html"}
 
-Dreamtonics
+### Dreamtonicsのダウンロードページ
 
 :link-card{url="https://resource.dreamtonics.com/download/%E6%97%A5%E6%9C%AC%E8%AA%9E/"}
 
@@ -48,6 +48,8 @@ Studio BasicとStudio Proの違いは以下の通りです。
 [試用期限や時間の制限はなく]{.marker}、基本的な機能を使用することができます。
 
 一方で、機能面では[3トラックまでの制限やVSTプラグインがない]{.marker}、[調声面では自動ピッチの調整ができない、ボーカルスタイルがない]{.marker}などの制限もあります。
+
+最初は無料版で試してみて本格的な調声をしたくなったら、**Studio Pro**を購入するのがオススメです。
 
 ## 無料の歌声データベース
 
@@ -79,7 +81,10 @@ Synthesizer Vは[無料の歌声データベースを数多く配布]{.marker}�
 | Genbu         | -      | ライト版   | -           | ⭕                  |
 | Eleanor Forte | ⭕     | ライト版   | -           | ⭕                  |
 
-AI機能が⭕になっていないものは、AIの補正がかからないためオススメしません。
+[AI機能が⭕になっていないものは、AIによるピッチ・声色補正がかかりません]{.marker}。
+
+Synthesizer Vの歌唱は、[AIによる補正が肝]{.marker}となっています。
+人間味のある自然な歌声が欲しい方は、AI機能がある歌声データベースを選択しましょう。
 
 ### 無料版の種類
 
@@ -126,8 +131,8 @@ Synthesizer Vの無料歌声データベースを使用する場合は以下の�
 有料のエディタだけを購入、または、有料の歌声データベースのみを購入して使う方法もあります。
 
 有料のエディタである**Studio Pro**を購入すると、[**Mai**という歌声データベースを無料でダウンロード]{.marker}することができます。
+Maiの歌声データベースは有償版と同等のため、[制限なく使用することができます]{.marker}。
 
-Maiはフル版のため、[制限なく使用することができます]{.marker}。
 歌声は以下の動画で確認することができます。
 
 :you-tube-iframe{videoId="lkel9YC3m68" title="【Synthesizer V AI Mai】Merry-Go-Round【公式デモ曲】"}
@@ -136,7 +141,7 @@ Maiはフル版のため、[制限なく使用することができます]{.mark
 Studio Basicの制限が気にならないようであれば、Studio Proを購入する必要はありません。
 
 ただし、Synthesizer Vには[Studio Proと好きな歌声データベースをお得に購入できる**スターターパック**]{.marker}があります。
-各々購入するよりも安いので、本格的にはじめるならスターターパックをオススメします。
+各々購入するよりも安いので、本格的にはじめるならスターターパックの購入をオススメします。
 
 :affiliate-block{title="Synthesizer V Studio Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/51jy+o9TSXL._SL160_.jpg" asin="B08B3CNY2D"}
 
@@ -146,10 +151,8 @@ Synthesizer Vをお得に購入する方法は以下の記事で紹介してい�
 
 ## まとめ
 
-この記事では、[Synthesizer Vを無料で使う方法]{.marker}をまとめました。
+この記事では、Synthesizer Vの無料版のエディタである**Basicエディタ**や歌声データベースの**ライト版**や**機能制限版**の機能や入手方法についてまとめました。
 
-Synthesizer Vは無料版も充実しているため、試しに使ってみたい人や購入前に試したい人はぜひ無料版を使ってみてください。
+Synthesizer Vは無料版も充実しているため、[無料のエディタと歌声データベースでも十分にSynthesizer Vの魅力を体感することができます]{.marker}。
 
-:affiliate-block{title="Synthesizer V AI Megpoid パッケージ版" asin="B0CNSLGNH7" imageUrl="https://m.media-amazon.com/images/I/41PINo4+UcL._SL160_.jpg"}
-
-:affiliate-block{title="Synthesizer V AI 重音テト パッケージ版" imageUrl="https://m.media-amazon.com/images/I/417GBcwOqaL._SL160_.jpg" asin="B0BYZ417DW"}
+試しに使ってみたい人や購入前に試したい人は、ぜひ無料版を使ってみてください。
