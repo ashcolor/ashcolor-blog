@@ -11,6 +11,10 @@ export default defineNuxtConfig({
                 lang: "ja",
                 prefix: "og: http://ogp.me/ns#",
             },
+            link: [
+                { rel: "icon", href: "/favicon.ico" },
+                { rel: "apple-touch-icon", href: "/apple-touch-icon-180x180.png" },
+            ],
         },
     },
     css: ["@/assets/css/tailwind.css"],
@@ -65,7 +69,7 @@ export default defineNuxtConfig({
 
     site: {
         url: "https://blog.ashcolor.jp",
-        name: "あしゅログ",
+        name: "あっしゅからーのブログ",
     },
 
     schemaOrg: {
