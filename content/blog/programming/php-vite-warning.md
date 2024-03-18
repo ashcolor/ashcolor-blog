@@ -76,5 +76,3 @@ PHPサーバ経由でHTMLを提供している場合、HTMLの変更ができな
 
 CakePHPにViteを導入するあたりエラーが発生したため、この記事を書きました。
 参考になれば幸いです。
-
-:affiliate-block{title="これからはじめるReact実践入門 コンポーネントの基本からNext.jsによるアプリ開発まで" imageUrl="https://m.media-amazon.com/images/I/51w6-Q+sdNL._SL160_.jpg" asin="4815619484"}

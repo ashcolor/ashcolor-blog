@@ -1,8 +1,8 @@
 ---
 createdAt: "2024/03/06"
-updatedAt: ""
-title: "【UtaFormaix】VOCALOID/Synthesizer V/CeVIOのプロジェクトデータを相互変換する方法"
-description: "UtaFormaixを使ってVOCALOID/Synthesizer V/CeVIOのプロジェクトデータを相互変換する方法について詳しく解説します。"
+updatedAt: "2024/03/18"
+title: "【UtaFormatix】VOCALOID/Synthesizer V/CeVIOのプロジェクトデータを相互変換する方法"
+description: "UtaFormatixを使ってVOCALOID/Synthesizer V/CeVIOのプロジェクトデータを相互変換する方法について詳しく解説します。"
 category: "DTM"
 tags:
   - "VOCALOID"
@@ -18,12 +18,14 @@ isRecommend: false
 VOCALOIDが流行して以来、様々な合成音声ソフトが登場してきました。
 一方、各ソフトのプロジェクトデータは異なるフォーマットで保存されるため、[ソフト間でデータを使い回せない]{.marker}場合が多々あります。
 
-今回紹介する**UtaFormaix**を使用すると、[音声合成ソフトのプロジェクトデータを別のフォーマットに変換することができます]{.marker}。
-この記事では、UtaFormaixの使い方や仕様についてまとめました。
+今回紹介する**UtaFormatix**を使用すると、[音声合成ソフトのプロジェクトデータを別のフォーマットに変換することができます]{.marker}。
+この記事では、UtaFormatixの使い方や仕様についてまとめました。
 
 ## UtaFormatixとは
 
 **UtaFormatix**は[科林/sdercolin](https://twitter.com/sder_colin)さんが開発した、[歌声合成ソフトのプロジェクトデータを相互変換できるサイト]{.marker}です。
+
+### UtaFormatix
 
 :link-card{url="https://sdercolin.github.io/utaformatix3/"}
 
@@ -31,11 +33,12 @@ Webアプリとして公開されているため、ブラウザさえあれば[�
 
 ## UtaFormatixの使い方
 
+UtaFormatixを使ってプロジェクトデータを変換する手順を説明します。
+基本的には画面に出てくる指示通りの操作を行えば簡単に変換を行うことができます。
+
 ### 変換手順
 
-UtaFormatixを使ってプロジェクトデータを変換する手順を説明します。
-
-1. [UtaFormaix](https://sdercolin.github.io/utaformatix3/)にアクセスします。
+1. [UtaFormatix](https://sdercolin.github.io/utaformatix3/)にアクセスします。
 
 1. ファイルアップロード領域に変換するファイルをドロップするか、クリックしてファイルを選択します。
 
@@ -45,7 +48,7 @@ UtaFormatixを使ってプロジェクトデータを変換する手順を説明
 
    ![出力形式を選ぶ](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/uta-formatix/step2.png)
 
-1. 必要に応じて設定を変更します。（そのままでも大丈夫です。）
+1. 必要に応じて設定を変更します。（基本的にはそのままで大丈夫です。）
    `次へ`ボタンをクリックします。
 
    ![設定](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/uta-formatix/step3.png)
@@ -140,8 +143,11 @@ UtaFormatixを使ってプロジェクトデータを変換する手順を説明
 
 ## まとめ
 
-この記事では、音声合成ソフトのプロジェクトデータを変換することができるUtaFormaixの使い方や仕様についてまとめました。
-非常に使いやすいツールとなっているので、ぜひ使ってみてください。
+この記事では、音声合成ソフトのプロジェクトデータを変換することができるUtaFormatixの使い方や仕様についてまとめました。
+
+ブラウザで簡単に使いはじめることができる上、対応フォーマットが多く大変便利なツールとなっています。
+
+プロジェクトデータの変換が必要になったときはぜひ使ってみてください。
 
 :affiliate-block{title="初音ミク V4X" imageUrl="https://m.media-amazon.com/images/I/51u8gPLu3qL._SL160_.jpg" asin="B01G6XK6VM"}
 

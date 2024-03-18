@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/08/01"
-updatedAt: "2024/02/19"
+updatedAt: "2024/03/18"
 title: "システムエンジニア/DTMerのデスク周り紹介 小物編！配線や収納小物についてまとめてみた"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。特に小物関連のアイテムについて詳しく紹介します。"
 category: "ガジェット"
@@ -14,7 +14,7 @@ tags:
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-accessory/echo-show.jpg"
 ---
 
-この記事では[デスク周り紹介](/blog/gadget/desk-tour)で紹介したデスクの内、[デスク周辺の小物]{.marker}を紹介していきます。
+この記事では、[職業：システムエンジニア、趣味：DTM]{.marker}な私のデスクの、[デスク周辺の小物]{.marker}を紹介していきます。
 
 ## 配線関連
 
@@ -150,3 +150,7 @@ USBケーブルは全てこれにしたいくらいお気に入りのケーブ�
 今回はデスク周りの小物について紹介しました。
 
 小物はよく買い替えているので、また何かアップデートがありましたら記事の内容を更新する予定です。
+
+デスク周り紹介のまとめは以下の記事にまとめているので、興味があれば覗いてみてください。
+
+:quote-article-card{url="/blog/gadget/desk-tour"}

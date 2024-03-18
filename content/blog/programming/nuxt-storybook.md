@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/11/22"
-updatedAt: "2024/02/19"
-title: "Nuxt3用のStorybookモジュールリリース！Nuxt3プロジェクトにStorybookを導入する手順とエラー時の対応方法を詳しく解説"
+updatedAt: "2024/03/18"
+title: "Nuxt3プロジェクトにStorybookを導入する手順とエラー時の対応方法を詳しく解説【nuxt/storybookモジュール】"
 description: "NuxtJSを使用してブログを作成した際の技術スタック・メリット・デメリットを紹介します。"
 category: "プログラミング"
 subCategory: "Nuxt.js"
@@ -14,7 +14,7 @@ isRecommend: true
 
 ## はじめに
 
-2023 年 9 月 20 日、Nuxt3 用の Storybook モジュールである**nuxt/storybook**の**v7.0.0**がリリースされ、[**Nuxt3**に対応]{.marker}しました 🎉
+2023年9月20日、Nuxt3用のStorybookモジュールである**nuxt/storybook**の**v7.0.0**がリリースされ、[**Nuxt3**に対応]{.marker}しました 🎉
 
 この記事では、**nuxt/storybook** モジュールを使用して、[Nuxt3 プロジェクトに Storybook を導入する方法]{.marker}をまとめています。
 また、Nuxt3 プロジェクトで頻繁に使用されている **Pinia** と **TailwindCSS** を導入して、Storybook 上で動作するかについても確認しました。
@@ -27,7 +27,7 @@ Nuxt モジュールを使用せず、Nuxt3 に Storybook をインストール�
 
 私自身も何度かトライしてみましたらが、[エラーが解消しなかったため Storybook 自体の導入を見送っていた状態]{.marker}でした。
 
-そして 2023 年 9 月 20 日、ついに[Nuxt3 に対応した nuxt/storybook モジュールの v7.0.0 がリリース]{.marker}となりました。
+そして 2023年9月20 日、ついに[Nuxt3 に対応した nuxt/storybook モジュールの v7.0.0 がリリース]{.marker}となりました。
 
 Nuxt3 用の **nuxt/storybook** の導入により、Storybook を導入する手順がどのように変化したか、そして導入時の注意点についてまとめていきます。
 
@@ -357,8 +357,6 @@ export default {
 アップデートがあれば記事も修正していきます。
 
 以上、お役に立てれば幸いです。
-
-:affiliate-block{title="Nuxt 3　フロントエンド開発の教科書" imageUrl="https://m.media-amazon.com/images/I/51iYGXW72WL._SL160_.jpg" asin="B0CH7Z912B"}
 
 ## 参考
 
