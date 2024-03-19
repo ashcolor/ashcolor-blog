@@ -199,4 +199,4 @@ CIDOO V65 V2はUSBケーブルをパソコンに接続しただけではモー�
 安価な割にとても満足度が高かったです。
 気になった方はぜひ使ってみてください。
 
-![CIDOO V65 V2 Moon White](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/cidoo-v65-keyboard-review/cidoo-v65-keyboard-review-2.jpg)
+:affiliate-block{title="CIDOO V65 V2" asin="B0BV2G6ZN7" imageUrl="https://m.media-amazon.com/images/I/41BbtuaE19L._SL160_.jpg"}
