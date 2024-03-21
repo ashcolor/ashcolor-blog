@@ -11,7 +11,7 @@ const { data, pending } = await useLazyAsyncData(
     props.url,
     () => {
         const query = { url: props.url };
-        return $fetch(`${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}/api/ogp`, {
+        return $fetch("/api/ogp", {
             query,
         });
     },
