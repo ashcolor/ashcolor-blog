@@ -12,13 +12,6 @@
 - [daisyUI](https://daisyui.com/)
 - [iconify](https://iconify.design/)
 
-> [!WARNING]
->
-> - Nuxt Contentのバージョンを`2.8.2`から上げるとコードブロックのハイライトが消える不具合がある
->   see @https://github.com/nuxt/content/issues/2473 >
-> - Vueのバージョンを3.4.8に止めないと画面の遷移時にエラーになる
->   see @https://github.com/nuxt/nuxt/issues/25214
-
 ## 環境構築
 
 ### インストール

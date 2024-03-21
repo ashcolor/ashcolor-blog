@@ -39,7 +39,7 @@ const dlSiteUrl = computed(() => {
             rel="noopener noreferrer"
             class="self-center"
         >
-            <img :src="imageUrl" :alt="props.title" class="max-w-[12rem]" loading="lazy" />
+            <img :src="imageUrl" :alt="props.title" class="max-w-48" loading="lazy" />
         </a>
         <div class="flex grow flex-col gap-2">
             <div class="text-lg font-bold">

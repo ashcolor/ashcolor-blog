@@ -20,7 +20,7 @@ const props = withDefaults(defineProps<Props>(), {
     <div class="my-8 flex flex-col place-items-center gap-2">
         <div class="relative w-full pb-[56.25%]">
             <iframe
-                class="absolute m-auto h-full w-full"
+                class="absolute m-auto size-full"
                 :src="`http://embed.nicovideo.jp/watch/${props.videoId}`"
             ></iframe>
         </div>

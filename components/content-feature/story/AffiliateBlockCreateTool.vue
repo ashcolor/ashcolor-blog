@@ -7,12 +7,9 @@ const { data, execute } = await useLazyAsyncData(
     asin.value,
     () => {
         const query = { asin: asin.value };
-        return $fetch(
-            `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}/api/amazon-product-advertising?${query}`,
-            {
-                query,
-            }
-        );
+        return $fetch(`/api/amazon-product-advertising?${query}`, {
+            query,
+        });
     },
     {
         immediate: false,

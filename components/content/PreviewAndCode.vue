@@ -24,13 +24,13 @@ const tabState = ref("preview");
         <div class="relative overflow-x-auto rounded-r-box bg-base-300">
             <div
                 v-show="tabState === 'preview'"
-                class="min-h-[6rem] w-full rounded-r-box border border-base-300 bg-base-100 p-4"
+                class="min-h-24 w-full rounded-r-box border border-base-300 bg-base-100 p-4"
             >
                 <slot name="preview"></slot>
             </div>
             <div
                 v-show="tabState === 'code'"
-                class="min-h-[6rem] w-full rounded-r-box border border-base-300 bg-base-100 px-4"
+                class="min-h-24 w-full rounded-r-box border border-base-300 bg-base-100 px-4"
             >
                 <span class="flex gap-4">
                     <slot name="code" class="border-none"></slot>

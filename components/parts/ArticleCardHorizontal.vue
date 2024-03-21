@@ -23,7 +23,7 @@ const props = withDefaults(defineProps<Props>(), {
         :to="props.linkPath"
         class="card card-side card-compact w-full overflow-hidden border bg-base-100"
     >
-        <figure class="relative w-[20%] shrink-0">
+        <figure class="relative w-1/5 shrink-0">
             <img :src="props.thumbnail" :alt="props.title" class="absolute" loading="lazy" />
         </figure>
         <div class="card-body !gap-0.5">
