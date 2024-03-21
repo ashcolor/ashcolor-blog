@@ -29,7 +29,7 @@ const { data, pending } = await useLazyAsyncData(
         v-else
         :href="data?.ogUrl ?? data?.requestUrl"
         target="_blank"
-        class="card card-side card-compact my-4 max-h-[8rem] border bg-base-100"
+        class="card card-side card-compact my-4 max-h-32 border bg-base-100"
     >
         <div class="card-body justify-between overflow-hidden">
             <div class="flex flex-col gap-2">
@@ -38,7 +38,7 @@ const { data, pending } = await useLazyAsyncData(
             </div>
             <p class="grow-0 text-xs">{{ data?.ogUrl ?? data?.requestUrl }}</p>
         </div>
-        <figure v-if="data?.ogImage?.[0]" class="relative !hidden shrink-0 sm:!flex sm:w-[20%]">
+        <figure v-if="data?.ogImage?.[0]" class="relative !hidden shrink-0 sm:!flex sm:w-1/5">
             <img
                 :src="data?.ogImage?.[0]?.url"
                 :alt="data?.ogTitle"

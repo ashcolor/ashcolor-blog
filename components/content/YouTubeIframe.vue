@@ -19,7 +19,7 @@ const props = withDefaults(defineProps<Props>(), {
         <div class="relative w-full pb-[56.25%]">
             <!-- @https://www.ankursheel.com/blog/full-width-you-tube-video-embed -->
             <iframe
-                class="absolute m-auto h-full w-full"
+                class="absolute m-auto size-full"
                 :src="`https://www.youtube.com/embed/${props.videoId}?start=${props.start}`"
                 title="YouTube video player"
                 frameborder="0"
