@@ -19,7 +19,7 @@ const props = withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-    <NuxtLink :to="props.linkPath" class="card card-compact w-96 min-w-[24rem] bg-base-100">
+    <NuxtLink :to="props.linkPath" class="card card-compact w-96 min-w-96 bg-base-100">
         <figure class="relative h-48">
             <div class="absolute left-0 top-0 bg-base-200 px-2 py-0.5 text-sm">
                 <IconWithText name="bi:folder">

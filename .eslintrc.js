@@ -16,5 +16,7 @@ module.exports = {
         },
     ],
     plugins: ["tailwindcss"],
-    rules: {},
+    rules: {
+        "import/named": 0,
+    },
 };
