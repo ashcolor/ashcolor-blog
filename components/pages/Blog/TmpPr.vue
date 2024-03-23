@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-const endDate = new Date("2024-03-23T23:59:00");
+const endDate = new Date("2024-04-01T23:59:00");
 const isShow = new Date() < endDate;
 const href = "https://amzn.to/3IR2zk0";
 </script>
