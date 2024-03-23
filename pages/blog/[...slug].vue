@@ -106,6 +106,8 @@ const navigations = computed(() => {
 
                 <SnsShareContainer :title="title" :url="url"></SnsShareContainer>
 
+                <BlogTmpPr></BlogTmpPr>
+
                 <ProseH3>関連記事</ProseH3>
                 <BlogRelationArticles
                     :current-path="article?._path"
