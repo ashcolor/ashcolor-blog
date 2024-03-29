@@ -17,6 +17,6 @@ const props = defineProps({
         <audio controls :src="props.src">
             <a :href="props.src"> {{ props.title }} </a>
         </audio>
-        <p v-if="props.title" class="text-sm font-thin">{{ props.title }}</p>
+        <p v-if="props.title" class="text-sm">{{ props.title }}</p>
     </div>
 </template>
