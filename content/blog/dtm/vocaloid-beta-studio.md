@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/08/23"
-updatedAt: "2024/03/13"
+updatedAt: "2024/04/01"
 title: "新しいVOCALOID？VOCALOID β-STUDIOまとめ"
 description: "YAMAHAが発表したVOCALOID β-STUDIOの情報についてまとめます。"
 category: "DTM"
@@ -9,6 +9,8 @@ tags:
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-beta-studio/thumbnail.png"
 isRecommend: true
 ---
+
+[（追記）2024年3月31日をもってVOCALOID β-STUDIOの取り組みはクローズとなりました。]{.text-red-500}
 
 音声合成ソフトウェア「VOCALOID」に関連するプロジェクト、**VOCALOID β-STUDIO**について、続々と情報が解禁されました。
 この記事では今まで公開されたVOCALOID β-STUDIOに関する情報をまとめていきます。
@@ -129,7 +131,7 @@ VX-βがCubaseで調整を完結できるのであれば単純に時短にもな
 
 ### VX-βの入手方法
 
-[（追記）2024年3月7日（木）をもって抽選による配布は終了しました。]{.text-red-500}
+[（追記）2024年3月7日をもって抽選による配布は終了しました。]{.text-red-500}
 
 VOCALOID β-STUDIOではクリエイターの募集を開始しました。
 
