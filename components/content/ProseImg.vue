@@ -24,6 +24,10 @@ const props = defineProps({
         default: "",
         require: false,
     },
+    href: {
+        type: String,
+        default: "",
+    },
 });
 
 const refinedSrc = computed(() => {
@@ -38,11 +42,23 @@ const isShowModal = ref(false);
 
 <template>
     <div class="my-8 flex max-h-[48rem] flex-col place-items-center gap-2">
+        <a v-if="href" :href="props.href">
+            <img
+                :src="refinedSrc"
+                :width="width"
+                :height="height"
+                :alt="alt"
+                class="in min-h-0 grow-0 border"
+                :class="props.class"
+                loading="lazy"
+            />
+        </a>
         <img
+            v-else
             :src="refinedSrc"
             :width="width"
             :height="height"
-            alt="画像"
+            :alt="alt"
             class="min-h-0 grow-0 cursor-zoom-in border"
             :class="props.class"
             loading="lazy"
