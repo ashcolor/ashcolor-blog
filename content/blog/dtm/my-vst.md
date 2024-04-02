@@ -8,7 +8,6 @@ tags:
   - "ソフトウェア"
   - "VST"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/thumbnail.png"
-isRecommend: true
 ---
 
 ## はじめに

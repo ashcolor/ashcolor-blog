@@ -7,7 +7,6 @@ category: "DTM"
 tags:
   - "VOCALOID"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-beta-studio/thumbnail.png"
-isRecommend: true
 ---
 
 [（追記）2024年3月31日をもってVOCALOID β-STUDIOの取り組みはクローズとなりました。]{.text-red-500}
