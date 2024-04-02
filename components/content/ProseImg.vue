@@ -48,7 +48,7 @@ const isShowModal = ref(false);
                 :width="width"
                 :height="height"
                 :alt="alt"
-                class="in min-h-0 grow-0 border"
+                class="min-h-0 grow-0 border"
                 :class="props.class"
                 loading="lazy"
             />
