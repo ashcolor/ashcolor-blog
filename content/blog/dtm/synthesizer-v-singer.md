@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/04/01"
+updatedAt: "2024/04/02"
 title: "Synthesizer V 歌声データベース一覧とオススメの歌声"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -198,6 +198,22 @@ Synthesizer V の歌声データベースは次々と追加されています。
 
 2023 年の下旬から来年にかけて、いくつかの発売予定の歌声データベースがあるので、注目の歌声データベースについて以下にまとめていきます。
 
+### フリモメン
+
+**フリモメン**は元々はAHSのソフト「Free Motion」のイメージキャラクターの男性歌声データベースです。
+**4月25日**に発売されることが決まり、現在は[予約購入を受け付け]{.marker}ています。
+
+AHSでは重音テトや花隈千冬など女性歌声データベースしか発売されていなかったため、今回が[初めての男性歌声データベース]{.marker}になります。
+
+歌声は以下の動画で確認することができます。
+
+:you-tube-iframe{title="Free blue / 風原 feat. フリモメン" videoId="DDqcbShzdWU"}
+
+[低域が特徴的な渋い声]{.marker}という印象があります。
+今までなかったタイプの歌声のため、どのような仕上がりになっているかが気になるところです。
+
+:affiliate-block{title="Synthesizer V AI フリモメン ダウンロード版" imageUrl=" https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002075_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002075.html"}
+
 ### 可不
 
 **可不**はバーチャルシンガー花譜さんの歌声から作成された歌声データベースです。
@@ -232,12 +248,12 @@ CeVIO AI 版の可不はアンケート結果などを元に歌声の方向性�
 
 この記事では歌声データベースの一覧・選び方・オススメ・発売予定の歌声データベースを紹介しました。
 
-Synthesizer Vの歌声データベースには無料で使用できるバージョンもあります。
+Synthesizer Vの歌声データベースには[無料で使用できるバージョン]{.marker}もあります。
 以下の記事に導入方法や有料版との違いをまとめているので参考にしてみてください。
 
 :quote-article-card{url="/blog/dtm/synthesizer-v-free"}
 
-また、歌声データベースをお得に購入する方法は以下の記事にまとめてあります。
+また、歌声データベースを[お得に購入する方法]{.marker}は以下の記事にまとめてあります。
 
 :quote-article-card{url="/blog/dtm/synthesizer-v-buy"}
 

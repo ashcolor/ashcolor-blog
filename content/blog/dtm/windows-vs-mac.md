@@ -10,7 +10,6 @@ tags:
   - "DAW"
   - "VOCALOID"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/windows-vs-mac/thumbnail.png"
-isRecommend: true
 ---
 
 最近はボカロPがアニメのOPやドラマ主題歌を担当することが増え、[VOCALOIDやDTMの知名度が上がってきました]{.marker}。
