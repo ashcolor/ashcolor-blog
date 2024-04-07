@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/11/26"
-updatedAt: ""
+updatedAt: "2024/04/07"
 title: "Synthesizer V が ARA に対応！Cubase で ARA を使用する方法と注意点"
 description: "Synthesizer V の ARA プラグイン を Cubase で使用する方法と注意点を解説します。"
 category: "DTM"
@@ -16,23 +16,15 @@ isRecommend: false
 
 ## はじめに
 
-2023 年 11 月 24 日、[Synthesizer V Studio **1.11.0b1** がリリース]{.marker}されました。
+2024 年 4 月 4 日、Synthesizer V Studio **1.11.0** がリリースされました。
 
-::call-out{type="info"}
-
-Synthesizer V Studio 1.11.0b1 は [こちら](https://resource.dreamtonics.com/download/%E6%97%A5%E6%9C%AC%E8%AA%9E/Synthesizer%20V%20Studio%20%E3%83%99%E3%83%BC%E3%82%BF%E7%89%88/) からダウンロードできます。
-
-::
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本日、Synthesizer V Studio 1.11.0b1をリリースいたします。今回のアップデート（ベータ版）では、ARAプラグイン導入、ボーカルMIDI変換機能の追加など、ワークフローを向上させ効率よく音楽制作を行っていただける機能を搭載いたしました。 <a href="https://t.co/Mbbn13KYsp">pic.twitter.com/Mbbn13KYsp</a></p>&mdash; Dreamtonics 公式 (@dreamtonics_jp) <a href="https://twitter.com/dreamtonics_jp/status/1727960915281338592?ref_src=twsrc%5Etfw">November 24, 2023</a></blockquote>
-
-このアップデートでは [**ARA プラグイン** の導入]{.marker}と[**ボーカル MIDI 変換機能**の追加]{.marker}がされました。
+このアップデートでは、**ARA プラグイン**と**ボーカル MIDI 変換機能**が追加されています。
 
 **ARA プラグイン** の導入では、DAW との連携が強化され[再生、ループ、テンポの同期]{.marker}や、[DAW 内のオーディオクリップと Synthesizer V Studio のノートグループのリンク]{.marker}が可能となりました。
 
 **ボーカル MIDI 変換機能**の追加では、[ボーカルのオーディオデータを元に Synthesizer V の歌唱データを生成]{.marker}することができるようになりました。
 
-:affiliate-block{title="Synthesizer V Studio Pro スターターパック" asin="B08B3CNY2D"}
+この記事では、ARA プラグインをCubaseで使用する方法について詳しく解説します。
 
 ## Cubase で Synthesizer V Studio ARA プラグインを使う方法
 
@@ -60,13 +52,6 @@ ARA プラグインを使う際のモードは以下の 2 種類があります�
 上記の表に記載した通り、既にオーディオの歌唱データがある場合が **高位の ARA 機能モード** 、それ以外の場合は **ARA ブリッジモード** を使用するのが使いやすかったです。
 
 それぞれのモードの適用方法について記載していきます。
-
-::call-out{type="warning"}
-
-下記は Synthesizer V Studio **1.11.0b1** での手順です。
-今後、正式版のリリース等で手順が変更になる可能性があります。
-
-::
 
 ### 高位の ARA 機能モード
 
@@ -194,11 +179,11 @@ ARA ブリッジモードでは、[再生、ループ、テンポの同期]{.mar
 
 この記事では歌声合成ソフトウェアである [**Synthesizer V**の **ARA プラグイン** を **Cubase** で使用する方法]{.marker}を解説しました。
 
-実際に使ってみて、[高位の ARA 機能モードを使用する際、鉛筆モードで書いたイベントに対して ARA を適用できない]{.marker}点や、[ARA ブリッジモードを有効にするためには、空ではないオーディオイベントが必要]{.marker}な仕様は分かりづらいと思いました。
-もしかしたら今後のアップデートて仕様が変わるかもしれません。
+ARA プラグインを導入することで、DAWとSynthesizer V Studioの再生・ループ・テンポの同期がされるのが非常に便利に感じました。
 
-ただ、現時点でも再生・ループ・テンポの同期は楽曲制作をする上で非常に便利に感じました。
-気になる方は上記の手順を参考に入れてみてください。
+一方で、[高位の ARA 機能モードを使用する際、鉛筆モードで書いたイベントに対して ARA を適用できない]{.marker}点や、[ARA ブリッジモードを有効にするためには、空ではないオーディオイベントが必要]{.marker}な仕様は分かりづらいと思いました。
+
+気になる方は上記の手順を参考にぜひ導入してみてください。
 
 :affiliate-block{title="Synthesizer V Studio Pro" imageUrl="https://m.media-amazon.com/images/I/41nl+l0DddL._SL160_.jpg" asin="B08B34MWKF" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ013608.html"}
 
@@ -206,7 +191,7 @@ ARA ブリッジモードでは、[再生、ループ、テンポの同期]{.mar
 
 :affiliate-block{title="Synthesizer V AI Megpoid パッケージ版" asin="B0CNSLGNH7" imageUrl="https://m.media-amazon.com/images/I/41PINo4+UcL._SL160_.jpg"}
 
-:affiliate-block{title="Synthesizer V AI Megpoid ダウンロード版" imageUrl="https:///img.dlsite.jp/modpub/images2/work/professional/VJ01002000/VJ01001252_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001252.html"}
+:affiliate-block{title="Synthesizer V AI Megpoid ダウンロード版" asin="B0CS5T4KZ4" imageUrl="https:///img.dlsite.jp/modpub/images2/work/professional/VJ01002000/VJ01001252_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001252.html"}
 
 :affiliate-block{title="Synthesizer V AI 重音テト パッケージ版" imageUrl="https://m.media-amazon.com/images/I/417GBcwOqaL._SL160_.jpg" asin="B0BYZ417DW"}
 
