@@ -25,7 +25,7 @@ CLASSIC PROは、サウンドハウスを利用したことがある方なら聞
 
 ### 良かった点
 
-逆に、CLASSIC PROマイクアームの良かった点は、以下の通りです。
+CLASSIC PROマイクアームの良かった点は、以下の通りです。
 
 ::point-list{title="CLASSIC PROマイクアームの良かった点"}
 
