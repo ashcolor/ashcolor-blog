@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/08/01"
-updatedAt: "2024/03/18"
+updatedAt: "2024/04/12"
 title: "システムエンジニア/DTMerのデスク周り紹介 DTM（音楽）機器編！スピーカーやヘッドホンについてまとめてみた"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。"
 category: "ガジェット"
@@ -8,6 +8,8 @@ tags:
   - "スピーカー"
   - "ヘッドホン"
   - "イヤホン"
+  - "マイク"
+  - "マイクアーム"
   - "YAMAHA"
   - "AKG"
   - "SHURE"
@@ -89,18 +91,29 @@ SEシリーズはイヤホンを装着する際に**SHURE掛け**と呼ばれる
 
 :affiliate-block{title="オーディオテクニカ AT2020 コンデンサーマイク" imageUrl="https://m.media-amazon.com/images/I/31YdCgBVbAL._SL160_.jpg" asin="B0006H92QK"}
 
-### マイクアーム：CLASSIC PRO CDA10B
+### マイクアーム：KTSOULマイクアーム 白色
 
-![CLASSIC PRO CDA10B](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/mic-arm.jpg)
+![KTSOULマイクアーム](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/mic-arm/ktsoul1.jpg)
 
-マイクアームは**CLASSIC PRO**の**CDA10B**を使用しています。
+マイクアームは**KTSOUL**のマイクアームを使用しています。
 
-マイクアームを使用すると、[ディスプレイに干渉しない場所にマイクを配置しやすい]{.marker}です。
+:affiliate-block{title=" KTSOUL マイクアーム 白色" imageUrl="https://m.media-amazon.com/images/I/31s5Z1Xo4QL._SL160_.jpg" asin="B0CQJKW4WD"}
 
-こちらのマイクアームは最初からケーブルがセットされているため、ケーブルを別で用意する必要がありません。
-逆に、ケーブルは本体の中に取り外しができないように接続されているため、[ケーブルだけを交換することができない]{.marker}ので注意です。
+マイクアームを使用すると、[ディスプレイに干渉しない場所にマイクを配置することができます。]{.marker}
 
-:affiliate-block{title="CLASSIC PRO クラシックプロ マイクスタンド CDA10B" imageUrl="https://m.media-amazon.com/images/I/31oH+2vL9xL._SL160_.jpg" asin="B01N7P6K15"}
+KTSOULのマイクアームは、以下の点が良かったです。
+
+::point-list{title="KTSOULマイクアームの良かった点"}
+
+- アームが固めで好きな位置にマイクを固定できる
+- デスクとの接地面の面積が大きく安定感がある
+- ケーブルタイと変換ネジが付属している
+
+::
+
+マイクアームが白色のため、ケーブルも合わせて白色のモノを購入しました。
+
+:affiliate-block{title=" CLASSIC PRO XLR Microphone Cable 3m" imageUrl="https://m.media-amazon.com/images/I/31Ze6E7TlfL._SL160_.jpg" asin="B08GLHP6QS"}
 
 ### ポップガード：micawber U型ポップガード
 
