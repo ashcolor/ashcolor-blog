@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/04/02"
+updatedAt: "2024/04/13"
 title: "Synthesizer V 歌声データベース一覧とオススメの歌声"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -216,6 +216,13 @@ AHSでは重音テトや花隈千冬など女性歌声データベースしか�
 
 ### 可不
 
+[
+(2024年4月12日追記) SynthV版の可不は発売延期（もしくは販売中止）となりました。
+詳しくは以下の記事にまとめてあります。
+]{.text-red-500}
+
+:quote-article-card{url="/blog/dtm/synthesizer-v-kafu"}
+
 **可不**はバーチャルシンガー花譜さんの歌声から作成された歌声データベースです。
 
 [元々は CeVIO AI のサードパーティボイスとして発売]{.marker}されていましたが、2023 年 7 月 7 日に[Synthesizer V 版の発表]{.marker}がされました。
@@ -229,20 +236,7 @@ Synthesizer V版の歌声は以下の動画で聞くことができます。
 :you-tube-iframe{title="【音楽的同位体】フォニイ covered by 可不(KAFU) collaboration with Synthesizer V AI" video-id="ew-i6kx7bSY"}
 
 [SynthV 版は、明らかに「花譜」さんの歌声に近付いています]{.marker}。
-
-CeVIO AI 版の可不はアンケート結果などを元に歌声の方向性が決められていましたが、その際は「花譜」さんの歌声とは離れた歌声に決まりました。
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">花譜ちゃんの「音楽的同位体」である可不ちゃんの歌声を、皆様と花譜ちゃん本人と一緒に決めていくアンケート実施！<br>沢山の人にこのアンケートに参加して頂きたいです！<br>是非御応募よろしくお願いします！(可不運営スタッフ)<a href="https://t.co/PVOMXIVgg3">https://t.co/PVOMXIVgg3</a><a href="https://twitter.com/hashtag/%E8%8A%B1%E8%AD%9C?src=hash&amp;ref_src=twsrc%5Etfw">#花譜</a> <a href="https://twitter.com/hashtag/%E5%8F%AF%E4%B8%8D?src=hash&amp;ref_src=twsrc%5Etfw">#可不</a> <a href="https://twitter.com/hashtag/KAFU?src=hash&amp;ref_src=twsrc%5Etfw">#KAFU</a> <a href="https://twitter.com/hashtag/CeVIO?src=hash&amp;ref_src=twsrc%5Etfw">#CeVIO</a> <a href="https://twitter.com/hashtag/KAMITSUBAKI_STUDIO?src=hash&amp;ref_src=twsrc%5Etfw">#KAMITSUBAKI_STUDIO</a></p>&mdash; 音楽的同位体 公式【可不・星界・裏命・狐子・羽累】 (@musicalisotope) <a href="https://twitter.com/musicalisotope/status/1316668899912368128?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote>
-
-今回は SynthV 版と CeVIO AI 版が併売されることを踏まえて、[差別化を図るような方針]{.marker}なのかもしれません。
-
 上記のデモはベタ打ちではないと思われるため、ベタ打ちでどのような歌声になるかも気になるところです。
-
-(2023年12月22日追記)販売は2024年1月15日を予定していましたが、[延期]{.marker}となったようです。
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【お知らせ】<br>音楽的同位体 可不(KAFU) collaboration with Synthesizer V AI / The Right Stuff ver.の発売延期についてお知らせを掲載しました。<a href="https://t.co/A14D0JnuZv">https://t.co/A14D0JnuZv</a><br><br>詳細は画像をご覧ください。（音楽的同位体運営スタッフ） <a href="https://t.co/JjFyPgablJ">pic.twitter.com/JjFyPgablJ</a></p>&mdash; 音楽的同位体 公式【可不・星界・裏命・狐子・羽累】 (@musicalisotope) <a href="https://twitter.com/musicalisotope/status/1738363800066355499?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote>
-
-延期時期は未定ということで、続報が入り次第、追記します。
 
 ## まとめ
 
