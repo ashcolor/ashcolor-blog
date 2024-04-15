@@ -12,20 +12,20 @@ interface Props {
 
 const props = withDefaults(defineProps<Props>(), {
     title: "",
+    imageUrl: "",
     asin: "",
     dlSiteLink: "",
-    imageUrl: "",
 });
 
-const amazonUrl = computed(() => {
-    return `https://www.amazon.co.jp/dp/${props.asin}/?tag=${AMAZON_ASSOCIATE_ID}`;
-});
+const amazonUrl = computed(
+    () => `https://www.amazon.co.jp/dp/${props.asin}/?tag=${AMAZON_ASSOCIATE_ID}`
+);
 
 const encodedUri = computed(() => encodeURIComponent(props.dlSiteLink));
 
-const dlSiteUrl = computed(() => {
-    return `https://www.dlsite.com/soft/dlaf/=/aid/${DLSITE_ASSOCIATE_ID}/url/${encodedUri.value}`;
-});
+const dlSiteUrl = computed(
+    () => `https://www.dlsite.com/soft/dlaf/=/aid/${DLSITE_ASSOCIATE_ID}/url/${encodedUri.value}`
+);
 </script>
 
 <template>
@@ -39,7 +39,7 @@ const dlSiteUrl = computed(() => {
             rel="noopener noreferrer"
             class="self-center"
         >
-            <img :src="imageUrl" :alt="props.title" class="max-w-48" loading="lazy" />
+            <img :src="props.imageUrl" :alt="props.title" class="max-w-48" loading="lazy" />
         </a>
         <div class="flex grow flex-col gap-2">
             <div class="text-lg font-bold">
