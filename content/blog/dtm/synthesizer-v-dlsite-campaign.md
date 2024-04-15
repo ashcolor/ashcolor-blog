@@ -95,8 +95,6 @@ AHSでは重音テトや花隈千冬など女性歌声データベースしか�
 [低域が特徴的な渋い声]{.marker}という印象があります。
 今までなかったタイプの歌声のため、どのような仕上がりになっているかが気になるところです。
 
-:affiliate-block{title="Synthesizer V AI フリモメン ダウンロード版" imageUrl=" https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002075_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002075.html"}
-
 ### 重音テト
 
 **重音テト**は子供らしくも大人らしくもあり、エイジレスで癖がなくまっすぐな歌声はどんなジャンルも歌いこなします。
@@ -111,8 +109,6 @@ AHSでは重音テトや花隈千冬など女性歌声データベースしか�
 
 他の歌声データベースよりも知名度が高いことから、[リスナー目線では歌声に馴染みのある方が多い歌声データベース]{.marker}という点でオススメです。
 
-:affiliate-block{title="Synthesizer V AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000376_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000376.html"}
-
 ## まとめ
 
 この記事では、[DLsiteの『Synthesizer V』セット割キャンペーン]{.marker}についてまとめました。
@@ -121,3 +117,7 @@ AHSでは重音テトや花隈千冬など女性歌声データベースしか�
 Synthesizer Vの歌声データベースのまとめを以下の記事に書いているので合わせてチェックしてみてください。
 
 :quote-article-card{url="/blog/dtm/synthesizer-v-singer"}
+
+:affiliate-block{title="Synthesizer V AI フリモメン ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002075_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002075.html"}
+
+:affiliate-block{title="Synthesizer V AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000376_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000376.html"}
