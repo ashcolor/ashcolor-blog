@@ -80,10 +80,12 @@ SynthV版の可不は**2023年7月7日**に発表されました。
 発売前から「本人そのもの」にならないように調整がされていたようですが、デモソングが公開されて反響を見た[花譜さんから発売延期の打診があった]{.marker}ようです。
 Synthesizer Vの歌声合成はリアル指向となっているため、[想像以上に本人の歌声に近いことに対しての懸念]{.marker}を感じたのだと思われます。
 
-「本人そのもの」にならないようにする意向はCeVIO AI版のときもありました。
-CeVIO AI版の可不はアンケート結果などを元に歌声の方向性が決められていましたが、[結果的には「花譜」さんの歌声とは離れた歌声]{.marker}に決まりました。
+[「本人そのもの」にならないようにする意向はCeVIO AI版のときもありました]{.marker}。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">花譜ちゃんの「音楽的同位体」である可不ちゃんの歌声を、皆様と花譜ちゃん本人と一緒に決めていくアンケート実施！<br>沢山の人にこのアンケートに参加して頂きたいです！<br>是非御応募よろしくお願いします！(可不運営スタッフ)<a href="https://t.co/PVOMXIVgg3">https://t.co/PVOMXIVgg3</a><a href="https://twitter.com/hashtag/%E8%8A%B1%E8%AD%9C?src=hash&amp;ref_src=twsrc%5Etfw">#花譜</a> <a href="https://twitter.com/hashtag/%E5%8F%AF%E4%B8%8D?src=hash&amp;ref_src=twsrc%5Etfw">#可不</a> <a href="https://twitter.com/hashtag/KAFU?src=hash&amp;ref_src=twsrc%5Etfw">#KAFU</a> <a href="https://twitter.com/hashtag/CeVIO?src=hash&amp;ref_src=twsrc%5Etfw">#CeVIO</a> <a href="https://twitter.com/hashtag/KAMITSUBAKI_STUDIO?src=hash&amp;ref_src=twsrc%5Etfw">#KAMITSUBAKI_STUDIO</a></p>&mdash; 音楽的同位体 公式【可不・星界・裏命・狐子・羽累】 (@musicalisotope) <a href="https://twitter.com/musicalisotope/status/1316668899912368128?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote>
+CeVIO AI版の可不は歌声の方向性についてアンケートが取られました。
+アンケート結果では本人に近い歌声の票が多かったものの、[最終的には花譜さん意見で本人の歌声とは離れた歌声]{.marker}に決まりました。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">花譜の音楽的同位体「可不」について、今の私の気持ちをお話します。<a href="https://twitter.com/hashtag/%E8%8A%B1%E8%AD%9C?src=hash&amp;ref_src=twsrc%5Etfw">#花譜</a> <a href="https://twitter.com/hashtag/%E5%8F%AF%E4%B8%8D?src=hash&amp;ref_src=twsrc%5Etfw">#可不</a> <a href="https://twitter.com/hashtag/KAFU?src=hash&amp;ref_src=twsrc%5Etfw">#KAFU</a> <a href="https://twitter.com/hashtag/CeVIO?src=hash&amp;ref_src=twsrc%5Etfw">#CeVIO</a> <a href="https://twitter.com/hashtag/KAMITSUBAKI_STUDIO?src=hash&amp;ref_src=twsrc%5Etfw">#KAMITSUBAKI_STUDIO</a> <a href="https://t.co/z8unJdRnPg">pic.twitter.com/z8unJdRnPg</a></p>&mdash; 花譜-KAF- (@virtual_kaf) <a href="https://twitter.com/virtual_kaf/status/1318145530577395718?ref_src=twsrc%5Etfw">October 19, 2020</a></blockquote>
 
 前々から[本人と音声合成ソフトの間で、差別化をしたいという意図]{.marker}があったように感じます。
 
