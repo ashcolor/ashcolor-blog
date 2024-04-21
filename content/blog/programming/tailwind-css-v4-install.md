@@ -59,7 +59,7 @@ npm install tailwindcss@next @tailwindcss/vite@next
 
 `vite-config.js`を以下の内容で作成
 
-```js
+```js [vite-config.js]
 import tailwindcss from '@tailwindcss/vite'
 import { defineConfig } from 'vite'export default defineConfig({
   plugins: [tailwindcss()],
@@ -68,7 +68,7 @@ import { defineConfig } from 'vite'export default defineConfig({
 
 `style.css`の先頭に以下を追加
 
-```css
+```css [style.css]
 @import "tailwindcss";
 ```
 
@@ -89,7 +89,7 @@ npm run dev
 
 `index.html`にTailwindCSSのクラスを追加してみます。
 
-```diff
+```diff [index.html]
 <!doctype html>
 <html lang="en">
   <head>
@@ -130,10 +130,7 @@ v3→v4の変化は以下の通りです。
 
 `tailwind.config.js`がないとブレークポイントや色のカスタマイズができないと思われるかもしれませんが、そこはCSS変数で設定できるようになっています。
 
-`style.css`
-
-```bash
-
+```css [style.css]
 @import "tailwindcss";
 
 @theme {
@@ -145,12 +142,9 @@ v3→v4の変化は以下の通りです。
   --color-neon-lime: oklch(91.5% 0.258 129);
   --color-neon-cyan: oklch(91.3% 0.139 195.8);
 }
-
 ```
 
-`index.html`
-
-```html
+```html [index.html]
 <div class="max-w-lg 3xl:max-w-xl">
   <h1 class="font-display text-4xl">
     Data to <span class="text-neon-cyan">enrich</span> your online business
