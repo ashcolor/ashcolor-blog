@@ -12,17 +12,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: lts/*
+
+      - uses: pnpm/action-setup@v2
+
       - name: Install dependencies
-        run: npm install -g pnpm && pnpm install && pnpm build
+        run: pnpm install --frozen-lockfile && pnpm build
         env:
           VITE_NUXT_PUBLIC_SITE_URL: http://localhost:3000
+
       - name: Install Playwright Browsers
         run: pnpm exec playwright install --with-deps
+
       - name: Run Playwright tests
         run: pnpm exec playwright test
+
       - uses: actions/upload-artifact@v4
         if: always()
         with:
