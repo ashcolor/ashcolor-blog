@@ -34,7 +34,6 @@ useSeoMeta({
     twitterCard: "summary_large_image",
 });
 
-const contentRef = ref(null);
 useHead({
     script: [
         {
@@ -43,7 +42,7 @@ useHead({
             defer: true,
             onload: () => {
                 if (!twttr) return;
-                twttr.widgets.load(contentRef.value);
+                twttr.widgets.load();
             },
         },
     ],
@@ -100,7 +99,7 @@ const navigations = computed(() => {
                 <div class="col-span-4 mb-8 block lg:hidden">
                     <BlogPageToc :links="article?.body?.toc?.links || []"></BlogPageToc>
                 </div>
-                <ContentRenderer ref="contentRef" :value="article" />
+                <ContentRenderer :value="article" />
 
                 <div class="divider"></div>
 
