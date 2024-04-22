@@ -48,7 +48,7 @@ const dlSiteCampaignText = () => {
     >
         <a
             v-if="imageUrl"
-            :href="amazonUrl"
+            :href="props.asin ? amazonUrl : dlSiteUrl"
             target="_blank"
             rel="noopener noreferrer"
             class="self-center"
