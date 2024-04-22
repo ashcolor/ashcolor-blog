@@ -26,6 +26,20 @@ const encodedUri = computed(() => encodeURIComponent(props.dlSiteLink));
 const dlSiteUrl = computed(
     () => `https://www.dlsite.com/soft/dlaf/=/aid/${DLSITE_ASSOCIATE_ID}/url/${encodedUri.value}`
 );
+
+const amazonCampaignText = () => {
+    const endDate = new Date("2024-04-22T23:59:00");
+    if (new Date() < endDate) return "ポイントアップキャンペーン中";
+    return false;
+};
+
+const dlSiteCampaignText = () => {
+    const endDate = new Date("2024-05-08T13:59:00");
+    if (new Date() < endDate && props.title.includes("Synthesizer V")) {
+        return "Synthesizer V セット割キャンペーン中！";
+    }
+    return false;
+};
 </script>
 
 <template>
@@ -46,24 +60,32 @@ const dlSiteUrl = computed(
                 {{ props.title }}
             </div>
             <div class="flex flex-col gap-2 sm:flex-row">
-                <a
-                    v-if="props.asin"
-                    class="btn grow bg-[#ffd814] hover:bg-[#ffd814]"
-                    :href="amazonUrl"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Amazonで購入
-                </a>
-                <a
-                    v-if="props.dlSiteLink"
-                    class="btn grow bg-[#039] text-white hover:bg-[#039]"
-                    :href="dlSiteUrl"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    DLsiteで購入
-                </a>
+                <div v-if="props.asin" class="flex grow flex-col justify-end">
+                    <p v-if="amazonCampaignText()" class="text-center text-sm text-red-500">
+                        ＼&nbsp;{{ amazonCampaignText() }}&nbsp;／
+                    </p>
+                    <a
+                        class="btn w-full bg-[#ffd814] hover:bg-[#ffd814]"
+                        :href="amazonUrl"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Amazonで購入
+                    </a>
+                </div>
+                <div v-if="props.dlSiteLink" class="flex grow flex-col justify-end">
+                    <p v-if="dlSiteCampaignText()" class="text-center text-sm text-red-500">
+                        ＼&nbsp;{{ dlSiteCampaignText() }}&nbsp;／
+                    </p>
+                    <a
+                        class="btn w-full bg-[#039] text-white hover:bg-[#039]"
+                        :href="dlSiteUrl"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        DLsiteで購入
+                    </a>
+                </div>
             </div>
         </div>
     </div>
