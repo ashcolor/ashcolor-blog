@@ -1,5 +1,5 @@
 ---
-createdAt: "2024/04/13"
+createdAt: "2024/04/24"
 updatedAt: ""
 title: "SynthV版 可不の発売延期の経緯まとめ【音楽的同位体 可不(KAFU)】"
 description: "Synthesizer V 可不が発売延期になった経緯についてまとめています。"
@@ -28,9 +28,9 @@ SynthV版の可不の発売延期についてのポイントは以下の通り�
 
 ::
 
-## 経緯
+## 延期までの流れ
 
-SynthV版の可不が発売延期になるまでの経緯を以下にまとめました。
+SynthV版の可不が発売延期になるまでの流れを以下にまとめました。
 
 ### 発売決定・予約受付開始
 
@@ -66,7 +66,14 @@ SynthV版の可不は**2023年7月7日**に発表されました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「音楽的同位体 可不(KAFU) <br> collaboration with Synthesizer V AI / The Right Stuff ver.」<br>発売延期についてのご報告になります。<a href="[https://twitter.com/hashtag/音楽的同位体?src=hash&amp;ref_src=twsrc^tfw](https://twitter.com/hashtag/%E9%9F%B3%E6%A5%BD%E7%9A%84%E5%90%8C%E4%BD%8D%E4%BD%93?src=hash&amp;ref_src=twsrc%5Etfw)">#音楽的同位体</a> <a href="[https://twitter.com/hashtag/可不?src=hash&amp;ref_src=twsrc^tfw](https://twitter.com/hashtag/%E5%8F%AF%E4%B8%8D?src=hash&amp;ref_src=twsrc%5Etfw)">#可不</a> <a href="[https://twitter.com/hashtag/KAMITSUBAKI_STUDIO?src=hash&amp;ref_src=twsrc^tfw](https://twitter.com/hashtag/KAMITSUBAKI_STUDIO?src=hash&amp;ref_src=twsrc%5Etfw)">#KAMITSUBAKI_STUDIO</a> <a href="https://t.co/rNUNSP7pUA">[pic.twitter.com/rNUNSP7pUA](http://pic.twitter.com/rNUNSP7pUA)</a></p>— PIEDPIPER (@PIEDPIPER2045) <a href="[https://twitter.com/PIEDPIPER2045/status/1778731096445968819?ref_src=twsrc^tfw](https://twitter.com/PIEDPIPER2045/status/1778731096445968819?ref_src=twsrc%5Etfw)">April 12, 2024</a></blockquote>
 
 上記のポストには、発売延期に至った経緯が詳しく書いてあります。
-発売延期になった経緯を以下にまとめました。
+
+### 花譜さん本人のポスト
+
+**2024年4月17日**、花譜さん本人が延期についてのポストを投稿しました。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Synthesizer Vの可不ちゃんについて、発売をお待たせしていて申し訳ありません。<br><br>新しい可不ちゃんの開発が本格的に開始される前に、頂いたボイスサンプルを聴かせていただき、プロデューサーさん、運営さん達と一緒に、自分が納得が行くものを選びました。… <a href="https://t.co/488FLMV7Zh">https://t.co/488FLMV7Zh</a></p>&mdash; 花譜-KAF- (@virtual_kaf) <a href="https://twitter.com/virtual_kaf/status/1780530573502751130?ref_src=twsrc%5Etfw">April 17, 2024</a></blockquote>
+
+発売延期理由を以下にまとめました。
 
 ## 発売延期理由と今後について
 
