@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/04/13"
+updatedAt: "2024/04/25"
 title: "Synthesizer V 歌声データベース一覧とオススメの歌声"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -190,18 +190,9 @@ ROSE 歌声は以下の動画で確認することができます。
 
 :affiliate-block{title="Synthesizer V ROSE(ローズ) ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01002000/VJ01001167_img_main.webp" asin="B0BMTTT3V7" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001167.html"}
 
-## 発売予定の歌声データベース
-
-Synthesizer V の歌声データベースは次々と追加されています。
-
-中には[他の音声合成エンジンで人気だったライブラリの Synthesizer V 版が発表]{.marker}されることも多く、その人気の高さが伺えます。
-
-2023 年の下旬から来年にかけて、いくつかの発売予定の歌声データベースがあるので、注目の歌声データベースについて以下にまとめていきます。
-
 ### フリモメン
 
 **フリモメン**は元々はAHSのソフト「Free Motion」のイメージキャラクターの男性歌声データベースです。
-**4月25日**に発売されることが決まり、現在は[予約購入を受け付け]{.marker}ています。
 
 AHSでは重音テトや花隈千冬など女性歌声データベースしか発売されていなかったため、今回が[初めての男性歌声データベース]{.marker}になります。
 
@@ -209,10 +200,20 @@ AHSでは重音テトや花隈千冬など女性歌声データベースしか�
 
 :you-tube-iframe{title="Free blue / 風原 feat. フリモメン" videoId="DDqcbShzdWU"}
 
-[低域が特徴的な渋い声]{.marker}という印象があります。
-今までなかったタイプの歌声のため、どのような仕上がりになっているかが気になるところです。
+[低域が特徴的な渋い声]{.marker}をしています。
+キャラクター性のある男性歌声データベースが欲しい方にオススメです。
+
+:affiliate-block{title="AHS Synthesizer V AI フリモメン パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41PLMkmoJPL._SL160_.jpg" asin="B0CZL1M556"}
 
 :affiliate-block{title="Synthesizer V AI フリモメン ダウンロード版" imageUrl=" https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002075_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002075.html"}
+
+## 発売予定の歌声データベース
+
+Synthesizer V の歌声データベースは次々と追加されています。
+
+中には[他の音声合成エンジンで人気だったライブラリの Synthesizer V 版が発表]{.marker}されることも多く、その人気の高さが伺えます。
+
+注目の歌声データベースについて以下にまとめていきます。
 
 ### 可不
 
