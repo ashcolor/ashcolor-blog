@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/04/25"
+updatedAt: "2024/04/27"
 title: "Synthesizer V 歌声データベース一覧とオススメの歌声"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -71,6 +71,10 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 ![Maiの言語設定 日本語以外の言語も選ぶことができる](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-singer/language.png)
 
+また、バージョン1.11.0以降では、一部の歌声データベースはスペイン語に対応しました。
+スペイン語に対応している歌声データベースは以下にまとめられています。
+
+:link-card{url="https://dreamtonics.com/ja/synthesizer-v-studio-1-11-0-update/"}
 以下の動画では収録言語が中国語の **Feng Yi** と **An Xiao** が日本語で歌っているカバー動画を確認することができます。
 
 :you-tube-iframe{title="Feng Yi と An Xiao による日本語歌唱" videoId="9GnRBEVLEaE"}
