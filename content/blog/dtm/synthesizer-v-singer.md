@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/04/25"
+updatedAt: "2024/04/27"
 title: "Synthesizer V 歌声データベース一覧とオススメの歌声"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
