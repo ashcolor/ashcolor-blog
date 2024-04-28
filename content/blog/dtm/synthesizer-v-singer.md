@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/10/02"
 updatedAt: "2024/04/27"
-title: "Synthesizer V 歌声データベース一覧とオススメの歌声"
+title: "Synthesizer V 歌声データベース一覧！発売予定やオススメもまとめました"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
 subCategory: "Synthesizer V"
@@ -62,7 +62,7 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 ![公式サイト デモソングプレイヤー デモソングやボーカルスタイルを切り替えられる](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-singer/player2.png)
 
-[デモソングの数も充実しており、全てのボーカルスタイルが試聴できる]{.marker}ため、好みの歌声データベースを探すのに役立ちます。
+[デモソングも充実しており、全てのボーカルスタイルを試聴できる]{.marker}ため、好みの歌声データベースを探すのに役立ちます。
 
 ### 収録言語について
 
@@ -106,7 +106,7 @@ Synthesizer V を使いたいけれど、どの歌声データベースを購入
 
 Megpoid は歌手・声優の**中島愛**さんの歌声から作成された歌声データベースです。
 
-[元々は VOCALOID のライブラリをして発売]{.marker}されていましたが、2023年12月20日にSynthesizer V 版も発売されました。
+[元々は VOCALOID のライブラリとして発売]{.marker}されていましたが、2023年12月20日にSynthesizer V 版も発売されました。
 
 歌声は以下の動画で確認することができます。
 
