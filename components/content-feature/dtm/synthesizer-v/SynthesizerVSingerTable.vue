@@ -41,7 +41,7 @@ const filteredSingers = computed(() => {
 </script>
 
 <template>
-    <div class="my-16 flex flex-col gap-4">
+    <div class="my-8 flex flex-col gap-4">
         <p class="font-bold">歌声データベース一覧</p>
 
         <div class="flex flex-col justify-evenly gap-2 md:flex-row">
@@ -87,7 +87,7 @@ const filteredSingers = computed(() => {
         </div>
         <template v-else>
             <div class="flex flex-col gap-4">
-                <div class="max-h-[768px] overflow-auto">
+                <div class="max-h-96 overflow-auto md:max-h-[768px]">
                     <table class="table table-xs">
                         <thead>
                             <tr>
