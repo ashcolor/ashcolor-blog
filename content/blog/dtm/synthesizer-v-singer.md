@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/04/27"
-title: "Synthesizer V 歌声データベース一覧とオススメの歌声"
+updatedAt: "2024/04/28"
+title: "Synthesizer V 歌声データベース一覧！発売予定やオススメもまとめました"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
 subCategory: "Synthesizer V"
@@ -12,8 +12,6 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thu
 isRecommend: true
 ---
 
-この記事では歌声合成ソフトウェアである**Synthesizer V**の[歌声データベース]{.marker}について説明します。
-
 ## Synthesizer V の歌声データベースについて
 
 Synthesizer V は、**Dreamtonics**が開発する歌声合成ソフトウェアです。
@@ -23,13 +21,14 @@ Synthesizer V には[40 を超える歌声データベース]{.marker}が存在�
 
 ![歌声データベースの一部（公式サイトより）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-singer/singer.png)
 
-Synthesizer V を購入する際にはどの歌声データベースを購入するか、悩む方も多いのではないでしょうか。
+どの歌声データベースを購入するか、悩む方も多いのではないでしょうか。
 
-この記事では歌声データベースの一覧・選び方・オススメ・発売予定の歌声データベースを紹介していきます。
+この記事では、[歌声データベースの一覧・選び方・オススメ・発売予定の歌声データベースを紹介]{.marker}します。
+歌声データベースを選ぶ際の参考になれば幸いです。
 
 ## 歌声データベース一覧
 
-現在発売中（または発売予定）の歌声データベースの一覧は以下の通りです。
+[現在発売中（または発売予定）の歌声データベースの一覧]{.marker}は以下の通りです。
 
 <DtmSynthesizerVSingerTable></DtmSynthesizerVSingerTable>
 
@@ -56,14 +55,14 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 ![公式サイト 歌声データベース一覧](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-singer/player1.png)
 
-試聴したい歌声データベースの横の「▶️」をクリックすると、歌声を試聴することができます。
+試聴したい歌声データベースの横の[「▶️」をクリック]{.marker}すると、歌声を試聴することができます。
 （※PC版の場合はマウスをホバーすると「▶️」が表示されます。）
 
 さらに、試聴中に表示されるプレイヤーには[デモソングとボーカルスタイルの変更]{.marker}をする機能が備わっています。
 
 ![公式サイト デモソングプレイヤー デモソングやボーカルスタイルを切り替えられる](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-singer/player2.png)
 
-[デモソングの数も充実しており、全てのボーカルスタイルも試聴することができる]{.marker}ため、[好みの歌声データベースを探すのが楽]{.marker}になります。
+[デモソングも充実しており、全てのボーカルスタイルを試聴できる]{.marker}ため、好みの歌声データベースを探すのに役立ちます。
 
 ### 収録言語について
 
@@ -71,19 +70,17 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 ![Maiの言語設定 日本語以外の言語も選ぶことができる](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-singer/language.png)
 
-また、バージョン1.11.0以降では、一部の歌声データベースはスペイン語に対応しました。
+バージョン1.11.0以降では、一部の歌声データベースは[スペイン語]{.marker}に対応しました。
 スペイン語に対応している歌声データベースは以下にまとめられています。
 
 :link-card{url="https://dreamtonics.com/ja/synthesizer-v-studio-1-11-0-update/"}
-以下の動画では収録言語が中国語の **Feng Yi** と **An Xiao** が日本語で歌っているカバー動画を確認することができます。
-
-:you-tube-iframe{title="Feng Yi と An Xiao による日本語歌唱" videoId="9GnRBEVLEaE"}
-
-上記の動画を見ても分かる通り、収録言語以外でも違和感なく歌っていることが分かります。
 
 ## オススメの歌声データベース
 
-上記でも述べた通り、歌声データベースは声の好みで選ぶことが基本ですが、歌声以外の視点でオススメの歌声データベースを紹介します。
+歌声データベースは[歌声の好み]{.marker}で選ぶことが基本です。
+また、場合によっては歌声以外の視点でオススメできる歌声データベースもあります。
+
+どの歌声データベースを購入するか悩んでいる方に向けて、[動画サイトでの使用頻度が高い、または[販売サイトでの売上ランキングが上位]{.marker}の歌声データベースを中心にオススメを紹介します。
 
 ### Mai
 
@@ -109,7 +106,7 @@ Synthesizer V を使いたいけれど、どの歌声データベースを購入
 
 Megpoid は歌手・声優の**中島愛**さんの歌声から作成された歌声データベースです。
 
-[元々は VOCALOID のライブラリをして発売]{.marker}されていましたが、2023年12月20日にSynthesizer V 版も発売されました。
+[元々は VOCALOID のライブラリとして発売]{.marker}されていましたが、2023年12月20日にSynthesizer V 版も発売されました。
 
 歌声は以下の動画で確認することができます。
 

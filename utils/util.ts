@@ -17,4 +17,9 @@ export class Util {
         new Promise((resolve) => {
             setTimeout(resolve, ms);
         });
+
+    static affiliateDlSiteUrl = (dlSiteLink: string) => {
+        const encodedUri = encodeURIComponent(dlSiteLink);
+        return `https://www.dlsite.com/soft/dlaf/=/aid/${DLSITE_ASSOCIATE_ID}/url/${encodedUri}`;
+    };
 }
