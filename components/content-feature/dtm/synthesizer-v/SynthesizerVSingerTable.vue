@@ -13,7 +13,6 @@ const singers = computed(() => {
 
 const languageFilter = ref<string>("");
 const genderFilter = ref<string>("");
-const illustFilter = ref<string>("");
 
 const sort = ref<string>("release");
 
@@ -33,12 +32,6 @@ const filteredSingers = computed(() => {
         });
     }
 
-    if (illustFilter.value) {
-        tmpSingers = tmpSingers.filter((singer) => {
-            return singer.illust === illustFilter.value;
-        });
-    }
-
     tmpSingers.sort((a, b) => {
         return a[sort.value] < b[sort.value] ? 1 : -1;
     });
@@ -51,17 +44,16 @@ const filteredSingers = computed(() => {
     <div class="my-16 flex flex-col gap-4">
         <p class="font-bold">歌声データベース一覧</p>
 
-        <div class="form-control w-full max-w-xs">
-            <label class="label">
-                <span class="label-text">ソート</span>
-            </label>
-            <select v-model="sort" class="select select-bordered select-sm w-full max-w-xs">
-                <option value="release">発売日</option>
-                <option value="company">会社</option>
-            </select>
-        </div>
-
         <div class="flex flex-col justify-evenly gap-2 md:flex-row">
+            <div class="form-control w-full max-w-xs">
+                <label class="label">
+                    <span class="label-text">ソート</span>
+                </label>
+                <select v-model="sort" class="select select-bordered select-sm w-full max-w-xs">
+                    <option value="release">発売日</option>
+                    <option value="company">発売元</option>
+                </select>
+            </div>
             <div class="form-control w-full max-w-xs">
                 <label class="label">
                     <span class="label-text">収録言語</span>
@@ -87,19 +79,6 @@ const filteredSingers = computed(() => {
                     <option value="">すべて</option>
                     <option value="男声">男声</option>
                     <option value="女声">女声</option>
-                </select>
-            </div>
-            <div class="form-control w-full max-w-xs">
-                <label class="label">
-                    <span class="label-text">立ち絵</span>
-                </label>
-                <select
-                    v-model="illustFilter"
-                    class="select select-bordered select-sm w-full max-w-xs"
-                >
-                    <option value="">すべて</option>
-                    <option value="あり">あり</option>
-                    <option value="なし">なし</option>
                 </select>
             </div>
         </div>
