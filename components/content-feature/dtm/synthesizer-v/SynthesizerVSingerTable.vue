@@ -108,7 +108,7 @@ const filteredSingers = computed(() => {
         </div>
         <template v-else>
             <div class="flex flex-col gap-4">
-                <div class="overflow-x-auto">
+                <div class="max-h-[768px] overflow-auto">
                     <table class="table table-xs">
                         <thead>
                             <tr>
@@ -117,13 +117,29 @@ const filteredSingers = computed(() => {
                                 <th>発売元</th>
                                 <th>対応言語</th>
                                 <th>性別</th>
-                                <th>立ち絵</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr v-for="singer in filteredSingers" :key="singer.name">
                                 <td>{{ singer.release }}</td>
-                                <td class="font-bold">{{ singer.name }}</td>
+                                <td class="font-bold">
+                                    <a
+                                        v-if="singer.dlsite_url"
+                                        :href="Util.affiliateDlSiteUrl(singer.dlsite_url)"
+                                        class="link tooltip text-left"
+                                        data-tip="DLsiteで購入"
+                                        target="_blank"
+                                    >
+                                        <p>{{ singer.name }}</p>
+                                        <img
+                                            v-if="singer.image_url"
+                                            :src="singer.image_url"
+                                            class="max-h-20 border"
+                                            :alt="singer.name"
+                                        />
+                                    </a>
+                                    <p v-else>{{ singer.name }}</p>
+                                </td>
                                 <td>{{ singer.company }}</td>
                                 <td>{{ singer.language }}</td>
                                 <td
@@ -134,7 +150,6 @@ const filteredSingers = computed(() => {
                                 >
                                     {{ singer.gender }}
                                 </td>
-                                <td>{{ singer.illust === "あり" ? "あり" : "-" }}</td>
                             </tr>
                         </tbody>
                     </table>

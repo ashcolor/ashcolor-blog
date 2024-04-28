@@ -21,11 +21,7 @@ const amazonUrl = computed(
     () => `https://www.amazon.co.jp/dp/${props.asin}/?tag=${AMAZON_ASSOCIATE_ID}`
 );
 
-const encodedUri = computed(() => encodeURIComponent(props.dlSiteLink));
-
-const dlSiteUrl = computed(
-    () => `https://www.dlsite.com/soft/dlaf/=/aid/${DLSITE_ASSOCIATE_ID}/url/${encodedUri.value}`
-);
+const dlSiteUrl = computed(() => Util.affiliateDlSiteUrl(props.dlSiteLink));
 
 const amazonCampaignText = () => {
     const endDate = new Date("2024-04-22T23:59:00");
