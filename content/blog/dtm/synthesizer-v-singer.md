@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/04/28"
+updatedAt: "2024/04/29"
 title: "Synthesizer V 歌声データベース一覧！発売予定やオススメもまとめました"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -71,7 +71,7 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 ![Maiの言語設定 日本語以外の言語も選ぶことができる](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-singer/language.png)
 
 バージョン1.11.0以降では、一部の歌声データベースは[スペイン語]{.marker}に対応しました。
-スペイン語に対応している歌声データベースは以下にまとめられています。
+スペイン語に対応している歌声データベースは、以下にまとめられています。
 
 :link-card{url="https://dreamtonics.com/ja/synthesizer-v-studio-1-11-0-update/"}
 
@@ -106,15 +106,15 @@ Synthesizer V を使いたいけれど、どの歌声データベースを購入
 
 Megpoid は歌手・声優の**中島愛**さんの歌声から作成された歌声データベースです。
 
-[元々は VOCALOID のライブラリとして発売]{.marker}されていましたが、2023年12月20日にSynthesizer V 版も発売されました。
+[元々は VOCALOID のライブラリとして発売]{.marker}されていましたが、2023年12月20日にSynthesizer V版も発売されました。
 
 歌声は以下の動画で確認することができます。
 
 :you-tube-iframe{title="Synthesizer V AI Megpoid サンプル音声" video-id="46TrD0B3bpo"}
 
-VOCALOID 版の Megpoid は**GUMI**というキャラクターが歌っている印象がありましたが、Synthesizer V 版に関しては[**中島愛**さんの歌い方に近いように感じます]{.marker}。
+VOCALOID 版の Megpoid は**GUMI**というキャラクターが歌っている印象がありましたが、Synthesizer V版に関しては[**中島愛**さんの歌い方に近いように感じます]{.marker}。
 
-MegpoidはVOCALOID版でも人気のライブラリだったため、親しみのある方も多いためオススメの歌声データベースです。
+MegpoidはVOCALOID版でも人気のライブラリだったため、さらにリアルになったSynthesizer V版は特にオススメです。
 
 :affiliate-block{title="Synthesizer V AI Megpoid パッケージ版" asin="B0CNSLGNH7" imageUrl="https://m.media-amazon.com/images/I/41PINo4+UcL._SL160_.jpg"}
 
@@ -210,11 +210,39 @@ AHSでは重音テトや花隈千冬など女性歌声データベースしか�
 
 ## 発売予定の歌声データベース
 
-Synthesizer V の歌声データベースは次々と追加されています。
+Synthesizer V の歌声データベースは続々と追加されていますが、さらに[開発中・発売予定の歌声データベースも多くあります]{.marker}。
+その中でも[注目度の高い歌声データベース]{.marker}について、以下にまとめます。
 
-中には[他の音声合成エンジンで人気だったライブラリの Synthesizer V 版が発表]{.marker}されることも多く、その人気の高さが伺えます。
+### 夢ノ結唱 PASTEL・HALO
 
-注目の歌声データベースについて以下にまとめていきます。
+**夢ノ結唱**シリーズは [BanG Dream!（バンドリ！）内のユニットから生まれたキャラクターとコラボレーション]{.marker}して制作された音声合成ソフトです。
+
+今までに**POPY**と**ROSE**が発売されていましたが、新しく**PASTEL**と**HALO**の開発・発売が決定しました。
+
+:link-card{url="https://bang-dream.com/news/1816"}
+
+#### 夢ノ結唱 PASTEL
+
+**夢ノ結唱 PASTEL**はバンドリ！内のバンド、[Pastel＊PalettesのVo.丸山 彩（CV.前島亜美）]{.marker}さんの歌声を元にした歌声データベースです。
+現時点ではデモソングは公開されていません。
+参考までに、Pastel＊Palettesのオリジナル曲を以下に載せます。
+
+:you-tube-iframe{title="Pastel＊Palettes「もういちど ルミナス」アニメMV（フルサイズver ）" videoId="HhZW-XZShhs"}
+
+#### 夢ノ結唱 HALO
+
+**夢ノ結唱 HALO**はバンドリ！内のバンド、[ハロー、ハッピーワールド！のVo.弦巻 こころ（CV.伊藤美来）]{.marker}さんの歌声を元にした歌声データベースです。
+
+こちらも現時点ではデモソングは公開されていません。
+参考までに、ハロー、ハッピーワールド！のオリジナル曲を以下に載せます。
+
+:you-tube-iframe{title="ハロー、ハッピーワールド！「キミがいなくちゃっ！」アニメMV（フルサイズVer）" videoId="ZuPa85P19rw"}
+
+どちらも可愛らしい歌声だと感じる一方で、[声質が似ている]{.marker}なとも感じました。
+Synthesizer Vとしてどのような歌声になるか気になるところです。
+
+発売日は未定です・
+分かり次第、記事に追記します。
 
 ### 可不
 
