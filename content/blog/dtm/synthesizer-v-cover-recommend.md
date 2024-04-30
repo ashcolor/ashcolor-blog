@@ -131,7 +131,7 @@ Haydenは英語で収録された歌声データベースですが、[Synthesize
 
 ## Feng Yi
 
-### いのちの名前/木村弓
+### いのちの名前
 
 <!-- prettier-ignore -->
 :you-tube-iframe{title="【Feng Yi】いのちの名前【Synthesizer V】カバー / 木村弓" videoId="Hm___RP8_nY"} <!-- markdownlint-disable-line -->
