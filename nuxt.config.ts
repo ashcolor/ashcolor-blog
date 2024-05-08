@@ -31,6 +31,7 @@ export default defineNuxtConfig({
         "nuxt-icon",
         "@pinia/nuxt",
         "@vueuse/nuxt",
+        "@nuxt/image",
     ],
 
     components: {

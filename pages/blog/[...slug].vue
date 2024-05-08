@@ -91,7 +91,14 @@ const navigations = computed(() => {
         <div class="grid grid-cols-12">
             <div class="col-span-12 flex flex-col gap-8 lg:col-span-8">
                 <div class="mx-auto mb-8">
-                    <img :src="article?.thumbnail" alt="サムネイル" fetchpriority="high" />
+                    <NuxtImg
+                        preload
+                        :src="article?.thumbnail"
+                        alt="サムネイル"
+                        fetchpriority="high"
+                        height="400"
+                        width="800"
+                    />
                 </div>
                 <div class="text-sm text-slate-500">
                     ※当ブログの記事にはアフィリエイトリンクを使用している場合があります。
