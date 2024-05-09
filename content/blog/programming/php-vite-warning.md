@@ -1,7 +1,7 @@
 ---
 createdAt: "2024/02/13"
 updatedAt: ""
-title: "PHP+Vite+Reactの統合時に発生した「vite-plugin-react can't detect preamble. 」エラーの対応方法"
+title: "「vite-plugin-react can't detect preamble.」エラー対応【PHP、React】"
 description: "PHPとVite+Reactを統合するときに発生した「vite-plugin-react can't detect preamble. 」エラーの対応方法と補足を解説します。"
 category: "プログラミング"
 subCategory: "php"

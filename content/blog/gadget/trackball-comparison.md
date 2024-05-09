@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/08/21"
 updatedAt: "2023/10/05"
-title: "人気トラックボール徹底比較！「Kensington SlimBlade Pro」 vs 「Logicool MX ERGO」"
+title: "トラックボール比較 SlimBlade Pro vs MX ERGO"
 description: "人気のトラックボール「Kensington SlimBlade Pro」 と「Logicool MX ERGO」のスペックを比較します。"
 category: "ガジェット"
 tags:

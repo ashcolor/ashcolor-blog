@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/08/01"
 updatedAt: "2024/02/21"
-title: "愛用のVST音源まとめ！よく使う音源の好きなところや使い分けについて解説"
+title: "愛用のVST音源まとめ！よく使う音源の好きなところや使い分けを解説"
 description: "私の使っているVST音源を紹介します。"
 category: "DTM"
 tags:

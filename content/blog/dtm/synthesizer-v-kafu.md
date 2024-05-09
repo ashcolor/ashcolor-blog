@@ -1,7 +1,7 @@
 ---
 createdAt: "2024/04/24"
 updatedAt: ""
-title: "SynthV版 可不の発売延期の経緯まとめ【音楽的同位体 可不(KAFU)】"
+title: "SynthV版 可不の発売延期の経緯まとめ"
 description: "Synthesizer V 可不が発売延期になった経緯についてまとめています。"
 category: "DTM"
 subCategory: "Synthesizer V"

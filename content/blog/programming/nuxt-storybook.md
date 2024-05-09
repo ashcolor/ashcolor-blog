@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/11/22"
 updatedAt: "2024/03/18"
-title: "Nuxt3プロジェクトにStorybookを導入する手順とエラー時の対応方法を詳しく解説【nuxt/storybookモジュール】"
+title: "Nuxt3にStorybookを導入する方法"
 description: "NuxtJSを使用してブログを作成した際の技術スタック・メリット・デメリットを紹介します。"
 category: "プログラミング"
 subCategory: "Nuxt.js"

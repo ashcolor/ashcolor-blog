@@ -1,7 +1,7 @@
 ---
 createdAt: "2024/02/15"
 updatedAt: "2024/05/09"
-title: "SynthV Studio Basic、ライト版・機能制限版について"
+title: "Synthesizer Vのライト版・機能制限版について解説"
 description: "Studio Basic Basic、ライト版・機能制限版の歌声データベースについての詳細をまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
