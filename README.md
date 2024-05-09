@@ -1,7 +1,7 @@
 # あしゅログ（個人ブログ）
 
-- [本番環境](https://blog.ashcolor.work/)
-- [ステージング環境](https://test-blog.ashcolor.work/)
+- [本番環境](https://blog.ashcolor.jp/)
+- [ステージング環境](https://stg-blog.ashcolor.jp/)
 
 ## ドキュメント
 

@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/11/26"
 updatedAt: "2024/04/07"
-title: "Synthesizer V が ARA に対応！Cubase で ARA を使用する方法と注意点"
+title: "Synthesizer V ARA対応！Cubaseで使用する方法"
 description: "Synthesizer V の ARA プラグイン を Cubase で使用する方法と注意点を解説します。"
 category: "DTM"
 subCategory: "Synthesizer V"

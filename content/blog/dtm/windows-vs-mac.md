@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/09/04"
 updatedAt: "2024/01/19"
-title: "【Windows vs Mac】ボカロPになるならOSはWindowsとMacどちらが良い？ソフトウェアの対応状況を調べてみた"
+title: "ボカロPになるならWindows？Mac？ソフト対応状況まとめ"
 description: "WindowsとMac、どちらがオススメかをDTMをしたい人やボカロPになりたい人向けにメリット・デメリットをまとめました。"
 category: "DTM"
 tags:

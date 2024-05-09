@@ -1,7 +1,7 @@
 ---
 createdAt: "2024/01/17"
 updatedAt: "2024/01/19"
-title: "キーキャップ購入時の注意点とAmazonで購入できるオススメのキーキャップ"
+title: "キーキャップ購入時の注意点とAmazonで買えるキーキャップ"
 description: "キーキャップ購入時の注意点とAmazonで購入できるオススメのキーキャップを紹介します。"
 category: "ガジェット"
 tags:

@@ -1,7 +1,7 @@
 ---
 createdAt: "2024/03/07"
 updatedAt: ""
-title: "【Tailwind CSS v4-alpha】Vite + TailwindCSS v4環境を構築してみた"
+title: "Vite、TailwindCSS v4環境を構築【Tailwind CSS v4-alpha】"
 description: "Vite + Tailwind CSS v4環境を構築する手順とv3との違いをまとめました。"
 category: "プログラミング"
 subCategory: "Tailwind CSS"

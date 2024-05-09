@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/12/20"
 updatedAt: ""
-title: "Synthesizer V 版 Megpoid 発売！VOCALOID 版と比較してみた"
+title: "Synthesizer V版Megpoid発売！VOCALOID版と比較"
 description: "Synthesizer V 版 と VOCALOID版の Megpoid の歌声と機能を比較しました。"
 category: "DTM"
 subCategory: "Synthesizer V"

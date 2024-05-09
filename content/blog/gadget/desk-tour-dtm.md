@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/08/01"
 updatedAt: "2024/04/12"
-title: "システムエンジニア/DTMerのデスク周り紹介 DTM（音楽）機器編！スピーカーやヘッドホンについてまとめてみた"
+title: "システムエンジニア/DTMerのデスク周り紹介 DTM（音楽）機器編"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。"
 category: "ガジェット"
 tags:

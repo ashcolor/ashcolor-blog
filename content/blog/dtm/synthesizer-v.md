@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/08/30"
 updatedAt: "2023/11/26"
-title: "Synthesizer V の調声用パラメータ・プロパティについての解説"
+title: "Synthesizer Vの調声用パラメータ・プロパティについて解説"
 description: "Synthesizer Vの調声をする際に用いるパラメータとプロパティについて解説します。"
 category: "DTM"
 tags:
