@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/09/21"
 updatedAt: ""
-title: "Notionのデータベースの列幅をチェックボックス以外でも最小にする方法"
+title: "Notionのデータベースの列幅をチェックボックス以外で最小にする方法"
 description: "Notionのデータベースの列幅をチェックボックス以外でも最小にする方法を紹介します。"
 category: "Notion"
 tags:
