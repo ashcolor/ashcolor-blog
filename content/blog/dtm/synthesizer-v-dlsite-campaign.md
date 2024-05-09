@@ -1,7 +1,7 @@
 ---
 createdAt: "2024/04/02"
-updatedAt: ""
-title: "今Synthesizer Vを購入するならDLsiteがオススメ！『Synthesizer V』セット割キャンペーンについて解説【5/8まで】"
+updatedAt: "2024/05/09"
+title: "【終了】今Synthesizer Vを購入するならDLsiteがオススメ！『Synthesizer V』セット割キャンペーンについて解説【5/8まで】"
 description: "『Synthesizer V』セット割キャンペーンについてまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
@@ -10,6 +10,8 @@ tags:
   - "SynthV"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thumbnail.png"
 ---
+
+[このキャンペーンは終了しています。]{.text-red-500}
 
 ## 『Synthesizer V』セット割キャンペーンについて
 
