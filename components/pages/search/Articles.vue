@@ -3,7 +3,7 @@ import { createReusableTemplate } from "@vueuse/core";
 
 const [DefinePaginationTemplate, PaginationTemplate] = createReusableTemplate();
 
-const LIMIT = 6;
+const LIMIT = 12;
 
 const params = useUrlSearchParams("history");
 const currentPage = ref(parseInt(typeof params.page === "string" ? params.page : "1"));

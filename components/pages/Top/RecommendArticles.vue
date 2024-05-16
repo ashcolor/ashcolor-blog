@@ -7,7 +7,7 @@ const props = withDefaults(defineProps<Props>(), {
     category: "",
 });
 
-const LIMIT = 3;
+const LIMIT = 6;
 
 const { data: articles, pending } = useLazyAsyncData(() => {
     const query = queryContent("/blog/");
