@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/04/29"
+updatedAt: "2024/05/16"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメ解説"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -243,30 +243,6 @@ Synthesizer Vとしてどのような歌声になるか気になるところで�
 
 発売日は未定です・
 分かり次第、記事に追記します。
-
-### 可不
-
-[
-(2024年4月12日追記) SynthV版の可不は発売延期（もしくは販売中止）となりました。
-詳しくは以下の記事にまとめてあります。
-]{.text-red-500}
-
-:quote-article-card{url="/blog/dtm/synthesizer-v-kafu"}
-
-**可不**はバーチャルシンガー花譜さんの歌声から作成された歌声データベースです。
-
-[元々は CeVIO AI のサードパーティボイスとして発売]{.marker}されていましたが、2023 年 7 月 7 日に[Synthesizer V 版の発表]{.marker}がされました。
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">INFORMATION ①<br>音楽的同位体 可不(KAFU) collaboration with Synthesizer V AI<br>2023年冬発売！<a href="https://twitter.com/hashtag/VIP?src=hash&amp;ref_src=twsrc%5Etfw">#VIP</a> <a href="https://twitter.com/hashtag/%E9%9F%B3%E6%A5%BD%E7%9A%84%E5%90%8C%E4%BD%8D%E4%BD%93?src=hash&amp;ref_src=twsrc%5Etfw">#音楽的同位体</a> <a href="https://twitter.com/hashtag/%E5%8F%AF%E4%B8%8D?src=hash&amp;ref_src=twsrc%5Etfw">#可不</a> <a href="https://twitter.com/hashtag/%E6%98%9F%E7%95%8C?src=hash&amp;ref_src=twsrc%5Etfw">#星界</a> <a href="https://twitter.com/hashtag/%E8%A3%8F%E5%91%BD?src=hash&amp;ref_src=twsrc%5Etfw">#裏命</a> <a href="https://twitter.com/hashtag/%E7%8B%90%E5%AD%90?src=hash&amp;ref_src=twsrc%5Etfw">#狐子</a> <a href="https://twitter.com/hashtag/%E7%BE%BD%E7%B4%AF?src=hash&amp;ref_src=twsrc%5Etfw">#羽累</a> <a href="https://twitter.com/hashtag/%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96?src=hash&amp;ref_src=twsrc%5Etfw">#マシュマロライブ</a> <a href="https://t.co/RPBx713xpi">pic.twitter.com/RPBx713xpi</a></p>&mdash; 音楽的同位体 公式【可不・星界・裏命・狐子・羽累】 (@musicalisotope) <a href="https://twitter.com/musicalisotope/status/1677284636215623681?ref_src=twsrc%5Etfw">July 7, 2023</a></blockquote>
-
-可不と言えば、[フォニイ](https://www.youtube.com/watch?v=9QLT1Aw_45s)や[マーシャル・マキシマイザー](https://www.youtube.com/watch?v=jMKPYg0uhCI)といった大人気曲に使用されている CeVIO AI ライブラリです。
-
-Synthesizer V版の歌声は以下の動画で聞くことができます。
-
-:you-tube-iframe{title="【音楽的同位体】フォニイ covered by 可不(KAFU) collaboration with Synthesizer V AI" video-id="ew-i6kx7bSY"}
-
-[SynthV 版は、明らかに「花譜」さんの歌声に近付いています]{.marker}。
-上記のデモはベタ打ちではないと思われるため、ベタ打ちでどのような歌声になるかも気になるところです。
 
 ## まとめ
 
