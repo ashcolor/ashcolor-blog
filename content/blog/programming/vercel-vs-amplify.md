@@ -78,7 +78,8 @@ AWS Amplifyは[従量課金]{.marker}となります。
 
 当ブログはNuxt.jsで運用していて、単純にサイトを公開するだけであればVercelでもAmplifyでも問題なく可能です。
 
-実際に移行をしてみて、[使用できる細かい機能の部分で違いがあったのでまとめます]{.marker}。
+実際に移行をしてみて、[使い勝手に関わる部分で機能の違いがあったのでまとめます]{.marker}。
+また、簡易的なアプリケーションを想定しているため、Serverless Functionsやキャッシュ等には触れません。
 
 ### Vercel
 
@@ -91,7 +92,7 @@ Vercelの便利な機能として**Vercel Toolbar**があります。
 Vercel Toolbarは、[デプロイ環境に表示される開発支援ツール]{.marker}です。
 コメントやブランチ切り替えといった機能を、画面下部のツールから簡単に行うことができます。
 
-![Vercel Toolbarから打ち込んだコメント](https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/vercel-vs-amplify/vercel-vs-amplify.png)
+![Vercel Toolbarから打ち込んだコメント](https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/vercel-vs-amplify/vercel1.png)
 
 #### PRへの表示
 
@@ -124,7 +125,7 @@ Amplifyの`アクセスコントロールメニュー`では、ブランチご�
 AWSのユーザがなくてもアクセスできるため、融通が効きました。
 
 [Vercelにも「パスワード保護」という機能がありますが、利用には月額150ドル追加費用]{.marker}がかかります。
-（※またBasic認証とは違ってVercelのメンバーでないとログインできない仕様かもしれません・）
+（※詳細な認証方法は不明ですが、Basic認証とは違ってVercelのメンバーでないとログインできない仕様かもしれません。）
 
 ### まとめ
 
