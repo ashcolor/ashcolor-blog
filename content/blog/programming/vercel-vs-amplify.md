@@ -2,7 +2,7 @@
 createdAt: "2024/05/17"
 updatedAt: ""
 title: "Vercel(Hobby)→AWS Amplify 移行して分かった両者の違い"
-description: "チャットUIによくあるメッセージ送受信時にスクロール位置を最下部に維持する処理を実装する方法を解説します。"
+description: "VercelとAWS Amplifyの料金体系や機能の違いについて解説します。"
 category: "プログラミング"
 subCategory: "Vue.js"
 tags:
