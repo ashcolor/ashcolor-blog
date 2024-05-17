@@ -1,14 +1,14 @@
 ---
 createdAt: "2024/05/17"
 updatedAt: ""
-title: "Vercel(Hobbyプラン)→AWS Amplify 移行して分かった両者の違い"
+title: "Vercel(Hobby)→AWS Amplify 移行して分かった両者の違い"
 description: "チャットUIによくあるメッセージ送受信時にスクロール位置を最下部に維持する処理を実装する方法を解説します。"
 category: "プログラミング"
 subCategory: "Vue.js"
 tags:
   - "Vercel"
   - "Amplify"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/vercel-vs-amplify/vercel1.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/vercel-vs-amplify/vercel-amplify.png"
 ---
 
 ## はじめに
@@ -91,7 +91,7 @@ Vercelの便利な機能として**Vercel Toolbar**があります。
 Vercel Toolbarは、[デプロイ環境に表示される開発支援ツール]{.marker}です。
 コメントやブランチ切り替えといった機能を、画面下部のツールから簡単に行うことができます。
 
-![Vercel Toolbarから打ち込んだコメント](https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/vercel-vs-amplify/vercel1.png)
+![Vercel Toolbarから打ち込んだコメント](https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/vercel-vs-amplify/vercel-vs-amplify.png)
 
 #### PRへの表示
 
