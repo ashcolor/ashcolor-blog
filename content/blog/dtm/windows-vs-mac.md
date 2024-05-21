@@ -9,6 +9,9 @@ tags:
   - "Mac"
   - "DAW"
   - "VOCALOID"
+  - "Synthesizer V"
+  - "SynthV"
+  - "CeVIO AI"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/windows-vs-mac/thumbnail.png"
 ---
 

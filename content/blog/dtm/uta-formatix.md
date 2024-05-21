@@ -7,7 +7,7 @@ category: "DTM"
 tags:
   - "VOCALOID"
   - "Synthesizer V"
-  - "CeVIO"
+  - "CeVIO AI"
   - "UTAU"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/uta-formatix/thumbnail.png"
 isRecommend: false
