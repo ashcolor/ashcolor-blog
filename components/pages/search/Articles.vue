@@ -19,10 +19,12 @@ const where = computed(() => {
     if (searchWord.value) {
         where.$or = [
             {
-                title: { $regex: searchWord.value },
+                title: {
+                    $regex: `/${searchWord.value}/i`,
+                },
             },
             {
-                tags: { $in: searchWord.value },
+                tags: { $icontains: searchWord.value },
             },
         ];
     }
@@ -87,7 +89,7 @@ const onClickSearchButton = () => {
                 :class="{ 'btn-disabled': currentPage === 1 }"
                 @click="currentPage--"
             >
-                «
+                <Icon name="bi:chevron-left"></Icon>
             </button>
             <div class="btn join-item pointer-events-none">
                 {{ currentPage }}&nbsp;/&nbsp;{{ totalPage }}&nbsp;ページ
@@ -97,7 +99,7 @@ const onClickSearchButton = () => {
                 :class="{ 'btn-disabled': !isNextPageAvailable }"
                 @click="currentPage++"
             >
-                »
+                <Icon name="bi:chevron-right"></Icon>
             </button>
         </div>
     </DefinePaginationTemplate>
@@ -105,7 +107,9 @@ const onClickSearchButton = () => {
     <div class="flex flex-col gap-8">
         <div class="flex flex-row flex-wrap gap-4">
             <div class="join">
-                <div class="btn join-item btn-sm pointer-events-none">カテゴリ</div>
+                <div class="btn join-item btn-sm pointer-events-none">
+                    <IconWithText name="bi:folder">カテゴリ</IconWithText>
+                </div>
                 <select
                     v-model="searchCategory"
                     class="join-item select select-bordered select-sm w-full max-w-xs"
@@ -118,12 +122,13 @@ const onClickSearchButton = () => {
             </div>
             <div class="join">
                 <div class="btn join-item btn-sm pointer-events-none cursor-default">
-                    <Icon name="bi:search" size="24px"></Icon>
+                    <Icon name="bi:search"></Icon>
                 </div>
                 <input
                     v-model="searchWord"
                     class="input join-item input-bordered input-sm grow"
-                    placeholder="例：キーボード イヤホン"
+                    placeholder="例：キーボード"
+                    @keydown.enter="onClickSearchButton()"
                 />
             </div>
             <button class="btn btn-sm" @click="onClickSearchButton()">検索</button>

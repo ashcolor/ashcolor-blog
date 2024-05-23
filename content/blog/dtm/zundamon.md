@@ -9,7 +9,6 @@ tags:
   - "CeVIO AI"
   - "VoiSona"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/zundamon/cevio_zundamon_logo.gif"
-isRecommend: true
 ---
 
 ## はじめに

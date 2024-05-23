@@ -29,6 +29,9 @@ const navigations = computed(() => {
     <ProseH1 class="text-center">記事検索</ProseH1>
     <ProseH2>記事一覧</ProseH2>
     <div class="my-8 flex flex-col">
-        <SearchArticles></SearchArticles>
+        <!-- SSR側でQuery Stringsの取得ができなかったため、ClientOnlyにする -->
+        <ClientOnly>
+            <SearchArticles></SearchArticles>
+        </ClientOnly>
     </div>
 </template>
