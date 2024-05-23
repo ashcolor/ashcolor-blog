@@ -19,10 +19,12 @@ const where = computed(() => {
     if (searchWord.value) {
         where.$or = [
             {
-                title: { $regex: searchWord.value },
+                title: {
+                    $regex: `/${searchWord.value}/i`,
+                },
             },
             {
-                tags: { $in: searchWord.value },
+                tags: { $icontains: searchWord.value },
             },
         ];
     }
@@ -124,6 +126,7 @@ const onClickSearchButton = () => {
                     v-model="searchWord"
                     class="input join-item input-bordered input-sm grow"
                     placeholder="例：キーボード イヤホン"
+                    @keydown.enter="onClickSearchButton()"
                 />
             </div>
             <button class="btn btn-sm" @click="onClickSearchButton()">検索</button>
