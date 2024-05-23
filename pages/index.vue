@@ -47,6 +47,11 @@ const famousTags = computed(() =>
 );
 
 const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList);
+
+const searchWord = ref("");
+const onClickSearchButton = () => {
+    window.location.href = `/search?category=&word=${searchWord.value}`;
+};
 </script>
 
 <template>
@@ -107,17 +112,19 @@ const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
         </div>
         <div class="shrink-0 basis-1/2">
             <div>
-                <!-- <ProseH3>ワード検索</ProseH3>
-                    <div class="join w-full">
-                        <div class="btn join-item pointer-events-none cursor-default">
-                            <Icon name="bi:search"></Icon>
-                        </div>
-                        <input
-                            class="input join-item input-bordered grow"
-                            placeholder="例：キーボード イヤホン"
-                        />
-                        <button class="btn join-item">Search</button>
-                    </div> -->
+                <ProseH3>ワード検索</ProseH3>
+                <div class="join w-full">
+                    <div class="btn join-item pointer-events-none cursor-default">
+                        <Icon name="bi:search"></Icon>
+                    </div>
+                    <input
+                        v-model="searchWord"
+                        class="input join-item input-bordered grow"
+                        placeholder="例：キーボード イヤホン"
+                        @keydown.enter="onClickSearchButton()"
+                    />
+                    <button class="btn join-item" @click="onClickSearchButton()">検索</button>
+                </div>
                 <ProseH3>タグから探す</ProseH3>
                 <div class="flex flex-row flex-wrap gap-3 border p-4 text-slate-500">
                     <div v-if="pending">
