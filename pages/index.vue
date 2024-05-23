@@ -120,7 +120,7 @@ const onClickSearchButton = () => {
                     <input
                         v-model="searchWord"
                         class="input join-item input-bordered grow"
-                        placeholder="例：キーボード イヤホン"
+                        placeholder="例：キーボード"
                         @keydown.enter="onClickSearchButton()"
                     />
                     <button class="btn join-item" @click="onClickSearchButton()">検索</button>
