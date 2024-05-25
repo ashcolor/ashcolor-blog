@@ -68,3 +68,6 @@ export const ACCOUNTS = [
         url: "mailto:ashcolor27@gmail.com",
     },
 ];
+
+export const AMAZON_SALE_START_DATE = new Date("2024-05-31T09:00:00");
+export const AMAZON_SALE_END_DATE = new Date("2024-06-03T23:59:00");

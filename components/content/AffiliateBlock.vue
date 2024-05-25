@@ -24,8 +24,8 @@ const amazonUrl = computed(
 const dlSiteUrl = computed(() => Util.affiliateDlSiteUrl(props.dlSiteLink));
 
 const amazonCampaignText = () => {
-    const endDate = new Date("2024-04-22T23:59:00");
-    if (new Date() < endDate) return "ポイントアップキャンペーン中";
+    if (AMAZON_SALE_START_DATE <= new Date() && new Date() < AMAZON_SALE_END_DATE)
+        return "ポイントアップキャンペーン中";
     return false;
 };
 
