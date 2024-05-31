@@ -169,7 +169,7 @@ isRecommend: true
 
 ヘッドホン、スピーカー、オーディオインターフェイス等のDTM(音楽)機器を紹介します。
 
-:quote-article-card{url="/blog/gadget/desk-tour-dtm"}
+:quote-article-card{url="/blog/gadget/desk-tour-dtm-equipment"}
 
 ### 小物編
 

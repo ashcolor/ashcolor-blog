@@ -47,7 +47,7 @@ const code = computed(() => {
     <div class="flex flex-col gap-4">
         <div class="flex flex-col gap-4 border p-2">
             <div class="flex flex-col justify-center gap-2">
-                <label class="form-control w-full max-w-xs">
+                <label class="form-control w-full">
                     <div class="label">
                         <span class="label-text">タイトル</span>
                     </div>
@@ -55,10 +55,10 @@ const code = computed(() => {
                         v-model="title"
                         type="text"
                         placeholder="商品名"
-                        class="input input-bordered w-full max-w-xs"
+                        class="input input-bordered w-full"
                     />
                 </label>
-                <label class="form-control w-full max-w-xs">
+                <label class="form-control w-full">
                     <div class="label">
                         <span class="label-text">ASIN</span>
                     </div>
@@ -69,7 +69,7 @@ const code = computed(() => {
                         class="input input-bordered w-full max-w-xs"
                     />
                 </label>
-                <label class="form-control w-full max-w-lg">
+                <label class="form-control w-full">
                     <div class="label">
                         <span class="label-text">DLsite用リンク</span>
                     </div>
@@ -77,7 +77,7 @@ const code = computed(() => {
                         v-model="dlSiteLink"
                         type="text"
                         placeholder="https://www.dlsite.com/home/work/=/product_id/AA00000000.html"
-                        class="input input-bordered w-full max-w-lg"
+                        class="input input-bordered w-full"
                     />
                 </label>
             </div>
