@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/01/17"
-updatedAt: "2024/01/19"
+updatedAt: "2024/05/31"
 title: "キーキャップ購入時の注意点とAmazonで買えるキーキャップ"
 description: "キーキャップ購入時の注意点とAmazonで購入できるオススメのキーキャップを紹介します。"
 category: "ガジェット"
@@ -97,6 +97,10 @@ ABSは[安価ですが、耐久性は劣っており触り心地はどちらか�
 [手元にキートップ引き抜き工具がない場合は、別途用意する必要]{.marker}があるため注意しましょう。
 
 ![キートップ引き抜き工具 いくつかの形状がある](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/keycap-buy/key-puller.jpg)
+
+:affiliate-block{title="FILCO キートップ引抜工具" imageUrl="https://m.media-amazon.com/images/I/21RA8I5DfzL._SL160_.jpg" asin="B0047MQJ4I"}
+
+:affiliate-block{title="Gateron キーキャッププラー" imageUrl="https://m.media-amazon.com/images/I/21QVcie8nnL._SL160_.jpg" asin="B0B9GKZJBX"}
 
 ## Amazonで購入できるオススメのキーキャップ
 
