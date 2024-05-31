@@ -1,6 +1,6 @@
 ---
-createdAt: "2023/08/01"
-updatedAt: "2024/04/12"
+createdAt: "2024/05/31"
+updatedAt: ""
 title: "システムエンジニア/DTMerのデスク周り紹介 DTM（音楽）機器編"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。"
 category: "ガジェット"
@@ -59,7 +59,7 @@ DTMでミキシングをする際に使うため、こちらのスピーカー�
 
 ### イヤホン：SHURE SE425
 
-![SHURE SE425](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/se425.jpg)
+![SHURE SE425（リケーブル済み、イヤーピースはAZLA SednaEarfit MAX）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-dtm/se425.jpg)
 
 イヤホンは**SHURE**は**SE425**を使っています。
 
@@ -68,13 +68,27 @@ SHUREのSEシリーズと言えば[モニターイヤホンの定番]{.marker}�
 
 私の場合はK702をメインとして、別環境で音源をチェックしたいときや、周りが騒がしいときにこちらのイヤホンを使っています。
 
-SHUREのSEシリーズの欠点として[ケーブルが断線しやすい]{.marker}です。
-SEシリーズはイヤホンを装着する際に**SHURE掛け**と呼ばれる、ケーブルを耳の後ろに通す特殊な付け方が推奨されており、その際にケーブルにダメージが入るのが原因だと思われます。
-ただ、不幸中の幸いでSHUREのイヤホンは[ケーブルを交換することができる]{.marker}ので、そこまで欠点ではないかもしれません。
-
 :affiliate-block{title="SHURE イヤホン SEシリーズ SE425 カナル型" imageUrl="https://m.media-amazon.com/images/I/31qWFf5m5JL._SL160_.jpg" asin="B07DNKZ74Y"}
 
-## マイク
+SHUREのSEシリーズの欠点として[ケーブルが断線しやすい]{.marker}です。
+SEシリーズはイヤホンを装着する際に**SHURE掛け**と呼ばれる、ケーブルを耳の後ろに通す特殊な付け方が推奨されており、その際にケーブルにダメージが入るのが原因だと思われます。
+
+ただ、不幸中の幸いでSHUREのイヤホンは[ケーブルを交換することができる]{.marker}ので、そこまで欠点ではないかもしれません。
+
+:affiliate-block{title="GAOHOU ブラックMMCXイヤホンケーブルDIY WESTONE" imageUrl="https://m.media-amazon.com/images/I/51gpjTrkPrL._SL160_.jpg" asin="B074NNSPRV"}
+
+#### イヤーピース：AZLA SednaEarfit MAX
+
+イヤーピースは**AZLA**の**SednaEarfit MAX**を使用しています。
+
+先日、イヤーピースを変えると音質がよくなるという話を聞いて、購入したものになります。
+
+音質は若干ですが[高音の聴こえ方がよくなった]{.marker}ように感じました。
+また、今まではイヤホンを長時間付けていると蒸れる感覚がありましたが、こちらのイヤーピースに変えてから[快適に付けていられる]{.marker}ようになりました
+
+値段もそこまで高くないため、[付属のイヤーピースが汚れてきて買い替えたくなったときにもオススメ]{.marker}です。
+
+:affiliate-block{title="AZLA SednaEarfit MAX" imageUrl="https://m.media-amazon.com/images/I/316gW8n9HVL._SL160_.jpg" asin="B0B48P171D"}
 
 ### マイク：オーディオテクニカ AT2020
 
