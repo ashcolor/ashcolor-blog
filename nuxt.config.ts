@@ -1,3 +1,5 @@
+import { BLOG_TITLE, BLOG_CATEGORIES } from "./utils/const";
+
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
     nitro: {
@@ -57,9 +59,9 @@ export default defineNuxtConfig({
     },
 
     googleFonts: {
+        text: BLOG_TITLE + BLOG_CATEGORIES.map((category) => category.name).join(""),
         families: {
             "M+PLUS+Rounded+1c": true,
-            "Noto+Sans+JP": true,
         },
     },
 

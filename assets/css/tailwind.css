@@ -2,18 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-    html {
-        font-family:
-            "Noto Sans JP",
-            "Roboto" "sans-serif",
-            "Hiragino Sans",
-            "Meiryo",
-            "Hiragino Kaku Gothic ProN";
-    }
-}
-
 body {
+    font-family: "Roboto", "sans-serif", "Hiragino Sans", "Meiryo", "Hiragino Kaku Gothic ProN";
     overflow-x: hidden;
 }
 
