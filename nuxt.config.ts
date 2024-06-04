@@ -4,9 +4,14 @@ import { BLOG_TITLE, BLOG_CATEGORIES } from "./utils/const";
 export default defineNuxtConfig({
     nitro: {
         prerender: {
-            autoSubfolderIndex: false,
-            routes: ["/sitemap.xml", "/blog/dtm/synthesizer-v-light"],
             failOnError: true,
+            routes: ["/sitemap.xml"],
+        },
+    },
+    routeRules: {
+        "/blog/dtm/synthesizer-v-light": {
+            swr: true,
+            prerender: true,
         },
     },
     app: {
