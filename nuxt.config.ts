@@ -11,7 +11,6 @@ export default defineNuxtConfig({
     routeRules: {
         "/blog/dtm/synthesizer-v-light": {
             swr: true,
-            prerender: true,
         },
     },
     app: {
