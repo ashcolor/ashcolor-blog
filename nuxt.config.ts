@@ -9,11 +9,6 @@ export default defineNuxtConfig({
             failOnError: true,
         },
     },
-    routeRules: {
-        "/blog/dtm/synthesizer-v-light": {
-            prerender: true,
-        },
-    },
     app: {
         head: {
             htmlAttrs: {
