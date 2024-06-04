@@ -8,7 +8,7 @@ export default defineNuxtConfig({
         },
     },
     routeRules: {
-        "/blog/**": { isr: true },
+        "/blog/dtm/synthesizer-v-light": { prerender: true },
     },
     app: {
         head: {
