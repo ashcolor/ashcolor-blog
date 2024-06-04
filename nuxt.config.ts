@@ -7,6 +7,9 @@ export default defineNuxtConfig({
             routes: ["/sitemap.xml"],
         },
     },
+    routeRules: {
+        "/blog/**": { isr: true },
+    },
     app: {
         head: {
             htmlAttrs: {
