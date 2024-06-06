@@ -352,6 +352,28 @@ _Just an italic paragraph._
 ::call-out{type=info}
 
 コールバック文章。
+コールバック文章。
+
+::
+
+::call-out{type=success}
+
+コールバック文章。
+コールバック文章。
+
+::
+
+::call-out{type=warning}
+
+コールバック文章。
+コールバック文章。
+
+::
+
+::call-out{type=error}
+
+コールバック文章。
+コールバック文章。
 
 ::
 
@@ -360,6 +382,7 @@ _Just an italic paragraph._
 ```markdown
 ::call-out{type=info}
 
+コールバック文章。
 コールバック文章。
 
 ::

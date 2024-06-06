@@ -13,16 +13,18 @@ const { data: article, pending } = await useLazyAsyncData(`quote-article-card-${
 </script>
 
 <template>
-    <ArticleCardHorizontal
-        v-if="!pending && article"
-        :key="article._path"
-        :link-path="article._path"
-        :thumbnail="article.thumbnail"
-        :title="article.title"
-        :category="article?.category"
-        :tags="article.tags"
-        :created-at="article.createdAt"
-        :updated-at="article.updatedAt"
-    ></ArticleCardHorizontal>
-    <div v-else></div>
+    <div class="py-4">
+        <ArticleCardHorizontal
+            v-if="!pending && article"
+            :key="article._path"
+            :link-path="article._path"
+            :thumbnail="article.thumbnail"
+            :title="article.title"
+            :category="article?.category"
+            :tags="article.tags"
+            :created-at="article.createdAt"
+            :updated-at="article.updatedAt"
+        ></ArticleCardHorizontal>
+        <div v-else></div>
+    </div>
 </template>

@@ -9,10 +9,10 @@ const props = withDefaults(defineProps<Props>(), {
 
 const typeClass = computed(() => {
     const typeClassMapping = {
-        info: "border-info",
-        success: "border-success",
-        warning: "border-warning",
-        error: "border-error",
+        info: "text-info",
+        success: "text-success",
+        warning: "text-warning",
+        error: "text-error",
     };
 
     return `${typeClassMapping[props.type]}`;
@@ -20,18 +20,18 @@ const typeClass = computed(() => {
 
 const icon = computed(() => {
     const typeToIcon = {
-        info: "bi:info-circle",
-        success: "bi:check-circle",
-        warning: "bi:exclamation-circle",
-        error: "bi:x-circle",
+        info: "bi:info-circle-fill",
+        success: "bi:check-circle-fill",
+        warning: "bi:exclamation-circle-fill",
+        error: "bi:x-circle-fill",
     };
     return typeToIcon[props.type];
 });
 </script>
 
 <template>
-    <div class="alert my-4 bg-base-100" :class="[typeClass]">
-        <Icon :name="icon"></Icon>
+    <div class="alert my-4 bg-[#f1f1ef]">
+        <Icon :name="icon" :class="[typeClass]"></Icon>
         <span><slot /></span>
     </div>
 </template>
