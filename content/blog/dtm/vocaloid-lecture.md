@@ -218,3 +218,13 @@ Synthesizer Vの調声テクニックは別でまとめた記事があるので�
 :link-card{url="https://note.com/aaaaa_hachinana/n/naf01caca850e"}
 :link-card{url="https://note.com/psgoz/n/nd68e2ee9db27"}
 :link-card{url="https://note.com/psgoz/n/n1e96a52b70cf"}
+
+:affiliate-block{title="初音ミク V4X" imageUrl="https://m.media-amazon.com/images/I/51u8gPLu3qL._SL160_.jpg" asin="B01G6XK6VM"}
+
+:affiliate-block{title="初音ミク NT" imageUrl="https://m.media-amazon.com/images/I/51LBuhS7xbL._SL160_.jpg" asin="B08MVV4S57"}
+
+:affiliate-block{title="Synthesizer V Studio Pro" imageUrl="https://m.media-amazon.com/images/I/41nl+l0DddL._SL160_.jpg" asin="B08B34MWKF" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ013608.html"}
+
+:affiliate-block{title="Synthesizer V Studio Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/51jy+o9TSXL._SL160_.jpg" asin="B08B3CNY2D"}
+
+:affiliate-block{title="音楽的同位体 可不(KAFU) スターター|ダウンロード版" imageUrl="https://m.media-amazon.com/images/I/51yP6udmYFS._SL160_.jpg" asin="B097Y3T79R" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ014592.html"}
