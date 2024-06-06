@@ -9,6 +9,7 @@ tags:
   - "Synthesizer V"
   - "SynthV"
   - "Megpoid"
+  - "GUMI"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thumbnail.png"
 isRecommend: false
 ---
