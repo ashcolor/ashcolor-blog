@@ -344,36 +344,36 @@ _Just an italic paragraph._
 
 ::
 
-### コールバック
+### コールアウト
 
 ::preview-and-code
 #preview
 
 ::call-out{type=info}
 
-コールバック文章。
-コールバック文章。
+コールアウト文章。
+コールアウト文章。
 
 ::
 
 ::call-out{type=success}
 
-コールバック文章。
-コールバック文章。
+コールアウト文章。
+コールアウト文章。
 
 ::
 
 ::call-out{type=warning}
 
-コールバック文章。
-コールバック文章。
+コールアウト文章。
+コールアウト文章。
 
 ::
 
 ::call-out{type=error}
 
-コールバック文章。
-コールバック文章。
+コールアウト文章。
+コールアウト文章。
 
 ::
 
@@ -382,8 +382,8 @@ _Just an italic paragraph._
 ```markdown
 ::call-out{type=info}
 
-コールバック文章。
-コールバック文章。
+コールアウト文章。
+コールアウト文章。
 
 ::
 ```

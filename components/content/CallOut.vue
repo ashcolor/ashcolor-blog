@@ -32,6 +32,13 @@ const icon = computed(() => {
 <template>
     <div class="alert my-4 bg-[#f1f1ef]">
         <Icon :name="icon" :class="[typeClass]"></Icon>
-        <span><slot /></span>
+        <slot />
     </div>
 </template>
+
+<style scoped>
+.alert >>> p {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+</style>
