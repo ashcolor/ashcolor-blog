@@ -120,9 +120,9 @@ VIAなら[Fnキーも自由な場所に配置]{.marker}することができま�
 
 :affiliate-block{title="Keychron K6 Pro QMK/VIA ワイヤレスメカニカルキーボード" imageUrl="https://m.media-amazon.com/images/I/412nx+nlgiL._SL160_.jpg" asin="B09W2B6L12"}
 
-### キーキャップ：XVX PBTキーキャップセット (ホワイト/グリーン)
+### キーキャップ：XVX PBTキーキャップセット（ホワイト/グリーン）
 
-![XVX PBTキーキャップセット](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/key-cap.jpg)
+![XVX PBTキーキャップセット（ホワイト/グリーン）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/key-cap.jpg)
 
 キーキャップは**XVX**というメーカーの**PBTキーキャップセット**を使用しています。
 
@@ -133,22 +133,7 @@ VIAなら[Fnキーも自由な場所に配置]{.marker}することができま�
 数は[189キーでサイズ違いや色違いなども入っていて充実]{.marker}しており、[PBT・ダブルショット]{.marker}で品質もとてもいいです。
 お値段も品質に対して安価でとても気に入っています。
 
-:affiliate-block{title="XVX キーキャップ 189キー ダブルショット" imageUrl="https://m.media-amazon.com/images/I/41uKVVwmICL._SL160_.jpg" asin="B0BM4Q3YP4"}
-
-<!-- ### リストレスト：LGBN White-61
-
-![LGBN White-61](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/wrist-rest.jpg)
-
-リストレストは**LGBN**というメーカーの**White-61**を使用しています。
-
-以前はスポンジや木材でできたリストレストを使用していたのですが、[夏場に長時間使っていると熱を持ってくる]{.marker}という欠点がありました。
-
-そこで樹脂製のリストレストを探していたところ、見つけたのがこちらのWhite-61です。
-手を置いた感覚がデスクと近いので、感触はそのままで単純に高さだけを稼ぐことができます。
-
-また、こちらのリストレストは種類が豊富で[色が8色、サイズは61、87、104]{.marker}のサイズ展開があり、自分の好みのリストレストを購入することができます。
-
-:affiliate-block{title="樹脂キーボードリストレスト White-61" asin="B0B7FYQJ3R"} -->
+:affiliate-block{title="XVX キーキャップセット（ホワイト/グリーン）" imageUrl="https://m.media-amazon.com/images/I/41uKVVwmICL._SL160_.jpg" asin="B0BM4Q3YP4"}
 
 ## ディスプレイ関連
 
