@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/11/20"
-updatedAt: "2024/02/29"
+updatedAt: "2024/06/12"
 title: "Synthesizer Vを安く購入する方法！割引率の高い購入先まとめ"
 description: "Synthesizer V（SynthV）をお得に購入する方法をまとめました。"
 category: "DTM"
@@ -56,12 +56,17 @@ isRecommend: true
 
 ### DLsiteで購入する
 
-**DLsite**は主に同人誌やPCソフトを販売しているダウンロードサイトです。
+**DLsite**は、同人誌やPCソフトを販売している[ダウンロードサイト]{.marker}です。
 
 <a rel="noopener sponsored" href="https://www.dlsite.com/soft/dlaf/=/aid/ashcolor/url/https%3A%2F%2Fwww.dlsite.com%2Fsoft%2F%3Futm_medium%3Daffiliate%26utm_campaign%3Dbnlink%26utm_content%3Dbn_sp_300_250_dojin_01.jpg" target="_blank"><img src="https://www.dlsite.com/img/male/dojin/bn_sp_300_250_dojin_01.jpg" alt="PCゲーム、PCソフトのダウンロードショップ - DLsite Soft" width="300" height="250" border="0" /></a>
 
-DLsiteでは定期的に[割引クーポン]{.marker}を配布しています。
-割引率は時期によって異なりますが、2023年12月21日現在では[全作品に使える15%OFFクーポン]{.marker}が配布されています。
+DLsiteでは、定期的に[割引クーポン]{.marker}が配布されます。
+最大で50%OFFクーポンが配られたこともあります。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">DLサイトのクーポンバグってる<br>やばい<br>SynthV、CeVIO、AHSのボカロが最大5000円引き<br><br>多分全員に配られてるクーポン<br>バグってない？？？<br>買うの今のうちかも 急げ！！！！！！ <a href="https://t.co/doGiBmHv6v">pic.twitter.com/doGiBmHv6v</a></p>&mdash; 𝙇𝙞𝙩𝙈𝙪𝙨 (@LitMus9_) <a href="https://twitter.com/LitMus9_/status/1800550929726627845?ref_src=twsrc%5Etfw">June 11, 2024</a></blockquote>
+
+ただし、配布されるクーポンは[時期やユーザごとに異なる]{.marker}ため、注意が必要です。
+頻繁に配布されるクーポンは、**15%OFF**、**3作品まとめ買いで18%OFF**、**5作品まとめ買いで20%OFF**が多いです。
 
 例えば、Synthesizer V AI Megpoidのダウンロード版の価格は**9,680円**ですが、15%OFFクーポンを適用すると[**8,228円**で購入することができます]{.marker}。
 
@@ -95,19 +100,19 @@ AHS ストアでは、Synthesizer V 関連の商品に**AHS ユーザー特別�
 [パッケージ版を購入したい場合は**Amazon**で購入]{.marker}するのがオススメです。
 例えば、**Synthesizer V Studio Pro スターターパック**は2024年2月19日現在では[27%オフの14,545円]{.marker}で販売されています。
 
-歌声データベースはそれぞれ割引率が異なります。
-販売された時期が昔なほど割引率が高くなっている傾向がありました。
+割引率は歌声データベースごとに異なります。
+販売された時期が昔なほど、割引率が高くなっている傾向がありました。
 
 ![2024年2月19日現在 Amazonの販売価格](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-buy/amazon.png)
 
 また、Amazonでは定期的にポイントアップキャンペーンを行っているため、[ポイント分さらにお得に購入]{.marker}することができます。
 
-パッケージ版を購入したい方は、Amazonでの購入をオススメします。
+[パッケージ版を購入したい方は、Amazonでの購入をオススメ]{.marker}します。
 以下のボタンから、Amazonで販売されているパッケージ版を探すことができます。
 
 <a href="https://amzn.to/49nYcbu" target="_blank" rel="noopener noreferrer">
 <button class="btn bg-[#ffd814] hover:bg-[#ffd814] w-full">
-Amazonでパッケージ版を探す
+AmazonでSynthesizer Vのパッケージ版を探す
 </button>
 </a>
 
@@ -119,7 +124,7 @@ Amazonでパッケージ版を探す
 
 ::point-list{title="Synthesizer V を少しでもお得に購入する方法"}
 
-- これから**Synthesizer V**をはじめる場合は、[スターターパックがオススメ]{.marker}
+- 初購入時は[スターターパックがオススメ]{.marker}
 - ダウンロード版は[**DLsite**のクーポンを使うと安い]{.marker}
 - パッケージ版は[**Amazon**で購入すると安い]{.marker}
 
