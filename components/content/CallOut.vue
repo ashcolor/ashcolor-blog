@@ -37,7 +37,7 @@ const icon = computed(() => {
 </template>
 
 <style scoped>
-.alert >>> p {
+.alert :deep(p) {
     padding-top: 0;
     padding-bottom: 0;
 }

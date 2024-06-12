@@ -43,7 +43,7 @@ const dlSiteCampaignText = () => {
         画像が別コンポーネントの画像に切り替わる不具合が出たためClientOnlyにしてfix -->
     <ClientOnly>
         <div
-            class="my-4 flex flex-col place-items-stretch gap-4 border p-4 sm:flex-row sm:items-center sm:justify-center"
+            class="my-4 flex flex-col place-items-stretch gap-4 border p-8 sm:flex-row sm:items-center sm:justify-center"
         >
             <a
                 v-if="imageUrl"

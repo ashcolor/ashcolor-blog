@@ -16,11 +16,11 @@ const quotedListStyle = computed(() => {
 </script>
 
 <template>
-    <div class="my-4 border px-4 py-8">
-        <div v-if="props.title" class="mb-4 px-4">
+    <div class="my-4 border p-8">
+        <div v-if="props.title" class="mb-4">
             <p class="text-sm text-slate-500">{{ props.title }}</p>
         </div>
-        <div class="px-4">
+        <div>
             <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
             <ul class="point-list flex flex-col gap-2">
                 <ContentSlot :use="$slots.default" unwrap="ul" />
