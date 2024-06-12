@@ -98,6 +98,7 @@ const navigations = computed(() => {
                         fetchpriority="high"
                         height="400"
                         width="800"
+                        class="max-h-64 object-contain md:max-h-96"
                     />
                 </div>
                 <div class="text-sm text-slate-500">
