@@ -1,7 +1,7 @@
 ---
 createdAt: "2024/01/29"
 updatedAt: "2024/02/19"
-title: "Vue.jsで再帰的コンポーネントを作成する方法【Vue3】"
+title: "Vueで再帰的コンポーネントを作成する方法【Vue3】"
 description: "Vue3で再帰的コンポーネントを作成する方法を解説します。"
 category: "プログラミング"
 subCategory: "Vue.js"
