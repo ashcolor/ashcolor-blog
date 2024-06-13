@@ -1,10 +1,9 @@
 ---
 createdAt: "2024/05/22"
-updatedAt: ""
+updatedAt: "2024/06/13"
 title: "CeVIO AI ずんだもん発売決定！他ソフトとの違いを解説"
 description: "ずんだもんの音声合成ソフトの製品ごとの違いを解説します。"
 category: "DTM"
-subCategory: "Synthesizer V"
 tags:
   - "CeVIO AI"
   - "VoiSona"
@@ -98,12 +97,21 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/zundamon/cevio_zu
 
 :you-tube-iframe{title="【作者解説】ずんだもん音源 味比べ【ずんだパーリナイ本人歌唱】" videoId="kwLLdoesTjE" start=45}
 
+##### CeVIO AI
+
+:you-tube-iframe{title="青空シャイニードリーム / アルシャトP feat. ずんだもん【『CeVIO AI ずんだもん ソングボイス』公式デモソング】" videoId="TJ5nLOXKaaU"}
+
 ※VOICEVOXのトークを人力で歌わせた音源、本人の歌唱も含まれます。
 
 [UTAUは初期の頃に公開されたこともあり、機械的でいわゆるVOCALOIDのような歌唱]{.marker}になります。
-一方で、[VOICEVOX、SEIREN VOICE、NEUTRINOはどれも自然な歌唱]{.marker}となっています。
+一方で、[VOICEVOX、SEIREN VOICE、NEUTRINO、CeVIO AIはどれも自然な歌唱]{.marker}となっています。
 
-CeVIO AIとVoiSonaの音声はまだ公開されていません。
+ちなみに、CeVIO AIのデモは全部で18曲公開されています。
+以下のリンクから他のデモソングも試聴可能です。
+
+:link-card{url="https://zunko.jp/event/2024_cevio/"}
+
+VoiSonaの音声はまだ公開されていません。
 公開されましたら追記します。
 
 ## まとめ
@@ -115,8 +123,12 @@ CeVIO AIとVoiSonaの音声はまだ公開されていません。
 
 参考になれば幸いです。
 
-:affiliate-block{title="CeVIO AI ずんだもん ソングスターターパック" imageUrl="https://m.media-amazon.com/images/I/41kLMCnPUqL._SL160_.jpg" asin="B0D4QMPRFX"}
+:affiliate-block{title="CeVIO AI ずんだもん ソングスターターパック ダウンロード版" imageUrl=" https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002380_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002380.html"}
 
-:affiliate-block{title="CeVIO AI ずんだもん ソングボイス" imageUrl="https://m.media-amazon.com/images/I/41dhIKFY-OL._SL160_.jpg" asin="B0D4QB8DKH"}
+:affiliate-block{title="CeVIO AI ずんだもん ソングボイス ダウンロード版" imageUrl=" https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002379_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002379.html"}
+
+:affiliate-block{title="CeVIO AI ずんだもん ソングスターターパック パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41kLMCnPUqL._SL160_.jpg" asin="B0D4QMPRFX"}
+
+:affiliate-block{title="CeVIO AI ずんだもん ソングボイス パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41dhIKFY-OL._SL160_.jpg" asin="B0D4QB8DKH"}
 
 :affiliate-block{title="Seiren Voice ずんだもん コンプリートパック（v1＆v2）" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000754_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000754.html"}
