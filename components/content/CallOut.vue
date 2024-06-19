@@ -32,7 +32,9 @@ const icon = computed(() => {
 <template>
     <div class="alert my-4 bg-[#f1f1ef]">
         <Icon :name="icon" :class="[typeClass]"></Icon>
-        <slot />
+        <div class="max-w-full overflow-auto">
+            <slot />
+        </div>
     </div>
 </template>
 
