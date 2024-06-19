@@ -27,7 +27,6 @@
   },
   "devDependencies": {
     "@nuxt-themes/typography": "^1.0.0",
-    "@nuxt/devtools": "^1.0.8",
     "@nuxt/image": "^1.7.0",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@nuxtjs/eslint-module": "^4.1.0",
