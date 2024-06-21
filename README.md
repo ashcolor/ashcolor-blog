@@ -28,6 +28,12 @@ pnpm dev
 
 http://localhost:3000
 
+### Playwrightのデバッグ
+
+```bash
+pnpm exec playwright test  --ui
+```
+
 ## 本番ビルドの確認
 
 ```bash
