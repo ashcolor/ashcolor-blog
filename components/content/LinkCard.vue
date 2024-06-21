@@ -27,7 +27,7 @@ const { data, pending } = await useLazyAsyncData(
     </div>
     <NuxtLink
         v-else
-        :href="data?.ogUrl ?? data?.requestUrl"
+        :href="props.url"
         target="_blank"
         class="card card-side card-compact my-4 max-h-32 border bg-base-100"
     >
