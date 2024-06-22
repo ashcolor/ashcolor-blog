@@ -1,7 +1,7 @@
 ---
 createdAt: "2024/06/22"
 updatedAt: ""
-title: "React公式チュートリアルをVueで書いて比較してみた"
+title: "React公式チュートリアルをVueでも書いて比較してみた"
 description: "React公式チュートリアルをVueで書いて、コードを比較してみます。"
 category: "プログラミング"
 subCategory: ""
@@ -29,6 +29,8 @@ Reactの公式チュートリアルはこちらです。
 
 チュートリアル内ではJavaScriptは単一ファイルになっていますが、今回は比較しやすくするためにReactもVueも[コンポーネントごとにファイルを分けます]{.marker}。
 
+[ReactはCodeSandbox、VueはVue SFC Playground]{.marker}にコードを置いているので、すぐに動作確認できます。
+
 ### バージョン
 
 コーディング時のバージョンは以下の通りです。
@@ -40,7 +42,7 @@ Reactの公式チュートリアルはこちらです。
 
 ### Reactのコード
 
-[codesandbox](https://codesandbox.io/s/react-dev-forked-5vnlg5)
+[CodeSandbox](https://codesandbox.io/s/react-dev-forked-5vnlg5)
 
 ### Vueのコード
 
