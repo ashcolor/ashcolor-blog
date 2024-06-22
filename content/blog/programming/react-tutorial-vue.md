@@ -59,7 +59,7 @@ Reactの公式チュートリアルはこちらです。
 
 #### Reactコード
 
-```jsx
+```jsx[App.js]
 import { useState } from "react";
 import Board from "./Board";
 import Moves from "./Moves";
@@ -97,7 +97,7 @@ export default function Game() {
 
 #### Vueコード
 
-```html
+```vue[App.vue]
 <script setup>
   import { ref, computed } from "vue";
   import Board from "./Board.vue";
@@ -146,7 +146,7 @@ HTMLの記述は[ReactではJSX]{.marker}、[VueではHTMLベースのテンプ�
 
 #### Reactコード
 
-```jsx
+```jsx[Board.js]
 import Square from "./Square";
 
 export default function Board({ xIsNext, squares, onPlay }) {
@@ -216,7 +216,7 @@ export default function Board({ xIsNext, squares, onPlay }) {
 
 #### Vueコード
 
-```html
+```vue[Board.vue]
 <script setup>
   import { computed } from "vue";
   import Square from "./Square.vue";
@@ -300,7 +300,7 @@ export default function Board({ xIsNext, squares, onPlay }) {
 
 #### Reactコード
 
-```jsx
+```jsx[Square.js]
 export default function Square({ value, onSquareClick }) {
   return (
     <button className="square" onClick={onSquareClick}>
@@ -312,7 +312,7 @@ export default function Square({ value, onSquareClick }) {
 
 #### Vueコード
 
-```html
+```vue[Square.vue]
 <script setup>
   const props = defineProps({
     value: String,
@@ -334,7 +334,7 @@ export default function Square({ value, onSquareClick }) {
 
 #### Reactコード
 
-```jsx
+```jsx[Moves.js]
 export default function Moves({ history, onMoveClick }) {
   return history.map((squares, move) => {
     let description;
@@ -354,7 +354,7 @@ export default function Moves({ history, onMoveClick }) {
 
 #### Vueコード
 
-```html
+```vue[Moves.vue]
 <script setup>
   import { computed } from "vue";
 
