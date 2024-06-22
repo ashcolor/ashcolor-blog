@@ -22,8 +22,7 @@ const isShow = startDateOneDayAgo <= new Date() && new Date() < AMAZON_SALE_END_
                 <span class="text-xl">
                     {{ AMAZON_SALE_END_DATE.getMonth() + 1 }}月{{
                         AMAZON_SALE_END_DATE.getDate()
-                    }}
-                    日({{ JAPANESE_DAYS[AMAZON_SALE_END_DATE.getDay()] }})
+                    }}日({{ JAPANESE_DAYS[AMAZON_SALE_END_DATE.getDay()] }})
                 </span>
                 <span>23:59</span>
             </p>
