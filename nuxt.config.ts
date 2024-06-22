@@ -54,7 +54,19 @@ export default defineNuxtConfig({
         },
         highlight: {
             theme: "github-dark",
-            preload: ["vue", "python"],
+            langs: [
+                "markdown",
+                "html",
+                "css",
+                "javascript",
+                "js",
+                "ts",
+                "php",
+                "vue",
+                "python",
+                "bash",
+                "diff",
+            ],
         },
     },
 
