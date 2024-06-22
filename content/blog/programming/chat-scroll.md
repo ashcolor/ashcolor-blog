@@ -10,6 +10,7 @@ tags:
   - "TypeScript"
   - "Vue.js"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/chat-scroll/thumbnail.png"
+isRecommend: true
 ---
 
 ## 概要
