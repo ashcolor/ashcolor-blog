@@ -1,9 +1,5 @@
 <script lang="ts" setup>
-// キャンペーン開始の1日前から表示
-const startDateOneDayAgo = new Date(AMAZON_SALE_START_DATE);
-startDateOneDayAgo.setDate(startDateOneDayAgo.getDate() - 1);
-
-const isShow = startDateOneDayAgo <= new Date() && new Date() < AMAZON_SALE_END_DATE;
+const isShow = new Date() < AMAZON_SALE_END_DATE;
 </script>
 
 <template>

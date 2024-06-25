@@ -69,9 +69,9 @@ export const ACCOUNTS = [
     },
 ];
 
-export const AMAZON_SALE_URL = "https://amzn.to/45xTiYu";
-export const AMAZON_SALE_START_DATE = new Date("2024-06-21T09:00:00");
-export const AMAZON_SALE_END_DATE = new Date("2024-06-24T23:59:00");
-export const AMAZON_SALE_MAX_POINT_UP = 10;
+export const AMAZON_SALE_URL = "https://amzn.to/3RKmdD4";
+export const AMAZON_SALE_START_DATE = new Date("2024-07-11T00:00:00");
+export const AMAZON_SALE_END_DATE = new Date("2024-07-17T23:59:00");
+export const AMAZON_SALE_MAX_POINT_UP = 15;
 
 export const JAPANESE_DAYS = ["日", "月", "火", "水", "木", "金", "土"];
