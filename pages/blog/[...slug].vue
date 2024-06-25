@@ -113,6 +113,8 @@ const navigations = computed(() => {
 
                 <SnsShareContainer :title="title" :url="url"></SnsShareContainer>
 
+                <div class="divider"></div>
+
                 <BlogTmpPr></BlogTmpPr>
 
                 <ProseH3>関連記事</ProseH3>
