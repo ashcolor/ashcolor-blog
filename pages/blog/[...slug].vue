@@ -115,7 +115,7 @@ const navigations = computed(() => {
 
                 <div class="divider"></div>
 
-                <BlogTmpPr></BlogTmpPr>
+                <BlogAmazonCampaignPr></BlogAmazonCampaignPr>
 
                 <ProseH3>関連記事</ProseH3>
                 <BlogRelationArticles
