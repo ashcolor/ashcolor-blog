@@ -4,29 +4,26 @@ const isShow = new Date() < AMAZON_SALE_END_DATE;
 
 <template>
     <div v-if="isShow">
-        <ProseH3>PR</ProseH3>
-        <ProseH4>Amazon ポイントアップキャンペーン</ProseH4>
+        <ProseH3>Amazon ポイントアップキャンペーン</ProseH3>
         <div class="flex flex-col gap-2">
-            <p>
+            <p class="flex flex-row items-baseline gap-2">
                 <span class="text-xl">
-                    {{ AMAZON_SALE_START_DATE.getMonth() + 1 }}月{{
+                    {{ AMAZON_SALE_START_DATE.getMonth() + 1 }}/{{
                         AMAZON_SALE_START_DATE.getDate()
-                    }}日({{ JAPANESE_DAYS[AMAZON_SALE_START_DATE.getDay()] }})
+                    }}
                 </span>
-                <span>9:00</span>
-                <span>&emsp;～&emsp;</span>
+                <span>({{ JAPANESE_DAYS[AMAZON_SALE_START_DATE.getDay()] }})</span>
+                <span>～</span>
                 <span class="text-xl">
-                    {{ AMAZON_SALE_END_DATE.getMonth() + 1 }}月{{
-                        AMAZON_SALE_END_DATE.getDate()
-                    }}日({{ JAPANESE_DAYS[AMAZON_SALE_END_DATE.getDay()] }})
+                    {{ AMAZON_SALE_END_DATE.getMonth() + 1 }}/{{ AMAZON_SALE_END_DATE.getDate() }}
                 </span>
-                <span>23:59</span>
+                <span>({{ JAPANESE_DAYS[AMAZON_SALE_END_DATE.getDay()] }})</span>
             </p>
-            <p>
-                <span>
-                    <span class="marker">最大{{ AMAZON_SALE_MAX_POINT_UP }}%</span>
-                    ポイントアップ
-                </span>
+            <p class="flex flex-row items-baseline gap-2">
+                <span>最大</span>
+                <span class="text-2xl">{{ AMAZON_SALE_MAX_POINT_UP }}</span>
+                <span>%</span>
+                <span>ポイントアップ</span>
             </p>
             <a
                 class="btn btn-block grow bg-[#ffd814] hover:bg-[#ffd814]"
