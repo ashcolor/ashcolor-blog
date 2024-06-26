@@ -93,6 +93,8 @@ const navigations = computed(() => {
                 <div class="mx-auto mb-8 w-full">
                     <NuxtImg
                         :src="article?.thumbnail"
+                        format="avif"
+                        quality="60"
                         sizes="100vw lg:600px"
                         format="webp"
                         alt="サムネイル"
