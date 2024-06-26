@@ -1,3 +1,4 @@
+import path from "path";
 import { S3Client, PutObjectCommand } from "@aws-sdk/client-s3";
 
 export default defineEventHandler(async (event) => {
@@ -14,11 +15,15 @@ export default defineEventHandler(async (event) => {
         },
     });
 
+    const filenames: Array<string> = [];
+
     try {
         files?.forEach(async (file) => {
+            const filename = `${Util.generateDateTimeID()}${path.extname(file.filename || "")}`;
+            filenames.push(filename);
             const command = new PutObjectCommand({
-                Bucket: "ashcolor-test",
-                Key: file.filename,
+                Bucket: IMAGE_S3_BUCKET,
+                Key: filename,
                 Body: file.data,
                 ContentType: file.type,
             });
@@ -27,6 +32,7 @@ export default defineEventHandler(async (event) => {
                 throw new Error("アップロードに失敗しました");
             }
         });
+        return { filenames };
     } catch (err) {
         throw createError({
             statusCode: 400,

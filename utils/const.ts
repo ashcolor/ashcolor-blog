@@ -1,7 +1,5 @@
 export const BLOG_TITLE = "あしゅログ";
-
 export const BLOG_SUBTITLE = "システムエンジニア / DTMerのブログ";
-
 export const BLOG_CATEGORIES = [
     {
         key: "gadget",
@@ -40,17 +38,9 @@ export const BLOG_CATEGORIES = [
         isShowList: false,
     },
 ];
-
 export const BLOG_CATEGORY_MAP = new Map(
     BLOG_CATEGORIES.map((category) => [category.key, category.name])
 );
-
-export const AMAZON_ASSOCIATE_ID = "ashcolor-22";
-
-export const DLSITE_ASSOCIATE_ID = "ashcolor";
-
-export const RAKUTEN_ASSOCIATE_ID = "349366b6.92086da6.349366b7.0d318a37";
-
 export const ACCOUNTS = [
     {
         name: "Twitter",
@@ -69,6 +59,11 @@ export const ACCOUNTS = [
     },
 ];
 
+export const IMAGE_PATH_BASE = "https://d2s4ypph6g1t06.cloudfront.net/";
+
+export const AMAZON_ASSOCIATE_ID = "ashcolor-22";
+export const DLSITE_ASSOCIATE_ID = "ashcolor";
+export const RAKUTEN_ASSOCIATE_ID = "349366b6.92086da6.349366b7.0d318a37";
 export const AMAZON_SALE_URL = "https://amzn.to/3RKmdD4";
 export const AMAZON_SALE_START_DATE = new Date("2024-07-11T00:00:00");
 export const AMAZON_SALE_END_DATE = new Date("2024-07-17T23:59:00");
