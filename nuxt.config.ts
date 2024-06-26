@@ -70,6 +70,10 @@ export default defineNuxtConfig({
         },
     },
 
+    image: {
+        domains: ["d2s4ypph6g1t06.cloudfront.net"],
+    },
+
     googleFonts: {
         text: BLOG_TITLE + BLOG_CATEGORIES.map((category) => category.name).join(""),
         families: {

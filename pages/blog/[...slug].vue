@@ -94,6 +94,8 @@ const navigations = computed(() => {
                     <NuxtImg
                         preload
                         :src="article?.thumbnail"
+                        format="avif"
+                        quality="60"
                         alt="サムネイル"
                         fetchpriority="high"
                         height="400"
