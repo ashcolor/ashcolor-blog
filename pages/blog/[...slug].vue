@@ -89,7 +89,7 @@ const navigations = computed(() => {
             </div>
         </div>
         <div class="grid grid-cols-12">
-            <div class="col-span-12 flex flex-col gap-8 lg:col-span-8">
+            <div class="col-span-12 flex flex-col gap-4 lg:col-span-8">
                 <div class="mx-auto mb-8">
                     <NuxtImg
                         preload
@@ -113,7 +113,9 @@ const navigations = computed(() => {
 
                 <SnsShareContainer :title="title" :url="url"></SnsShareContainer>
 
-                <BlogTmpPr></BlogTmpPr>
+                <div class="divider"></div>
+
+                <BlogAmazonCampaignPr></BlogAmazonCampaignPr>
 
                 <ProseH3>関連記事</ProseH3>
                 <BlogRelationArticles

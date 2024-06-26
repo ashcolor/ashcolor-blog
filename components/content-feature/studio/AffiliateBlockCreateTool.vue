@@ -71,7 +71,10 @@ const code = computed(() => {
                 </label>
                 <label class="form-control w-full">
                     <div class="label">
-                        <span class="label-text">DLsite用リンク</span>
+                        <span class="label-text"
+                            ><a class="link" href="https://www.dlsite.com" target="_blank">DLsite</a
+                            >用リンク</span
+                        >
                     </div>
                     <input
                         v-model="dlSiteLink"
