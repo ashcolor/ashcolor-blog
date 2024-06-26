@@ -7,7 +7,10 @@ const generate = anchorLinks?.depth >= heading && !anchorLinks?.exclude.includes
 </script>
 
 <template>
-    <h2 :id="id" class="mb-8 mt-16 border-l-4 border-primary bg-slate-50 p-4 text-xl font-bold">
+    <h2
+        :id="id"
+        class="mb-8 mt-16 scroll-mt-24 border-l-4 border-primary bg-slate-50 p-4 text-xl font-bold"
+    >
         <a v-if="id && generate" :href="`#${id}`">
             <slot />
         </a>
