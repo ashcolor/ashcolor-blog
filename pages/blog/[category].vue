@@ -18,12 +18,13 @@ useSeoMeta({
     twitterCard: "summary_large_image",
 });
 
-// const { data: articleTags, pending } = useLazyAsyncData(
+// const { data: articleTags, pending } = await useLazyAsyncData(
 //     () => {
 //         return queryContent(`/blog/${category}`).only("tags").find();
 //     },
 //     {
 //         default: () => [],
+//         server:false
 //     }
 // );
 

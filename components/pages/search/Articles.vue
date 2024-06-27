@@ -32,11 +32,16 @@ const where = computed(() => {
     return where;
 });
 
-const { data: articleCount, execute: fetchCount } = useLazyAsyncData(() => {
-    const countQuery = queryContent("blog");
-    countQuery.where(where.value);
-    return countQuery.count();
-});
+const { data: articleCount, execute: fetchCount } = await useLazyAsyncData(
+    () => {
+        const countQuery = queryContent("blog");
+        countQuery.where(where.value);
+        return countQuery.count();
+    },
+    {
+        server: false,
+    }
+);
 
 const totalPage = computed(() => {
     return Math.ceil(articleCount.value / LIMIT);
@@ -46,7 +51,7 @@ const {
     data: articles,
     execute: fetchArticle,
     pending,
-} = useLazyAsyncData(() => {
+} = await useLazyAsyncData(() => {
     const query = queryContent("blog");
 
     query.where(where.value);
