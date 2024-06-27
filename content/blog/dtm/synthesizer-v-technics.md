@@ -43,9 +43,9 @@ Synthesizer Vは[ベタ打ちでもピッチや音色がAIにより自動生成]
 
 実際に母音を消す前と後でどのように変化するのか聞いてみましょう。
 
-:custom-audio{title="無声化前" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/museika_default.mp3"}
+:custom-audio{title="無声化前" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_synthesizer-v-technics_museika_default.mp3"}
 
-:custom-audio{title="無声化後" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/museika_museika.mp3"}
+:custom-audio{title="無声化後" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_synthesizer-v-technics_museika_museika.mp3"}
 
 簡単な作業で機械っぽさが一気に消えるテクニックなので、ぜひ実践してみてください。
 
@@ -62,9 +62,9 @@ Synthesizer Vで高音を打ち込んだ際に、[地声になるか裏声にな
 
 実際に、テンションパラメータを下げた例を聞いてみましょう。
 
-:custom-audio{title="テンション：0" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/uragoe_default.mp3"}
+:custom-audio{title="テンション：0" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_synthesizer-v-technics_uragoe_default.mp3"}
 
-:custom-audio{title="テンション：-1.000" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/uragoe_tension.mp3"}
+:custom-audio{title="テンション：-1.000" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_synthesizer-v-technics_uragoe_tension.mp3"}
 
 声の緊張感が下がったのと合わせて、[裏声のような声質]{.marker}になったのが確認できます。
 
@@ -77,9 +77,9 @@ Synthesizer Vで高音を打ち込んだ際に、[地声になるか裏声にな
 
 実際にボーカルスタイルだけを変えた例を聞いてみましょう。
 
-:custom-audio{title="ボーカルスタイル：Mai デフォルト" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/uragoe_default.mp3"}
+:custom-audio{title="ボーカルスタイル：Mai デフォルト" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_synthesizer-v-technics_uragoe_default.mp3"}
 
-:custom-audio{title="ボーカルスタイル：Mai Soft" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/uragoe_vocal_style.mp3"}
+:custom-audio{title="ボーカルスタイル：Mai Soft" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_synthesizer-v-technics_uragoe_vocal_style.mp3"}
 
 ボーカルスタイルは画面下部の[**パラメータパネル**を使うと曲の途中で変更することができる]{.marker}ので、地声/裏声を調整したい部分だけ値を変更しましょう。
 
@@ -100,9 +100,9 @@ Synthesizer Vで高音を打ち込んだ際に、[地声になるか裏声にな
 
 実際にトーンシフトを変えた例を聞いてみましょう。
 
-:custom-audio{title="トーンシフト：0 cents" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/uragoe_default.mp3"}
+:custom-audio{title="トーンシフト：0 cents" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_synthesizer-v-technics_uragoe_default.mp3"}
 
-:custom-audio{title="トーンシフト：+400 cents" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/uragoe_tone_shift.mp3"}
+:custom-audio{title="トーンシフト：+400 cents" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_synthesizer-v-technics_uragoe_tone_shift.mp3"}
 
 トーンシフトを上げることによって裏声っぽい声になったのが確認できます。
 ただ、[他のパラメータと比べると効果が分かりづらい]{.marker}かなと感じます。
@@ -127,9 +127,9 @@ Synthesizer Vには[「**cl**」という特殊な**音素記号**が用意]{.ma
 
 実際にア行の発音の前に「cl」を付けると、どのようになるのか聞いてみましょう。
 
-:custom-audio{title="clなし" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/edge_default.mp3"}
+:custom-audio{title="clなし" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_synthesizer-v-technics_edge_default.mp3"}
 
-:custom-audio{title="clあり" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-technics/edge_edge.mp3"}
+:custom-audio{title="clあり" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_synthesizer-v-technics_edge_edge.mp3"}
 
 歌いはじめにエッジボイスが入ることによって、[表現豊かな歌唱]{.marker}に聞こえるようになったのではないでしょうか。
 

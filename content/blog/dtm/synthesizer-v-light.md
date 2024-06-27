@@ -108,9 +108,9 @@ Synthesizer Vの歌唱は、[AIによる補正が肝]{.marker}となっていま
 
 試しにSakiを製品版とライト版で出力してみました。
 
-:custom-audio{title="Saki 製品版 ver.127" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-free/normal.mp3"}
+:custom-audio{title="Saki 製品版 ver.127" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_synthesizer-v-free_normal.mp3"}
 
-:custom-audio{title="Saki ライト版 ver.100" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-free/light.mp3"}
+:custom-audio{title="Saki ライト版 ver.100" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_synthesizer-v-free_light.mp3"}
 
 製品版はクリアな音質でピッチも自然であるのに対して、[ライト版は常にノイズが入っているような音質でピッチも少し違和感]{.marker}があります。
 ライト版だけだとSynthesizer Vの歌声の良さを発揮しきれていないため、こちらで歌声の評価をするのは難しいと感じました。

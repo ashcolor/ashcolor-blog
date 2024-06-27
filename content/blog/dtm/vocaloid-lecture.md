@@ -37,13 +37,13 @@ VOCALOIDやSynthesizer Vを購入したものの、[調声に苦労している�
 
 ![基本の調声前](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/before.png)
 
-:custom-audio{title="基本の調声前" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/before.mp3"}
+:custom-audio{title="基本の調声前" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_vocaloid-lecture_before.mp3"}
 
 #### 調声後
 
 ![基本の調声後](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/after.png)
 
-:custom-audio{title="基本の調声後" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/after.mp3"}
+:custom-audio{title="基本の調声後" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_vocaloid-lecture_after.mp3"}
 
 調声を行ったことによって、[歌い方の違和感]{.marker}が減ったかと思います。
 具体的に何を行ったのか説明していきます。
