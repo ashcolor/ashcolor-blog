@@ -8,7 +8,7 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.avif"
 isRecommend: true
 ---
 
@@ -41,7 +41,7 @@ Synthesizer Vのエディタである**Studio Pro**が有料なのに対して�
 
 Studio BasicとStudio Proの違いは以下の通りです。
 
-![Studio ProとStudio Basicの違い](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-free/editor-compare.jpg)
+![Studio ProとStudio Basicの違い](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-free_editor-compare.avif)
 
 [AHSより](https://www.ah-soft.com/synth-v/sp/index.html)
 
@@ -95,7 +95,7 @@ Synthesizer Vの歌唱は、[AIによる補正が肝]{.marker}となっていま
 
 ライト版の機能制限は、以下の表で確認することができます。
 
-![ライト版の機能制限](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-free/singer-compare.jpg)
+![ライト版の機能制限](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-free_singer-compare.avif)
 
 [AHSより](https://www.ah-soft.com/synth-v/sp/index.html)
 

@@ -5,7 +5,7 @@ export const BLOG_CATEGORIES = [
         key: "gadget",
         name: "ガジェット",
         path: "/blog/gadget",
-        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour/overall.jpg",
+        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour_overall.avif",
         isShowList: true,
     },
     {
@@ -13,28 +13,28 @@ export const BLOG_CATEGORIES = [
         name: "プログラミング",
         path: "/blog/programming",
         thumbnail:
-            "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour-computer-accessories/key-cap.jpg",
+            "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-computer-accessories_key-cap.avif",
         isShowList: true,
     },
     {
         key: "dtm",
         name: "DTM",
         path: "/blog/dtm",
-        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/my-vst/thumbnail.png",
+        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_thumbnail.avif",
         isShowList: true,
     },
     {
         key: "notion",
         name: "Notion",
         path: "/blog/notion",
-        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/notion/formulas/thumbnail.png",
+        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_thumbnail.avif",
         isShowList: false,
     },
     {
         key: "random-note",
         name: "雑記",
         path: "/blog/random-note",
-        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/desk-tour/overall.jpg",
+        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour_overall.avif",
         isShowList: false,
     },
 ];
@@ -59,7 +59,7 @@ export const ACCOUNTS = [
     },
 ];
 
-export const IMAGE_PATH_BASE = "https://d2s4ypph6g1t06.cloudfront.net/";
+export const IMAGE_PATH_BASE = "https://d2s4ypph6g1t06.cloudfront.net/img";
 
 export const AMAZON_ASSOCIATE_ID = "ashcolor-22";
 export const DLSITE_ASSOCIATE_ID = "ashcolor";

@@ -8,7 +8,7 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.avif"
 ---
 
 [このキャンペーンは終了しています。]{.text-red-500}
@@ -19,7 +19,7 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thu
 
 <a rel="noopener sponsored" href="https://www.dlsite.com/home/dlaf/=/aid/ashcolor/url/https%3A%2F%2Fwww.dlsite.com%2Fsoft%2Fcampaign%2Fbulkbuy%2F%3D%2Fkey%2Fsynthesizerv20240401%2F%3Futm_medium%3Daffiliate%26utm_campaign%3Dbnlink%26utm_content%3Dtext" target="_blank">『Synthesizer V』セット割キャンペーン！</a>
 
-![『Synthesizer V』セット割キャンペーン！](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-dlsite-campaign/campaign.png){href="https://www.dlsite.com/home/dlaf/=/aid/ashcolor/url/https%3A%2F%2Fwww.dlsite.com%2Fsoft%2Fcampaign%2Fbulkbuy%2F%3D%2Fkey%2Fsynthesizerv20240401%2F%3Futm_medium%3Daffiliate%26utm_campaign%3Dbnlink%26utm_content%3Dtext"}
+![『Synthesizer V』セット割キャンペーン！](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-dlsite-campaign_campaign.avif){href="https://www.dlsite.com/home/dlaf/=/aid/ashcolor/url/https%3A%2F%2Fwww.dlsite.com%2Fsoft%2Fcampaign%2Fbulkbuy%2F%3D%2Fkey%2Fsynthesizerv20240401%2F%3Futm_medium%3Daffiliate%26utm_campaign%3Dbnlink%26utm_content%3Dtext"}
 
 キャンペーンの要点は以下の通りです。
 
@@ -41,7 +41,7 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thu
 DLsiteでは[定期的にクーポンが配布]{.marker}されています。
 私の場合は、**全作品で使える15%オフクーポン**が配布されていました。
 
-![全作品で使える15%オフクーポン](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v-dlsite-campaign/coupon.png)
+![全作品で使える15%オフクーポン](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-dlsite-campaign_coupon.avif)
 
 そして、このクーポンは[上記のキャンペーンと併用]{.marker}することができます！
 
