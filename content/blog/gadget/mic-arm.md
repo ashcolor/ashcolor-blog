@@ -8,7 +8,7 @@ tags:
   - "マイクアーム"
   - "CLASSIC PRO"
   - "KTSOUL"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/mic-arm/ktsoul1.jpg"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_mic-arm_ktsoul1.avif"
 ---
 
 マイクアームを買い替えました。
@@ -58,7 +58,7 @@ CLASSIC PROマイクアームの不満点は、以下の通りです。
 
 新しく購入したマイクアームは**KTSOUL**のマイクアームです。
 
-![KTSOULマイクアーム](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/mic-arm/ktsoul1.jpg)
+![KTSOULマイクアーム](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_mic-arm_ktsoul1.avif)
 
 聞いたことのないメーカーでしたが、[日本のメーカー]{.marker}のようでAmazonの商品紹介も日本語で書かれています。
 
@@ -94,7 +94,7 @@ KTSOULマイクアームの良かった点は、以下の通りです。
 
 また、一般的なマイクアームと比較して[デスクとの設置面が大きく、かなり安定している]{.marker}印象を受けました。
 
-![KTSOULマイクアーム デスクとの接地面](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/mic-arm/ktsoul2.jpg)
+![KTSOULマイクアーム デスクとの接地面](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_mic-arm_ktsoul2.avif)
 
 [ケーブルは内蔵されていない]{.marker}ため、ケーブルはマイクアーム上を這わせることになります。
 見た目が悪くなる懸念があったのですが、付属のケーブルタイを使用してマイクアームの上部に固定したところ、かなりきれいにまとまりました。
@@ -116,7 +116,7 @@ KTSOULマイクアームの良かった点は、以下の通りです。
 
 強度を調整するには、六角レンチでアーム間のネジを調整する必要があります。
 
-![KTSOULマイクアーム 強度調整](https://d2s4ypph6g1t06.cloudfront.net/img/blog/gadget/mic-arm/ktsoul3.jpg)
+![KTSOULマイクアーム 強度調整](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_mic-arm_ktsoul3.avif)
 
 しかし、この商品には[六角レンチが同梱されていません]{.marker}。
 マイクアームに合う六角レンチを探してみたのですが、家にはありませんでした。

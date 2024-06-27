@@ -12,7 +12,7 @@ tags:
   - "Synthesizer V"
   - "SynthV"
   - "CeVIO AI"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/windows-vs-mac/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_windows-vs-mac_thumbnail.avif"
 ---
 
 最近はボカロPがアニメのOPやドラマ主題歌を担当することが増え、[VOCALOIDやDTMの知名度が上がってきました]{.marker}。

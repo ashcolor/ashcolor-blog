@@ -2,6 +2,7 @@
 const fileInput = ref<HTMLInputElement | undefined>();
 const thumbnailImg = ref("");
 const thumbnailImages = ref<Array<File>>([]);
+const filenames = ref([]);
 
 const onChangeFileInput = () => {
     thumbnailImages.value.length = 0;
@@ -45,7 +46,8 @@ const onClickUploadButton = async () => {
         });
 
         if (response.ok) {
-            await response.json();
+            const data = await response.json();
+            filenames.value = data?.filenames || [];
         } else {
             // console.error("File upload failed:", response.statusText);
         }
@@ -82,5 +84,12 @@ const onClickUploadButton = async () => {
         >
             アップロード
         </button>
+        <div>
+            <div v-for="filename in filenames" :key="filename">
+                <ProseCode>
+                    {{ `![](${IMAGE_PATH_BASE}${filename})` }}
+                </ProseCode>
+            </div>
+        </div>
     </div>
 </template>

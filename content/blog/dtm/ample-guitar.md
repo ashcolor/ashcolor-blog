@@ -7,7 +7,7 @@ category: "DTM"
 tags:
   - "ギター音源"
   - "Ample Guitar"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/ample-guitar/ag_lp.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_ample-guitar_ag_lp.avif"
 ---
 
 ## はじめに

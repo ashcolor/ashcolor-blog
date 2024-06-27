@@ -9,7 +9,7 @@ tags:
   - "Synthesizer V"
   - "SynthV"
   - "Piapro Studio"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/synthesizer-v/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.avif"
 isRecommend: true
 ---
 
@@ -35,15 +35,15 @@ VOCALOIDやSynthesizer Vを購入したものの、[調声に苦労している�
 
 #### 調声前
 
-![基本の調声前](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/before.png)
+![基本の調声前](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_vocaloid-lecture_before.avif)
 
-:custom-audio{title="基本の調声前" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/before.mp3"}
+:custom-audio{title="基本の調声前" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_vocaloid-lecture_before.mp3"}
 
 #### 調声後
 
-![基本の調声後](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/after.png)
+![基本の調声後](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_vocaloid-lecture_after.avif)
 
-:custom-audio{title="基本の調声後" src="https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/after.mp3"}
+:custom-audio{title="基本の調声後" src="https://d2s4ypph6g1t06.cloudfront.net/audio/dtm_vocaloid-lecture_after.mp3"}
 
 調声を行ったことによって、[歌い方の違和感]{.marker}が減ったかと思います。
 具体的に何を行ったのか説明していきます。
@@ -84,7 +84,7 @@ VOCALOIDやSynthesizer Vを購入したものの、[調声に苦労している�
 
 母音だけを消す場合は音素の修正を行い、[「a」「i」「u」「e」「o」を消してください]{.marker}。
 
-![「わたし」の「し」の母音を消している](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/boin.png)
+![「わたし」の「し」の母音を消している](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_vocaloid-lecture_boin.avif)
 
 音素の編集方法は音声合成ソフトによって異なります。
 音声合成ソフトの操作方法を確認してみてください。
@@ -93,7 +93,7 @@ VOCALOIDやSynthesizer Vを購入したものの、[調声に苦労している�
 
 [「**ない**」「**あい**」「**もう**」「**まう**」といった発音は、後ろの母音のタイミングを遅らせた方が自然]{.marker}に聞こえます。
 
-![「歌い」の「い」のタイミングを遅らせている](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/ai.png)
+![「歌い」の「い」のタイミングを遅らせている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_vocaloid-lecture_ai.avif)
 
 ### しゃくり
 
@@ -102,7 +102,7 @@ VOCALOIDやSynthesizer Vを購入したものの、[調声に苦労している�
 ボカロで再現する場合、[ノートの最初を32～8分音符分ほど分割して最初のノートを半音～全音ほど下げます]{.marker}。
 特に次のノートに向けて音程が上がる場合に、しゃくりを付けると自然になることが多いです。
 
-![しゃくりを付けている](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/shakuri.png)
+![しゃくりを付けている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_vocaloid-lecture_shakuri.avif)
 
 しゃくりは簡単かつ効果的なテクニックなので、必ず覚えておきましょう。
 
@@ -118,7 +118,7 @@ AIによるしゃくりが自然であれば、しゃくりを入れる必要は
 
 簡単に済ますのであれば、ソフトに付属されている[オートビブラートだけ設定すればOK]{.marker}です。
 
-![長い音符にビブラートを付けている](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/vibrato.png)
+![長い音符にビブラートを付けている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_vocaloid-lecture_vibrato.avif)
 
 こだわりたい場合は、ビブラートの開始タイミング・速さ・強さを調整します。
 
@@ -129,7 +129,7 @@ AIによるしゃくりが自然であれば、しゃくりを入れる必要は
 
 [VOCALOIDの場合は`br1`、Synthesizer Vの場合は`br` と打ち込むと息を吸い込む音がします]{.marker}。
 
-![フレーズの最初に「br1」のノートを置いてブレスを付ける](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/breath.png)
+![フレーズの最初に「br1」のノートを置いてブレスを付ける](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_vocaloid-lecture_breath.avif)
 
 ## 応用の調声
 
@@ -144,7 +144,7 @@ AIによるしゃくりが自然であれば、しゃくりを入れる必要は
 ボカロで再現する場合は、[ノートの最後を分割して、最後のノートの音程を上下]{.marker}させます。
 もしくは[ピッチパラメーターのオートメーションを書いてノートの最後で音程を上下]{.marker}させます。
 
-![フォールとヒーカップの打ち込み例](https://d2s4ypph6g1t06.cloudfront.net/img/blog/dtm/vocaloid-lecture/fall.png)
+![フォールとヒーカップの打ち込み例](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_vocaloid-lecture_fall.avif)
 
 フォールやヒーカップを付与すると、[感情的に歌っているように聞こえます]{.marker}。
 サビの盛り上がる部分など、ここぞというときに使うと効果的です。

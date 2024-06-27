@@ -9,7 +9,7 @@ tags:
   - "JavaScript"
   - "TypeScript"
   - "npm"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/npm-develop/thumbnail.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_npm-develop_thumbnail.avif"
 isRecommend: true
 ---
 
@@ -119,7 +119,7 @@ husky・lint-stagedをPrettierやESLintと合わせて使うことで、コミ�
 
 Storyファイルというファイルを作成することで、UIコンポーネントを独立した状態で確認・テストすることができます。
 
-![Storybook画面（公式サイトより）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/npm-develop/storybook.png)
+![Storybook画面（公式サイトより）](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_npm-develop_storybook.avif)
 
 UIコンポーネントの一覧を作成したり、UIコンポーネントの概要・属性を簡単に把握することができるため、コンポーネントの開発に役立ちます。
 
@@ -165,7 +165,7 @@ npmライブラリではないが、合わせて知っておきたいツール�
 
 **Bun**はNode.jsやDenoと同じJavaScriptランタイムです。
 
-![Bunのロゴ（公式サイトより）](https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/npm-develop/bun.png)
+![Bunのロゴ（公式サイトより）](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_npm-develop_bun.avif)
 
 Bunの一番の特徴は実行速度です。
 Safari用に構築されたパフォーマンス重視のJS エンジン**JavaScriptCore**を採用することにより、高速な動作を可能にしています。

@@ -7,7 +7,7 @@ category: "プログラミング"
 subCategory: "Vue.js"
 tags:
   - "Vue.js"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/blog/programming/vue-define-model/vue.png"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_vue-define-model_vue.avif"
 isRecommend: false
 ---
 
