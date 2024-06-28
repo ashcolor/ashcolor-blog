@@ -86,8 +86,13 @@ const onClickUploadButton = async () => {
         </button>
         <div>
             <div v-for="filename in filenames" :key="filename">
+                <p>PC用コード</p>
                 <ProseCode>
-                    {{ `![](${IMAGE_PATH_BASE}${filename})` }}
+                    {{ `![](${IMAGE_PATH_BASE}/img/pc/${filename})` }}
+                </ProseCode>
+                <p>スマホ用コード</p>
+                <ProseCode>
+                    {{ `![](${IMAGE_PATH_BASE}/img/sp/${filename})` }}
                 </ProseCode>
             </div>
         </div>

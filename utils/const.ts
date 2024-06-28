@@ -59,7 +59,7 @@ export const ACCOUNTS = [
     },
 ];
 
-export const IMAGE_PATH_BASE = "https://d2s4ypph6g1t06.cloudfront.net/img";
+export const IMAGE_PATH_BASE = "https://d2s4ypph6g1t06.cloudfront.net";
 
 export const AMAZON_ASSOCIATE_ID = "ashcolor-22";
 export const DLSITE_ASSOCIATE_ID = "ashcolor";
