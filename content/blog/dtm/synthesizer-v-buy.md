@@ -61,9 +61,7 @@ isRecommend: true
 <a rel="noopener sponsored" href="https://www.dlsite.com/soft/dlaf/=/aid/ashcolor/url/https%3A%2F%2Fwww.dlsite.com%2Fsoft%2F%3Futm_medium%3Daffiliate%26utm_campaign%3Dbnlink%26utm_content%3Dbn_sp_300_250_dojin_01.jpg" target="_blank"><img src="https://www.dlsite.com/img/male/dojin/bn_sp_300_250_dojin_01.jpg" alt="PCゲーム、PCソフトのダウンロードショップ - DLsite Soft" width="300" height="250" border="0" /></a>
 
 DLsiteでは、定期的に[割引クーポン]{.marker}が配布されます。
-最大で50%OFFクーポンが配られたこともあります。
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">DLサイトのクーポンバグってる<br>やばい<br>SynthV、CeVIO、AHSのボカロが最大5000円引き<br><br>多分全員に配られてるクーポン<br>バグってない？？？<br>買うの今のうちかも 急げ！！！！！！ <a href="https://t.co/doGiBmHv6v">pic.twitter.com/doGiBmHv6v</a></p>&mdash; 𝙇𝙞𝙩𝙈𝙪𝙨 (@LitMus9_) <a href="https://twitter.com/LitMus9_/status/1800550929726627845?ref_src=twsrc%5Etfw">June 11, 2024</a></blockquote>
+最大で50%OFFクーポンが配られたこともありました。
 
 ただし、配布されるクーポンは[時期やユーザごとに異なる]{.marker}ため、注意が必要です。
 頻繁に配布されるクーポンは、**15%OFF**、**3作品まとめ買いで18%OFF**、**5作品まとめ買いで20%OFF**が多いです。
@@ -78,7 +76,7 @@ DLsiteでは、定期的に[割引クーポン]{.marker}が配布されます。
 
 Synthesizer Vのダウンロード版の購入は、[DLsiteを利用するのがオススメ]{.marker}です。
 
-:affiliate-block{title="DLsiteでSynthesizer V商品を検索" dlSiteLink="https://www.dlsite.com/soft/fsr/=/language/jp/keyword/synthesizer+v/age_category/general/work_category/pc/order%5B0%5D/trend/options_and_or/and/options%5B0%5D/JPN/options%5B1%5D/NM/per_page/30/page/1/from/topsearch.more"}
+<DtmSynthesizerVDlSiteSearch></DtmSynthesizerVDlSiteSearch>
 
 ### AHS ユーザー特別版を購入する
 
@@ -110,11 +108,7 @@ AHS ストアでは、Synthesizer V 関連の商品に**AHS ユーザー特別�
 [パッケージ版を購入したい方は、Amazonでの購入をオススメ]{.marker}します。
 以下のボタンから、Amazonで販売されているパッケージ版を探すことができます。
 
-<a href="https://amzn.to/49nYcbu" target="_blank" rel="noopener noreferrer">
-<button class="btn bg-[#ffd814] hover:bg-[#ffd814] w-full">
-AmazonでSynthesizer Vのパッケージ版を探す
-</button>
-</a>
+<DtmSynthesizerVAmazonSearch></DtmSynthesizerVAmazonSearch>
 
 ## まとめ
 
@@ -124,7 +118,7 @@ AmazonでSynthesizer Vのパッケージ版を探す
 
 ::point-list{title="Synthesizer V を少しでもお得に購入する方法"}
 
-- 初購入時は[スターターパックがオススメ]{.marker}
+- 初回購入時は[スターターパックがオススメ]{.marker}
 - ダウンロード版は[**DLsite**のクーポンを使うと安い]{.marker}
 - パッケージ版は[**Amazon**で購入すると安い]{.marker}
 

@@ -37,6 +37,7 @@ useSeoMeta({
 useHead({
     script: [
         {
+            tagPosition: "bodyClose",
             type: "text/javascript",
             src: "https://platform.twitter.com/widgets.js",
             defer: true,

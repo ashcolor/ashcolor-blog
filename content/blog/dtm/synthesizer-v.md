@@ -428,6 +428,10 @@ Synthesizer V はベタ打ちでも AI 機能だけでも聞ける歌唱が生�
 
 :affiliate-block{title="Synthesizer V AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000376_img_main.webp" asin="B0CJ4PZFV9" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000376.html"}
 
+<DtmSynthesizerVAmazonSearch></DtmSynthesizerVAmazonSearch>
+
+<DtmSynthesizerVDlSiteSearch></DtmSynthesizerVDlSiteSearch>
+
 ## 参考
 
 この記事を作成にするにあたり、以下のサイトを参考にしました。

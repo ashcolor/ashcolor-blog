@@ -263,3 +263,7 @@ Synthesizer V の歌声データベースはどれも[高品質であり、男�
 :affiliate-block{title="Synthesizer V Studio Pro" imageUrl="https://m.media-amazon.com/images/I/41nl+l0DddL._SL160_.jpg" asin="B08B34MWKF" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ013608.html"}
 
 :affiliate-block{title="Synthesizer V Studio Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/51jy+o9TSXL._SL160_.jpg" asin="B08B3CNY2D"}
+
+<DtmSynthesizerVAmazonSearch></DtmSynthesizerVAmazonSearch>
+
+<DtmSynthesizerVDlSiteSearch></DtmSynthesizerVDlSiteSearch>
