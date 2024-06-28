@@ -26,11 +26,12 @@ const isShow = new Date() < AMAZON_SALE_END_DATE;
                 <span>ポイントアップ</span>
             </p>
             <a
-                class="btn btn-block grow bg-[#ffd814] hover:bg-[#ffd814]"
+                class="btn btn-lg btn-block grow bg-[#ffd814] hover:bg-[#ffd814]"
                 :href="AMAZON_SALE_URL"
                 target="_blank"
                 rel="noopener noreferrer"
             >
+                <Icon name="bi:amazon"></Icon>
                 キャンペーンにエントリー
             </a>
         </div>

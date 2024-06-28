@@ -124,3 +124,7 @@ Synthesizer Vは非常にリアルな歌声合成ができる一方で、アー�
 :affiliate-block{title="音楽的同位体 可不(KAFU) 可不ソングボイス|ダウンロード版" imageUrl="https://m.media-amazon.com/images/I/51Lu8A-uG9S._SL160_.jpg" asin="B097Y5WH6V" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ014593.html"}
 
 :affiliate-block{title="音楽的同位体 可不(KAFU) スターター|ダウンロード版" imageUrl="https://m.media-amazon.com/images/I/51yP6udmYFS._SL160_.jpg" asin="B097Y3T79R" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ014592.html"}
+
+:affiliate-block{title="Synthesizer V Studio Pro" imageUrl="https://m.media-amazon.com/images/I/41nl+l0DddL._SL160_.jpg" asin="B08B34MWKF" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ013608.html"}
+
+:affiliate-block{title="Synthesizer V Studio Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/51jy+o9TSXL._SL160_.jpg" asin="B08B3CNY2D"}
