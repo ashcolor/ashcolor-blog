@@ -51,18 +51,18 @@ pnpm preview
 
 ### コンポーネント
 
-md ファイルで使用することのできるコンポーネントは以下に記載
+contentディレクトリ内のマークダウンファイルで使用できるコンポーネントは以下に記載
 
-<http://localhost:3000/_story>
+[マークダウン一覧](http://localhost:3000/studio/story)
 
-### OGP画像のサイズ
+### 画像
 
-1200×630 がベスト
+以下のツールを使用してアップロードする
 
-[参考](https://bluetraff.com/ogp_thumbnail/#toc3)
+[画像アップロード](http://localhost:3000/studio/tool#画像アップロード)
 
 ### アフィリエイトブロックの作成
 
 以下のツールを使用する
 
-[アフィリエイトブロック生成ツール](http://localhost:3000/_story#%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E7%94%9F%E6%88%90%E3%83%84%E3%83%BC%E3%83%AB)
+[アフィリエイトブロック生成ツール](http://localhost:3000/studio/tool#アフィリエイトブロック生成)
