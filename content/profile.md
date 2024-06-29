@@ -10,7 +10,7 @@ description: "運営者情報"
 
 ## あっしゅからーのプロフィール
 
-![あっしゅからー](/img/author.png){width=240 class="rounded-full"}
+![あっしゅからー](/img/author.avif){width=240 class="rounded-full"}
 
 - ハンドルネーム：あっしゅからー
 - 職業：システムエンジニア
