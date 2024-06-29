@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/05/19"
-updatedAt: ""
+updatedAt: "2024/06/30"
 title: "【無料】SynthV Studio Basic、ライト版・機能制限版とは"
 description: "無料で使うことのできるSynthesizer V Studio Basic、ライト版・機能制限版の歌声データベースについてまとめました"
 category: "DTM"
@@ -39,11 +39,18 @@ Synthesizer Vのエディタである**Studio Pro**が有料なのに対して�
 
 ### Studio BasicとStudio Proの違い
 
-Studio BasicとStudio Proの違いは以下の通りです。
+Studio BasicとStudio Proの違いは以下の通りです。（[AHSより](https://www.ah-soft.com/synth-v/sp/index.html)）
 
-![Studio ProとStudio Basicの違い](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-free_editor-compare.avif)
-
-[AHSより](https://www.ah-soft.com/synth-v/sp/index.html)
+|                              | Synthesizer V<br>Studio Basic | Synthesizer V<br>Studio Pro                                                                                       |
+| ---------------------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 価格                         | 無料                          | パッケージ版 ¥14,080(税込)<br>ダウンロード版 ¥10,780(税込)                                                        |
+| プロジェクト<br>制限         | 3トラック                     | 無制限                                                                                                            |
+| 同時レンダリング<br>スレッド | 2コア                         | 無制限                                                                                                            |
+| 追加機能                     | ・自動ピッチ調整 (定型構成)   | ・自動ピッチ調整 (精度変更可)<br>・ブレス成分の分離出力<br>・Lua / Javascript スクリプティング<br>・トーンシフト  |
+| VST/AU<br>プラグイン         | なし                          | あり                                                                                                              |
+| 多言語<br>歌唱対応           | なし                          | あり<br>対応言語:<br>日本語/英語/中国語/広東語/スペイン語<br>※AI歌声DBのみ対応<br>※歌声DBによって非対応の場合あり |
+| ボーカル<br>スタイル         | なし                          | あり<br>※AI歌声DBのみ対応<br>※歌声DBによって非対応の場合があり                                                    |
+| AIリティク<br>対応           | なし                          | あり<br>※AI歌声DBのみ対応<br>※歌声DBによって非対応の場合あり                                                      |
 
 [試用期限や時間の制限はなく]{.marker}、基本的な機能を使用することができます。
 
@@ -93,11 +100,17 @@ Synthesizer Vの歌唱は、[AIによる補正が肝]{.marker}となっていま
 
 #### ライト版
 
-ライト版の機能制限は、以下の表で確認することができます。
+ライト版の機能制限は、以下の表で確認することができます。（[AHSより](https://www.ah-soft.com/synth-v/sp/index.html)）
+※AI版のみを記載
 
-![ライト版の機能制限](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-free_singer-compare.avif)
-
-[AHSより](https://www.ah-soft.com/synth-v/sp/index.html)
+|                    | AIライト版                       | AI通常版                                                                                                                         |
+| ------------------ | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 価格               | 無料                             | ・パッケージ版 ¥10,780(税込)<br>・ダウンロード版 ¥9,680(税込)                                                                    |
+| 多言語<br>歌唱対応 | なし                             | あり<br>[対応言語]<br>日本語/英語/中国語/広東語/スペイン語<br>※Synthesizer V Studio Proが必要<br>※歌声DBによって非対応の場合あり |
+| AIリティク<br>対応 | なし                             | あり<br>※Synthesizer V Studio Proが必要<br>※歌声DBによって非対応の場合あり                                                       |
+| 音声品質           | 中                               | 最高品質                                                                                                                         |
+| レンダリングモード | 速度優先                         | 速度優先<br>品質優先                                                                                                             |
+| 必須<br>記事事項   | ライト版の使用を明記する必要あり | なし                                                                                                                             |
 
 ライト版では[レンダリングモードは「速度優先」のみ]{.marker}が選択できます。
 有料の歌声データベースで使用できる「デフォルト」や「品質優先」が選択できないため、[生成する歌声の音質が若干悪くなります]{.marker}。
