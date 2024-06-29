@@ -19,7 +19,7 @@ export default defineEventHandler(async (event) => {
             await uploadImage(IMAGE_S3_BUCKET_ORIGINAL, originalExtFilename, file.data, file.type);
 
             // PC
-            const optimizedImageBufferPc = await optimizeImage(file.data, 1000, 1000);
+            const optimizedImageBufferPc = await optimizeImage(file.data, 800, 800);
             await uploadImage(
                 IMAGE_S3_BUCKET,
                 `img/pc/${avifFilename}`,
