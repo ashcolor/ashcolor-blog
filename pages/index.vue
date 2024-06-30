@@ -23,19 +23,19 @@ const { data: articleTags, pending } = await useLazyAsyncData(
     }
 );
 
-const tags = articleTags.value?.map((article) => article.tags).flat();
-const tagCounts = new Map();
+const famousTags = computed(() => {
+    const tags = articleTags.value?.map((article) => article.tags).flat();
+    const tagCounts = new Map();
 
-tags.forEach((tag) => {
-    if (tagCounts.has(tag)) {
-        tagCounts.set(tag, tagCounts.get(tag) + 1);
-    } else {
-        tagCounts.set(tag, 1);
-    }
-});
+    tags.forEach((tag) => {
+        if (tagCounts.has(tag)) {
+            tagCounts.set(tag, tagCounts.get(tag) + 1);
+        } else {
+            tagCounts.set(tag, 1);
+        }
+    });
 
-const famousTags = computed(() =>
-    Array.from(tagCounts)
+    return Array.from(tagCounts)
         .map((tag) => {
             return {
                 name: tag[0],
@@ -44,8 +44,8 @@ const famousTags = computed(() =>
         })
         .filter((tag) => {
             return tag.count > 1;
-        })
-);
+        });
+});
 
 const listCategories = BLOG_CATEGORIES.filter((category) => category.isShowList);
 
@@ -128,9 +128,10 @@ const onClickSearchButton = () => {
                 </div>
                 <ProseH3>タグから探す</ProseH3>
                 <div class="flex flex-row flex-wrap gap-3 border p-4 text-slate-500">
-                    <div v-if="pending">
-                        <div class="loading loading-spinner mx-auto my-8 block text-primary"></div>
-                    </div>
+                    <div
+                        v-if="pending"
+                        class="loading loading-spinner mx-auto my-8 block text-primary"
+                    ></div>
                     <template v-else>
                         <NuxtLink
                             v-for="tagCount in famousTags"
