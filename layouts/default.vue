@@ -6,7 +6,7 @@ useSeoMeta({
 useSchemaOrg([
     definePerson({
         name: "あっしゅからー",
-        image: "/img/author.png",
+        image: "/img/author.avif",
         url: "https://twitter.com/ashcolor06",
         sameAs: ["https://github.com/ashcolor"],
     }),
