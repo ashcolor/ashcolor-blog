@@ -6,6 +6,7 @@ export const BLOG_CATEGORIES = [
         name: "ガジェット",
         path: "/blog/gadget",
         thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour_overall.avif",
+        iconName: "bi:keyboard",
         isShowList: true,
     },
     {
@@ -14,6 +15,7 @@ export const BLOG_CATEGORIES = [
         path: "/blog/programming",
         thumbnail:
             "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-computer-accessories_key-cap.avif",
+        iconName: "bi:code-slash",
         isShowList: true,
     },
     {
@@ -21,6 +23,7 @@ export const BLOG_CATEGORIES = [
         name: "DTM",
         path: "/blog/dtm",
         thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_thumbnail.avif",
+        iconName: "bi:music-note-beamed",
         isShowList: true,
     },
     {
@@ -28,6 +31,7 @@ export const BLOG_CATEGORIES = [
         name: "Notion",
         path: "/blog/notion",
         thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_thumbnail.avif",
+        iconName: "",
         isShowList: false,
     },
     {
@@ -35,6 +39,7 @@ export const BLOG_CATEGORIES = [
         name: "雑記",
         path: "/blog/random-note",
         thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour_overall.avif",
+        iconName: "",
         isShowList: false,
     },
 ];

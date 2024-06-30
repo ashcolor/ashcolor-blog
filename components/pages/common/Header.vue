@@ -16,15 +16,27 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
                         tabindex="0"
                         class="menu dropdown-content menu-md mt-3 w-52 rounded-box bg-base-100 p-2 shadow"
                     >
-                        <li
-                            v-for="category in headerCategories"
-                            :key="category.name"
-                            class="link-hover link"
-                        >
-                            <NuxtLink :to="category.path">{{ category.name }}</NuxtLink>
+                        <li>
+                            <div class="menu-title">BLOG</div>
+                            <ul>
+                                <li
+                                    v-for="category in headerCategories"
+                                    :key="category.name"
+                                    class="link-hover link"
+                                >
+                                    <NuxtLink :to="category.path">
+                                        <Icon :name="category.iconName" />{{ category.name }}
+                                    </NuxtLink>
+                                </li>
+                            </ul>
                         </li>
-                        <li><NuxtLink to="/profile">運営者情報</NuxtLink></li>
-                        <li><NuxtLink to="/contact">お問い合わせ</NuxtLink></li>
+                        <li>
+                            <div class="menu-title">INFORMATION</div>
+                            <ul>
+                                <li><NuxtLink to="/profile">運営者情報</NuxtLink></li>
+                                <li><NuxtLink to="/contact">お問い合わせ</NuxtLink></li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
                 <NuxtLink to="/" class="btn btn-ghost px-2 font-logo text-xl normal-case sm:px-4">{{
@@ -38,7 +50,10 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
                         :key="category.name"
                         class="link-hover link"
                     >
-                        <NuxtLink :to="category.path">{{ category.name }}</NuxtLink>
+                        <NuxtLink :to="category.path">
+                            <Icon :name="category.iconName" />
+                            {{ category.name }}</NuxtLink
+                        >
                     </li>
                     <li><NuxtLink to="/profile">運営者情報</NuxtLink></li>
                     <li><NuxtLink to="/contact">お問い合わせ</NuxtLink></li>
