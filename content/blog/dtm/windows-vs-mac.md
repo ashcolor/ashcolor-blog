@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/09/04"
-updatedAt: "2024/01/19"
+updatedAt: "2024/06/30"
 title: "ボカロPになるならWindows？Mac？ソフト対応状況まとめ"
 description: "WindowsとMac、どちらがオススメかをDTMをしたい人やボカロPになりたい人向けにメリット・デメリットをまとめました。"
 category: "DTM"
@@ -15,22 +15,27 @@ tags:
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_windows-vs-mac_thumbnail.avif"
 ---
 
-最近はボカロPがアニメのOPやドラマ主題歌を担当することが増え、[VOCALOIDやDTMの知名度が上がってきました]{.marker}。
-趣味として[DTMをはじめたい人やVOCALOID楽曲を作成してみたい]{.marker}と思う人もいるのではないでしょうか。
+VOCALOID楽曲の制作をする際に、最初に必要になるのは[パソコン]{.marker}です。
+パソコンを購入する際はOSを決める必要があり、[**Windows**と**Mac**]{.marker}どちらを購入すればいいか悩む方も多いかと思います。
 
-DTMをはじめるにあたって必ず必要になるものは[パソコン]{.marker}です。
-パソコンを購入する際はOSを決める必要があり、[**Windows**と**Mac**]{.marker}どちらを購入すればいいか悩ましいところです。
-
-今回は、DTMをはじめたい人やボカロPになりたい人向けに[WindowsとMacの対応ソフトウェアの違い]{.marker}等を紹介します。
+この記事では、DTMをはじめたい人やボカロPになりたい人向けに、[WindowsとMacの対応ソフトの違いとコストの違い]{.marker}を解説します。
 
 ## はじめに
 
-DTMをはじめることやボカロPになるためのパソコンは[WindowsでもMacでも大丈夫]{.marker}です。
-実際に2018年1月のアンケート結果では[62.8%がWindowsユーザー、36.2%がMacユーザー]{.marker}という結果だったようです。
+ボカロPには、[Windowsを使っている人もMacを使っている人もいます]{.marker}。
 
-:link-card{url="https://www.dtmstation.com/archives/52009485.html"}
+実際に2018年1月のアンケート結果で、DTMユーザーは
 
-どちらのOSでもDTMをすることは可能なのですが、注意しなければいけないのは[WindowsとMacで対応しているソフトウェアが異なること]{.marker}です。
+- Windows：62.8%
+- Mac：36.2%
+
+を使用しているという結果でした。
+
+![2018年1月に行ったWindows vs Macのアンケート調査結果](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-06-30_11-16-53_3r6bqdof.avif)
+
+（[DTM STATION](https://www.dtmstation.com/archives/52009485.html)より）
+
+どちらのOSでもDTMをすることは可能なのですが、注意しなければいけないのは[WindowsとMacで対応しているソフトが異なること]{.marker}です。
 
 「使いたいソフトが既にあるのにOSが対応していなかった…」ということがないように先に調べておくことが大切です。
 
@@ -49,9 +54,9 @@ DTMをはじめることやボカロPになるためのパソコンは[Windows�
 ### DAWの対応状況
 
 DTMをする上では必須なのが**DAW**（Digital Audio Workstation）です。
-DAWとはパソコン上で音楽制作を行うためのソフトウェアのことで、[レコーディング、作曲、打ち込み]{.marker}など、音楽制作に必要なあらゆる作業を行うことができます。
+DAWとはパソコン上で音楽制作を行うためのソフトのことで、[レコーディング、作曲、打ち込み]{.marker}など、音楽制作に必要なあらゆる作業を行うことができます。
 
-主要なDAWソフトのWindows・Macの対応状況は以下の通りです。
+主要なDAWソフトのWindows・Mac対応状況は以下の通りです。
 
 | DAW                                                                                                                     | Windows | Mac |
 | ----------------------------------------------------------------------------------------------------------------------- | ------- | --- |
@@ -60,7 +65,7 @@ DAWとはパソコン上で音楽制作を行うためのソフトウェアの�
 | [Logic Pro Ⅹ](https://www.apple.com/jp/logic-pro/specs/)                                                                | ❌      | ⭕  |
 | [FL Studio](https://hookup.co.jp/products/image-line-software/fl-studio/spec)                                           | ⭕      | ⭕  |
 | [Ableton Live 10](https://help.ableton.com/hc/ja/articles/115001663530-Liveの必要動作環境)                              | ⭕      | ⭕  |
-| [Garageband](https://www.apple.com/jp/mac/garageband/)                                                                  | ❌      | ⭕  |
+| [GarageBand](https://www.apple.com/jp/mac/garageband/)                                                                  | ❌      | ⭕  |
 | [Pro Tools](https://avid.secure.force.com/pkb/articles/ja/compatibility/Pro-Tools-Operating-System-Compatibility-Chart) | ⭕      | ⭕  |
 | [Cakewalk by BandLab](https://www.bandlab.com/products/cakewalk)                                                        | ⭕      | ❌  |
 | [Reaper](https://www.reaper.fm/about.php)                                                                               | ⭕      | ⭕  |
@@ -68,95 +73,101 @@ DAWとはパソコン上で音楽制作を行うためのソフトウェアの�
 最近のDAWは[Windows・Macどちらも対応]{.marker}していることが多いです。
 
 しかし、片方のOSにしか対応していないDAWもあります。
-Windowsのみに対応しているのが**Cakewalk by BandLab**、Macのみに対応しているのが**Logic Pro Ⅹ**と**Garageband**です。
+Windowsのみに対応しているのが**Cakewalk by BandLab**、Macのみに対応しているのが**Logic Pro Ⅹ**と**GarageBand**です。
 
 #### Windowsのみに対応しているDAW
 
-**Cakewalk by BandLab**は、**BandLab Technologies**が開発した無料の DAW ソフトウェアです。
+##### BandLab
+
+**BandLab**は、**BandLab Technologies**が開発した無料のDAWです。
 
 :link-card{url="https://www.bandlab.com/products/cakewalk"}
 
 元々はCakewalk社が開発・販売していた DAW ソフト「SONAR」でしたが、2017年にCakewalk社は業績不振により開発・生産を中止すると発表しました。
 2018年、シンガポールのBandLab Technologies社がCakewalk社の知的財産権を取得し、Cakewalk by BandLabとして無料で公開しました。
 
-SONAR シリーズの最上位グレードである[SONAR Platinumと同等の機能を備えている]{.marker}ため、無料にも関わらず多機能なDAWソフトだと言えます。
+SONAR シリーズの最上位グレードである[SONAR Platinumと同等の機能を備えている]{.marker}ため、無料にも関わらず多機能なDAWソフトです。
 
 #### Macのみに対応しているDAW
 
-**Logic Pro X**は、Apple が開発した音楽制作ソフトウェアです。
+##### Logic Pro
+
+**Logic Pro**は、Apple が開発した音楽制作ソフトです。
 
 :link-card{url="https://www.apple.com/jp/logic-pro/"}
 
-最近だと「夜に駆ける」や「アイドル」の作曲者である**Ayase**さんが使用していることでも有名です。
+「夜に駆ける」や「アイドル」の作曲者である、**Ayase**さんが使用していることでも有名です。
 
-**Logic Pro X**はAppleが提供しているソフトウェアのため他のDAWよりも安定性に優れています。
-また、初期搭載されている音源・エフェクトがすでに充実しており、**Logic Pro X**だけでプロと同等の高品質な音楽制作をすることができます。
+Logic ProはAppleが提供しているソフトのため。他のDAWよりも安定性に優れています。
+また、[初期搭載されている音源・エフェクトが充実]{.marker}しており、Logic Proだけで高品質な音楽制作をすることができます。
 
-**Garageband**はAppleが開発した無料の音楽制作アプリです。
+##### GarageBand
+
+**GarageBand**はAppleが開発した無料の音楽制作アプリです。
 
 :link-card{url="https://www.apple.com/jp/mac/garageband/"}
 
-GarageBandは、音楽制作に必要な基本的な機能をすべて備えており、使いやすいのが特徴です。
-GarageBandで作成してファイルは**Logic Pro X**でも開くことができるため、試しにGarageBandを使ってみて物足りなさを感じたら**Logic Pro X**に移行することもできます。
+GarageBandは、音楽制作に必要な最低限の機能は全て備えています。
 
-上記のDAWで特に注目したいのが**Logic Pro X**です。
-**Logic Pro X**はを使用している方はたくさんいますが、Windowsには対応していません。
-もし、憧れている作曲家の方が**Logic Pro X**を使用していて、同じDAWソフトを使用したいのであればパソコンのOSは[Macを選択するといいでしょう]{.marker}。
+GarageBandで作成してファイルは、Logic Proでも開くことができます。
+試しにGarageBandを使ってみて、[物足りなさを感じたらLogic Proに移行]{.marker}するのもオススメです。
 
-### 音声合成ソフトウェア
+### 音声合成ソフトの対応状況
 
-次にVOCALOID楽曲を制作するために必須な主要な**音声合成ソフトウェア**の対応状況について調べてみました。
+VOCALOID楽曲を制作する方向けに、主要な**音声合成ソフト**の対応状況について調べてみました。
 
-主要な音声合成ソフトウェアのWindows・Macの対応状況は以下の通りです。
+主要な音声合成ソフトのWindows・Mac対応状況は以下の通りです。
 
-| ソフトウェア                                                                       | Windows | Mac |
+| ソフト                                                                             | Windows | Mac |
 | ---------------------------------------------------------------------------------- | ------- | --- |
 | [VOCALOID6](https://www.vocaloid.com/vocaloid6/specs/)                             | ⭕      | ⭕  |
 | [CeVIO AI](https://cevio.jp/guide/cevio_ai/firstguide/system_requirements/)        | ⭕      | ❌  |
+| [VoiSona](https://voisona.com/song/download/)                                      | ⭕      | ⭕  |
 | [SynthesizerV](https://www.ah-soft.com/synth-v/sp/#spec)                           | ⭕      | ⭕  |
 | [Piapro Studio for NT](https://sonicwire.com/product/virtualsinger/special/mikunt) | ⭕      | ⭕  |
+| [UTAU](http://kenchan22.web.fc2.com/i/utaumanualintro/intro.html)                  | ⭕      | ❌  |
 
-上記の通り[**CeVIO AI**のみMacに未対応]{.marker}でした。
-それ以外のソフトウェアは全てWindows・Macどちらにも対応しています。
+[**CeVIO AI**と**UTAU**はMacに未対応]{.marker}でした。
+他のソフトは全てWindows・Macどちらにも対応しています。
 
-**CeVIO AI**の有名なボイスバンクには**可不**、**結月ゆかり**などがあります。
+**CeVIO AI**でしか使えない音声には、[音楽的同位体シリーズの**可不**、**星界**、**裏命**、**狐子**、**羽累**]{.marker}などがあります。
 
 :link-card{url="https://cevio.jp/products_cevio_ai/"}
 
-（可不は2024年にSynthesizerV版も発売予定となっています。）
+**UTAU**は無料（シェアウェア）の音声合成ソフトです。
+ネット上には[ユーザが作成したUTAU用の音声ライブラリが数多く公開]{.marker}されています。
 
-上記の歌声を使いたい場合は[WindowsのPCを購入する必要があります]{.marker}。
+Mac OS用向けのUTAUである**UTAU-Synth**というソフトも公開されていますが、UTAUとは仕様が違い情報も少ないため、使用する際は注意が必要です。
 
-また、音声合成ソフトウェアの先駆けである[VOCALOIDはV2まではWindowsのみの対応だった]{.marker}過去があります。
-過去の対応状況を考えると、今後[新しく開発される音声合成ソフトウェアもWindowsのみの対応になる可能性があると]{.marker}いうことも頭の隅に入れておくといいでしょう。
+[CeVIO AIかUTAUを使いたい場合は、Windowsを選択しましょう]{.marker}。
 
 ### コスト
 
-WindowsとMacのパソコンでは、同じスペックのパソコンでも価格差はかなりあります。
-全く同じ構成にはできないため厳密な比較にはならないですが、一般的には[Windowsの方が安くMacの方が高い]{.marker}です。
+WindowsとMacのパソコンでは、同じスペックでも価格差が大きいです。
+全く同じ構成にはできないため厳密には比較できないですが、一般的には[Windowsが安くMacが高い]{.marker}です。
 
 例えばメモリ16GB、ストレージ1TBの構成のデスクトップパソコンの場合、概算で[Windowsの場合は10～15万円ほどになりますが、Macの場合はMac miniでも15～20万円ほど]{.marker}の予算が必要になります。
 
-[Macの場合はパーツの交換ができない]{.marker}というデメリットもあります。
-さらに、高いスペックを選択しようとした場合もMacは割高で、[SSDストレージを1TBから2TBにするのにかかる金額は[Windowsの場合は1万円ほどなのに対して、Macでは5～6万円ほど]{.marker}かかります。
+[Macの場合はパーツの交換ができない]{.marker}デメリットもあります。
+さらに、高いスペックを選択しようとした場合もMacは割高です。
+SSDストレージを1TBから2TBにするのにかかる金額は、[Windowsの場合は1万円ほどに対して、Macでは5～6万円ほど]{.marker}かかります。
 
-DTM用途だけでのパソコンを購入で今後も続けるか分からない場合は、Macのパソコンを購入するのはリスクがあると言えるでしょう。
+安価にDTMをはじめたい場合は、[Windowsがオススメ]{.marker}です。
 
 ## まとめ
 
-この記事ではDTM用途でのパソコン購入の際にWindowsとMacの比較を行いました。
+この記事では、DTM用途でのWindowsとMacの比較を行いました。
 重要なポイントは以下の通りです。
 
 ::point-list{title="DTM用途でOSを選ぶときのポイント"}
 
-- DAWソフトにLogic Pro Xを使用したい場合は**Mac**
-- 音声合成ソフトウェアにCevio AI（**可不**、**結月ゆかり**が有名）を使用したい場合は**Windows**
+- DAWソフトにLogic Proを使用したい場合は**Mac**
+- 音声合成ソフトにCeVIO AI（**可不**など）やUTAUを使用したい場合は**Windows**
 - コストを抑えたい場合は**Windows**
 
 ::
 
 最初に使いはじめたOSは、基本的にはずっと使っていくことになります。
-また、実際にパソコンを購入する際には、他の用途での使用感も含めて購入するのがオススメです。
 メリットやデメリットを比べてみて自身に最適なOSをじっくりと選ぶといいでしょう。
 
 :affiliate-block{title="mouse 【 RTX4060 搭載 / 3年保証】 ゲーミングPC デスクトップ" imageUrl="https://m.media-amazon.com/images/I/31iqsLeeUhL._SL160_.jpg" asin="B0CSFX67N4"}
