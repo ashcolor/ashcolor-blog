@@ -125,7 +125,7 @@ VOCALOID楽曲を制作する方向けに、主要な**音声合成ソフト**�
 | [VoiSona](https://voisona.com/song/download/)                                      | ⭕      | ⭕  |
 | [SynthesizerV](https://www.ah-soft.com/synth-v/sp/#spec)                           | ⭕      | ⭕  |
 | [Piapro Studio for NT](https://sonicwire.com/product/virtualsinger/special/mikunt) | ⭕      | ⭕  |
-| [UTAU](http://kenchan22.web.fc2.com/i/utaumanualintro/intro.html)                  | ⭕      | ❌  |
+| [UTAU](http://utau2008.web.fc2.com/index.html)                                     | ⭕      | ❌  |
 
 [**CeVIO AI**と**UTAU**はMacに未対応]{.marker}でした。
 他のソフトは全てWindows・Macどちらにも対応しています。
