@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/09/04"
-updatedAt: "2024/06/30"
+updatedAt: "2024/07/01"
 title: "ボカロPになるならWindows？Mac？ソフト対応状況まとめ"
 description: "WindowsとMac、どちらがオススメかをDTMをしたい人やボカロPになりたい人向けにメリット・デメリットをまとめました。"
 category: "DTM"
@@ -67,13 +67,13 @@ DAWとはパソコン上で音楽制作を行うためのソフトのことで�
 | [Ableton Live 10](https://help.ableton.com/hc/ja/articles/115001663530-Liveの必要動作環境)                              | ⭕      | ⭕  |
 | [GarageBand](https://www.apple.com/jp/mac/garageband/)                                                                  | ❌      | ⭕  |
 | [Pro Tools](https://avid.secure.force.com/pkb/articles/ja/compatibility/Pro-Tools-Operating-System-Compatibility-Chart) | ⭕      | ⭕  |
-| [Cakewalk by BandLab](https://www.bandlab.com/products/cakewalk)                                                        | ⭕      | ❌  |
+| [BandLab](https://www.bandlab.com/products/cakewalk)                                                                    | ⭕      | ❌  |
 | [Reaper](https://www.reaper.fm/about.php)                                                                               | ⭕      | ⭕  |
 
 最近のDAWは[Windows・Macどちらも対応]{.marker}していることが多いです。
 
 しかし、片方のOSにしか対応していないDAWもあります。
-Windowsのみに対応しているのが**Cakewalk by BandLab**、Macのみに対応しているのが**Logic Pro Ⅹ**と**GarageBand**です。
+Windowsのみに対応しているのが**BandLab**、Macのみに対応しているのが**Logic Pro Ⅹ**と**GarageBand**です。
 
 #### Windowsのみに対応しているDAW
 
@@ -84,7 +84,7 @@ Windowsのみに対応しているのが**Cakewalk by BandLab**、Macのみに�
 :link-card{url="https://www.bandlab.com/products/cakewalk"}
 
 元々はCakewalk社が開発・販売していた DAW ソフト「SONAR」でしたが、2017年にCakewalk社は業績不振により開発・生産を中止すると発表しました。
-2018年、シンガポールのBandLab Technologies社がCakewalk社の知的財産権を取得し、Cakewalk by BandLabとして無料で公開しました。
+2018年、シンガポールのBandLab Technologies社がCakewalk社の知的財産権を取得し、BandLabとして無料で公開しました。
 
 SONAR シリーズの最上位グレードである[SONAR Platinumと同等の機能を備えている]{.marker}ため、無料にも関わらず多機能なDAWソフトです。
 
@@ -118,14 +118,16 @@ VOCALOID楽曲を制作する方向けに、主要な**音声合成ソフト**�
 
 主要な音声合成ソフトのWindows・Mac対応状況は以下の通りです。
 
-| ソフト                                                                             | Windows | Mac |
-| ---------------------------------------------------------------------------------- | ------- | --- |
-| [VOCALOID6](https://www.vocaloid.com/vocaloid6/specs/)                             | ⭕      | ⭕  |
-| [CeVIO AI](https://cevio.jp/guide/cevio_ai/firstguide/system_requirements/)        | ⭕      | ❌  |
-| [VoiSona](https://voisona.com/song/download/)                                      | ⭕      | ⭕  |
-| [SynthesizerV](https://www.ah-soft.com/synth-v/sp/#spec)                           | ⭕      | ⭕  |
-| [Piapro Studio for NT](https://sonicwire.com/product/virtualsinger/special/mikunt) | ⭕      | ⭕  |
-| [UTAU](http://utau2008.web.fc2.com/index.html)                                     | ⭕      | ❌  |
+| ソフト                                                                             | Windows | Mac | 主要な音声ライブラリ         |
+| ---------------------------------------------------------------------------------- | ------- | --- | ---------------------------- |
+| [VOCALOID5](https://archive.yamaha.com/ja/news_release/2018/18071201/)             | ⭕      | ⭕  | -                            |
+| [VOCALOID6](https://www.vocaloid.com/vocaloid6/specs/)                             | ⭕      | ⭕  | GUMI <br>音街ウナ            |
+| [CeVIO AI](https://cevio.jp/guide/cevio_ai/firstguide/system_requirements/)        | ⭕      | ❌  | 可不                         |
+| [VoiSona](https://voisona.com/song/download/)                                      | ⭕      | ⭕  | AiSuu<br>知声                |
+| [SynthesizerV](https://www.ah-soft.com/synth-v/sp/#spec)                           | ⭕      | ⭕  | 花隈千冬<br>GUMI<br>重音テト |
+| [Piapro Studio](https://ec.crypton.co.jp/pages/prod/virtualsinger/piaprostudio)    | ⭕      | ⭕  | 初音ミク                     |
+| [Piapro Studio for NT](https://sonicwire.com/product/virtualsinger/special/mikunt) | ⭕      | ⭕  | 初音ミクNT                   |
+| [UTAU](http://utau2008.web.fc2.com/index.html)                                     | ⭕      | ❌  | 重音テト                     |
 
 [**CeVIO AI**と**UTAU**はMacに未対応]{.marker}でした。
 他のソフトは全てWindows・Macどちらにも対応しています。

@@ -42,7 +42,7 @@ const isShowModal = ref(false);
 
 <template>
     <div class="my-8 flex max-h-[48rem] flex-col place-items-center gap-2">
-        <a v-if="href" :href="props.href">
+        <NuxtLink v-if="href" :to="props.href" target="_blank">
             <img
                 :src="refinedSrc"
                 :width="width"
@@ -52,7 +52,7 @@ const isShowModal = ref(false);
                 :class="props.class"
                 loading="lazy"
             />
-        </a>
+        </NuxtLink>
         <img
             v-else
             :src="refinedSrc"
