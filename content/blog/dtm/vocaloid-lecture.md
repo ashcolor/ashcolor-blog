@@ -9,7 +9,7 @@ tags:
   - "Synthesizer V"
   - "SynthV"
   - "Piapro Studio"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-07-01_13-22-44_tgz4bcxz.avif"
 isRecommend: true
 ---
 
