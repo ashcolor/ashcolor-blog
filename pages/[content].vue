@@ -24,7 +24,7 @@ useSeoMeta({
                     <img :src="article.thumbnail" />
                 </div>
                 <div class="col-span-4 mb-8 block lg:hidden">
-                    <BlogPageToc></BlogPageToc>
+                    <BlogPageToc :links="article?.body?.toc?.links || []"></BlogPageToc>
                 </div>
                 <ContentRenderer :value="article" />
             </div>
