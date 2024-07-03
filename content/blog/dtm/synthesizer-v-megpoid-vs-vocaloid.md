@@ -37,7 +37,7 @@ VOCALOIDは[VOCALOID **4**と**6**が出ている]{.marker}ためどちらも比
 
 :you-tube-iframe{title="誰そ彼 （たそがれ） 【VOCALOID4 Megpoid V4 デモ】" videoId="W4oZL3xLogg" start=20}
 
-### 比較
+### 歌声比較まとめ
 
 **Synthesizer V**はVOCALOIDと比較すると、非常に人間の歌唱に近く中の人の[中島愛さんの歌声に近い]{.marker}と感じました。
 
@@ -54,9 +54,9 @@ VOCALOIDは[VOCALOID **4**と**6**が出ている]{.marker}ためどちらも比
 ちなみに、Synthesizer Vの歌声データベースは新録されたわけではなく、[VOCALOID 6用の録音データを流用]{.marker}しているようです。
 同じ録音データでもSynthesizer VとVOCALOID 6でこれだけ歌声に違いが出るのは興味深いですね。
 
-## 基本情報比較
+## スペック比較
 
-次に、[基本情報・価格]{.marker}について比較してみました。
+次に、[スペック]{.marker}について比較してみました。
 
 VOCALOIDは2~4と6がありますが、今回は**4**と**6**を比較対象にしました。
 
