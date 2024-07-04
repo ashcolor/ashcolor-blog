@@ -8,7 +8,7 @@ subCategory: "Tailwind CSS"
 tags:
   - "Tailwind CSS"
   - "Vite"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_tailwind-css-v4-install_tailwind-css.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_tailwind-css-v4-install_tailwind-css.webp"
 isRecommend: false
 ---
 
@@ -85,7 +85,7 @@ npm run dev
 
 以下の画面が表示されます。
 
-![初期画面](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_tailwind-css-v4-install_before.avif)
+![初期画面](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_tailwind-css-v4-install_before.webp)
 
 `index.html`にTailwindCSSのクラスを追加してみます。
 
@@ -106,7 +106,7 @@ npm run dev
 </html>
 ```
 
-![bg-blackが有効になっている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_tailwind-css-v4-install_after.avif)
+![bg-blackが有効になっている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_tailwind-css-v4-install_after.webp)
 
 `bg-black`が有効になって背景色が黒色になりました。
 

@@ -16,7 +16,7 @@ tags:
   - "Intel"
   - "無印良品"
   - "山崎実業"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_thumbnail.webp"
 ---
 
 この記事では、[職業：システムエンジニア、趣味：DTM]{.marker}な私のデスクの、[自作PC]{.marker}について紹介していきます。
@@ -27,13 +27,13 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_thu
 
 ### PCケース：NZXT H510 White & Black
 
-![NZXT H510 White & Black](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_nzxt.avif)
+![NZXT H510 White & Black](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_nzxt.webp)
 
 PCケースは**NZXT**の**H510**を使用しています。
 
 H510は片面だけガラスパネルになっていて、PCの内部が見える構造になっています。
 
-![ガラスパネル](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_nzxt-2.avif)
+![ガラスパネル](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_nzxt-2.webp)
 
 購入理由は[全体的に白かったから]{.marker}です。
 
@@ -149,7 +149,7 @@ DTM用途としては500GBでは全然足りないので、こちらのSSDは基
 
 ### グラボ：MSI GeForce RTX 3060
 
-![MSI GeForce RTX 3060](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_graphic-board.avif)
+![MSI GeForce RTX 3060](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_graphic-board.webp)
 
 グラフィックボードは**MSI**の**GeForce RTX 3060**を使用しています。
 
@@ -162,7 +162,7 @@ Apex Legendsをたまにプレイしますが、最高グラフィックにし�
 
 ### キャプチャーボード：AVerMedia Live Gamer HD 2 C988
 
-![AVerMedia Live Gamer HD 2 C988](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_capture-board.avif)
+![AVerMedia Live Gamer HD 2 C988](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_capture-board.webp)
 
 キャプチャーボードは**AVerMedia**の**Live Gamer HD 2 C988**を使用しています。
 
@@ -176,7 +176,7 @@ Apex Legendsをたまにプレイしますが、最高グラフィックにし�
 
 ### PC台：無印良品 縦にも横にも連結できるポリプロピレン平台車
 
-![無印良品 縦にも横にも連結できるポリプロピレン平台車](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_pc-trolley.avif)
+![無印良品 縦にも横にも連結できるポリプロピレン平台車](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_pc-trolley.webp)
 
 PCを置く台として**無印良品**の**縦にも横にも連結できるポリプロピレン平台車**を使用しています。
 

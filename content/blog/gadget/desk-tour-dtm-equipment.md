@@ -16,7 +16,7 @@ tags:
   - "オーディオテクニカ"
   - "Steinberg"
   - "ROLAND"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_a49-2.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_a49-2.webp"
 ---
 
 この記事では、[職業：システムエンジニア、趣味：DTM]{.marker}な私のデスクの、[DTM（音楽）機器]{.marker}について紹介していきます。
@@ -25,7 +25,7 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_a4
 
 ### スピーカー：YAMAHA MSP5
 
-![YAMAHA MSP5](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_msp5.avif)
+![YAMAHA MSP5](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_msp5.webp)
 
 スピーカーは**YAMAHA**の**MSP5**を使用しています。
 
@@ -41,7 +41,7 @@ DTMでミキシングをする際に使うため、こちらのスピーカー�
 
 ### ヘッドホン：AKG K702
 
-![AKG K702](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_k702.avif)
+![AKG K702](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_k702.webp)
 
 ヘッドホンは**AKG**の**K702**を使用しています。
 
@@ -59,7 +59,7 @@ DTMでミキシングをする際に使うため、こちらのスピーカー�
 
 ### イヤホン：SHURE SE425
 
-![SHURE SE425（リケーブル済み、イヤーピースはAZLA SednaEarfit MAX）](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_se425.avif)
+![SHURE SE425（リケーブル済み、イヤーピースはAZLA SednaEarfit MAX）](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_se425.webp)
 
 イヤホンは**SHURE**は**SE425**を使っています。
 
@@ -92,7 +92,7 @@ SEシリーズはイヤホンを装着する際に**SHURE掛け**と呼ばれる
 
 ### マイク：オーディオテクニカ AT2020
 
-![オーディオテクニカ AT2020](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_at2020.avif)
+![オーディオテクニカ AT2020](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_at2020.webp)
 
 マイクは**オーディオテクニカ**の**AT2020**を使用しています。
 
@@ -107,7 +107,7 @@ SEシリーズはイヤホンを装着する際に**SHURE掛け**と呼ばれる
 
 ### マイクアーム：KTSOULマイクアーム 白色
 
-![KTSOULマイクアーム](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_mic-arm_ktsoul1.avif)
+![KTSOULマイクアーム](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_mic-arm_ktsoul1.webp)
 
 マイクアームは**KTSOUL**のマイクアームを使用しています。
 
@@ -131,7 +131,7 @@ KTSOULのマイクアームは、以下の点が良かったです。
 
 ### ポップガード：micawber U型ポップガード
 
-![micawber U型ポップガード](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_pop-guard.avif)
+![micawber U型ポップガード](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_pop-guard.webp)
 
 ポップガードは**micawber**の**U型ポップガード**を使用しています。
 
@@ -145,7 +145,7 @@ KTSOULのマイクアームは、以下の点が良かったです。
 
 ### オーディオインターフェイス：Steinberg UR44
 
-![Steinberg UR44](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_ur44.avif)
+![Steinberg UR44](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_ur44.webp)
 
 オーディオインターフェイスは**Steinberg**の**UR44**を使っています。
 
@@ -160,7 +160,7 @@ KTSOULのマイクアームは、以下の点が良かったです。
 
 ### キーボード：ROLAND A-49
 
-![ROLAND A-49](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_a49.avif)
+![ROLAND A-49](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_a49.webp)
 
 キーボードは**ROLAND**の**A-49**を使っています。
 
@@ -168,7 +168,7 @@ KTSOULのマイクアームは、以下の点が良かったです。
 オクターブ・ボタンの右側にはLEDが搭載されていて、[現在のオクターブ位置を瞬時に確認]{.marker}できるのが便利です。
 また、TRANSPOSEボタンを押している間はトランスポーズ状態が確認できます。
 
-![コントローラー周り](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_a49-2.avif)
+![コントローラー周り](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_a49-2.webp)
 
 [打感はMIDIキーボードにしては重い]{.marker}です。
 以前は**ALESIS Q49**を使っていたのですが、買い替えた直後は重めの打感に戸惑いました。

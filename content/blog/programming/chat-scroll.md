@@ -9,7 +9,7 @@ tags:
   - "JavaScript"
   - "TypeScript"
   - "Vue.js"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_chat-scroll_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_chat-scroll_thumbnail.webp"
 isRecommend: true
 ---
 

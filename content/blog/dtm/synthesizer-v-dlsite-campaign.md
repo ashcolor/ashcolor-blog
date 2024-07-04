@@ -8,14 +8,14 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-07-01_12-31-43_lchz645p.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-07-01_12-31-43_lchz645p.webp"
 ---
 
 ## Synthesizer V 10%OFFセール
 
 **DLsite**にて[Synthesizer V 10%OFFセール]{.marker}が開始されました。
 
-![Synthesizer V 10%OFFセール](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-07-01_12-31-43_lchz645p.avif){href="https://www.dlsite.com/soft/dlaf/=/aid/ashcolor/url/https%3A%2F%2Fwww.dlsite.com%2Fsoft%2Ffsr%2F%3D%2Flanguage%2Fjp%2Fkeyword%2FSynthesizer%2520V%2Fage_category%5B0%5D%2Fgeneral%2Fwork_category%5B0%5D%2Fpc%2Forder%2Ftrend%2Foptions_and_or%2Fand%2Foptions%5B0%5D%2FJPN%2Foptions%5B1%5D%2FNM%2Fcampaign%2Fcampaign%2Flang_options%5B0%5D%2F%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%2Flang_options%5B1%5D%2F%25E8%25A8%2580%25E8%25AA%259E%25E4%25B8%258D%25E8%25A6%2581%2F%3Funique_op%3Daf%26utm_medium%3Daffiliate%26utm_source%3Dnone"}
+![Synthesizer V 10%OFFセール](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-07-01_12-31-43_lchz645p.webp){href="https://www.dlsite.com/soft/dlaf/=/aid/ashcolor/url/https%3A%2F%2Fwww.dlsite.com%2Fsoft%2Ffsr%2F%3D%2Flanguage%2Fjp%2Fkeyword%2FSynthesizer%2520V%2Fage_category%5B0%5D%2Fgeneral%2Fwork_category%5B0%5D%2Fpc%2Forder%2Ftrend%2Foptions_and_or%2Fand%2Foptions%5B0%5D%2FJPN%2Foptions%5B1%5D%2FNM%2Fcampaign%2Fcampaign%2Flang_options%5B0%5D%2F%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%2Flang_options%5B1%5D%2F%25E8%25A8%2580%25E8%25AA%259E%25E4%25B8%258D%25E8%25A6%2581%2F%3Funique_op%3Daf%26utm_medium%3Daffiliate%26utm_source%3Dnone"}
 
 対象商品の例は以下の通りです。
 
@@ -41,7 +41,7 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-07-01_12-31-43_lch
 
 DLsiteでは[定期的にクーポンが配布]{.marker}されています。
 
-![全作品で使える15%オフクーポン](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-dlsite-campaign_coupon.avif)
+![全作品で使える15%オフクーポン](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-dlsite-campaign_coupon.webp)
 
 クーポンは[セールと併用]{.marker}することができます。
 例えば、定価9,680円の重音テトであれば、10%OFFセール + 15%OFFクーポン適用で

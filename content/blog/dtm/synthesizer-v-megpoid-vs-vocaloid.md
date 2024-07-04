@@ -10,7 +10,7 @@ tags:
   - "SynthV"
   - "Megpoid"
   - "GUMI"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.webp"
 isRecommend: false
 ---
 

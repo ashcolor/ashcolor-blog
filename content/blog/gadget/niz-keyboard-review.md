@@ -7,7 +7,7 @@ category: "ガジェット"
 tags:
   - "キーボード"
   - "Niz"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_niz-keyboard-review_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_niz-keyboard-review_thumbnail.webp"
 isRecommend: false
 ---
 
@@ -83,7 +83,7 @@ Niz のキーボードの押下圧はデフォルトで **35g** と軽めなた�
 
 また、押下圧変更用のバネが付属されているため、バネをキーキャップとキースイッチの間に入れることで[押下圧を変更することができます]{marker}。
 
-![Niz キーボードに付属のバネ](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_niz-keyboard-review_thumbnail.avif)
+![Niz キーボードに付属のバネ](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_niz-keyboard-review_thumbnail.webp)
 
 自分に適切な押下圧は試しに触ったくらい判断に困ることがあります。
 
@@ -105,7 +105,7 @@ Niz のキーマップ変更ツールは公式が配布しています。
 
 キーマップ変更ツールの見た目は以下のようになっています。
 
-![キーマップ変更ツール](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_niz-keyboard-review_tool.avif)
+![キーマップ変更ツール](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_niz-keyboard-review_tool.webp)
 
 機能面では[マクロやマウス機能・PC のスリープなどが用意]{.marker}されており、十分に感じています。
 
@@ -125,7 +125,7 @@ Niz のキーマップ変更ツールは公式が配布しています。
 
 Niz キーボードの[電源ボタンはキーボードの左側]{.marker}に付いています。
 
-![Niz キーボード 電源ボタン](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_niz-keyboard-review_button.avif)
+![Niz キーボード 電源ボタン](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_niz-keyboard-review_button.webp)
 
 このボタンは[少し力を入れて押す必要があります]{.marker}。
 
@@ -142,7 +142,7 @@ Niz キーボードの[電源ボタンはキーボードの左側]{.marker}に�
 
 Niz キーボードの背面にはキーボードの角度調整用のプラスチックの足が付いています。
 
-![Niz キーボード 角度調節用の足](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_niz-keyboard-review_reg.avif)
+![Niz キーボード 角度調節用の足](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_niz-keyboard-review_reg.webp)
 
 調整用の足を開く時は問題ないのですが、足を戻すときに[少し力が必要で「カチッ」という大きめな音が鳴ります]{.marker}。
 

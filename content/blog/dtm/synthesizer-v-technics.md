@@ -8,7 +8,7 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.webp"
 isRecommend: true
 ---
 
@@ -29,12 +29,12 @@ Synthesizer Vは[ベタ打ちでもピッチや音色がAIにより自動生成]
 母音だけを消す場合はまず、文字を入力したあとに[音素記号をダブルクリック]{.marker}します。
 そのあとに該当の「a」「i」「u」「e」「o」を消してください。
 
-![音素を編集して一部の母音を消した状態](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-technics_museika1.avif)
+![音素を編集して一部の母音を消した状態](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-technics_museika1.webp)
 
 母音を消しただけだと、[子音の長さに違和感]{.marker}がある場合があります。
 その場合は該当のノートを選択した状態で、[ノートプロパティパネルの**音素**の部分を確認]{.marker}します。
 
-![ノートプロパティ 音素](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-technics_museika2.avif)
+![ノートプロパティ 音素](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-technics_museika2.webp)
 
 先に`ノートを音節で均等に分割`のチェックボックスを外して、`長さ`を調整します。
 子音をよく聞かせたい場合は、[子音の長さを長めにすると強調]{.marker}されて聞こえるようになります。
@@ -123,7 +123,7 @@ Synthesizer Vには[「**cl**」という特殊な**音素記号**が用意]{.ma
 [この記号をア行の発音の前に付ける]{.marker}ことで、エッジボイスを再現することができます。
 （または文字の前に「'(半角クオーテーション)」を付けても「cl」が付与されます。）
 
-![文字を「'あ」と入力すると音素記号は「cl a」となる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-technics_edge.avif)
+![文字を「'あ」と入力すると音素記号は「cl a」となる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-technics_edge.webp)
 
 実際にア行の発音の前に「cl」を付けると、どのようになるのか聞いてみましょう。
 

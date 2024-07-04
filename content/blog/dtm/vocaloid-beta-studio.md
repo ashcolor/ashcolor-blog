@@ -6,7 +6,7 @@ description: "YAMAHAが発表したVOCALOID β-STUDIOの情報についてまと
 category: "DTM"
 tags:
   - "VOCALOID"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_vocaloid-beta-studio_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_vocaloid-beta-studio_thumbnail.webp"
 ---
 
 [（追記）2024年3月31日をもってVOCALOID β-STUDIOの取り組みはクローズとなりました。]{.text-red-500}
