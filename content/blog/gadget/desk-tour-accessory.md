@@ -11,7 +11,7 @@ tags:
   - "エレコム"
   - "山崎実業"
   - "Anker"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_echo-show.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_echo-show.webp"
 ---
 
 この記事では、[職業：システムエンジニア、趣味：DTM]{.marker}な私のデスクの、[デスク周辺の小物]{.marker}を紹介していきます。
@@ -20,7 +20,7 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-access
 
 ### ケーブルトレー：プラス Garage 白
 
-![プラス Garage 白](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_cable-tray.avif)
+![プラス Garage 白](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_cable-tray.webp)
 
 ケーブルトレーは**プラス**の**Garage**を使用しています。
 
@@ -34,14 +34,14 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-access
 
 ### ケーブルクリップ：VIAKY ケーブルホルダー
 
-![VIAKY ケーブルホルダー](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_cable-holder.avif)
+![VIAKY ケーブルホルダー](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_cable-holder.webp)
 
 ケーブルクリップとして**VIAKY**の**ケーブルホルダー**を使用しています。
 
 こちらの良いところはマグネットが付いていることです。
 私の場合は、キーボードやマウスのケーブルをケーブルホルダーで束ねて[PCケースにくっつけて収納]{.marker}しています。
 
-![ケーブルをPCケースにくっつけられる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_cable-holder-2.avif)
+![ケーブルをPCケースにくっつけられる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_cable-holder-2.webp)
 
 クリーニングクロスやメガネクリーナーに装着して、PCケースにくっつけるということもできます。
 
@@ -61,14 +61,14 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-access
 
 ### オットマン：不二貿易 収納ベンチ 収納ボックス
 
-![不二貿易 収納ベンチ 収納ボックス](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_ottoman.avif)
+![不二貿易 収納ベンチ 収納ボックス](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_ottoman.webp)
 
 オットマンは**不二貿易**の**収納ベンチ 収納ボックス**を仕様しています。
 
 このオットマンは内部が空洞になっていて、[収納ボックスとしても使うことができます]{.marker}。
 普段はオットマンとして使用するので邪魔になることはなく、机の下に置いているので中に収納したものをすぐに取り出せて便利です。
 
-![オットマンの中に収納できる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_ottoman-2.avif)
+![オットマンの中に収納できる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_ottoman-2.webp)
 
 耐荷重は80kgとのことなので。簡易的な椅子としても使用することができます。
 
@@ -78,7 +78,7 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-access
 
 ### USB充電器：Anker PowerPort III
 
-![Anker PowerPort III](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_power-chargerr.avif)
+![Anker PowerPort III](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_power-chargerr.webp)
 
 USB充電器は**Anker**の**PowerPort III**を使用しています。
 
@@ -90,7 +90,7 @@ USB充電器と言えば安定のAnkerなので特筆することはあまりな
 
 ### 充電用ケーブル：Anker PowerLine III Flow
 
-![Anker PowerLine III Flow](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_usb-cable.avif)
+![Anker PowerLine III Flow](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_usb-cable.webp)
 
 充電用ケーブルは**Ankerの**PowerLine III Flow\*\*を使用しています。
 
@@ -105,7 +105,7 @@ USBケーブルは全てこれにしたいくらいお気に入りのケーブ�
 
 ### スマートディスプレイ：Amazon Echo Show 5 サンドストーン
 
-![Amazon Echo Show 5](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_echo-show.avif)
+![Amazon Echo Show 5](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_echo-show.webp)
 
 スマートディスプレイとして**Amazon**の**Echo Show 5**を使用しています。
 
@@ -120,14 +120,14 @@ USBケーブルは全てこれにしたいくらいお気に入りのケーブ�
 
 ### ティッシュケース：山崎実業 マグネットティッシュケース
 
-![山崎実業 マグネットティッシュケース](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_tissue-case.avif)
+![山崎実業 マグネットティッシュケース](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_tissue-case.webp)
 
 ティッシュケースとして**山崎実業**の**マグネットティッシュケース**を使用しています。
 
 こちらのティッシュケースの裏にはマグネットが付いているため、金属部分に取り付けることができます。
 私の場合はPCケースの側面に貼り付けるようにしてティッシュを配置しています。
 
-![PCケースにティッシュケースを貼り付けている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_tissue-case-2.avif)
+![PCケースにティッシュケースを貼り付けている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_tissue-case-2.webp)
 
 また、以前はデスク裏に取り出し口が下になるように取り付けていたのですが、重力の影響で[ティッシュを取り出す際にティッシュが破けてしまう]{.marker}ことが分かったので、取り付け場所を変更しました。
 
@@ -135,7 +135,7 @@ USBケーブルは全てこれにしたいくらいお気に入りのケーブ�
 
 ### ヘッドホンハンガー：NZXT PUCK White
 
-![ヘッドホンハンガー：NZXT PUCK White](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_headphone-hanger.avif)
+![ヘッドホンハンガー：NZXT PUCK White](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_headphone-hanger.webp)
 
 ヘッドホンハンガーとして**NZXT**の**PUCK**を使用しています。
 

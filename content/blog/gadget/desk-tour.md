@@ -9,7 +9,7 @@ tags:
   - "デュアルディスプレイ"
   - "システムエンジニア"
   - "DTM"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour_overall.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour_overall.webp"
 isRecommend: true
 ---
 
@@ -22,7 +22,7 @@ isRecommend: true
 
 現在のデスク周りは以下のようになっています。
 
-![現在のデスク周り](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour_overall.avif)
+![現在のデスク周り](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour_overall.webp)
 
 デスク環境を構築する際のコンセプトは以下の通りです。
 
@@ -131,7 +131,7 @@ isRecommend: true
 
 デスク裏のスペースの活用方法として、[オーディオインターフェイスをはがせる両面テープでデスク裏]{.marker}に貼り付けてみたり、PCに[マグネット付きの収納グッズ]{.marker}を付けてヘッドホンやティッシュを置いたりしています。
 
-![デスク裏にオーディオインターフェイスを設置](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour_ur44.avif)
+![デスク裏にオーディオインターフェイスを設置](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour_ur44.webp)
 
 詳細についてはまた別の記事で詳しく記載する予定です。
 

@@ -10,7 +10,7 @@ tags:
   - "Vue.js"
   - "TailwindCSS"
   - "ブログ"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-blog_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-blog_thumbnail.webp"
 isRecommend: true
 ---
 
@@ -44,7 +44,7 @@ isRecommend: true
 
 フレームワークは**NuxtJSのバージョン3**を使用しています。
 
-![NuxtJS](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-blog_thumbnail.avif)
+![NuxtJS](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-blog_thumbnail.webp)
 
 NuxtJSはVue.jsと同様に[バージョン2→3になった際に大幅な変更]{.marker}が加えられました。
 使いやすくなった反面、リリース当初は付随するライブラリがバージョン3に追いついておらず、まだ実務で使用するのは難しいと言われていました。
@@ -134,7 +134,7 @@ CSSフレームワークはユーティリティファーストの**TailwindCSS*
 
 また、TailwindCSSのプラグインとして**daisyUI**を使用しています。
 
-![daisyUI](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-blog_daisyui.avif)
+![daisyUI](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-blog_daisyui.webp)
 
 daisyUIは[JSに依存しないCSSオンリーのライブラリ]{.marker}で、主要なUIコンポーネントをクラスを付けるだけで実装することができます。
 
@@ -210,7 +210,7 @@ CSSフレームワークは様々なライブラリが存在しており、何�
 
 #### VSCodeで記事を作成できる
 
-![VSCode](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-blog_vscode.avif)
+![VSCode](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-blog_vscode.webp)
 
 VSCodeには様々な拡張機能があります。
 
@@ -254,7 +254,7 @@ NuxtJSでしっかりとしたブログを作成するためには、[自前で�
 
 [WordPressにはデフォルトで閲覧者がコメントできる機能]{.marker}が備わっています。
 
-![WordPressのコメント機能](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-blog_comment.avif)
+![WordPressのコメント機能](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-blog_comment.webp)
 
 一方でNuxtJSでコメント機能を実装するには、[DB設計・APIの設計・UIの設計等をする必要があり、かなりの労力]{.marker}です。
 APIはバックエンドが必要となるため、Nodeが動作する環境でデプロイするか、他の言語で開発する必要があります。

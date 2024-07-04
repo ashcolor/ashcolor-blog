@@ -7,7 +7,7 @@ category: "Notion"
 tags:
   - "Notion"
   - "Formulas"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_thumbnail.webp"
 isRecommend: true
 ---
 
@@ -62,7 +62,7 @@ Notion関数の編集時は構文のサジェストが常に表示されてい�
 
 ① のパターンの場合で関数の編集画面を開いたときのみ、その行の[出力結果のプレビュー]{.marker}が表示されます
 
-![出力結果のプレビュー](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_preview.avif)
+![出力結果のプレビュー](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_preview.webp)
 
 関数の構文を入力した時点でプレビューに出力結果が表示されて便利です。
 基本的には① の方法で関数の編集を行うことをオススメします。
@@ -72,7 +72,7 @@ Notion関数の編集時は構文のサジェストが常に表示されてい�
 出力結果を複数行で表示したい場合は、[改行したい部分に`\n`を入れます]{.marker}。
 （例： `"Hello" + "\n" + "World"`）
 
-![出力結果に改行を含める](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_n.avif)
+![出力結果に改行を含める](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_n.webp)
 
 厳密には構文内に直接改行を入れても反映されますが構文が見辛くなるため、`\n`を使った改行がオススメです。
 
@@ -161,7 +161,7 @@ formatDate(prop("作成日時"),"YYYY/MM/DD(ddd)")
 formatDate(prop("作成日時"),"YYYY/MM/DD(ddd) ah時")
 ```
 
-![日付の表示形式をカスタマイズ](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_date.avif)
+![日付の表示形式をカスタマイズ](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_date.webp)
 
 日付の表示形式をカスタマイズすることによって、必要な情報だけを表示することができます。
 データベースの表示をすっきり見せることができるので日付プロパティは積極的に表示形式をカスタマイズしていきましょう。
@@ -184,7 +184,7 @@ link("🔗URLを開く",prop("URL"))
   .style("blue", "blue_background")
 ```
 
-![リンクボタンの表示](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_link.avif)
+![リンクボタンの表示](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_link.webp)
 
 `link`でURLをリンク化して`style`で文字色を青、背景色を灰色にすることでボタンのようにみせています。
 
@@ -224,7 +224,7 @@ prop("時間")
 )
 ```
 
-![タイプ別に時間を足して表示](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_work.avif)
+![タイプ別に時間を足して表示](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_work.webp)
 
 このように関数では関連データベースのプロパティを参照して自由に表示させることができます。
 複数プロパティの参照となると構文が多少は複雑になりますが、関数2.0からは改行やコメントを使えば以前よりは格段に書きやすくなっています。
@@ -253,7 +253,7 @@ ifs(
 )
 ```
 
-![バリデーション](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_validation.avif)
+![バリデーション](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_validation.webp)
 
 生年月日は未来の日付の場合に、メールアドレスはメールアドレスの正規表現に一致しない場合に、エラーメッセージを表示させるようにしています。
 上記のバリデーションとデータベースのフィルター機能を使えば、入力内容に誤りがあるレコードだけを簡単に見つけることができます。

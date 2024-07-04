@@ -8,7 +8,7 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.webp"
 ---
 
 普段、ボカロ曲を聴いたり作ったりしている**あっしゅからー**と申します。

@@ -7,7 +7,7 @@ category: "ガジェット"
 tags:
   - "キーボード"
   - "キーキャップ"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_keycap-buy_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_keycap-buy_thumbnail.webp"
 isRecommend: true
 ---
 
@@ -93,7 +93,7 @@ ABSは[安価ですが、耐久性は劣っており触り心地はどちらか�
 キーキャップ引き抜き工具はキーボードに付属していたり、交換用のキーキャップに付属していたりします。
 [手元にキートップ引き抜き工具がない場合は、別途用意する必要]{.marker}があるため注意しましょう。
 
-![キートップ引き抜き工具 いくつかの形状がある](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_keycap-buy_key-puller.avif)
+![キートップ引き抜き工具 いくつかの形状がある](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_keycap-buy_key-puller.webp)
 
 :affiliate-block{title="FILCO キートップ引抜工具" imageUrl="https://m.media-amazon.com/images/I/21RA8I5DfzL._SL160_.jpg" asin="B0047MQJ4I"}
 
@@ -131,7 +131,7 @@ ABSは[安価ですが、耐久性は劣っており触り心地はどちらか�
 
 **ミルクミニマリストホワイトテーマ**は[全てのキーが白色のキーキャップ]{.marker}です。
 
-![ミルクミニマリストホワイトテーマ](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_keycap-buy_milk.avif)
+![ミルクミニマリストホワイトテーマ](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_keycap-buy_milk.webp)
 
 商品画像だとオフホワイトっぽく見えますが、実物は白色に見えます。
 [昇華印刷が施されていて品質もよく、読みやすく大きめの印字で視認性も高い]{.marker}です。
@@ -147,7 +147,7 @@ ABSは[安価ですが、耐久性は劣っており触り心地はどちらか�
 
 **XVX キーキャップセット ホワイト/グリーン**は、[白色と緑色のキーキャップ]{.marker}です。
 
-![XVX キーキャップセット（ホワイト/グリーン）](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_keycap-buy_xvx.avif)
+![XVX キーキャップセット（ホワイト/グリーン）](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_keycap-buy_xvx.webp)
 
 [印字形式はダブルショットとなっているため、印字が消える心配もありません]{.marker}。
 

@@ -10,7 +10,7 @@ tags:
   - "Logicool"
   - "SlimBlade Pro"
   - "MX ERGO"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_thumbnail.webp"
 isRecommend: true
 ---
 
@@ -45,7 +45,7 @@ isRecommend: true
 
 | 項目                           | SlimBlade Pro                                                                                                            | MX ERGO                                                                                                    |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| 外観                           | ![Kensington SlimBlade Pro](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_slimblade-pro.avif) | ![Logicool MX ERGO](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_mx-ergo.avif) |
+| 外観                           | ![Kensington SlimBlade Pro](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_slimblade-pro.webp) | ![Logicool MX ERGO](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_mx-ergo.webp) |
 | メーカー                       | ケンジントン                                                                                                             | ロジクール                                                                                                 |
 | 希望小売価格                   | 18,300円                                                                                                                 | 16,830円                                                                                                   |
 | ボタン数                       | [4個<br>同時押しを含めると8個]{.marker}                                                                                  | [6個<br>左・中央・右クリック、サイドボタン3個]{.marker}                                                    |
@@ -69,7 +69,7 @@ isRecommend: true
 
 #### SlimBlade Pro
 
-![SlimBlade Pro ボタン](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_slimblade-pro.avif)
+![SlimBlade Pro ボタン](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_slimblade-pro.webp)
 
 SlimBlade Proは[ボタンが4個]{.marker}あり、各ボタンに自由に機能を割り当てることができます。
 左クリック・右クリックの概念はないため、好みの場所のボタンに任意の機能を割り当てることができます。
@@ -87,7 +87,7 @@ SlimBlade Proは[ボタンが4個]{.marker}あり、各ボタンに自由に機�
 MX ERGOは左・右クリックとカスタマイズ可能な中央ボタン、サイドボタンが3個の[計6個のボタン]{.marker}があります。
 サイドボタンは左クリックの左側に2個、ボールの近くに1つあります。
 
-![MX ERGO サイドボタン](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_mx-ergo-button.avif)
+![MX ERGO サイドボタン](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_mx-ergo-button.webp)
 
 ちなみに[ホイール下にあるボタンは接続先の変更専用のボタンのため機能を割り当てることはできません]{.marker}。
 
@@ -130,7 +130,7 @@ MX ERGO自体が2017年発売とだいぶ年月が経っているので、充電
 
 チルト機能とはホイールを左右に動かすことによって[左右にスクロール]{.marker}ができる機能です。
 
-![MX ERGO チルト機能](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_mxergo-tilt.avif)
+![MX ERGO チルト機能](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_mxergo-tilt.webp)
 
 チルト機能のないマウスを使って左右スクロールをする場合は、スクロールバーを掴んで動かすかShiftキーを押しながらホイール動作をする必要があります。
 
@@ -146,11 +146,11 @@ MX ERGO自体が2017年発売とだいぶ年月が経っているので、充電
 
 SlimBlade Proは[ボールをそのまま持ち上げることができます]{.marker}。
 
-![SlimBlade Pro 簡単にボールが取れる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_slimblade-ball.avif)
+![SlimBlade Pro 簡単にボールが取れる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_slimblade-ball.webp)
 
 一方でMX ERGOは[背面の板を外した後に穴に棒を差し込んでボールを押し出すことによってボールを取り出すことができます]{.marker}。
 
-![MX ERGO 裏側から押してボールを外す](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_mxergo-ball.avif)
+![MX ERGO 裏側から押してボールを外す](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_mxergo-ball.webp)
 
 ボールの取り外しに慣れると時間はかかりませんが、ペン等の細い棒状のものがないとボールを外せないのが少し不便です。
 
@@ -171,7 +171,7 @@ Logicool Flowは以下のような機能です。
 
 ### ボールの大きさについて
 
-![←SlimBlade Proのボール、MX ERGOのボール→](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_ball.avif)
+![←SlimBlade Proのボール、MX ERGOのボール→](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_ball.webp)
 
 ボールの大きさよる使いやすさの違いは[個人差が大きい]{.marker}印象です。
 

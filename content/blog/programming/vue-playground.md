@@ -7,7 +7,7 @@ category: "プログラミング"
 subCategory: "Vue.js"
 tags:
   - "Vue.js"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_vue-define-model_vue.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_vue-define-model_vue.webp"
 isRecommend: false
 ---
 
@@ -29,7 +29,7 @@ Vue SFC Playgroundを使う際は以下のURLを開くだけでOKです。
 
 また、[Vue公式ページ](https://vuejs.org/) のPlaygroundをクリックしても開くことができます。
 
-![Vue公式ページ](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_vue-playground_vue-playground.avif)
+![Vue公式ページ](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_vue-playground_vue-playground.webp)
 
 ## Vue SFC Playgroundの機能
 
@@ -50,7 +50,7 @@ Vue SFC Playgroundの画面にはエディタとプレビューが大きく表�
 
 ダウンロードされたzipファイルを解凍すると以下のようなファイルが含まれています。
 
-![ダウンロードされるファイル](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_vue-playground_download.avif)
+![ダウンロードされるファイル](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_vue-playground_download.webp)
 
 開発に必要なファイルが一通り揃った状態でダウンロードできるため、そのまま開発に使用することができます。
 

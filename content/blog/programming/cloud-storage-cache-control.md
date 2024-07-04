@@ -8,7 +8,7 @@ subCategory: "Cloud Storage"
 tags:
   - "Python"
   - "Cloud Storage"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_cloud-storage-cache-control_ok.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_cloud-storage-cache-control_ok.webp"
 ---
 
 ## 概要
@@ -52,7 +52,7 @@ $ curl -v "https://storage.googleapis.com/バケット名/ファイル名" 2>&1 
 < cache-control: no-cache
 ```
 
-![正しく設定されている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_cloud-storage-cache-control_ok.avif)
+![正しく設定されている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_cloud-storage-cache-control_ok.webp)
 
 Cache-Controlがno-cacheになりました。
 
@@ -81,7 +81,7 @@ $ curl -v "https://storage.googleapis.com/バケット名/ファイル名" 2>&1 
 
 x-goog-meta-cache-controlに設定されてしまっています。
 
-![間違った設定をされている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_cloud-storage-cache-control_ng.avif)
+![間違った設定をされている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_cloud-storage-cache-control_ng.webp)
 
 コンソールで見ても本来のCache-Controlとは別項目に値が設定されています。
 

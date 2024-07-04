@@ -2,7 +2,7 @@
     <div class="flex w-full flex-col gap-8 border p-8 sm:flex-row">
         <div class="flex items-center">
             <img
-                src="/img/author.avif"
+                src="/img/author.png"
                 alt="アイコン"
                 width="150"
                 height="150"

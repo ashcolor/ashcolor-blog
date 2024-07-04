@@ -6,7 +6,7 @@ description: "Notionのデータベースの列幅をチェックボックス以
 category: "Notion"
 tags:
   - "Notion"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_thumbnail.webp"
 ---
 
 この記事ではNotionのデータベースのカラム幅を[どのプロパティでも最小にする方法]{.marker}を紹介します。
@@ -18,11 +18,11 @@ Notionのデータベースを編集していて、「カラムの幅をもっ�
 
 チェックボックスの場合
 
-![チェックボックスの場合の最小カラム幅](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_column-width_checkbox.avif "aaa")
+![チェックボックスの場合の最小カラム幅](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_column-width_checkbox.webp "aaa")
 
 チェックボックス以外（セレクト）の場合
 
-![チェックボックス以外（セレクト）の場合の最小カラム幅](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_column-width_selectbox.avif)
+![チェックボックス以外（セレクト）の場合の最小カラム幅](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_column-width_selectbox.webp)
 
 例えば、セレクトボックスの項目を「優先度」として、選択肢を「高」「中」「低」にしたい、というときにも、通常の方法ではカラム幅を1文字分にすることができません。
 
@@ -51,7 +51,7 @@ Notion公式からの情報で、[`alt`または`opt`キーを押しながらプ
 ~また、[プロパティの中身はプロパティの種類を変更しても内部的には保持]{.marker}されているため、既にレコードが追加済みのデータベースであっても、情報が消えることはありません~
 
 ~**セレクトで列幅が最小**~
-![チェックボックス以外（セレクト）でも列幅が最小](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_column-width_select-box-after.avif "完成")
+![チェックボックス以外（セレクト）でも列幅が最小](https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_column-width_select-box-after.webp "完成")
 
 ## まとめ
 

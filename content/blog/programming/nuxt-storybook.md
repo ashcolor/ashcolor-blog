@@ -8,7 +8,7 @@ subCategory: "Nuxt.js"
 tags:
   - "NuxtJS"
   - "Storybook"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-storybook_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-storybook_thumbnail.webp"
 isRecommend: true
 ---
 
@@ -91,7 +91,7 @@ pnpm dev -o
 
 <http://localhost:3000/> にアクセスすると初期画面が表示されました。
 
-![Nuxt3の初期画面](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-storybook_browser1.avif)
+![Nuxt3の初期画面](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-storybook_browser1.webp)
 
 ### Storybook の導入
 
@@ -126,7 +126,7 @@ npx storybook-nuxt init --enable-module --start
 
 <http://localhost:6006/> をブラウザで開きます。
 
-![ブラウザコンソールにエラー](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-storybook_browser2.avif)
+![ブラウザコンソールにエラー](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-storybook_browser2.webp)
 
 ブラウザコンソールに以下のエラーが表示されました。
 
@@ -149,7 +149,7 @@ Error: Couldn't find any stories in your Storybook.
 
 一度 `Ctrl + C` で Storybook を終了した後に、`pnpm run storybook`コマンドで再度起動します。
 
-![Storybookの起動を確認](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-storybook_browser3.avif)
+![Storybookの起動を確認](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-storybook_browser3.webp)
 
 Storybook の起動を確認できました 🎉
 Vue.js や Nuxt の API、コンポーネントの自動インポートも機能しています。
@@ -245,7 +245,7 @@ setup((app) => {
 
 Storybook を再起動します。
 
-![ストア変数が表示された](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-storybook_browser4.avif){width=400}
+![ストア変数が表示された](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-storybook_browser4.webp){width=400}
 
 ストアから呼び出した変数が表示されました 🎉
 
@@ -308,7 +308,7 @@ Story ファイルのインポートを修正します。
 
 Storybook を再起動した後に、ブラウザで確認してみます。
 
-![bg-blue-50が有効になっている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-storybook_browser5.avif)
+![bg-blue-50が有効になっている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_nuxt-storybook_browser5.webp)
 
 TailwindCSS のクラスである `bg-blue-50` が有効になっていることを確認できました。
 

@@ -8,7 +8,7 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.webp"
 isRecommend: true
 ---
 
@@ -19,7 +19,7 @@ Synthesizer V は、**Dreamtonics**が開発する歌声合成ソフトウェア
 
 Synthesizer V には[40 を超える歌声データベース]{.marker}が存在しています。
 
-![歌声データベースの一部（公式サイトより）](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-singer_singer.avif)
+![歌声データベースの一部（公式サイトより）](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-singer_singer.webp)
 
 どの歌声データベースを購入するか、悩む方も多いのではないでしょうか。
 
@@ -53,14 +53,14 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 公式サイトの下の方までスクロールすると[歌声データベースの一覧]{.marker}を確認することができます。
 
-![公式サイト 歌声データベース一覧](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-singer_player1.avif)
+![公式サイト 歌声データベース一覧](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-singer_player1.webp)
 
 試聴したい歌声データベースの横の[「▶️」をクリック]{.marker}すると、歌声を試聴することができます。
 （※PC版の場合はマウスをホバーすると「▶️」が表示されます。）
 
 さらに、試聴中に表示されるプレイヤーには[デモソングとボーカルスタイルの変更]{.marker}をする機能が備わっています。
 
-![公式サイト デモソングプレイヤー デモソングやボーカルスタイルを切り替えられる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-singer_player2.avif)
+![公式サイト デモソングプレイヤー デモソングやボーカルスタイルを切り替えられる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-singer_player2.webp)
 
 [デモソングも充実しており、全てのボーカルスタイルを試聴できる]{.marker}ため、好みの歌声データベースを探すのに役立ちます。
 
@@ -68,7 +68,7 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 歌声データベースには収録言語の記載がされていますが、実際には[全ての音源で日本語、英語、中国の 3 つの言語で歌わせることが可能]{.marker}です。
 
-![Maiの言語設定 日本語以外の言語も選ぶことができる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-singer_language.avif)
+![Maiの言語設定 日本語以外の言語も選ぶことができる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-singer_language.webp)
 
 バージョン1.11.0以降では、一部の歌声データベースは[スペイン語]{.marker}に対応しました。
 スペイン語に対応している歌声データベースは、以下にまとめられています。

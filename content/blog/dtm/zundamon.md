@@ -7,7 +7,7 @@ category: "DTM"
 tags:
   - "CeVIO AI"
   - "VoiSona"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_zundamon_cevio_zundamon_logo.avif"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_zundamon_cevio_zundamon_logo.webp"
 ---
 
 ## はじめに
@@ -25,7 +25,7 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_zundamon_cevio_zund
 
 **ずんだもん**は、東北地方のマスコットキャラクターです。
 
-![ずんだもん](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_zundamon_zunmon001.avif)
+![ずんだもん](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_zundamon_zunmon001.webp)
 
 ずんだもんが登場してからしばらくは、知名度は限定的でした。
 しかし、2021年頃にずんだもんの[擬人化イラストと音源]{.marker}が公開されてから、ニコニコ動画やYouTubeで[実況やナレーション動画が作成]{.marker}されるようになり、爆発的に人気になりました。
