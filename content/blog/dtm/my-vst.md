@@ -5,8 +5,13 @@ title: "愛用のVST音源まとめ！よく使う音源の好きなところや
 description: "私の使っているVST音源を紹介します。"
 category: "DTM"
 tags:
-  - "ソフトウェア"
   - "VST"
+  - "VOCALOID"
+  - "Synthesizer V"
+  - "SynthV"
+  - "Ample Guitar"
+  - "MODO BASS"
+  - "BFD"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_thumbnail.webp"
 ---
 
@@ -259,6 +264,6 @@ Synthesizer VのAI歌唱と[清水寺](https://www.youtube.com/@user-vu8ew9vz4x)
 
 ## まとめ
 
-この記事では私が現在も使っているVST音源を紹介しました。
+この記事では、私が現在も使っているVST音源を紹介しました。
 
 音源の購入の際に参考になれば幸いです。
