@@ -12,8 +12,8 @@ export default defineEventHandler(async (event) => {
         files?.forEach(async (file) => {
             const dateTimeID = Util.generateDateTimeID();
             const originalExtFilename = `${dateTimeID}${path.extname(file.filename || "")}`;
-            const avifFilename = `${dateTimeID}.avif`;
-            filenames.push(avifFilename);
+            const webpFilename = `${dateTimeID}.webp`;
+            filenames.push(webpFilename);
 
             // オリジナル
             await uploadImage(IMAGE_S3_BUCKET_ORIGINAL, originalExtFilename, file.data, file.type);
@@ -22,18 +22,18 @@ export default defineEventHandler(async (event) => {
             const optimizedImageBufferPc = await optimizeImage(file.data, 800, 800);
             await uploadImage(
                 IMAGE_S3_BUCKET,
-                `img/pc/${avifFilename}`,
+                `img/pc/${webpFilename}`,
                 optimizedImageBufferPc,
-                "image/avif "
+                "image/webp "
             );
 
             // モバイル
             const optimizedImageBufferSp = await optimizeImage(file.data, 600, 600);
             await uploadImage(
                 IMAGE_S3_BUCKET,
-                `img/sp/${avifFilename}`,
+                `img/sp/${webpFilename}`,
                 optimizedImageBufferSp,
-                "image/avif "
+                "image/webp "
             );
         });
         return { filenames };
@@ -82,7 +82,7 @@ const optimizeImage = async (buffer: Buffer, width: number, height: number) => {
             fit: "inside",
             withoutEnlargement: true,
         })
-        .avif({
+        .webp({
             quality: 80,
         })
         .toBuffer();
