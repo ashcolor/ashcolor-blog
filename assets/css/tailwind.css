@@ -18,3 +18,7 @@ body {
 .line-through {
     text-decoration-line: line-through;
 }
+
+.key-black {
+    @apply bg-base-content text-base-100;
+}
