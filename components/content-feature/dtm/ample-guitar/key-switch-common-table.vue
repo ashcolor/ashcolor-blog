@@ -1,7 +1,7 @@
 <template>
+    <!-- eslint-disable tailwindcss/no-custom-classname -->
     <ClientOnly>
-        <!-- eslint-disable tailwindcss/no-custom-classname -->
-        <table class="table table-xs">
+        <table class="table table-xs my-8">
             <thead>
                 <tr>
                     <th>キー</th>
@@ -10,6 +10,46 @@
                 </tr>
             </thead>
             <tbody>
+                <tr class="key-white">
+                    <td>C0</td>
+                    <td>サステイン</td>
+                    <td></td>
+                </tr>
+                <tr class="key-black">
+                    <td>C#0</td>
+                    <td>ナチュラル・ハーモニクス</td>
+                    <td></td>
+                </tr>
+                <tr class="key-white">
+                    <td>D0</td>
+                    <td>パーム・ミュート</td>
+                    <td></td>
+                </tr>
+                <tr class="key-black">
+                    <td>D#0</td>
+                    <td>スライドイン / スライドアウト</td>
+                    <td></td>
+                </tr>
+                <tr class="key-white">
+                    <td>E0</td>
+                    <td>レガート・スライド</td>
+                    <td></td>
+                </tr>
+                <tr class="key-white">
+                    <td>F0</td>
+                    <td>ハンマリングオン / プルオフ</td>
+                    <td></td>
+                </tr>
+                <tr class="key-black">
+                    <td>F#0</td>
+                    <td>スライドギター</td>
+                    <td></td>
+                </tr>
+                <tr class="bg-accent text-accent-content">
+                    <td>-</td>
+                    <td></td>
+                    <td></td>
+                </tr>
                 <tr class="key-white">
                     <td>F5</td>
                     <td>スクラッチ</td>
