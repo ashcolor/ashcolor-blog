@@ -1,7 +1,7 @@
 <template>
     <!-- eslint-disable tailwindcss/no-custom-classname -->
     <ClientOnly>
-        <table class="table table-xs">
+        <table class="table table-xs my-8">
             <thead>
                 <tr>
                     <th>キー</th>
