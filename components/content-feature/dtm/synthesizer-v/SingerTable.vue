@@ -105,7 +105,7 @@ const filteredSingers = computed(() => {
                                     <a
                                         v-if="singer.dlsite_url"
                                         :href="Util.affiliateDlSiteUrl(singer.dlsite_url)"
-                                        class="link tooltip text-left"
+                                        class="ext-left link tooltip tooltip-accent"
                                         data-tip="DLsiteで購入"
                                         target="_blank"
                                     >
