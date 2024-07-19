@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/08/23"
-updatedAt: "2024/04/01"
+updatedAt: "2024/07/19"
 title: "新しいVOCALOID？VOCALOID β-STUDIOまとめ"
 description: "YAMAHAが発表したVOCALOID β-STUDIOの情報についてまとめます。"
 category: "DTM"
@@ -10,6 +10,8 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_vocaloid-beta-studi
 ---
 
 [（追記）2024年3月31日をもってVOCALOID β-STUDIOの取り組みはクローズとなりました。]{.text-red-500}
+
+[（追記）VX-βプラグインはVOCALOID6に付属されることが決まりました。]{.text-red-500}
 
 音声合成ソフトウェア「VOCALOID」に関連するプロジェクト、**VOCALOID β-STUDIO**について、続々と情報が解禁されました。
 この記事では今まで公開されたVOCALOID β-STUDIOに関する情報をまとめていきます。
@@ -159,6 +161,15 @@ VX-βを使って制作していただいた[楽曲の公開については、[�
 また、[ボイスバンクによっては商用利用も可能]{.marker}とのことです。
 VX-βを使用した楽曲を公開される場合は利用規約をよく読んだ上で投稿しましょう。
 
+## 今後の展開
+
+VX-βプラグインは、[VOCALOID6に無料で付属]{.marker}することが決定しました。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【ご報告】<br>VOCALOID β-STUDIO期間中は皆様のご協力をいただき、本当にありがとうございました。<br>本日をもって本アカウントの運用はクローズし、今後の告知・活動報告は <a href="https://twitter.com/vocaloid_yamaha?ref_src=twsrc%5Etfw">@vocaloid_yamaha</a> から発信いたします。<br>最後に、皆様へのお知らせがあります。ぜひ動画をご覧ください。 <a href="https://t.co/ZGwXiqy4TU">pic.twitter.com/ZGwXiqy4TU</a></p>&mdash; VOCALOID β-STUDIO (@vocaloid_beta) <a href="https://twitter.com/vocaloid_beta/status/1813815973004099876?ref_src=twsrc%5Etfw">July 18, 2024</a></blockquote>
+
+現在VOCALOID6を使用されているユーザーにも、配布予定とのことです。
+付属開始時期や配布方法は現時点では不明のため、分かりましたら追記します。
+
 ## まとめ
 
 この記事では今まで公開されたVOCALOID β-STUDIOに関する情報をまとめました。
@@ -166,3 +177,5 @@ VX-βを使用した楽曲を公開される場合は利用規約をよく読ん
 クリエイター募集では既に有名なボカロPの方も応募しているのを見かけたので、どのような歌声が聞けるようになるのか非常に楽しみですね。
 
 また、新しい情報が公開されましたら記事を更新していく予定です。
+
+:affiliate-block{title="VOCALOID 6 Starter Pack AI Megpoid(Win対応/Mac対応)|オンラインコード版" imageUrl="https://m.media-amazon.com/images/I/51m5zHBIsiL._SL160_.jpg" asin="B0BJZVH243" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ015689.html"}
