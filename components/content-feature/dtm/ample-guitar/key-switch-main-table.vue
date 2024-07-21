@@ -10,11 +10,6 @@
                 </tr>
             </thead>
             <tbody>
-                <tr class="bg-accent text-accent-content">
-                    <td>E1-D5</td>
-                    <td>指定されたノートを発音</td>
-                    <td></td>
-                </tr>
                 <tr class="key-white">
                     <td>G0</td>
                     <td>String Force 6弦</td>
@@ -51,6 +46,16 @@
                     <td>
                         演奏に使用するフレットポジションを指定<br />C#1入力後にE1-A#2を入力して指定
                     </td>
+                </tr>
+                <tr class="bg-slate-200 text-accent-content">
+                    <td>-</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr class="bg-accent text-accent-content">
+                    <td>E1-D5</td>
+                    <td>指定されたノートを発音</td>
+                    <td></td>
                 </tr>
             </tbody>
         </table>

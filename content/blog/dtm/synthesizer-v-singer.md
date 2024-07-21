@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/06/22"
+updatedAt: "2024/07/21"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメ解説"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -8,7 +8,7 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.webp"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-07-21_09-30-50_xeblya27.webp"
 isRecommend: true
 ---
 
@@ -17,7 +17,7 @@ isRecommend: true
 Synthesizer V は、**Dreamtonics**が開発する歌声合成ソフトウェアです。
 リアルな音声処理エンジンと直感的で柔軟なユーザーインターフェースを備えています。
 
-Synthesizer V には[40 を超える歌声データベース]{.marker}が存在しています。
+Synthesizer V には[**50**を超える歌声データベース]{.marker}が存在しています。
 
 ![歌声データベースの一部（公式サイトより）](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-singer_singer.webp)
 
