@@ -45,7 +45,7 @@
                     <td>スライドギター</td>
                     <td></td>
                 </tr>
-                <tr class="bg-accent text-accent-content">
+                <tr class="bg-slate-200 text-accent-content">
                     <td>-</td>
                     <td></td>
                     <td></td>
