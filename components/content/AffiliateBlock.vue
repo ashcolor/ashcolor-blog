@@ -92,6 +92,7 @@ const dlSiteCampaignText = () => {
                         </a>
                     </div>
                 </div>
+                <div class="self-end text-sm text-slate-500">PR</div>
             </div>
         </div>
     </ClientOnly>
