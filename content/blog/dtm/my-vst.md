@@ -234,7 +234,7 @@ KOMPLETEシリーズは最も有名な総合音源と言ってもいいでしょ
 
 最新バージョンはVOCALOID 6ですが、V2が一番しっくりくるので未だに主役はV2です。
 
-:affiliate-block{title="初音ミク V4X バンドル" imageUrl="https://m.media-amazon.com/images/I/51J5EbikxRL._SL160_.jpg" asin="B01G6XNQ5A"}
+:affiliate-block{title="初音ミク V4X (incl. ENGLISH)" imageUrl="https://m.media-amazon.com/images/I/41K2VF40TYL._SL160_.jpg" asin="B0D7MDZF5L"}
 
 ### Dreamtonics：Synthesizer V
 
