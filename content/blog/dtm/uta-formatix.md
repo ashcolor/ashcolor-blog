@@ -149,9 +149,9 @@ UtaFormatixを使ってプロジェクトデータを変換する手順を説明
 
 プロジェクトデータの変換が必要になったときはぜひ使ってみてください。
 
-:affiliate-block{title="初音ミク V4X" imageUrl="https://m.media-amazon.com/images/I/51u8gPLu3qL._SL160_.jpg" asin="B01G6XK6VM"}
+:affiliate-block{title="初音ミク V4X (incl. ENGLISH)" imageUrl="https://m.media-amazon.com/images/I/41K2VF40TYL._SL160_.jpg" asin="B0D7MDZF5L"}
 
-:affiliate-block{title="初音ミク NT" imageUrl="https://m.media-amazon.com/images/I/51LBuhS7xbL._SL160_.jpg" asin="B08MVV4S57"}
+:affiliate-block{title="初音ミク NT" imageUrl="https://m.media-amazon.com/images/I/41hPh3tP6jL._SL160_.jpg" asin="B0D7MG1YT5"}
 
 :affiliate-block{title="Synthesizer V Studio Pro" imageUrl="https://m.media-amazon.com/images/I/41nl+l0DddL._SL160_.jpg" asin="B08B34MWKF" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ013608.html"}
 
