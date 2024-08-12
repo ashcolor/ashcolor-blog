@@ -28,34 +28,48 @@ const props = defineProps({
     },
 });
 
-const codeHtml = await codeToHtml(props.code.replace(/\n$/, ""), {
-    lang: props.language,
-    theme: "github-dark",
+const isLoading = ref(true);
+const codeHtml = ref("");
+
+const loadCode = async () => {
+    codeHtml.value = await codeToHtml(props.code.replace(/\n$/, ""), {
+        lang: props.language,
+        theme: "github-dark",
+    });
+    isLoading.value = false;
+};
+
+onMounted(async () => {
+    await loadCode();
 });
 </script>
 
 <template>
-    <div class="my-4">
-        <div v-if="props.filename" class="tabs">
+    <ClientOnly>
+        <div class="my-4">
+            <div v-if="props.filename" class="tabs">
+                <div
+                    class="tab flex cursor-default flex-row justify-start gap-1 bg-primary text-primary-content"
+                >
+                    <Icon name="mdi:file-outline"></Icon>
+                    <span>{{ props.filename }}</span>
+                </div>
+            </div>
             <div
+                v-else-if="
+                    props.filename ||
+                    ['bash', 'sh', 'zsh', 'PowerShell', 'Shell'].includes(props.language)
+                "
                 class="tab flex cursor-default flex-row justify-start gap-1 bg-primary text-primary-content"
             >
-                <Icon name="mdi:file-outline"></Icon>
-                <span>{{ props.filename }}</span>
+                <Icon name="mdi:keyboard-arrow-right"></Icon><span>{{ props.language }}</span>
             </div>
+            <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
+            <div v-if="isLoading" :class="props.class" class="prose-code">読み込み中</div>
+            <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
+            <div v-else :class="props.class" class="prose-code" v-html="codeHtml"></div>
         </div>
-        <div
-            v-else-if="
-                props.filename ||
-                ['bash', 'sh', 'zsh', 'PowerShell', 'Shell'].includes(props.language)
-            "
-            class="tab flex cursor-default flex-row justify-start gap-1 bg-primary text-primary-content"
-        >
-            <Icon name="mdi:keyboard-arrow-right"></Icon><span>{{ props.language }}</span>
-        </div>
-        <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
-        <div :class="props.class" class="prose-code" v-html="codeHtml"></div>
-    </div>
+    </ClientOnly>
 </template>
 
 <style>
