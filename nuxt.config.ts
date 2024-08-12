@@ -60,6 +60,7 @@ export default defineNuxtConfig({
                 "css",
                 "javascript",
                 "js",
+                "jsx",
                 "ts",
                 "php",
                 "vue",
