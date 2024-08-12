@@ -30,12 +30,17 @@ const props = defineProps({
 
 const isLoading = ref(true);
 const codeHtml = ref("");
-codeToHtml(props.code.replace(/\n$/, ""), {
-    lang: props.language,
-    theme: "github-dark",
-}).then((html) => {
-    codeHtml.value = html;
+
+const loadCode = async () => {
+    codeHtml.value = await codeToHtml(props.code.replace(/\n$/, ""), {
+        lang: props.language,
+        theme: "github-dark",
+    });
     isLoading.value = false;
+};
+
+onMounted(async () => {
+    await loadCode();
 });
 </script>
 
