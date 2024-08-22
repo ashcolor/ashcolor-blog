@@ -2,7 +2,7 @@
 createdAt: "2024/08/22"
 updatedAt: ""
 title: "AWS IAMでPasskeyが利用可能に Windows PCで指紋認証を設定してみました"
-description: "AWS IAMでPasskeyが利用可能になりました。設定方法を解説します。"
+description: "AWS IAMでPasskeyが利用可能になりました。Windows PCで指紋認証を設定してみたので解説します。"
 category: "プログラミング"
 subCategory: "AWS"
 tags:
