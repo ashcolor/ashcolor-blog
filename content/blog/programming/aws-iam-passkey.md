@@ -9,7 +9,7 @@ tags:
   - "AWS"
   - "Windows"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-08-22_11-12-41_nvre36gj.webp"
-isRecommend: true
+isRecommend: false
 ---
 
 ## はじめに
