@@ -32,7 +32,7 @@ isRecommend: true
 
 :affiliate-block{title="Kensington ケンジントン Slimblade Pro" imageUrl="https://m.media-amazon.com/images/I/31EYkJS8--L._SL160_.jpg" asin="B0BN8224SY"}
 
-:affiliate-block{title="ロジクール ワイヤレス トラックボール MX ERGO S" imageUrl="https://m.media-amazon.com/images/I/31OVU3HxffL._SL160_.jpg" asin="B0D9Y1SNQT"}
+:affiliate-block{title="ロジクール ワイヤレス トラックボール MX ERGO S" imageUrl="https://m.media-amazon.com/images/I/31OVU3HxffL._SL160_.jpg" asin="B0DC5X912P"}
 どちらのトラックボールを購入するかを決める際に、最も重要なポイントを先にまとめると以下のようになります。
 
 ::point-list{title="「Kensington SlimBlade Pro」 と「Logicool MX ERGO S」を購入するときのポイント"}
@@ -205,4 +205,4 @@ Logicool Flowは以下のような機能です。
 
 :affiliate-block{title="Kensington ケンジントン Slimblade Pro" imageUrl="https://m.media-amazon.com/images/I/31EYkJS8--L._SL160_.jpg" asin="B0BN8224SY"}
 
-:affiliate-block{title="ロジクール ワイヤレス トラックボール MX ERGO S" imageUrl="https://m.media-amazon.com/images/I/31OVU3HxffL._SL160_.jpg" asin="B0D9Y1SNQT"}
+:affiliate-block{title="ロジクール ワイヤレス トラックボール MX ERGO S" imageUrl="https://m.media-amazon.com/images/I/31OVU3HxffL._SL160_.jpg" asin="B0DC5X912P"}
