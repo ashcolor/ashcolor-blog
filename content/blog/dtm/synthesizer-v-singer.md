@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/07/21"
-title: "Synthesizer V歌声データベース一覧！発売予定やオススメ解説"
+updatedAt: "2024/08/30"
+title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
 subCategory: "Synthesizer V"
@@ -210,8 +210,25 @@ AHSでは重音テトや花隈千冬など女性歌声データベースしか�
 
 ## 発売予定の歌声データベース
 
-Synthesizer V の歌声データベースは続々と追加されていますが、さらに[開発中・発売予定の歌声データベースも多くあります]{.marker}。
-その中でも[注目度の高い歌声データベース]{.marker}について、以下にまとめます。
+Synthesizer Vの歌声データベースは既にたくさんありますが、[発売予定の歌声データベースもあります]{.marker}。
+
+その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
+
+### 宮舞モカ
+
+**宮舞モカ**は、声優「峯田茉優」の声を元に制作した[クールさとパワフルさをあわせ持つ歌声データベース]{.marker}です。
+
+文字読み上げソフト「VOICEPEAK」のナレーターとして既に発売されている、人気のキャラクターでもあります。
+
+:affiliate-block{title="VOICEPEAK 宮舞モカ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41u8qtB9gHL._SL160_.jpg" asin="B0CT85FYNP"}
+
+:affiliate-block{title="VOICEPEAK 宮舞モカ ダウンロード版" imageUrl="https://m.media-amazon.com/images/I/511-R-r+VQL._SL160_.jpg" asin="B0CTSTBGT3" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001357.html"}
+
+サンプル曲を**原口沙輔**さんや**和田たけあき**さんといった有名な方々が作成しているので、ぜひ確認してみてください。
+
+:you-tube-iframe{title="『デデデ・デデデデ・デスティニー 』feat.宮舞モカ MV" videoId="nGuh4cHO1jM"}
+
+:you-tube-iframe{title="ブルーライトマーチ - 宮舞モカ" videoId="fwcZSqLyiWY"}
 
 ### 夢ノ結唱 PASTEL・HALO
 
