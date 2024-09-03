@@ -109,7 +109,7 @@ VOCALOID6 AIの初音ミクにエディタが同梱されるかは、現時点�
 
 ### スーパーパック
 
-:you-tube-iframe{title="『ピアプロキャラクターズ・スーパーパック』歌声デモンストレーション" videoId="j9Ua9zPd4CM"}
+:you-tube-iframe{title="Step by Step（6 Singer Version） / Twinfield feat. 初音ミク & 鏡音リン & 鏡音レン & 巡音ルカ & MEIKO & KAITO" videoId="9zMgjlYHiOw"}
 
 ### 初音ミクNT
 
@@ -156,6 +156,8 @@ NTは2024年内に新バージョンが公開される予定のため、新バ�
 ::
 
 参考になれば幸いです。
+
+:affiliate-block{title="ピアプロキャラクターズ スーパーパック" imageUrl="https://m.media-amazon.com/images/I/517VEzjQJoL._SL160_.jpg" asin="B0DBL116DF"}
 
 :affiliate-block{title="初音ミク V4X (incl. ENGLISH)" imageUrl="https://m.media-amazon.com/images/I/41K2VF40TYL._SL160_.jpg" asin="B0D7MDZF5L"}
 
