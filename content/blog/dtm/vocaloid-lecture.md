@@ -235,6 +235,8 @@ Synthesizer Vの調声テクニックは別でまとめた記事があるので�
 :link-card{url="https://note.com/psgoz/n/nd68e2ee9db27"}
 :link-card{url="https://note.com/psgoz/n/n1e96a52b70cf"}
 
+:affiliate-block{title="ピアプロキャラクターズ スーパーパック" imageUrl="https://m.media-amazon.com/images/I/517VEzjQJoL._SL160_.jpg" asin="B0DBL116DF"}
+
 :affiliate-block{title="初音ミク V4X (incl. ENGLISH)" imageUrl="https://m.media-amazon.com/images/I/41K2VF40TYL._SL160_.jpg" asin="B0D7MDZF5L"}
 
 :affiliate-block{title="初音ミク NT" imageUrl="https://m.media-amazon.com/images/I/41hPh3tP6jL._SL160_.jpg" asin="B0D7MG1YT5"}
