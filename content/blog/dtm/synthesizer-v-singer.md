@@ -220,9 +220,9 @@ Synthesizer Vの歌声データベースは既にたくさんありますが、[
 
 文字読み上げソフト「VOICEPEAK」のナレーターとして既に発売されている、人気のキャラクターでもあります。
 
-:affiliate-block{title="VOICEPEAK 宮舞モカ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41u8qtB9gHL._SL160_.jpg" asin="B0CT85FYNP"}
+:affiliate-block{title="Synthesizer V AI 宮舞モカ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002763_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002763.html"}
 
-:affiliate-block{title="VOICEPEAK 宮舞モカ ダウンロード版" imageUrl="https://m.media-amazon.com/images/I/511-R-r+VQL._SL160_.jpg" asin="B0CTSTBGT3" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001357.html"}
+:affiliate-block{title="Synthesizer V AI 宮舞モカ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41SNAzetUfL._SL160_.jpg" asin="B0DFPNVB7V"}
 
 サンプル曲を**原口沙輔**さんや**和田たけあき**さんといった有名な方々が作成しているので、ぜひ確認してみてください。
 
