@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/08/01"
-updatedAt: ""
+updatedAt: "2024/09/23"
 title: "【2024年版】初音ミク 音声合成ソフト比較【V4X・NT】"
 description: "初音ミクの音声合成ソフトについて価格・機能・歌声を比較します。"
 category: "DTM"
@@ -28,14 +28,14 @@ isRecommend: true
 
 まずは、[発売日や価格などの基本スペック]{.marker}についてまとめました。
 
-| ソフト名                                                                                                                                         | 発売日     | 価格<br>（税込）              | 英語 | 歌声ライブラリ                                               | エディタ             | 対応OS         | 備考                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ----------------------------- | ---- | ------------------------------------------------------------ | -------------------- | -------------- | ------------------------------------ |
-| [初音ミク V2](https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01)<br>（[アペンド](https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01a)） | 2007/8/31  | ￥16,500<br>アペンド:￥17,600 | ❌️  | ORIGINAL<br>DARK<br>SWEET<br>SOFT<br>SOLID<br>LIGHT<br>VIVID | VOCALOID2 Editor     | Windows        | アペンド別売                         |
-| [初音ミク V3](https://ec.crypton.co.jp/pages/prod/virtualsinger/mikuv3)                                                                          | 2013/9/26  | ¥17,600                       | ⭕️   | ORIGINAL<br>DARK<br>SWEET<br>SOFT<br>SOLID<br>ENGLISH        | Piapro Studio        | Windows<br>Mac |                                      |
-| [初音ミク V4X](https://ec.crypton.co.jp/pages/prod/virtualsinger/mikuv4x)                                                                        | 2016/8/31  | ￥17,600                      | ⭕️   | ORIGINAL<br>DARK<br>SWEET<br>SOFT<br>SOLID<br>ENGLISH        | Piapro Studio        | Windows<br>Mac | <br>中国語版あり<br>クロスシンセシス |
-| 初音ミク V6 AI                                                                                                                                   | 2024年     | 未定                          | 未定 | 未定                                                         | 未定                 | 未定           | AI機能あり                           |
-| [ピアプロ<br>キャラクターズ<br>・<br>スーパーパック](https://ec.crypton.co.jp/pages/prod/virtualsinger/superpack)                                | 2024/8/30  | ¥23,100                       | ❌️  | ORIGINAL                                                     | Piapro Studio        | Windows<br>Mac | バンドル版                           |
-| [初音ミク NT](https://ec.crypton.co.jp/pages/prod/virtualsinger/mikunt)                                                                          | 2020/11/27 | ¥19,800                       | ❌️  | ORIGINAL<br>DARK<br>WHISPER                                  | Piapro Studio for NT | Windows<br>Mac |                                      |
+| ソフト名                                                                                                                                         | 発売日     | 価格<br>（税込）              | 英語 | 歌声ライブラリ                                               | エディタ                 | 対応OS         | 備考                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ----------------------------- | ---- | ------------------------------------------------------------ | ------------------------ | -------------- | ------------------------------------ |
+| [初音ミク V2](https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01)<br>（[アペンド](https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01a)） | 2007/8/31  | ￥16,500<br>アペンド:￥17,600 | ❌️  | ORIGINAL<br>DARK<br>SWEET<br>SOFT<br>SOLID<br>LIGHT<br>VIVID | VOCALOID2 Editor         | Windows        | アペンド別売                         |
+| [初音ミク V3](https://ec.crypton.co.jp/pages/prod/virtualsinger/mikuv3)                                                                          | 2013/9/26  | ¥17,600                       | ⭕️   | ORIGINAL<br>DARK<br>SWEET<br>SOFT<br>SOLID<br>ENGLISH        | Piapro Studio            | Windows<br>Mac |                                      |
+| [初音ミク V4X](https://ec.crypton.co.jp/pages/prod/virtualsinger/mikuv4x)                                                                        | 2016/8/31  | ￥17,600                      | ⭕️   | ORIGINAL<br>DARK<br>SWEET<br>SOFT<br>SOLID<br>ENGLISH        | Piapro Studio<br>for V4X | Windows<br>Mac | <br>中国語版あり<br>クロスシンセシス |
+| 初音ミク V6 AI                                                                                                                                   | 2024年     | 未定                          | 未定 | 未定                                                         | 未定                     | 未定           | AI機能あり                           |
+| [ピアプロ<br>キャラクターズ<br>・<br>スーパーパック](https://ec.crypton.co.jp/pages/prod/virtualsinger/superpack)                                | 2024/8/30  | ¥23,100                       | ❌️  | ORIGINAL                                                     | Piapro Studio<br>for V4X | Windows<br>Mac | バンドル版                           |
+| [初音ミク NT](https://ec.crypton.co.jp/pages/prod/virtualsinger/mikunt)                                                                          | 2020/11/27 | ¥19,800                       | ❌️  | ORIGINAL<br>DARK<br>WHISPER                                  | Piapro Studio<br>for NT  | Windows<br>Mac |                                      |
 
 基本的にはヤマハが開発した**VOCALOIDエンジン**ですが、[NTのみ**クリプトン**と**産業技術総合研究所**が開発した別の歌声合成エンジン]{.marker}となっています。
 
@@ -49,16 +49,29 @@ isRecommend: true
 
 歌声を打ち込むときに使用する**エディタ**は、ソフトによって同梱されるものが異なります。
 
-### Piapro Studio
+### Piapro Studio、Piapro Studio for V4X
 
-**Piapro Studio**は、V3、V4X、ピアプロキャラクターズ・スーパーパックに同梱されるエディタです。
+**Piapro Studio**は、V3に同梱されるエディタ、**Piapro Studio for V4X**は、V4X、ピアプロキャラクターズ・スーパーパックに同梱されるエディタです。
 
-:link-card{url="https://piaprostudio.com/?page_id=28"}
+:link-card{url="https://ec.crypton.co.jp/pages/prod/virtualsinger/v4x"}
 
-クリプトン製の歌声ライブラリだけでなく、[他社製のVOCALOID3・VOCALOID4歌声ライブラリを読み込むことも可能]{.marker}です。
+クリプトン製の歌声ライブラリだけでなく、[他社製の歌声ライブラリを読み込むことも可能]{.marker}です。
+※VOCALOID4はPiapro Studio for V4Xのみ
 
-ただし、[初音ミク NTを読み込むことはできません]{.marker}。
+Piapro Studio for V4Xでは、以下の機能を使用できます。
+
+| 機能名               | 説明                                           |
+| -------------------- | ---------------------------------------------- |
+| グロウル             | がなり声                                       |
+| クロスシンセシス     | 2つライブラリーをブレンド                      |
+| ピッチレンダリング   | ピッチカーブの描画                             |
+| ピッチスナップモード | ピッチカーブの平坦化（いわゆるケロケロボイス） |
+
+ただし、Piapro Studio、Piapro Studio for V4Xどちらも、[初音ミク NTを読み込むことはできません]{.marker}。
 後述のPiapro Studio for NTで保存したファイルも読み込むことができないため、注意が必要です。
+
+また、Piapro Studio、Piapro Studio for V4Xは[プラグイン形式]{.marker}のため、起動にはVSTやVUプラグインに対応した[DAWソフトが必要]{.marker}となります。
+（スタンドアローン版は初音ミク V4 Chineseにだけは付属されるようです。）
 
 ### Piapro Studio for NT
 
