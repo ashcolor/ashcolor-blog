@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/08/30"
+updatedAt: "2024/09/28"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -191,29 +191,6 @@ ROSE 歌声は以下の動画で確認することができます。
 
 :affiliate-block{title="Synthesizer V ROSE(ローズ) ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01002000/VJ01001167_img_main.webp" asin="B0BMTTT3V7" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001167.html"}
 
-### フリモメン
-
-**フリモメン**は元々はAHSのソフト「Free Motion」のイメージキャラクターの男性歌声データベースです。
-
-AHSでは重音テトや花隈千冬など女性歌声データベースしか発売されていなかったため、今回が[初めての男性歌声データベース]{.marker}になります。
-
-歌声は以下の動画で確認することができます。
-
-:you-tube-iframe{title="Free blue / 風原 feat. フリモメン" videoId="DDqcbShzdWU"}
-
-[低域が特徴的な渋い声]{.marker}をしています。
-キャラクター性のある男性歌声データベースが欲しい方にオススメです。
-
-:affiliate-block{title="AHS Synthesizer V AI フリモメン パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41PLMkmoJPL._SL160_.jpg" asin="B0CZL1M556"}
-
-:affiliate-block{title="Synthesizer V AI フリモメン ダウンロード版" imageUrl=" https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002075_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002075.html"}
-
-## 発売予定の歌声データベース
-
-Synthesizer Vの歌声データベースは既にたくさんありますが、[発売予定の歌声データベースもあります]{.marker}。
-
-その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
-
 ### 宮舞モカ
 
 **宮舞モカ**は、声優「峯田茉優」の声を元に制作した[クールさとパワフルさをあわせ持つ歌声データベース]{.marker}です。
@@ -224,11 +201,19 @@ Synthesizer Vの歌声データベースは既にたくさんありますが、[
 
 :affiliate-block{title="Synthesizer V AI 宮舞モカ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41SNAzetUfL._SL160_.jpg" asin="B0DFPNVB7V"}
 
-サンプル曲を**原口沙輔**さんや**和田たけあき**さんといった有名な方々が作成しているので、ぜひ確認してみてください。
+サンプル曲を**原口沙輔**さんや**和田たけあき**さんといった有名な方々が作成しています。
 
 :you-tube-iframe{title="『デデデ・デデデデ・デスティニー 』feat.宮舞モカ MV" videoId="nGuh4cHO1jM"}
 
 :you-tube-iframe{title="ブルーライトマーチ - 宮舞モカ" videoId="fwcZSqLyiWY"}
+
+VOICEPEAKではかわいらしい話し声でしたが、Synthesizer Vではボーカルスタイルによって[かわいいからかっこいいまで歌いこなしています]{.marker}。
+
+## 発売予定の歌声データベース
+
+Synthesizer Vの歌声データベースは既にたくさんありますが、[発売予定の歌声データベースもあります]{.marker}。
+
+その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
 
 ### 夢ノ結唱 PASTEL・HALO
 
