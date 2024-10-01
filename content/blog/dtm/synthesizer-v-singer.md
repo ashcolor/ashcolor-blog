@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/09/28"
+updatedAt: "2024/10/01"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -193,7 +193,7 @@ ROSE 歌声は以下の動画で確認することができます。
 
 ### 宮舞モカ
 
-**宮舞モカ**は、声優「峯田茉優」の声を元に制作した[クールさとパワフルさをあわせ持つ歌声データベース]{.marker}です。
+**宮舞モカ**は、声優の**峯田茉優**さんの声を元に制作された[クールさとパワフルさをあわせ持つ歌声データベース]{.marker}です。
 
 文字読み上げソフト「VOICEPEAK」のナレーターとして既に発売されている、人気のキャラクターでもあります。
 
@@ -214,6 +214,20 @@ VOICEPEAKではかわいらしい話し声でしたが、Synthesizer Vではボ�
 Synthesizer Vの歌声データベースは既にたくさんありますが、[発売予定の歌声データベースもあります]{.marker}。
 
 その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
+
+### 花響 琴
+
+**花響 琴**は、[幅広い表現力と圧倒的な歌唱力を持つ歌声データベース]{.marker}です。
+
+[VOCALOID6のボイスバンクとしても販売]{.marker}されていましたが、2024年10月30日にSynthesizer Vでも販売されます。
+
+歌声は以下の動画で確認できます。
+
+:you-tube-iframe{title="Synthesizer V AI 花響琴 スタイル紹介（公式デモ）" videoId="Xn88dUsPn_M"}
+
+中の人である**立花れおん**さんは、[ミュージカルや声優活動などマルチに活躍]{.marker}していることもあり、力強い歌声が特徴的です。
+
+:affiliate-block{title="Synthesizer V AI 花響 琴" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002897_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002897.html"}
 
 ### 夢ノ結唱 PASTEL・HALO
 
@@ -243,7 +257,7 @@ Synthesizer Vの歌声データベースは既にたくさんありますが、[
 どちらも可愛らしい歌声だと感じる一方で、[声質が似ている]{.marker}なとも感じました。
 Synthesizer Vとしてどのような歌声になるか気になるところです。
 
-発売日は未定です・
+発売日は未定です。
 分かり次第、記事に追記します。
 
 ## まとめ
