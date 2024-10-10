@@ -1,12 +1,16 @@
 <script setup lang="ts">
-defineProps({
+import type { PropType } from "vue";
+
+const props = defineProps({
     href: {
         type: String,
         default: "",
     },
     target: {
-        type: String,
-        default: "_blank",
+        type: String as PropType<
+            "_blank" | "_parent" | "_self" | "_top" | (string & object) | null | undefined
+        >,
+        default: undefined,
         required: false,
     },
 });
@@ -14,8 +18,8 @@ defineProps({
 
 <template>
     <NuxtLink
-        :href="href"
-        :target="target"
+        :href="props.href"
+        :target="props.target"
         class="text-blue-600 underline underline-offset-2 visited:text-purple-600"
     >
         <slot />
