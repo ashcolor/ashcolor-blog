@@ -135,10 +135,4 @@ AHS ストアでは、Synthesizer V 関連の商品に**AHS ユーザー特別�
 
 Synthesizer V を購入する際の参考になれば幸いです。
 
-:affiliate-block{title="Synthesizer V AI 重音テト パッケージ版" imageUrl="https://m.media-amazon.com/images/I/417GBcwOqaL._SL160_.jpg" asin="B0BYZ417DW"}
-
-:affiliate-block{title="Synthesizer V AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000376_img_main.webp" asin="B0CJ4PZFV9" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000376.html"}
-
-:affiliate-block{title="Synthesizer V AI Megpoid パッケージ版" asin="B0CNSLGNH7" imageUrl="https://m.media-amazon.com/images/I/41PINo4+UcL._SL160_.jpg"}
-
-:affiliate-block{title="Synthesizer V AI Megpoid ダウンロード版" asin="B0CS5T4KZ4" imageUrl="https:///img.dlsite.jp/modpub/images2/work/professional/VJ01002000/VJ01001252_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001252.html"}
+<DtmSynthesizerVAffiliateBlocks></DtmSynthesizerVAffiliateBlocks>

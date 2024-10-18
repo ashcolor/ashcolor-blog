@@ -197,7 +197,7 @@ ROSE 歌声は以下の動画で確認することができます。
 
 文字読み上げソフト「VOICEPEAK」のナレーターとして既に発売されている、人気のキャラクターでもあります。
 
-:affiliate-block{title="Synthesizer V AI 宮舞モカ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002763_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002763.html"}
+:affiliate-block{title="Synthesizer V AI 宮舞モカ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002763_img_main.jpg" asin="B0DG8GXPYD" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002763.html"}
 
 :affiliate-block{title="Synthesizer V AI 宮舞モカ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41SNAzetUfL._SL160_.jpg" asin="B0DFPNVB7V"}
 
@@ -211,7 +211,7 @@ VOICEPEAKではかわいらしい話し声でしたが、Synthesizer Vではボ�
 
 ## 発売予定の歌声データベース
 
-Synthesizer Vの歌声データベースは既にたくさんありますが、[発売予定の歌声データベースもあります]{.marker}。
+Synthesizer Vの歌声データベースは既に多くありますが、[発売予定の歌声データベースもいくつかあります]{.marker}。
 
 その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
 
@@ -228,6 +228,21 @@ Synthesizer Vの歌声データベースは既にたくさんありますが、[
 中の人である**立花れおん**さんは、[ミュージカルや声優活動などマルチに活躍]{.marker}していることもあり、力強い歌声が特徴的です。
 
 :affiliate-block{title="Synthesizer V AI 花響 琴" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002897_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002897.html"}
+
+### Riku
+
+**Riku**は、Synthesizer Vの開発元である[Dreamtonicsオリジナルの歌声データベース]{.marker}です。
+
+[日本語で収録された男性の歌声データベースは意外と少なく]{.marker}、AI機能が搭載されたものだとRyo・Yuma・フリモメンに続いて4人目となります。
+
+歌声は公式デモ曲で確認することができます。
+
+:you-tube-iframe{title="【Synthesizer V AI Riku】Deep Sea Fantasy【公式デモ曲】" videoId="vkYmN9s-0UY"}
+
+[くせの少ない男声の歌声のため、様々なジャンルの音楽で活躍しそう]{.marker}です。
+
+Dreamtonicsオリジナルということで、他の歌声データベースと同様に[立ち絵はありません]{.marker}。
+キャラクターを意識する必要がないため、[仮歌用途でも使いやすい]{.marker}歌声データベースです。
 
 ### 夢ノ結唱 PASTEL・HALO
 
@@ -276,9 +291,7 @@ Synthesizer Vの歌声データベースには[無料で使用できるバージ
 Synthesizer V の歌声データベースはどれも[高品質であり、男声・女声どちらも充実]{.marker}しているのが魅力です。
 お気に入りの歌声データベースを探す際の参考になれば幸いです。
 
-:affiliate-block{title="Synthesizer V Studio Pro" imageUrl="https://m.media-amazon.com/images/I/41nl+l0DddL._SL160_.jpg" asin="B08B34MWKF" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ013608.html"}
-
-:affiliate-block{title="Synthesizer V Studio Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/51jy+o9TSXL._SL160_.jpg" asin="B08B3CNY2D"}
+<DtmSynthesizerVAffiliateBlocks></DtmSynthesizerVAffiliateBlocks>
 
 <DtmSynthesizerVAmazonSearch></DtmSynthesizerVAmazonSearch>
 
