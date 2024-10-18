@@ -94,7 +94,7 @@ const filteredSingers = computed(() => {
                                 <th>発売日</th>
                                 <th>名前</th>
                                 <th>発売元</th>
-                                <th>対応言語</th>
+                                <th>収録言語</th>
                                 <th>性別</th>
                             </tr>
                         </thead>
