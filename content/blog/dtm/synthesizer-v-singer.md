@@ -197,7 +197,7 @@ ROSE 歌声は以下の動画で確認することができます。
 
 文字読み上げソフト「VOICEPEAK」のナレーターとして既に発売されている、人気のキャラクターでもあります。
 
-:affiliate-block{title="Synthesizer V AI 宮舞モカ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002763_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002763.html"}
+:affiliate-block{title="Synthesizer V AI 宮舞モカ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002763_img_main.jpg" asin="B0DG8GXPYD" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002763.html"}
 
 :affiliate-block{title="Synthesizer V AI 宮舞モカ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41SNAzetUfL._SL160_.jpg" asin="B0DFPNVB7V"}
 
@@ -291,9 +291,7 @@ Synthesizer Vの歌声データベースには[無料で使用できるバージ
 Synthesizer V の歌声データベースはどれも[高品質であり、男声・女声どちらも充実]{.marker}しているのが魅力です。
 お気に入りの歌声データベースを探す際の参考になれば幸いです。
 
-:affiliate-block{title="Synthesizer V Studio Pro" imageUrl="https://m.media-amazon.com/images/I/41nl+l0DddL._SL160_.jpg" asin="B08B34MWKF" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ013608.html"}
-
-:affiliate-block{title="Synthesizer V Studio Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/51jy+o9TSXL._SL160_.jpg" asin="B08B3CNY2D"}
+<DtmSynthesizerVAffiliateBlocks></DtmSynthesizerVAffiliateBlocks>
 
 <DtmSynthesizerVAmazonSearch></DtmSynthesizerVAmazonSearch>
 
