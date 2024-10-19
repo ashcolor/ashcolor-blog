@@ -2,19 +2,27 @@
 import { BLOG_TITLE, BLOG_CATEGORIES } from "@/utils/const";
 
 const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowList);
+const menuDropDownRef = ref<HTMLDetailsElement | null>(null);
+
+const onMenuClick = () => {
+    if (!menuDropDownRef.value) {
+        return;
+    }
+    menuDropDownRef.value.open = false;
+};
 </script>
 
 <template>
     <div class="navbar border-b bg-base-100/75 backdrop-blur">
         <div class="container m-auto">
             <div class="navbar-start flex w-full flex-row lg:w-1/2">
-                <div class="dropdown">
-                    <label tabindex="0" class="btn btn-ghost px-2 sm:px-4 lg:hidden">
+                <details ref="menuDropDownRef" class="dropdown">
+                    <summary class="btn btn-ghost px-2 sm:px-4 lg:hidden">
                         <Icon name="bi:list" size="24px"></Icon>
-                    </label>
+                    </summary>
                     <ul
-                        tabindex="0"
                         class="menu dropdown-content menu-md mt-3 w-52 rounded-box bg-base-100 p-2 shadow"
+                        @click="onMenuClick"
                     >
                         <li>
                             <div class="menu-title">BLOG</div>
@@ -38,7 +46,7 @@ const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowLis
                             </ul>
                         </li>
                     </ul>
-                </div>
+                </details>
                 <NuxtLink to="/" class="btn btn-ghost px-2 font-logo text-xl normal-case sm:px-4">{{
                     BLOG_TITLE
                 }}</NuxtLink>
