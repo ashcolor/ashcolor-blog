@@ -1,8 +1,8 @@
 ---
 createdAt: "2023/12/20"
 updatedAt: "2023/06/06"
-title: "Synthesizer V Megpoid（GUMI）発売！VOCALOIDと比較してみた"
-description: "Synthesizer V 版 と VOCALOID版の Megpoid の歌声と機能を比較しました。"
+title: "Synthesizer V Megpoid（GUMI）発売！歌声や機能をVOCALOID版と比較しながらまとめました"
+description: "Synthesizer V版とVOCALOID版のMegpoidの歌声と機能を比較しました。"
 category: "DTM"
 subCategory: "Synthesizer V"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "SynthV"
   - "Megpoid"
   - "GUMI"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.webp"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-11-01_20-45-17_tn0gmth7.webp"
 isRecommend: false
 ---
 
@@ -108,12 +108,12 @@ Synthesizer VとVOCALOIDのMegpoidを比較したときのポイントは、以�
 
 - 人間っぽさは**Synthesizer V** > VOCALOID 6 > VOCALOID 4
 - コスパ・対応言語・歌声バリエーション、どれをとっても**Synthesizer V**が良い
-- ボカロっぽさ、ボカロっぽさを求める場合のみ、**VOCALOID 4**も検討してもいいかも
+- ボカロっぽさを求めるのであれば、**VOCALOID 4**もあり
 
 ::
 
 基本的には[Synthesizer Vの購入をオススメ]{.marker}します。
-今までの[GUMIの歌声を再現]{.marker}したのであれば、VOCALOID 4を購入するのもありです。
+今までの[GUMIの歌声を再現]{.marker}したいのであれば、VOCALOID 4を購入するのもありです。
 [VOCALOID 6は中途半端な立ち位置]{.marker}になるため、現状ではあまりオススメできないです。
 
 以上、Megpoidの購入の際の参考になれば幸いです。
@@ -128,14 +128,14 @@ Synthesizer VとVOCALOIDのMegpoidを比較したときのポイントは、以�
 
 ## 参考
 
-- Synthesizer V AI Megpoid｜株式会社インターネット
+- Synthesizer V AI Megpoid
 
 :link-card{url="https://www.ssw.co.jp/products/synth_v/megpoid/lineup.html"}
 
-- VOCALOID6 AI Megpoid（メグッポイド）｜株式会社インターネット
+- VOCALOID6 AI Megpoid（メグッポイド）
 
 :link-card{url="https://www.ssw.co.jp/products/vocaloid6/megpoid/index.html"}
 
-- VOCALOID4 Megpoid（メグッポイド）V4｜株式会社インターネット
+- VOCALOID4 Megpoid（メグッポイド）V4
 
 :link-card{url="https://www.ssw.co.jp/products/vocaloid4/megpoid/index.html"}
