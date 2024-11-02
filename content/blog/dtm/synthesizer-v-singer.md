@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/10/18"
+updatedAt: "2024/11/02"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -77,10 +77,9 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 ## オススメの歌声データベース
 
-歌声データベースは[歌声の好み]{.marker}で選ぶことが基本です。
-また、場合によっては歌声以外の視点でオススメできる歌声データベースもあります。
+歌声データベースは[歌声の好み]{.marker}で選ぶのが基本です。
 
-どの歌声データベースを購入するか悩んでいる方に向けて、[動画サイトでの使用頻度が高い、または[販売サイトでの売上ランキングが上位]{.marker}の歌声データベースを中心にオススメを紹介します。
+どの歌声データベースを購入するか悩んでいる方に向けて、[動画サイトでの使用頻度が高い]{.marker}、または[販売サイトでの売上ランキングが上位]{.marker}の歌声データベースを中心にオススメを紹介します。
 
 ### Mai
 
@@ -184,8 +183,8 @@ ROSE 歌声は以下の動画で確認することができます。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Synthesizer V AI 夢ノ結唱発売にあたり<br>ブシロードミュージックさんからご提供頂いたので<br>昨日公開されたRoseliaの新曲<br>「VIOLET LINE」をROSEに歌わせてみました！<br>パラメータも特に弄ってないのにこのクオリティは本当にびっくり...！<br>是非聴き比べてみてください！！<a href="https://twitter.com/hashtag/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA?src=hash&amp;ref_src=twsrc%5Etfw">#バンドリ</a> <a href="https://twitter.com/hashtag/%E5%A4%A2%E3%83%8E%E7%B5%90%E5%94%B1?src=hash&amp;ref_src=twsrc%5Etfw">#夢ノ結唱</a> <a href="https://twitter.com/hashtag/synthV?src=hash&amp;ref_src=twsrc%5Etfw">#synthV</a> <a href="https://t.co/FCdXB7jXiC">pic.twitter.com/FCdXB7jXiC</a></p>&mdash; 藤永龍太郎 (@RyutaroFujinaga) <a href="https://twitter.com/RyutaroFujinaga/status/1723279400748122427?ref_src=twsrc%5Etfw">November 11, 2023</a></blockquote>
 
-今までの歌声データベースにはない[迫力のある力強い歌声]{.marker}が特徴となっています。
-また、[高音でも裏声になりづらい]{.markerため音域の広い楽曲を歌うわせるのにも向いています。
+今までの歌声データベースにはない、[迫力のある力強い歌声]{.marker}が特徴となっています。
+また、[高音でも裏声になりづらい]{.marker}ため、音域の広い楽曲を歌わせるのにも向いています。
 
 ロック等の激しい曲調の音楽と相性が良いと言えるでしょう。
 
@@ -209,17 +208,11 @@ ROSE 歌声は以下の動画で確認することができます。
 
 VOICEPEAKではかわいらしい話し声でしたが、Synthesizer Vではボーカルスタイルによって[かわいいからかっこいいまで歌いこなしています]{.marker}。
 
-## 発売予定の歌声データベース
-
-Synthesizer Vの歌声データベースは既に多くありますが、[発売予定の歌声データベースもいくつかあります]{.marker}。
-
-その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
-
 ### 花響 琴
 
 **花響 琴**は、[幅広い表現力と圧倒的な歌唱力を持つ歌声データベース]{.marker}です。
 
-[VOCALOID6のボイスバンクとしても販売]{.marker}されていましたが、2024年10月30日にSynthesizer Vでも販売されます。
+[VOCALOID6のボイスバンクとしても販売]{.marker}されていましたが、2024年10月30日にSynthesizer Vでも販売されました。
 
 歌声は以下の動画で確認できます。
 
@@ -229,20 +222,29 @@ Synthesizer Vの歌声データベースは既に多くありますが、[発売
 
 :affiliate-block{title="Synthesizer V AI 花響 琴" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002897_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002897.html"}
 
-### Riku
+## 発売予定の歌声データベース
 
-**Riku**は、Synthesizer Vの開発元である[Dreamtonicsオリジナルの歌声データベース]{.marker}です。
+Synthesizer Vの歌声データベースは既に多くありますが、[発売予定の歌声データベースもいくつかあります]{.marker}。
 
-[日本語で収録された男性の歌声データベースは意外と少なく]{.marker}、AI機能が搭載されたものだとRyo・Yuma・フリモメンに続いて4人目となります。
+その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
 
-歌声は公式デモ曲で確認することができます。
+### 音街ウナ
 
-:you-tube-iframe{title="【Synthesizer V AI Riku】Deep Sea Fantasy【公式デモ曲】" videoId="vkYmN9s-0UY"}
+**音街ウナ**は、[パワフルさとかわいらしさを兼ね揃えた歌声データベース]{.marker}です。
 
-[くせの少ない男声の歌声のため、様々なジャンルの音楽で活躍しそう]{.marker}です。
+[VOCALOIDとしても販売]{.marker}されていましたが、2024年11月27日にSynthesizer Vでも販売されます。
 
-Dreamtonicsオリジナルということで、他の歌声データベースと同様に[立ち絵はありません]{.marker}。
-キャラクターを意識する必要がないため、[仮歌用途でも使いやすい]{.marker}歌声データベースです。
+音街ウナの代表曲としては、和田たけあき(くらげP)さんの「キライ・キライ・ジガヒダイ!」や、キノシタさんの「はやくそれになりたい！」などがあります。
+
+歌声は以下の動画で確認できます。
+
+:you-tube-iframe{title="Synthesizer V AI 音街ウナ ボーカルスタイルデモ 【公式】" videoId="Q20-ve70gwg"}
+
+[VOCALOIDよりも人間味のある歌唱]{.marker}になったのはもちろん、ボーカルスタイルが**7種類**もあるため、幅広い歌わせ方ができるのも魅力です。
+
+:affiliate-block{title="Synthesizer V AI 音街ウナ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003035_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01003035.html"}
+
+:affiliate-block{title="Synthesizer V AI 音街ウナ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/517TJjJ5agL._SL160_.jpg" asin="B0DK972FMC"}
 
 ### 夢ノ結唱 PASTEL・HALO
 
