@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/08/21"
-updatedAt: "2024/08/29"
+updatedAt: "2024/11/27"
 title: "トラックボール比較 SlimBlade Pro vs MX ERGO S"
 description: "人気のトラックボール「Kensington SlimBlade Pro」 と「Logicool MX ERGO S」のスペックを比較します。"
 category: "ガジェット"
@@ -54,6 +54,7 @@ isRecommend: true
 | 外観                           | ![Kensington SlimBlade Pro](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_slimblade-pro.webp) | ![Logicool MX ERGO S](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_mx-ergo.webp) |
 | メーカー                       | ケンジントン                                                                                                             | ロジクール                                                                                                   |
 | 価格                           | 17,500円（販売価格）                                                                                                     | 19,580円（直販価格）                                                                                         |
+| 色                             | レッド<br>グレー（Amazon.co.jp限定）<br>ホワイト（Amazon.co.jp限定）                                                     | グラファイト                                                                                                 |
 | ボタン数                       | [4個<br>（同時押しを含めると8個]{.marker}）                                                                              | [6個<br>（左・中央・右クリック、サイドボタン3個]{.marker}）                                                  |
 | 通信方法                       | Bluetooth<br>2.4GHzワイヤレス接続<br>有線接続                                                                            | Bluetooth<br>2.4GHzワイヤレス接続                                                                            |
 | 充電端子                       | USB Type-C                                                                                                               | USB Type-C                                                                                                   |
@@ -75,6 +76,20 @@ MX ERGOの旧型ではmicro-USBが採用されていましたが、新型であ�
 具体的にどのような違いがあるのかをみていきます。
 
 ## 詳細比較
+
+### 色について
+
+[SlimBlade Proはレッド、グレー、ホワイト]{.marker}の三色のカラーバリエーションがあります。
+レッドとグレーの本体色は黒、ホワイトモデルは本体もボールも白です。
+ただし、グレーとホワイトはAmazon.co.jp限定となります。
+
+:affiliate-block{title="Kensington ケンジントン Slimblade Pro グレー" imageUrl="https://m.media-amazon.com/images/I/31VX0ZB8piL._SL160_.jpg" asin="B0C5QP55YX"}
+
+:affiliate-block{title="Kensington ケンジントン Slimblade Pro ホワイト" imageUrl="https://m.media-amazon.com/images/I/21OWGLxUP6L._SL160_.jpg" asin="B0DM5BJFLR"}
+
+[MX ERGO Sはグラファイトのみ]{.marker}となります。
+
+[白いガジェットが好きな方は、SlimBlade Proのホワイトがオススメ]{.marker}です。
 
 ### ボタン数
 
@@ -203,6 +218,6 @@ Logicool Flowは以下のような機能です。
 
 参考になれば幸いです。
 
-:affiliate-block{title="Kensington ケンジントン Slimblade Pro" imageUrl="https://m.media-amazon.com/images/I/31EYkJS8--L._SL160_.jpg" asin="B0BN8224SY"}
+:affiliate-block{title="Kensington ケンジントン Slimblade Pro レッド" imageUrl="https://m.media-amazon.com/images/I/31EYkJS8--L._SL160_.jpg" asin="B0BN8224SY"}
 
 :affiliate-block{title="ロジクール ワイヤレス トラックボール MX ERGO S" imageUrl="https://m.media-amazon.com/images/I/31OVU3HxffL._SL160_.jpg" asin="B0DC5X912P"}
