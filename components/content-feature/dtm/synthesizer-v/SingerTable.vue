@@ -105,8 +105,8 @@ const filteredSingers = computed(() => {
                                     <a
                                         v-if="singer.dlsite_url"
                                         :href="Util.affiliateDlSiteUrl(singer.dlsite_url)"
-                                        class="link tooltip tooltip-info"
-                                        data-tip="DLsiteで購入"
+                                        class="link tooltip"
+                                        data-tip="DLsiteで見る"
                                         target="_blank"
                                     >
                                         <p>{{ singer.name }}</p>
@@ -135,5 +135,8 @@ const filteredSingers = computed(() => {
                 </div>
             </div>
         </template>
+        <div class="self-end">
+            <span class="text-sm text-slate-500">PR</span>
+        </div>
     </div>
 </template>
