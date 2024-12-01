@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2024/11/02"
+updatedAt: "2024/12/01"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -222,17 +222,11 @@ VOICEPEAKではかわいらしい話し声でしたが、Synthesizer Vではボ�
 
 :affiliate-block{title="Synthesizer V AI 花響 琴" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002897_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002897.html"}
 
-## 発売予定の歌声データベース
-
-Synthesizer Vの歌声データベースは既に多くありますが、[発売予定の歌声データベースもいくつかあります]{.marker}。
-
-その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
-
 ### 音街ウナ
 
 **音街ウナ**は、[パワフルさとかわいらしさを兼ね揃えた歌声データベース]{.marker}です。
 
-[VOCALOIDとしても販売]{.marker}されていましたが、2024年11月27日にSynthesizer Vでも販売されます。
+[VOCALOIDとしても販売]{.marker}されていましたが、2024年11月27日にSynthesizer Vでも販売されました。
 
 音街ウナの代表曲としては、和田たけあき(くらげP)さんの「キライ・キライ・ジガヒダイ!」や、キノシタさんの「はやくそれになりたい！」などがあります。
 
@@ -245,6 +239,12 @@ Synthesizer Vの歌声データベースは既に多くありますが、[発売
 :affiliate-block{title="Synthesizer V AI 音街ウナ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003035_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01003035.html"}
 
 :affiliate-block{title="Synthesizer V AI 音街ウナ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/517TJjJ5agL._SL160_.jpg" asin="B0DK972FMC"}
+
+## 発売予定の歌声データベース
+
+Synthesizer Vの歌声データベースは既に多くありますが、[発売予定の歌声データベースもいくつかあります]{.marker}。
+
+その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
 
 ### 夢ノ結唱 PASTEL・HALO
 
