@@ -1,7 +1,7 @@
 ---
 createdAt: "2024/04/24"
-updatedAt: "2024/05/16"
-title: "SynthV版 可不の発売延期の経緯まとめ"
+updatedAt: "2025/01/19"
+title: "SynthV版 可不 発売中止の経緯まとめ"
 description: "Synthesizer V 可不が発売延期になった経緯についてまとめています。"
 category: "DTM"
 subCategory: "Synthesizer V"
@@ -12,25 +12,26 @@ tags:
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.webp"
 ---
 
-2024年4月12日、[SynthV版の可不である**音楽的同位体 可不(KAFU) collaboration with Synthesizer V AI**の発売が延期]{.marker}になりました。
+2024年4月12日、SynthV版の可不である**音楽的同位体 可不(KAFU) collaboration with Synthesizer V AI**の発売が~延期~になりました。
 
-この記事では、発売延期に至った経緯について詳しくまとめています。
+2025年1月19日、[発売中止]{.marker}が決まりました。
+
+この記事では、発売中止に至った経緯について詳しくまとめています。
 
 ## 要約
 
-SynthV版の可不の発売延期についてのポイントは以下の通りです。
+SynthV版の可不の発売中止についてのポイントは以下の通りです。
 
 ::point-list{title="SynthV版 可不の発売延期まとめ"}
 
 - SynthV版の可不は**2024年1月15日**に発売予定だった
-- 歌声提供者である[**花譜さん**からリリース延期の打診]{.marker}があった
-- [延期時期は未定、場合によっては発売注意]{.marker}もあり得る
+- 歌声提供者である[**花譜さん**の意向を満たす製品にならなかったため発売中止]{.marker}となった
 
 ::
 
-## 延期までの流れ
+## 発売中止までの流れ
 
-SynthV版の可不が発売延期になるまでの流れを以下にまとめました。
+SynthV版の可不が発売中止になるまでの流れを以下にまとめました。
 
 ### 発売決定・予約受付開始
 
@@ -75,21 +76,21 @@ SynthV版の可不は**2023年7月7日**に発表されました。
 
 花譜さん本人の気持ちが綴られています。
 
-### 予約のキャンセル
+### 発売中止についてのお知らせ
 
-**2024年5月16日**、各販売店舗での予約を全てキャンセルとするお知らせが出ました。
+**2025年1月19日**、発売中止のお知らせが出ました。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【重要なお知らせ】<br>「音楽的同位体 可不(KAFU) collaboration with Synthesizer V AI / The Right Stuff ver.」に関する重要なお知らせです。<br><br>詳細はお知らせ文をご確認いただきますようお願いいたします。<a href="https://twitter.com/hashtag/%E9%9F%B3%E6%A5%BD%E7%9A%84%E5%90%8C%E4%BD%8D%E4%BD%93?src=hash&amp;ref_src=twsrc%5Etfw">#音楽的同位体</a> <a href="https://twitter.com/hashtag/%E5%8F%AF%E4%B8%8D?src=hash&amp;ref_src=twsrc%5Etfw">#可不</a> <a href="https://t.co/l1x0SkDI5W">pic.twitter.com/l1x0SkDI5W</a></p>&mdash; 音楽的同位体 公式【可不・星界・裏命・狐子・羽累】 (@musicalisotope) <a href="https://twitter.com/musicalisotope/status/1790306064958992502?ref_src=twsrc%5Etfw">May 14, 2024</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「音楽的同位体 可不(KAFU) collaboration with Synthesizer V AI / The Right Stuff ver.」 発売中止についてのご報告<br><br> <a href="https://twitter.com/hashtag/%E9%9F%B3%E6%A5%BD%E7%9A%84%E5%90%8C%E4%BD%8D%E4%BD%93?src=hash&amp;ref_src=twsrc%5Etfw">#音楽的同位体</a> <a href="https://twitter.com/hashtag/%E5%8F%AF%E4%B8%8D?src=hash&amp;ref_src=twsrc%5Etfw">#可不</a> <a href="https://twitter.com/hashtag/KAMITSUBAKI_STUDIO?src=hash&amp;ref_src=twsrc%5Etfw">#KAMITSUBAKI_STUDIO</a> <a href="https://t.co/2IMADqPwKZ">pic.twitter.com/2IMADqPwKZ</a></p>&mdash; 音楽的同位体 公式【可不・星界・裏命・狐子・羽累】 (@musicalisotope) <a href="https://twitter.com/musicalisotope/status/1880933223728906699?ref_src=twsrc%5Etfw">January 19, 2025</a></blockquote>
 
-[未だ発売日の目処が立たないため]{.marker}としていることから、発売はさらに遅くなるか中止になる可能性が高いです。
+Dreamtonics社及びAHS社との試行錯誤を進めていましたが、花譜さん本人の意向や目標を満たすことが難しかったとのことです。
 
-## 発売延期理由と今後について
+## 発売中止理由と今後について
 
-発売延期理由を以下にまとめました。
+発売中止理由を以下にまとめました。
 
-### 発売延期理由
+### 発売中止理由
 
-延期の理由を要約すると以下の通りです。
+発売中止の理由を要約すると以下の通りです。
 
 - 花譜さん本人の意向を踏まえ、[完全に「本人そのもの」にはならないように開発]{.marker}が進められていた
 - デモソングの反響などを[本人が見て結果として違和感を持った]{.marker}
@@ -106,20 +107,11 @@ CeVIO AI版の可不は歌声の方向性についてアンケートが取られ
 
 前々から[本人と音声合成ソフトの間で、差別化をしたいという意図]{.marker}があったように感じます。
 
-### 今後について
-
-現在は[花譜さん・Dreamtonics社・AHS社さんの間で調整作業が続けられている]{.marker}とのことです。
-
-納得出来るプロダクトになるまで開発は継続しているとのことですが、一方で話し合いの結果として[リリースできなくなる可能性もある]{.marker}とも述べています。
-
-個人的には発売を楽しみにしていましたが、本人の意向がなによりなので気長に待ちたいと思います。
-
 ## まとめ
 
-この記事では、SynthV版 可不の発売延期の経緯についてまとめました。
+この記事では、SynthV版 可不の発売中止の経緯についてまとめました。
 
 Synthesizer Vは非常にリアルな歌声合成ができる一方で、アーティスト側からすれば[自分の歌唱を簡単に再現できるソフトウェアを手放しで承認できるものではない]{.marker}のかもしれません。
-歌声を提供する側にとっても使う側にとっても、良い落とし所が見つかることを願っています。
 
 :affiliate-block{title="音楽的同位体 可不(KAFU) 可不ソングボイス|ダウンロード版" imageUrl="https://m.media-amazon.com/images/I/51Lu8A-uG9S._SL160_.jpg" asin="B097Y5WH6V" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ014593.html"}
 
