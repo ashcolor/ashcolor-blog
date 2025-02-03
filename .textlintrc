@@ -1,0 +1,16 @@
+{
+    "filters": {},
+    "rules": {
+        "preset-ja-technical-writing": true,
+        "ja-technical-writing/sentence-length": false,
+        "ja-technical-writing/no-unmatched-pair": false,
+        "ja-technical-writing/ja-no-mixed-period": false,
+        "ja-technical-writing/ja-no-weak-phrase": false,
+        "ja-technical-writing/no-doubled-joshi": false,
+        "ja-technical-writing/max-kanji-continuous-len": false,
+        "preset-jtf-style": true,
+        "jtf-style/3.1.1.全角文字と半角文字の間": false,
+        "jtf-style/3.1.2.全角文字どうし": false,
+        "jtf-style/4.3.2.大かっこ［］": false
+    }
+}
