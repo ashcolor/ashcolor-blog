@@ -51,12 +51,12 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 :link-card{url="https://dreamtonics.com/ja/synthesizerv/"}
 
-公式サイトの下の方までスクロールすると[歌声データベースの一覧]{.marker}を確認することができます。
+公式サイトの下の方までスクロールすると[歌声データベースの一覧]{.marker}を確認できます。
 
 ![公式サイト 歌声データベース一覧](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v-singer_player1.webp)
 
-試聴したい歌声データベースの横の[「▶️」をクリック]{.marker}すると、歌声を試聴することができます。
-（※PC版の場合はマウスをホバーすると「▶️」が表示されます。）
+試聴したい歌声データベースの横の[「▶️」をクリック]{.marker}すると、歌声を試聴できます。
+（※PC版の場合はマウスをホバーすると「▶️」が表示されます）
 
 さらに、試聴中に表示されるプレイヤーには[デモソングとボーカルスタイルの変更]{.marker}をする機能が備わっています。
 
@@ -87,7 +87,7 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 :you-tube-iframe{title="Mai 公式デモ曲" videoId="lkel9YC3m68"}
 
-**Mai**は[**Synthesizer V Studio Pro**を購入すると無料]{.marker}でダウンロードすることができる唯一の歌声データベースとなっています。
+**Mai**は[**Synthesizer V Studio Pro**を購入すると無料]{.marker}でダウンロードできる唯一の歌声データベースとなっています。
 
 Synthesizer V のエディターは歌声データベースを購入すると**Synthesizer V Basic Edition**が付属しますが、トラック数や使用できる機能に制限があります。
 本格的なエディットをする場合は**Synthesizer V Studio Pro**の購入が必須と言っていいでしょう。
@@ -107,7 +107,7 @@ Megpoid は歌手・声優の**中島愛**さんの歌声から作成された�
 
 [元々は VOCALOID のライブラリとして発売]{.marker}されていましたが、2023年12月20日にSynthesizer V版も発売されました。
 
-歌声は以下の動画で確認することができます。
+歌声は以下の動画で確認できます。
 
 :you-tube-iframe{title="Synthesizer V AI Megpoid サンプル音声" video-id="46TrD0B3bpo"}
 
@@ -179,7 +179,7 @@ Synthesizer V の歌声データベースにはキャラクターのイラスト
 
 [元々は CeVIO AI のサードパーティボイスとして発売]{.marker}されていましたが、2023年12月21日にSynthesizer V版が発売されました。
 
-ROSE 歌声は以下の動画で確認することができます。
+ROSE 歌声は以下の動画で確認できます。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Synthesizer V AI 夢ノ結唱発売にあたり<br>ブシロードミュージックさんからご提供頂いたので<br>昨日公開されたRoseliaの新曲<br>「VIOLET LINE」をROSEに歌わせてみました！<br>パラメータも特に弄ってないのにこのクオリティは本当にびっくり...！<br>是非聴き比べてみてください！！<a href="https://twitter.com/hashtag/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA?src=hash&amp;ref_src=twsrc%5Etfw">#バンドリ</a> <a href="https://twitter.com/hashtag/%E5%A4%A2%E3%83%8E%E7%B5%90%E5%94%B1?src=hash&amp;ref_src=twsrc%5Etfw">#夢ノ結唱</a> <a href="https://twitter.com/hashtag/synthV?src=hash&amp;ref_src=twsrc%5Etfw">#synthV</a> <a href="https://t.co/FCdXB7jXiC">pic.twitter.com/FCdXB7jXiC</a></p>&mdash; 藤永龍太郎 (@RyutaroFujinaga) <a href="https://twitter.com/RyutaroFujinaga/status/1723279400748122427?ref_src=twsrc%5Etfw">November 11, 2023</a></blockquote>
 

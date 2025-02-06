@@ -20,7 +20,7 @@ isRecommend: true
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「初音ミク」「鏡音リン」「鏡音レン」「巡音ルカ」「MEIKO」「KAITO」のボイスライブラリを各1種類ずつ収録した、『ピアプロキャラクターズ・スーパーパック』の予約受付を開始！<br><br>『初音ミク NT』新バージョンのベータ版、『初音ミクV6 AI』も年内リリースに向けて準備中！<a href="https://t.co/MQvh2PGiSC">https://t.co/MQvh2PGiSC</a> <a href="https://t.co/pshZdbmrBn">[pic.twitter.com/pshZdbmrBn](http://pic.twitter.com/pshZdbmrBn)</a></p>— SONICWIRE 公式 (@cfm_sonicwire) <a href="[https://twitter.com/cfm_sonicwire/status/1818876023746056380?ref_src=twsrc^tfw](https://twitter.com/cfm_sonicwire/status/1818876023746056380?ref_src=twsrc%5Etfw)">August 1, 2024</a></blockquote>
 
-これだけ種類が多いと、[どのソフトを選べばいいのか悩む方]{.marker}も多いのではないでしょうか？
+これだけ種類が多いと、[どのソフトを選べばいいのか悩む方]{.marker}も多いのではないでしょうか。
 
 この記事では、[初音ミクの音声合成ソフトの価格・機能・歌声を徹底比較]{.marker}します。
 
@@ -43,7 +43,7 @@ isRecommend: true
 
 また、初音ミク V4Xでは**クロスシンセシス**機能を使うことができます。
 これは、[異なる2つの歌声ライブラリを、滑らかにブレンドできる機能]{.marker}です。
-この機能を使えば、2つのの歌声ライブラリの中間のニュアンスの歌声も生成できます。
+この機能を使えば、2つの歌声ライブラリの中間のニュアンスの歌声も生成できます。
 
 ## エディタについて
 
@@ -72,7 +72,7 @@ Piapro Studio for V4Xでは、以下の機能を使用できます。
 後述のPiapro Studio for NTで保存したファイルも読み込むことができないため、注意が必要です。
 
 また、Piapro Studio、Piapro Studio for V4Xは[プラグイン形式]{.marker}のため、起動にはVSTやVUプラグインに対応した[DAWソフトが必要]{.marker}となります。
-（スタンドアローン版は初音ミク V4 Chineseにだけは付属されるようです。）
+（スタンドアローン版は初音ミク V4 Chineseにだけは付属されるようです）
 
 ### Piapro Studio for NT
 
