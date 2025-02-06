@@ -1,7 +1,7 @@
 ---
 createdAt: "2025/01/24"
 updatedAt: "2025/02/07"
-title: "【3/21発売】新型 SynthV！Synthesizer V Studio 2 情報まとめ"
+title: "【3/21発売】Synthesizer V Studio 2 情報まとめ"
 description: "Synthesizer V Studio 2 の情報をまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
