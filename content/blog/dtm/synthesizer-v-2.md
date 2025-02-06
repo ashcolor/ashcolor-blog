@@ -1,16 +1,34 @@
 ---
 createdAt: "2025/01/24"
-updatedAt: "2025/01/28"
-title: "新型SynthV開発中！Synthesizer V Studio 2 情報まとめ"
+updatedAt: "2025/02/07"
+title: "【3/21発売】新型 SynthV！Synthesizer V Studio 2 情報まとめ"
 description: "Synthesizer V Studio 2 の情報をまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
+  - "Synthesizer V 2"
   - "SynthV"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.webp"
 isRecommend: true
 ---
+
+[2025年2月7日追記
+AmazonにSynthesizer V Studio 2 Proが登録されました！]{.text-red-500}
+
+[発売日は**3月21日**となっています。]{.marker}
+
+:affiliate-block{title="Synthesizer V Studio 2 Pro" imageUrl="https://m.media-amazon.com/images/I/41AMgVyK6DL._SL160_.jpg" asin="B0DVH27V2D"}
+
+:affiliate-block{title="Synthesizer V Studio 2 Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/417oOhAvY5L._SL160_.jpg" asin="B0DVGBXQWD"}
+
+同日に[Synthesizer V 2用の歌声ライブラリとして、**miki**・**氷山キヨテル**・**宮舞モカ**も販売]{.marker}されるようです。
+
+:affiliate-block{title="Synthesizer V 2 AI miki" imageUrl="https://m.media-amazon.com/images/I/415qpDGofBL._SL160_.jpg" asin="B0DVGV742C"}
+
+:affiliate-block{title="Synthesizer V 2 AI 氷山キヨテル" imageUrl="https://m.media-amazon.com/images/I/41CNRe2o05L._SL160_.jpg" asin="B0DVGF9C4K"}
+
+:affiliate-block{title="Synthesizer V 2 AI 宮舞モカ" imageUrl="https://m.media-amazon.com/images/I/41MhkbXDMGL._SL160_.jpg" asin="B0DVGJFPC3"}
 
 ## はじめに
 
@@ -127,10 +145,20 @@ Synthesizer V 2では、[新たに**マウスオープニングパラメータ**
 
 ## 発売時期や価格について
 
-2025年1月現在、[発売時期や価格は未定]{.marker}です。
+[発売日は**3月21日**]{.marker}のようです。（Amazonより）
+定価（税込）は以下の通りです。
 
-大きなバージョンアップになるため、発売までまだ時間がかかると思われます。
-価格やSynthesizer Vユーザへの優待についても、現時点では分かっていません。
+| 製品                                 | Synthesizer V | Synthesizer V 2 |
+| ------------------------------------ | ------------- | --------------- |
+| エディタ本体のみ<br>（パッケージ版） | 14,080円      | 16,500円        |
+| スターターパック<br>（パッケージ版） | 19,800円      | 22,000円        |
+| 歌声ライブラリ<br>（パッケージ版）   | 10,780円      | 10,780円        |
+
+[エディタは値上がり、歌声ライブラリは据え置き]{.marker}のようです。
+ダウンロード版の価格はまだ判明していませんが、同じような金額設定になると思われます。
+
+既存ユーザへの優待については、現時点では分かっていません。
+分かりましたら追記します。
 
 ## 現行のSynthesizer Vとの互換性について
 
@@ -145,12 +173,9 @@ Synthesizer V 2では、[新たに**マウスオープニングパラメータ**
 
 ## Synthesizer V 2で発売される歌声データベース
 
-2023年12月に制作が発表された**氷山キヨテル**と**miki**は、元々はSynthesizer V向けの歌声ライブラリとして制作が進められていました。
-しかし、Synthesizer V 2の開発状況に合わせて発売を延期して、[Synthesizer V 2の歌声ライブラリとして発売]{.marker}されるようです。
+Synthesizer V Studio 2の発売と同日に、[**miki**・**氷山キヨテル**・**宮舞モカ**も販売]{.marker}されます。
 
 また、2024年4月に制作が発表された**夢ノ結唱PASTEL/HALO**も、半年以上続報がないところを見ると、Synthesizer V 2用のライブラリとして制作していると予想されます。
-
-今後も続々と歌声ライブラリが増えていくようで非常に楽しみです。
 
 ## まとめ
 
@@ -159,8 +184,14 @@ Synthesizer V 2では、[新たに**マウスオープニングパラメータ**
 [機能面・UI面ともに大きく進化しており、好みの歌声をより効率よく制作できそう]{.marker}だと感じました。
 今から発売が待ち遠しいです。
 
-<DtmSynthesizerVAffiliateBlocks></DtmSynthesizerVAffiliateBlocks>
+:affiliate-block{title="Synthesizer V Studio 2 Pro" imageUrl="https://m.media-amazon.com/images/I/41AMgVyK6DL._SL160_.jpg" asin="B0DVH27V2D"}
 
-<DtmSynthesizerVAmazonSearch></DtmSynthesizerVAmazonSearch>
+:affiliate-block{title="Synthesizer V Studio 2 Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/417oOhAvY5L._SL160_.jpg" asin="B0DVGBXQWD"}
+
+:affiliate-block{title="Synthesizer V 2 AI miki" imageUrl="https://m.media-amazon.com/images/I/415qpDGofBL._SL160_.jpg" asin="B0DVGV742C"}
+
+:affiliate-block{title="Synthesizer V 2 AI 氷山キヨテル" imageUrl="https://m.media-amazon.com/images/I/41CNRe2o05L._SL160_.jpg" asin="B0DVGF9C4K"}
+
+:affiliate-block{title="Synthesizer V 2 AI 宮舞モカ" imageUrl="https://m.media-amazon.com/images/I/41MhkbXDMGL._SL160_.jpg" asin="B0DVGJFPC3"}
 
 <DtmSynthesizerVDlSiteSearch></DtmSynthesizerVDlSiteSearch>
