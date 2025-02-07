@@ -1,6 +1,6 @@
 ---
 createdAt: "2025/01/24"
-updatedAt: "2025/02/07"
+updatedAt: "2025/02/08"
 title: "【3/21発売】Synthesizer V Studio 2 情報まとめ"
 description: "Synthesizer V Studio 2 の情報をまとめました。"
 category: "DTM"
@@ -13,22 +13,25 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumb
 isRecommend: true
 ---
 
-[2025年2月7日追記
+[（2025年2月7日追記）
 AmazonにSynthesizer V Studio 2 Proが登録されました！]{.text-red-500}
+
+[（2025年2月8日追記）
+Amazonから商品が削除されました。どうやらフライングだったようです。]{.text-red-500}
 
 [発売日は**3月21日**となっています。]{.marker}
 
-:affiliate-block{title="Synthesizer V Studio 2 Pro" imageUrl="https://m.media-amazon.com/images/I/41AMgVyK6DL._SL160_.jpg" asin="B0DVH27V2D"}
+<!-- :affiliate-block{title="Synthesizer V Studio 2 Pro" imageUrl="https://m.media-amazon.com/images/I/41AMgVyK6DL._SL160_.jpg" asin="B0DVH27V2D"}
 
-:affiliate-block{title="Synthesizer V Studio 2 Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/417oOhAvY5L._SL160_.jpg" asin="B0DVGBXQWD"}
+:affiliate-block{title="Synthesizer V Studio 2 Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/417oOhAvY5L._SL160_.jpg" asin="B0DVGBXQWD"} -->
 
 同日に[Synthesizer V 2用の歌声ライブラリとして、**miki**・**氷山キヨテル**・**宮舞モカ**も販売]{.marker}されるようです。
 
-:affiliate-block{title="Synthesizer V 2 AI miki" imageUrl="https://m.media-amazon.com/images/I/415qpDGofBL._SL160_.jpg" asin="B0DVGV742C"}
+<!-- :affiliate-block{title="Synthesizer V 2 AI miki" imageUrl="https://m.media-amazon.com/images/I/415qpDGofBL._SL160_.jpg" asin="B0DVGV742C"}
 
 :affiliate-block{title="Synthesizer V 2 AI 氷山キヨテル" imageUrl="https://m.media-amazon.com/images/I/41CNRe2o05L._SL160_.jpg" asin="B0DVGF9C4K"}
 
-:affiliate-block{title="Synthesizer V 2 AI 宮舞モカ" imageUrl="https://m.media-amazon.com/images/I/41MhkbXDMGL._SL160_.jpg" asin="B0DVGJFPC3"}
+:affiliate-block{title="Synthesizer V 2 AI 宮舞モカ" imageUrl="https://m.media-amazon.com/images/I/41MhkbXDMGL._SL160_.jpg" asin="B0DVGJFPC3"} -->
 
 ## はじめに
 
@@ -184,14 +187,8 @@ Synthesizer V Studio 2の発売と同日に、[**miki**・**氷山キヨテル**
 [機能面・UI面ともに大きく進化しており、好みの歌声をより効率よく制作できそう]{.marker}だと感じました。
 今から発売が待ち遠しいです。
 
-:affiliate-block{title="Synthesizer V Studio 2 Pro" imageUrl="https://m.media-amazon.com/images/I/41AMgVyK6DL._SL160_.jpg" asin="B0DVH27V2D"}
+<DtmSynthesizerVAffiliateBlocks></DtmSynthesizerVAffiliateBlocks>
 
-:affiliate-block{title="Synthesizer V Studio 2 Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/417oOhAvY5L._SL160_.jpg" asin="B0DVGBXQWD"}
-
-:affiliate-block{title="Synthesizer V 2 AI miki" imageUrl="https://m.media-amazon.com/images/I/415qpDGofBL._SL160_.jpg" asin="B0DVGV742C"}
-
-:affiliate-block{title="Synthesizer V 2 AI 氷山キヨテル" imageUrl="https://m.media-amazon.com/images/I/41CNRe2o05L._SL160_.jpg" asin="B0DVGF9C4K"}
-
-:affiliate-block{title="Synthesizer V 2 AI 宮舞モカ" imageUrl="https://m.media-amazon.com/images/I/41MhkbXDMGL._SL160_.jpg" asin="B0DVGJFPC3"}
+<DtmSynthesizerVAmazonSearch></DtmSynthesizerVAmazonSearch>
 
 <DtmSynthesizerVDlSiteSearch></DtmSynthesizerVDlSiteSearch>
