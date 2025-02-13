@@ -1,12 +1,13 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2025/02/13"
+updatedAt: "2025/02/14"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
 subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
+  - "Synthesizer V 2"
   - "SynthV"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-07-21_09-30-50_xeblya27.webp"
 isRecommend: true
@@ -273,9 +274,6 @@ Synthesizer Vの歌声データベースは既に多くありますが、[発売
 
 どちらも可愛らしい歌声だと感じる一方で、[声質が似ている]{.marker}なとも感じました。
 Synthesizer Vとしてどのような歌声になるか気になるところです。
-
-発売日は未定です。
-分かり次第、記事に追記します。
 
 ## まとめ
 
