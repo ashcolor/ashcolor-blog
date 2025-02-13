@@ -93,13 +93,17 @@ const filteredSingers = computed(() => {
                             <tr>
                                 <th>発売日</th>
                                 <th>名前</th>
+                                <th>Ver.</th>
                                 <th>発売元</th>
                                 <th>収録言語</th>
                                 <th>性別</th>
                             </tr>
                         </thead>
                         <tbody>
-                            <tr v-for="singer in filteredSingers" :key="singer.name">
+                            <tr
+                                v-for="singer in filteredSingers"
+                                :key="`${singer.name}${singer.version}`"
+                            >
                                 <td>{{ singer.release }}</td>
                                 <td class="font-bold">
                                     <a
@@ -119,6 +123,7 @@ const filteredSingers = computed(() => {
                                     </a>
                                     <p v-else>{{ singer.name }}</p>
                                 </td>
+                                <td>{{ singer.version }}</td>
                                 <td>{{ singer.company }}</td>
                                 <td>{{ singer.language }}</td>
                                 <td
