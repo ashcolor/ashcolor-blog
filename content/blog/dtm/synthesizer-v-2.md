@@ -1,7 +1,7 @@
 ---
 createdAt: "2025/01/24"
-updatedAt: "2025/02/08"
-title: "【3/21発売】Synthesizer V Studio 2 情報まとめ"
+updatedAt: "2025/02/13"
+title: "Synthesizer V 2情報まとめ 新機能や価格、互換性について解説【3月21日発売】"
 description: "Synthesizer V Studio 2 の情報をまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
@@ -9,44 +9,15 @@ tags:
   - "Synthesizer V"
   - "Synthesizer V 2"
   - "SynthV"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.webp"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-02-13_13-22-59_ylm6fzii.webp"
 isRecommend: true
 ---
 
-[（2025年2月7日追記）
-AmazonにSynthesizer V Studio 2 Proが登録されました！]{.text-red-500}
-
-[（2025年2月8日追記）
-Amazonから商品が削除されました。どうやらフライングだったようです。]{.text-red-500}
-
-[発売日は**3月21日**となっています。]{.marker}
-
-<!-- :affiliate-block{title="Synthesizer V Studio 2 Pro" imageUrl="https://m.media-amazon.com/images/I/41AMgVyK6DL._SL160_.jpg" asin="B0DVH27V2D"}
-
-:affiliate-block{title="Synthesizer V Studio 2 Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/417oOhAvY5L._SL160_.jpg" asin="B0DVGBXQWD"} -->
-
-同日に[Synthesizer V 2用の歌声ライブラリとして、**miki**・**氷山キヨテル**・**宮舞モカ**も販売]{.marker}されるようです。
-
-<!-- :affiliate-block{title="Synthesizer V 2 AI miki" imageUrl="https://m.media-amazon.com/images/I/415qpDGofBL._SL160_.jpg" asin="B0DVGV742C"}
-
-:affiliate-block{title="Synthesizer V 2 AI 氷山キヨテル" imageUrl="https://m.media-amazon.com/images/I/41CNRe2o05L._SL160_.jpg" asin="B0DVGF9C4K"}
-
-:affiliate-block{title="Synthesizer V 2 AI 宮舞モカ" imageUrl="https://m.media-amazon.com/images/I/41MhkbXDMGL._SL160_.jpg" asin="B0DVGJFPC3"} -->
-
 ## はじめに
 
-2024年12月、[**Synthesizer V Studio 2**が開発中であることが発表されました。]{.marker}
-その後、以下の動画でSynthesizer V 2の詳細が明らかになってきました。
+歌声合成ソフトウェア「Synthesizer V」の新バージョンである、[「**Synthesizer V 2**」が**3月21日**に発売されることが決まりました。]{.marker}
 
-:you-tube-iframe{title="Synthesizer V Studio 2: Exclusive Preview" videoId="MU_7vgvRbkY"}
-
-この記事では、[**Synthesizer V Studio 2**の情報をまとめます]{.marker}。
-
-::call-out{type="info"}
-
-この記事は、開発中の情報を元に作成しているため、実際の製品と仕様が異なる場合があります。
-
-::
+この記事では、[**Synthesizer V 2**の新機能や価格、互換性などの情報をまとめます]{.marker}。
 
 ## 改善点・新機能
 
@@ -146,39 +117,54 @@ Synthesizer V 2では、[新たに**マウスオープニングパラメータ**
 
 マウスオープニングパラメータによる変化は大きくはないですが、[微細な表現をしたい場合に有効]{.marker}そうです。
 
-## 発売時期や価格について
+## 価格
 
-[発売日は**3月21日**]{.marker}のようです。（Amazonより）
-定価（税込）は以下の通りです。
+エディタ（Synthesizer V Studio 2 Pro）と歌声データベースの価格は以下の通りです。
+**スターターパック**は好みの歌声データベースを1つダウンロードできるクーポンコードが付属している、お得なパッケージです。
 
-| 製品                                 | Synthesizer V | Synthesizer V 2 |
-| ------------------------------------ | ------------- | --------------- |
-| エディタ本体のみ<br>（パッケージ版） | 14,080円      | 16,500円        |
-| スターターパック<br>（パッケージ版） | 19,800円      | 22,000円        |
-| 歌声ライブラリ<br>（パッケージ版）   | 10,780円      | 10,780円        |
+| 製品                                     | 形態         | 定価（税込） |
+| ---------------------------------------- | ------------ | ------------ |
+| エディタのみ                             | パッケージ   | 16,500円     |
+| エディタのみ                             | ダウンロード | 13,200円     |
+| エディタのみ<br>アップグレード版         | ダウンロード | 77,00円      |
+| エディタのみ<br>期間限定アップグレード版 | ダウンロード | 55,00円      |
+| スターターパック<br>                     | パッケージ   | 22,000円     |
+| 歌声データベース<br>                     | パッケージ   | 10,780円     |
+| 歌声データベース<br>                     | ダウンロード | 9,680円      |
 
-[エディタは値上がり、歌声ライブラリは据え置き]{.marker}のようです。
-ダウンロード版の価格はまだ判明していませんが、同じような金額設定になると思われます。
+現行のSynthesizer Vと比べると、[エディタは値上がり、歌声データベースは据え置き]{.marker}となっています。
 
-既存ユーザへの優待については、現時点では分かっていません。
-分かりましたら追記します。
+### アップグレード版
 
-## 現行のSynthesizer Vとの互換性について
+[**アップグレード版**は「Synthesizer V Studio Pro」ユーザーが購入できます。]{.marker}
+4月20日までは期間限定アップグレード版が販売され、さらにお得に購入できるようです。
 
-現行のSynthesizer Vとの互換性については以下の動画でAHSの方が少し言及しています。
+詳しくはAHSのプレスリリースをご覧ください。
 
-:you-tube-iframe{title="AHS公式生放送 第210回 (1)アメリカより" videoId="oFyeuKGD-a0"}
+:link-card{url="https://www.ah-soft.com/press/synth-v/20250213.html"}
 
-[Synthesizer Vの歌声ライブラリは、Synthesizer V 2では読み込めない（または読み込めても機能が制限される）]{.marker}ようです。
-しかし、AHSで販売している歌声ライブラリについては別途、[Synthesizer V 2用に調整された歌声ライブラリをダウンロードできるようにする]{.marker}とのことです。
+## 現行のSynthesizer Vとの互換性
 
-他の会社の対応は未定のため、判明しましたら追記します。
+[Synthesizer Vの歌声データベースは、Synthesizer V 2では読み込めませんが、]{.marker}AHSで販売している歌声データベースについては互換版が提供されます。
 
-## Synthesizer V 2で発売される歌声データベース
+ただし、[互換版ではSynthesizer V 2からの新機能は利用できません。]{.marker}
 
-Synthesizer V Studio 2の発売と同日に、[**miki**・**氷山キヨテル**・**宮舞モカ**も販売]{.marker}されます。
+宮舞モカに関しては、4月30日までの期間限定で「Synthesizer V AI 宮舞モカ」ユーザは「Synthesizer V 2 AI 宮舞モカ」を無料で手に入れられるキャンペーンを実施するとのことです。
 
-また、2024年4月に制作が発表された**夢ノ結唱PASTEL/HALO**も、半年以上続報がないところを見ると、Synthesizer V 2用のライブラリとして制作していると予想されます。
+:link-card{url="https://www.ah-soft.com/moca/campaign/index.html"}
+
+## 歌声データベース
+
+### Synthesizer V Studio 2 Proに付属する歌声データベース
+
+Synthesizer V Studio Proでは、無料の歌声データベースとして**Mai**が付属していました。
+Synthesizer V Studio 2 Proでは、[日本語(Mai)・中国語(Mo Xu)・英語(Liam）の中から1つ選んで無料で使うことができます]{.marker}。
+
+### 新発売の歌声データベース
+
+Synthesizer V Studio 2の発売と同日に、[**miki**・**氷山キヨテル**・**宮舞モカ**が販売]{.marker}されます。
+
+また、2024年4月に制作が発表された**夢ノ結唱PASTEL/HALO**は、半年以上続報がないところを見ると、Synthesizer V 2用のライブラリとして制作していると予想されます。
 
 ## まとめ
 
@@ -187,8 +173,12 @@ Synthesizer V Studio 2の発売と同日に、[**miki**・**氷山キヨテル**
 [機能面・UI面ともに大きく進化しており、好みの歌声をより効率よく制作できそう]{.marker}だと感じました。
 今から発売が待ち遠しいです。
 
-<DtmSynthesizerVAffiliateBlocks></DtmSynthesizerVAffiliateBlocks>
+<!-- :affiliate-block{title="Synthesizer V Studio 2 Pro" imageUrl="https://m.media-amazon.com/images/I/41AMgVyK6DL._SL160_.jpg" asin="B0DVH27V2D"}
 
-<DtmSynthesizerVAmazonSearch></DtmSynthesizerVAmazonSearch>
+:affiliate-block{title="Synthesizer V Studio 2 Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/417oOhAvY5L._SL160_.jpg" asin="B0DVGBXQWD"} -->
 
-<DtmSynthesizerVDlSiteSearch></DtmSynthesizerVDlSiteSearch>
+<!-- :affiliate-block{title="Synthesizer V 2 AI miki" imageUrl="https://m.media-amazon.com/images/I/415qpDGofBL._SL160_.jpg" asin="B0DVGV742C"}
+
+:affiliate-block{title="Synthesizer V 2 AI 氷山キヨテル" imageUrl="https://m.media-amazon.com/images/I/41CNRe2o05L._SL160_.jpg" asin="B0DVGF9C4K"}
+
+:affiliate-block{title="Synthesizer V 2 AI 宮舞モカ" imageUrl="https://m.media-amazon.com/images/I/41MhkbXDMGL._SL160_.jpg" asin="B0DVGJFPC3"} -->
