@@ -166,7 +166,7 @@ Synthesizer V Studio 2 Proでは、[日本語（Mai）・中国語（Mo Xu）・
 Synthesizer V Studio 2の発売と同日に、[**miki**・**氷山キヨテル**・**宮舞モカ**が販売]{.marker}されます。
 また、全てのDreamtonicsオリジナル歌声データベースのバージョン2も同時に発売予定です。
 
-[4月25日には**夢ノ結唱PASTEL/HALO**、5月23日には**夢ノ結唱PASTEL/HALO**のSynthesizer V 2対応版が発売]{.marker}されます。
+[3月28日には**夢ノ結唱PASTEL/HALO**、4月25日には**夢ノ結唱PASTEL/HALO**のSynthesizer V 2対応版が発売]{.marker}されます。
 
 ## まとめ
 
