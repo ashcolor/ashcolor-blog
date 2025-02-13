@@ -1,6 +1,6 @@
 ---
 createdAt: "2025/01/24"
-updatedAt: "2025/02/13"
+updatedAt: "2025/02/14"
 title: "Synthesizer V 2情報まとめ 新機能や価格、互換性について解説【3月21日発売】"
 description: "Synthesizer V Studio 2 の情報をまとめました。"
 category: "DTM"
@@ -120,6 +120,7 @@ Synthesizer V 2では、[新たに**マウスオープニングパラメータ**
 ## 価格
 
 エディタ（Synthesizer V Studio 2 Pro）と歌声データベースの価格は以下の通りです。
+※AHSストアでの価格
 **スターターパック**は好みの歌声データベースを1つダウンロードできるクーポンコードが付属している、お得なパッケージです。
 
 | 製品                                     | 形態         | 定価（税込） |
@@ -158,13 +159,14 @@ Synthesizer V 2では、[新たに**マウスオープニングパラメータ**
 ### Synthesizer V Studio 2 Proに付属する歌声データベース
 
 Synthesizer V Studio Proでは、無料の歌声データベースとして**Mai**が付属していました。
-Synthesizer V Studio 2 Proでは、[日本語(Mai)・中国語(Mo Xu)・英語(Liam）の中から1つ選んで無料で使うことができます]{.marker}。
+Synthesizer V Studio 2 Proでは、[日本語（Mai）・中国語（Mo Xu）・英語（Liam）の中から1つ選んで無料で使うことができます]{.marker}。
 
 ### 新発売の歌声データベース
 
 Synthesizer V Studio 2の発売と同日に、[**miki**・**氷山キヨテル**・**宮舞モカ**が販売]{.marker}されます。
+また、全てのDreamtonicsオリジナル歌声データベースのバージョン2も同時に発売予定です。
 
-また、2024年4月に制作が発表された**夢ノ結唱PASTEL/HALO**は、半年以上続報がないところを見ると、Synthesizer V 2用のライブラリとして制作していると予想されます。
+[4月25日には**夢ノ結唱PASTEL/HALO**、5月23日には**夢ノ結唱PASTEL/HALO**のSynthesizer V 2対応版が発売]{.marker}されます。
 
 ## まとめ
 
@@ -173,12 +175,8 @@ Synthesizer V Studio 2の発売と同日に、[**miki**・**氷山キヨテル**
 [機能面・UI面ともに大きく進化しており、好みの歌声をより効率よく制作できそう]{.marker}だと感じました。
 今から発売が待ち遠しいです。
 
-<!-- :affiliate-block{title="Synthesizer V Studio 2 Pro" imageUrl="https://m.media-amazon.com/images/I/41AMgVyK6DL._SL160_.jpg" asin="B0DVH27V2D"}
+<DtmSynthesizerVAffiliateBlocks></DtmSynthesizerVAffiliateBlocks>
 
-:affiliate-block{title="Synthesizer V Studio 2 Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/417oOhAvY5L._SL160_.jpg" asin="B0DVGBXQWD"} -->
+<DtmSynthesizerVAmazonSearch></DtmSynthesizerVAmazonSearch>
 
-<!-- :affiliate-block{title="Synthesizer V 2 AI miki" imageUrl="https://m.media-amazon.com/images/I/415qpDGofBL._SL160_.jpg" asin="B0DVGV742C"}
-
-:affiliate-block{title="Synthesizer V 2 AI 氷山キヨテル" imageUrl="https://m.media-amazon.com/images/I/41CNRe2o05L._SL160_.jpg" asin="B0DVGF9C4K"}
-
-:affiliate-block{title="Synthesizer V 2 AI 宮舞モカ" imageUrl="https://m.media-amazon.com/images/I/41MhkbXDMGL._SL160_.jpg" asin="B0DVGJFPC3"} -->
+<DtmSynthesizerVDlSiteSearch></DtmSynthesizerVDlSiteSearch>
