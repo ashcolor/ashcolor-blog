@@ -1,7 +1,7 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2025/02/14"
-title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介"
+updatedAt: "2025/02/18"
+title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介【Synthesizer V 2対応】"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
 subCategory: "Synthesizer V"
@@ -246,6 +246,34 @@ VOICEPEAKではかわいらしい話し声でしたが、Synthesizer Vではボ�
 Synthesizer Vの歌声データベースは既に多くありますが、[発売予定の歌声データベースもいくつかあります]{.marker}。
 
 その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
+
+### 氷山キヨテル
+
+**氷山キヨテル**は、歌手「比山貴咏史」さんの声を元に制作された歌声データベースです。
+
+元々は[VOCALOID 2・VOCALOID 4のライブラリとして発売されていましたが、3月21日にSynthesizer V 2の歌声ライブラリとして発売]{.marker}されることが決まりました。
+
+歌声は以下のデモソングで確認できます。
+
+:you-tube-iframe{title="宣夜説 / wotaku feat. 氷山キヨテル" videoId="p5ZuXADFeBQ"}
+:you-tube-iframe{title="Synthesizer V AI 氷山キヨテル「夜の戸開く」" videoId="1cra1HsZofE"}
+
+VOCALOID版と比べると、[人間味が増しておりいわゆるイケボな印象]{.marker}です。
+
+[日本語収録かつキャラ絵のある男性歌声データベースはまだ少ない]{.marker}ため、どのような使われ方をするのか楽しみな歌声データベースです。
+
+### miki
+
+**miki**は、アーティスト「フルカワミキ」さんの声を元に制作された歌声データベースです。
+
+元々は[VOCALOID 2・VOCALOID 4のライブラリとして発売されていましたが、3月21日にSynthesizer V 2の歌声ライブラリとして発売]{.marker}されることが決まりました。
+
+歌声は以下のデモソングで確認できます。
+
+:you-tube-iframe{title="ころりんぱ - Synthesizer V AI miki公式デモソング" videoId="tU-m0vRODQE"}
+:you-tube-iframe{title="ちょむＰ - 星の海へ feat. miki" videoId="zvvUbvtleKc"}
+
+VOCALOID版のときにあった、[舌っ足らずさは少なくなり大人びた歌声になった印象]{.marker}です。
 
 ### 夢ノ結唱 PASTEL・HALO
 
