@@ -1,6 +1,6 @@
 ---
 createdAt: "2025/01/24"
-updatedAt: "2025/02/18"
+updatedAt: "2025/02/21"
 title: "Synthesizer V 2情報まとめ 新機能や価格、互換性について解説【3月21日発売】"
 description: "Synthesizer V Studio 2 の情報をまとめました。"
 category: "DTM"
@@ -116,6 +116,12 @@ Synthesizer V 2では、[新たに**マウスオープニングパラメータ**
 :you-tube-iframe{title="Synthesizer V Studio 2: Exclusive Preview" videoId="MU_7vgvRbkY" start=2355}
 
 マウスオープニングパラメータによる変化は大きくはないですが、[微細な表現をしたい場合に有効]{.marker}そうです。
+
+### 韓国語対応
+
+現行のSynthesizer Vは収録言語に関わらず、英語・日本語・中国語・スペイン語・広東語での歌唱が可能でした。
+
+[Synthesizer V 2では上記に加えて、韓国語での歌唱が可能]{.marker}となりました。
 
 ## 価格
 
