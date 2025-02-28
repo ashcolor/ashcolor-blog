@@ -70,8 +70,8 @@ export const AMAZON_ASSOCIATE_ID = "ashcolor-22";
 export const DLSITE_ASSOCIATE_ID = "ashcolor";
 export const RAKUTEN_ASSOCIATE_ID = "349366b6.92086da6.349366b7.0d318a37";
 export const AMAZON_SALE_URL = "https://amzn.to/47dmc0Y";
-export const AMAZON_SALE_START_DATE = new Date("2024-08-29T09:00:00");
-export const AMAZON_SALE_END_DATE = new Date("2024-09-04T23:59:00");
-export const AMAZON_SALE_MAX_POINT_UP = 8;
+export const AMAZON_SALE_START_DATE = new Date("2025-02-28T09:00:00");
+export const AMAZON_SALE_END_DATE = new Date("2025-03-04T23:59:00");
+export const AMAZON_SALE_MAX_POINT_UP = 7.5;
 
 export const JAPANESE_DAYS = ["日", "月", "火", "水", "木", "金", "土"];
