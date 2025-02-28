@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2025/02/18"
+updatedAt: "2025/02/28"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介【Synthesizer V 2対応】"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -286,22 +286,23 @@ VOCALOID版のときにあった、[舌っ足らずさは少なくなり大人�
 #### 夢ノ結唱 PASTEL
 
 **夢ノ結唱 PASTEL**はバンドリ！内のバンド、[Pastel＊PalettesのVo.丸山 彩（CV.前島亜美）]{.marker}さんの歌声を元にした歌声データベースです。
-現時点ではデモソングは公開されていません。
-参考までに、Pastel＊Palettesのオリジナル曲を以下に載せます。
 
-:you-tube-iframe{title="Pastel＊Palettes「もういちど ルミナス」アニメMV（フルサイズver ）" videoId="HhZW-XZShhs"}
+歌声は以下のカバー動画で確認できます。
+
+:you-tube-iframe{title="夢ノ結唱 PASTEL『しゅわりん☆どり～みん（COVER）』" videoId="bJ_UW48g338"}
+
+原曲のかわいさが再現されています。
 
 #### 夢ノ結唱 HALO
 
 **夢ノ結唱 HALO**はバンドリ！内のバンド、[ハロー、ハッピーワールド！のVo.弦巻 こころ（CV.伊藤美来）]{.marker}さんの歌声を元にした歌声データベースです。
 
-こちらも現時点ではデモソングは公開されていません。
-参考までに、ハロー、ハッピーワールド！のオリジナル曲を以下に載せます。
+歌声は以下のカバー動画で確認できます。
 
-:you-tube-iframe{title="ハロー、ハッピーワールド！「キミがいなくちゃっ！」アニメMV（フルサイズVer）" videoId="ZuPa85P19rw"}
+:you-tube-iframe{title="夢ノ結唱 HALO『えがおのオーケストラっ！（COVER）』" videoId="GFJqDBhlMwY"}
 
-どちらも可愛らしい歌声だと感じる一方で、[声質が似ている]{.marker}なとも感じました。
-Synthesizer Vとしてどのような歌声になるか気になるところです。
+明るく元気な歌声が印象的です。
+Synthesizer V 2ライブラリのエンジンのおかげか、既存の歌声データベースよりも自然で抑揚のある歌声に聞こえます。
 
 ## まとめ
 
