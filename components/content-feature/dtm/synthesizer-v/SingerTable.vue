@@ -98,7 +98,7 @@ const filteredSingers = computed(() => {
                                     <th>Ver.</th>
                                     <th>発売元</th>
                                     <th>収録言語</th>
-                                    <th>性別</th>
+                                    <th>音声提供者</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -134,7 +134,7 @@ const filteredSingers = computed(() => {
                                             'text-blue-500': singer.gender === '男声',
                                         }"
                                     >
-                                        {{ singer.gender }}
+                                        {{ singer.voice }}
                                     </td>
                                 </tr>
                             </tbody>
