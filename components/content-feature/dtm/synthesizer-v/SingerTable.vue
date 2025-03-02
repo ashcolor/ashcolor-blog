@@ -68,6 +68,8 @@ const filteredSingers = computed(() => {
                         <option value="日本語">日本語</option>
                         <option value="英語">英語</option>
                         <option value="中国語">中国語</option>
+                        <option value="スペイン語">スペイン語</option>
+                        <option value="韓国語">韓国語</option>
                     </select>
                 </div>
                 <div class="form-control w-full max-w-xs">
