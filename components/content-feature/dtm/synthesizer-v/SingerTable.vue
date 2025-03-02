@@ -68,6 +68,8 @@ const filteredSingers = computed(() => {
                         <option value="日本語">日本語</option>
                         <option value="英語">英語</option>
                         <option value="中国語">中国語</option>
+                        <option value="スペイン語">スペイン語</option>
+                        <option value="韓国語">韓国語</option>
                     </select>
                 </div>
                 <div class="form-control w-full max-w-xs">
@@ -98,7 +100,7 @@ const filteredSingers = computed(() => {
                                     <th>Ver.</th>
                                     <th>発売元</th>
                                     <th>収録言語</th>
-                                    <th>性別</th>
+                                    <th>音声提供者</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -134,7 +136,7 @@ const filteredSingers = computed(() => {
                                             'text-blue-500': singer.gender === '男声',
                                         }"
                                     >
-                                        {{ singer.gender }}
+                                        {{ singer.voice }}
                                     </td>
                                 </tr>
                             </tbody>

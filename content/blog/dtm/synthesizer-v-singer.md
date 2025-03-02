@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2025/02/28"
+updatedAt: "2025/03/02"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介【Synthesizer V 2対応】"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -102,24 +102,6 @@ Synthesizer V を使いたいけれど、どの歌声データベースを購入
 
 :affiliate-block{title="Synthesizer V Studio Pro スターターパック" imageUrl="https://m.media-amazon.com/images/I/51jy+o9TSXL._SL160_.jpg" asin="B08B3CNY2D"}
 
-### Megpoid
-
-Megpoid は歌手・声優の**中島愛**さんの歌声から作成された歌声データベースです。
-
-[元々は VOCALOID のライブラリとして発売]{.marker}されていましたが、2023年12月20日にSynthesizer V版も発売されました。
-
-歌声は以下の動画で確認できます。
-
-:you-tube-iframe{title="Synthesizer V AI Megpoid サンプル音声" video-id="46TrD0B3bpo"}
-
-VOCALOID 版の Megpoid は**GUMI**というキャラクターが歌っている印象がありましたが、Synthesizer V版に関しては[**中島愛**さんの歌い方に近いように感じます]{.marker}。
-
-MegpoidはVOCALOID版でも人気のライブラリだったため、さらにリアルになったSynthesizer V版は特にオススメです。
-
-:affiliate-block{title="Synthesizer V AI Megpoid パッケージ版" asin="B0CNSLGNH7" imageUrl="https://m.media-amazon.com/images/I/41PINo4+UcL._SL160_.jpg"}
-
-:affiliate-block{title="Synthesizer V AI Megpoid ダウンロード版" asin="B0CS5T4KZ4" imageUrl="https:///img.dlsite.jp/modpub/images2/work/professional/VJ01002000/VJ01001252_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001252.html"}
-
 ### 重音テト
 
 **重音テト**は子供らしくも大人らしくもあり、エイジレスで癖がなくまっすぐな歌声はどんなジャンルも歌いこなします。
@@ -209,19 +191,23 @@ ROSE 歌声は以下の動画で確認できます。
 
 VOICEPEAKではかわいらしい話し声でしたが、Synthesizer Vではボーカルスタイルによって[かわいいからかっこいいまで歌いこなしています]{.marker}。
 
-### 花響 琴
+### Megpoid
 
-**花響 琴**は、[幅広い表現力と圧倒的な歌唱力を持つ歌声データベース]{.marker}です。
+Megpoid は歌手・声優の**中島愛**さんの歌声から作成された歌声データベースです。
 
-[VOCALOID6のボイスバンクとしても販売]{.marker}されていましたが、2024年10月30日にSynthesizer Vでも販売されました。
+[元々は VOCALOID のライブラリとして発売]{.marker}されていましたが、2023年12月20日にSynthesizer V版も発売されました。
 
 歌声は以下の動画で確認できます。
 
-:you-tube-iframe{title="Synthesizer V AI 花響琴 スタイル紹介（公式デモ）" videoId="Xn88dUsPn_M"}
+:you-tube-iframe{title="Synthesizer V AI Megpoid サンプル音声" video-id="46TrD0B3bpo"}
 
-中の人である**立花れおん**さんは、[ミュージカルや声優活動などマルチに活躍]{.marker}していることもあり、力強い歌声が特徴的です。
+VOCALOID 版の Megpoid は**GUMI**というキャラクターが歌っている印象がありましたが、Synthesizer V版に関しては[**中島愛**さんの歌い方に近いように感じます]{.marker}。
 
-:affiliate-block{title="Synthesizer V AI 花響 琴" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002897_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002897.html"}
+MegpoidはVOCALOID版でも人気のライブラリだったため、さらにリアルになったSynthesizer V版は特にオススメです。
+
+:affiliate-block{title="Synthesizer V AI Megpoid パッケージ版" asin="B0CNSLGNH7" imageUrl="https://m.media-amazon.com/images/I/41PINo4+UcL._SL160_.jpg"}
+
+:affiliate-block{title="Synthesizer V AI Megpoid ダウンロード版" asin="B0CS5T4KZ4" imageUrl="https:///img.dlsite.jp/modpub/images2/work/professional/VJ01002000/VJ01001252_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001252.html"}
 
 ### 音街ウナ
 
