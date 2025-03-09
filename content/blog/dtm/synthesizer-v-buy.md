@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/11/20"
-updatedAt: "2025/01/01"
+updatedAt: "2025/03/09"
 title: "Synthesizer Vを安く購入する方法！割引率の高い購入先まとめ"
 description: "Synthesizer V（SynthV）をお得に購入する方法をまとめました。"
 category: "DTM"
@@ -59,6 +59,10 @@ isRecommend: true
 ただ、**Synthesizer V**はアップデートが頻繁に繰り返されており、ガイドブック付きを購入しても[現在のバージョンと機能や UI が異なる部分が多くある]{.marker}ため、購入はオススメしません。
 
 ### DLsiteで購入する
+
+[（2024年3月追記）]{.text-red-500}
+[下記のクーポンをSynthesizer Vを含むPCソフトに使用できなくなりました。
+DLsiteからの購入は今はあまりオススメしません。]{.text-red-500}
 
 **DLsite**は、同人誌やPCソフトを販売している[ダウンロードサイト]{.marker}です。
 
@@ -123,7 +127,7 @@ AHS ストアでは、Synthesizer V 関連の商品に**AHS ユーザー特別�
 ::point-list{title="Synthesizer V を少しでもお得に購入する方法"}
 
 - 初回購入時は[スターターパックがオススメ]{.marker}
-- ダウンロード版は[**DLsite**のクーポンを使うと安い]{.marker}
+- ~ダウンロード版は[**DLsite**のクーポンを使うと安い]{.marker}~
 - パッケージ版は[**Amazon**で購入すると安い]{.marker}
 
 ::
