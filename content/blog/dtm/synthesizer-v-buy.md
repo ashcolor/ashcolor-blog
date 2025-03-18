@@ -9,7 +9,7 @@ tags:
   - "Synthesizer V"
   - "SynthV"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_synthesizer-v_thumbnail.webp"
-isRecommend: true
+isRecommend: false
 ---
 
 **Synthesizer V**は、**Dreamtonics**が開発する歌声合成ソフトウェアです。
