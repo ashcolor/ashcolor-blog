@@ -1,7 +1,7 @@
 ---
 createdAt: "2024/08/01"
-updatedAt: "2024/09/23"
-title: "【2024年版】初音ミク 音声合成ソフト比較【V4X・NT】"
+updatedAt: "2025/03/18"
+title: "【2025年版】初音ミク 音声合成ソフト比較【V4X・NT】"
 description: "初音ミクの音声合成ソフトについて価格・機能・歌声を比較します。"
 category: "DTM"
 tags:
@@ -15,10 +15,9 @@ isRecommend: true
 ## はじめに
 
 [初音ミクの音声合成ソフトは、**V2**、**V3**、**V4X**、**NT**の4種類]{.marker}が存在します。
+また、初音ミクを含む音声合成ソフトとしては**ピアプロキャラクターズ・スーパーパック**もあります。
 
-さらに2024年8月1日、[**ピアプロキャラクターズ・スーパーパック**、**初音ミク NT新バージョン**、**初音ミクV6 AI**の年内リリース]{.marker}も発表されました。
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「初音ミク」「鏡音リン」「鏡音レン」「巡音ルカ」「MEIKO」「KAITO」のボイスライブラリを各1種類ずつ収録した、『ピアプロキャラクターズ・スーパーパック』の予約受付を開始！<br><br>『初音ミク NT』新バージョンのベータ版、『初音ミクV6 AI』も年内リリースに向けて準備中！<a href="https://t.co/MQvh2PGiSC">https://t.co/MQvh2PGiSC</a> <a href="https://t.co/pshZdbmrBn">[pic.twitter.com/pshZdbmrBn](http://pic.twitter.com/pshZdbmrBn)</a></p>— SONICWIRE 公式 (@cfm_sonicwire) <a href="[https://twitter.com/cfm_sonicwire/status/1818876023746056380?ref_src=twsrc^tfw](https://twitter.com/cfm_sonicwire/status/1818876023746056380?ref_src=twsrc%5Etfw)">August 1, 2024</a></blockquote>
+2025年には、[**初音ミク V6 AI**]{.marker}のリリースも予定されています。
 
 これだけ種類が多いと、[どのソフトを選べばいいのか悩む方]{.marker}も多いのではないでしょうか。
 
@@ -35,7 +34,7 @@ isRecommend: true
 | [初音ミク V4X](https://ec.crypton.co.jp/pages/prod/virtualsinger/mikuv4x)                                                                        | 2016/8/31  | ￥17,600                      | ⭕️   | ORIGINAL<br>DARK<br>SWEET<br>SOFT<br>SOLID<br>ENGLISH        | Piapro Studio<br>for V4X | Windows<br>Mac | <br>中国語版あり<br>クロスシンセシス |
 | 初音ミク V6 AI                                                                                                                                   | 2024年     | 未定                          | 未定 | 未定                                                         | 未定                     | 未定           | AI機能あり                           |
 | [ピアプロ<br>キャラクターズ<br>・<br>スーパーパック](https://ec.crypton.co.jp/pages/prod/virtualsinger/superpack)                                | 2024/8/30  | ¥23,100                       | ❌️  | ORIGINAL                                                     | Piapro Studio<br>for V4X | Windows<br>Mac | バンドル版                           |
-| [初音ミク NT](https://ec.crypton.co.jp/pages/prod/virtualsinger/mikunt)                                                                          | 2020/11/27 | ¥19,800                       | ❌️  | ORIGINAL<br>DARK<br>WHISPER                                  | Piapro Studio<br>for NT  | Windows<br>Mac |                                      |
+| [初音ミク NT](https://ec.crypton.co.jp/pages/prod/virtualsinger/mikunt)                                                                          | 2020/11/27 | ¥19,800                       | ❌️  | ORIGINAL<br>DARK<br>WHISPER                                  | Piapro Studio<br>for NT  | Windows<br>Mac | Automatic Control                    |
 
 基本的にはヤマハが開発した**VOCALOIDエンジン**ですが、[NTのみ**クリプトン**と**産業技術総合研究所**が開発した別の歌声合成エンジン]{.marker}となっています。
 
@@ -79,7 +78,11 @@ Piapro Studio for V4Xでは、以下の機能を使用できます。
 **Piapro Studio for NT**は、初音ミクNTに同梱されるエディタです。
 
 UIはPiapro Studioと似ていますが、[音声波形表示やオートメーショントラックのオーバーレイといった新機能も搭載]{.marker}されています。
-また、変更できるパラメータもNT独自のものになっています。
+変更できるパラメータもNT独自のものになっています。
+
+Ver.2からは好みの歌い方を簡単に実現できる**Automatic Control**も新たに搭載されています。
+
+:you-tube-iframe{title="『初音ミク NT (Ver.2)』歌声デモンストレーション（未調声・Automatic Controlのみ適用）" videoId="0BKG3uFC_Vw"}
 
 ただし、[VOCALOIDエンジンの歌声ライブラリを読み込むことはできません]{.marker}。
 vsqやvsqxファイルは読み込むことができますが、一部発音の変換が行われます。（[参考](https://piaprostudio.com/?p=8203)）
@@ -125,9 +128,9 @@ VOCALOID6 AIの初音ミクにエディタが同梱されるかは、現時点�
 
 :you-tube-iframe{title="Step by Step（6 Singer Version） / Twinfield feat. 初音ミク & 鏡音リン & 鏡音レン & 巡音ルカ & MEIKO & KAITO" videoId="9zMgjlYHiOw"}
 
-### 初音ミクNT
+### 初音ミクNT（Ver.2）
 
-:you-tube-iframe{title="初音ミク NT Original／Whisper／Dark：歌声デモンストレーション" videoId="p4LRyWtv59c"}
+:you-tube-iframe{title="『初音ミク NT (Ver.2)』歌声デモンストレーション" videoId="wIMhsHlTLso"}
 
 ### 歌声比較
 
@@ -146,7 +149,6 @@ VOCALOID6 AIの初音ミクにエディタが同梱されるかは、現時点�
 
 発売日だけで見るとNTが最新ですが、[NTは新規に開発された音声合成エンジンのため、まだ荒削りな印象]{.marker}があります。
 また、[VOCALOIDとの互換性が低い、英語ライブラリに対応していない、歌声ライブラリのバリエーションが少ない]{.marker}といったデメリットがあります。
-NTは2024年内に新バージョンが公開される予定のため、新バージョンの機能や品質によってはNTも選択肢に入るかもしれません。
 
 [初音ミク以外のクリプトン製のシンガーも欲しい場合は、「ピアプロキャラクターズ・スーパーパック」もオススメ]{.marker}です。
 「ピアプロキャラクターズ・スーパーパック」は[「初音ミク」「鏡音リン」「鏡音レン」「巡音ルカ」「MEIKO」「KAITO」6名全員のライブラリが各1種類ずつ収録]{.marker}されています。
@@ -171,8 +173,8 @@ NTは2024年内に新バージョンが公開される予定のため、新バ�
 
 参考になれば幸いです。
 
-:affiliate-block{title="ピアプロキャラクターズ スーパーパック" imageUrl="https://m.media-amazon.com/images/I/517VEzjQJoL._SL160_.jpg" asin="B0DBL116DF"}
-
 :affiliate-block{title="初音ミク V4X (incl. ENGLISH)" imageUrl="https://m.media-amazon.com/images/I/41K2VF40TYL._SL160_.jpg" asin="B0D7MDZF5L"}
 
 :affiliate-block{title="初音ミク NT" imageUrl="https://m.media-amazon.com/images/I/41hPh3tP6jL._SL160_.jpg" asin="B0D7MG1YT5"}
+
+:affiliate-block{title="ピアプロキャラクターズ スーパーパック" imageUrl="https://m.media-amazon.com/images/I/517VEzjQJoL._SL160_.jpg" asin="B0DBL116DF"}
