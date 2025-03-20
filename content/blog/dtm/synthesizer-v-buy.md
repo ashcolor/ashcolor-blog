@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/11/20"
-updatedAt: "2025/03/09"
+updatedAt: "2025/03/21"
 title: "Synthesizer Vを安く購入する方法！割引率の高い購入先まとめ"
 description: "Synthesizer V（SynthV）をお得に購入する方法をまとめました。"
 category: "DTM"
@@ -61,8 +61,12 @@ isRecommend: false
 ### DLsiteで購入する
 
 [（2024年3月追記）]{.text-red-500}
-[下記のクーポンをSynthesizer Vを含むPCソフトに使用できなくなりました。
+[DLsiteのクーポンをSynthesizer Vを含むPCソフトに使用できなくなりました。
 DLsiteからの購入は今はあまりオススメしません。]{.text-red-500}
+
+[ただし、キャンペーンを実施している際は安く購入できる場合があります。
+2025年3月現在、『Synthesizer V Studio 2 Pro』販売記念2本以上購入で10％OFFセット割キャンペーン！が開催されています。]{.text-red-500}
+:link-card{url="https://www.dlsite.com/soft/campaign/bulkbuy/=/key/ahs-set202503/?order=release_d"}
 
 **DLsite**は、同人誌やPCソフトを販売している[ダウンロードサイト]{.marker}です。
 
