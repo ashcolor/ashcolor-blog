@@ -71,6 +71,8 @@ VOCALOID版と比べると、[人間味が増しておりいわゆるイケボ�
 
 [日本語収録かつキャラ絵のある男性歌声データベースはまだ少ない]{.marker}ため、どのような使われ方をするのか楽しみな歌声データベースです。
 
+:affiliate-block{title="Synthesizer V 2 AI 氷山キヨテル" imageUrl="https://m.media-amazon.com/images/I/41CNRe2o05L._SL160_.jpg" asin="B0DVGF9C4K" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004026.html"}
+
 ### Synthesizer V 2 AI miki
 
 **miki**は、アーティスト「フルカワミキ」さんの声を元に制作された歌声データベースです。
@@ -84,6 +86,8 @@ VOCALOID版と比べると、[人間味が増しておりいわゆるイケボ�
 
 VOCALOID版のときにあった、[舌っ足らずさは少なくなり大人びた歌声になった印象]{.marker}です。
 
+:affiliate-block{title="Synthesizer V 2 AI miki" imageUrl="https://m.media-amazon.com/images/I/415qpDGofBL._SL160_.jpg" asin="B0DVGV742C" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004027.html"}
+
 ### 重音テト
 
 **重音テト**は子供らしくも大人らしくもあり、エイジレスで癖がなくまっすぐな歌声はどんなジャンルも歌いこなします。
@@ -95,6 +99,10 @@ VOCALOID版のときにあった、[舌っ足らずさは少なくなり大人�
 上記のような経緯もあり、Synthesizer V 版の重音テトが発表された際も非常に多くのオリジナル曲やカバー曲が投稿されました。
 
 他の歌声データベースよりも知名度が高いことから、[リスナー目線では歌声に馴染みのある方が多い歌声データベース]{.marker}という点でオススメです。
+
+:affiliate-block{title="Synthesizer V AI 重音テト パッケージ版" imageUrl="https://m.media-amazon.com/images/I/417GBcwOqaL._SL160_.jpg" asin="B0BYZ417DW"}
+
+:affiliate-block{title="Synthesizer V AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000376_img_main.webp" asin="B0CJ4PZFV9" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000376.html"}
 
 ## Synthesizer V 2の注意点
 
