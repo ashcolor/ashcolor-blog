@@ -66,7 +66,8 @@ DLsiteからの購入は今はあまりオススメしません。]{.text-red-50
 
 [ただし、キャンペーンを実施している際は安く購入できる場合があります。
 2025年3月現在、『Synthesizer V Studio 2 Pro』販売記念2本以上購入で10％OFFセット割キャンペーン！が開催されています。]{.text-red-500}
-:link-card{url="https://www.dlsite.com/soft/campaign/bulkbuy/=/key/ahs-set202503/?order=release_d"}
+
+<DtmSynthesizerVDlSiteCampaignBanner></DtmSynthesizerVDlSiteCampaignBanner>
 
 **DLsite**は、同人誌やPCソフトを販売している[ダウンロードサイト]{.marker}です。
 
