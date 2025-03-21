@@ -20,7 +20,7 @@ isRecommend: true
 
 <DtmSynthesizerVDlSiteCampaignBanner></DtmSynthesizerVDlSiteCampaignBanner>
 
-対象商品は有料のエディタである**Synthesizer V Studio 2 Pro**や、**多くの歌声データベース**が対象となっています。
+対象商品は有料のエディタである**Synthesizer V Studio 2 Pro**と、**AHSから販売されている歌声データベース**です。
 対象商品を[2本以上まとめて購入すると、合計金額から**10%OFF**で購入]{.marker}できます。
 
 3本以上購入の場合、以降すべての対象作品に対してキャンペーン割引が適用されます。
