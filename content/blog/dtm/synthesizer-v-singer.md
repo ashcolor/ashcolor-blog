@@ -13,6 +13,8 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-07-21_09-30-50_xeb
 isRecommend: true
 ---
 
+<DtmSynthesizerVDlSiteCampaignBanner></DtmSynthesizerVDlSiteCampaignBanner>
+
 ## Synthesizer V の歌声データベースについて
 
 Synthesizer V は、**Dreamtonics**が開発する歌声合成ソフトウェアです。

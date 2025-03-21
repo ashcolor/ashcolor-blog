@@ -13,6 +13,8 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-02-13_13-22-59_ylm
 isRecommend: true
 ---
 
+<DtmSynthesizerVDlSiteCampaignBanner></DtmSynthesizerVDlSiteCampaignBanner>
+
 ## はじめに
 
 歌声合成ソフトウェア「Synthesizer V」の新バージョンである、[「**Synthesizer V 2**」が**3月21日**に発売されることが決まりました。]{.marker}
