@@ -14,6 +14,8 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-07-03_11-12-53_5gj
 isRecommend: false
 ---
 
+<DtmSynthesizerVDlSiteCampaignBanner></DtmSynthesizerVDlSiteCampaignBanner>
+
 ## はじめに
 
 **重音テト**は、エイプリルフール用に作られた架空の VOCALOID キャラクターです。
