@@ -16,8 +16,9 @@ isRecommend: true
 ## キャンペーン概要
 
 **DLsite**にて[『Synthesizer V Studio 2 Pro』販売記念2本以上購入で**10％OFF**セット割キャンペーン！]{.marker}が開始されました。
+以下のリンクからキャンペーンページにアクセスできます。
 
-:link-card{url="https://www.dlsite.com/soft/campaign/bulkbuy/=/key/ahs-set202503/?order=release_d"}
+<DtmSynthesizerVDlSiteCampaignBanner></DtmSynthesizerVDlSiteCampaignBanner>
 
 対象商品は有料のエディタである**Synthesizer V Studio 2 Pro**や、**多くの歌声データベース**が対象となっています。
 対象商品を[2本以上まとめて購入すると、合計金額から**10%OFF**で購入]{.marker}できます。
