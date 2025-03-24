@@ -120,6 +120,34 @@ Synthesizer V を使いたいけれど、どの歌声データベースを購入
 
 :affiliate-block{title="Synthesizer V AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000376_img_main.webp" asin="B0CJ4PZFV9" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000376.html"}
 
+### 氷山キヨテル
+
+**氷山キヨテル**は、歌手「比山貴咏史」さんの声を元に制作された歌声データベースです。
+
+元々は[VOCALOID 2・VOCALOID 4のライブラリとして発売されていましたが、3月21日にSynthesizer V 2の歌声ライブラリとして発売]{.marker}されることが決まりました。
+
+歌声は以下のデモソングで確認できます。
+
+:you-tube-iframe{title="宣夜説 / wotaku feat. 氷山キヨテル" videoId="p5ZuXADFeBQ"}
+:you-tube-iframe{title="Synthesizer V AI 氷山キヨテル「夜の戸開く」" videoId="1cra1HsZofE"}
+
+VOCALOID版と比べると、[人間味が増しておりいわゆるイケボな印象]{.marker}です。
+
+[日本語収録かつキャラ絵のある男性歌声データベースはまだ少ない]{.marker}ため、どのような使われ方をするのか楽しみな歌声データベースです。
+
+### miki
+
+**miki**は、アーティスト「フルカワミキ」さんの声を元に制作された歌声データベースです。
+
+元々は[VOCALOID 2・VOCALOID 4のライブラリとして発売されていましたが、3月21日にSynthesizer V 2の歌声ライブラリとして発売]{.marker}されることが決まりました。
+
+歌声は以下のデモソングで確認できます。
+
+:you-tube-iframe{title="ころりんぱ - Synthesizer V AI miki公式デモソング" videoId="tU-m0vRODQE"}
+:you-tube-iframe{title="ちょむＰ - 星の海へ feat. miki" videoId="zvvUbvtleKc"}
+
+VOCALOID版のときにあった、[舌っ足らずさは少なくなり大人びた歌声になった印象]{.marker}です。
+
 ### 小春六花・夏色花梨・花隈千冬
 
 **小春六花**は明るく元気で、声に芯もありつつ語尾には声が抜けていく余韻もあるのが特徴の歌声ライブラリです。
@@ -234,34 +262,6 @@ MegpoidはVOCALOID版でも人気のライブラリだったため、さらに�
 Synthesizer Vの歌声データベースは既に多くありますが、[発売予定の歌声データベースもいくつかあります]{.marker}。
 
 その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
-
-### 氷山キヨテル
-
-**氷山キヨテル**は、歌手「比山貴咏史」さんの声を元に制作された歌声データベースです。
-
-元々は[VOCALOID 2・VOCALOID 4のライブラリとして発売されていましたが、3月21日にSynthesizer V 2の歌声ライブラリとして発売]{.marker}されることが決まりました。
-
-歌声は以下のデモソングで確認できます。
-
-:you-tube-iframe{title="宣夜説 / wotaku feat. 氷山キヨテル" videoId="p5ZuXADFeBQ"}
-:you-tube-iframe{title="Synthesizer V AI 氷山キヨテル「夜の戸開く」" videoId="1cra1HsZofE"}
-
-VOCALOID版と比べると、[人間味が増しておりいわゆるイケボな印象]{.marker}です。
-
-[日本語収録かつキャラ絵のある男性歌声データベースはまだ少ない]{.marker}ため、どのような使われ方をするのか楽しみな歌声データベースです。
-
-### miki
-
-**miki**は、アーティスト「フルカワミキ」さんの声を元に制作された歌声データベースです。
-
-元々は[VOCALOID 2・VOCALOID 4のライブラリとして発売されていましたが、3月21日にSynthesizer V 2の歌声ライブラリとして発売]{.marker}されることが決まりました。
-
-歌声は以下のデモソングで確認できます。
-
-:you-tube-iframe{title="ころりんぱ - Synthesizer V AI miki公式デモソング" videoId="tU-m0vRODQE"}
-:you-tube-iframe{title="ちょむＰ - 星の海へ feat. miki" videoId="zvvUbvtleKc"}
-
-VOCALOID版のときにあった、[舌っ足らずさは少なくなり大人びた歌声になった印象]{.marker}です。
 
 ### 夢ノ結唱 PASTEL・HALO
 

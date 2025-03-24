@@ -1,6 +1,6 @@
 ---
 createdAt: "2025/01/24"
-updatedAt: "2025/02/21"
+updatedAt: "2025/03/24"
 title: "Synthesizer V 2情報まとめ 新機能や価格、互換性について解説【3月21日発売】"
 description: "Synthesizer V Studio 2 の情報をまとめました。"
 category: "DTM"
@@ -125,6 +125,40 @@ Synthesizer V 2では、[新たに**マウスオープニングパラメータ**
 
 [Synthesizer V 2では上記に加えて、韓国語での歌唱が可能]{.marker}となりました。
 
+### アクティベーション方法の変更
+
+Synthesizer V 2では、歌声データベースのアクティベーション方法が変更されています。
+
+[購入した製品はDreamtonicsアカウントと紐づく]{.marker}ようになり、先に製品をアクティベーションしてしまえば、Synthesizer V Studio 2からアカウントにログインすると[一括で歌声データベースのインストール]{.marker}できます。
+
+![ライセンスパネル](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-03-24_17-12-02_e68g26k2.webp)
+
+これで新しくPCを購入した場合でも、[アカウントにログインするだけで歌声データベースを楽にインストール]{.marker}できます。
+
+## 廃止された機能
+
+### マニュアルモード
+
+現行のSynthesizer Vでは、ノートのモードとして、**歌唱**・**ラップ**・**マニュアル**を選択することができました。
+Synthesizer V 2では、[マニュアルが廃止]{.marker}され、歌唱・ラップしか選択できません。
+
+![Synthesizer V 2のノートのモード](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-03-24_17-09-37_4d6y0zc2.webp)
+
+マニュアルモードでは、[ピッチ変化のタイミング・ビブラードの開始タイミングや周波数を細かく調整]{.marker}することができました。
+Synthesizer V 2では、[上記の細かい調整をスマートピッチコントロールで代用]{.marker}することになります。
+
+ピッチ変化のタイミングはスマートピッチコントローラによる操作が楽そうですが、ビブラートに関しては入力が難しそうなため、[マニュアルモードでビブラートの入力をしていた方は不便]{.marker}に感じるかもしれません。
+
+## 歌声比較
+
+以下の動画は、現行のSynthesizer VとSynthesizer V 2の歌声を比較したものです。
+
+:you-tube-iframe{title="[SynthesizerV]V1とV2の違いを聴き比べしてみる【宮舞モカ】" videoId="NxmxOOF9WBw" start=0}
+
+同一のパラメータでは[Synthesizer Vは安定した歌声]{.marker}、[Synthesizer V 2はより人間的で癖のある歌声]{.marker}に聞こえます。
+
+Synthesizer V 2の方が表現力が高いように感じるものの、そのままの状態だと違和感のある部分もあるため、[AIリテイク等を使用して調整する必要]{.marker}がありそうです。
+
 ## 価格
 
 エディタ（Synthesizer V Studio 2 Pro）と歌声データベースの価格は以下の通りです。
@@ -193,6 +227,10 @@ Synthesizer V Studio 2の発売と同日に、[**miki**・**氷山キヨテル**
 また、全てのDreamtonicsオリジナル歌声データベースのバージョン2も同時に発売予定です。
 
 [3月28日には**夢ノ結唱PASTEL/HALO**、4月25日には**夢ノ結唱PASTEL/HALO**のSynthesizer V 2対応版が発売]{.marker}されます。
+
+発売中・発売予定の歌声データベースは以下の記事にまとめあるので、参考にしてみてください。
+
+:quote-article-card{url="/blog/dtm/synthesizer-v-singer"}
 
 ## まとめ
 
