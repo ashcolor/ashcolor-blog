@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2025/03/02"
+updatedAt: "2025/04/10"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介【Synthesizer V 2対応】"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -135,6 +135,9 @@ VOCALOID版と比べると、[人間味が増しておりいわゆるイケボ�
 
 [日本語収録かつキャラ絵のある男性歌声データベースはまだ少ない]{.marker}ため、どのような使われ方をするのか楽しみな歌声データベースです。
 
+:affiliate-block{title="Synthesizer V 2 AI 氷山キヨテル ダウンロード版" imageUrl="https://m.media-amazon.com/images/I/51IfKSLpZcL._SL160_.jpg" asin="B0F2SG7K27" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004026.html"}
+:affiliate-block{title="Synthesizer V 2 AI 氷山キヨテル パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41CNRe2o05L._SL160_.jpg" asin="B0DVGF9C4K"}
+
 ### miki
 
 **miki**は、アーティスト「フルカワミキ」さんの声を元に制作された歌声データベースです。
@@ -147,6 +150,9 @@ VOCALOID版と比べると、[人間味が増しておりいわゆるイケボ�
 :you-tube-iframe{title="ちょむＰ - 星の海へ feat. miki" videoId="zvvUbvtleKc"}
 
 VOCALOID版のときにあった、[舌っ足らずさは少なくなり大人びた歌声になった印象]{.marker}です。
+
+:affiliate-block{title="Synthesizer V 2 AI miki ダウンロード版" imageUrl="https://m.media-amazon.com/images/I/51N7iKS8SHL._SL160_.jpg" asin="B0F2SS4PH2" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004027.html"}
+:affiliate-block{title="Synthesizer V 2 AI miki パッケージ版" imageUrl="https://m.media-amazon.com/images/I/415qpDGofBL._SL160_.jpg" asin="B0DVGV742C"}
 
 ### 小春六花・夏色花梨・花隈千冬
 
@@ -281,6 +287,8 @@ Synthesizer Vの歌声データベースは既に多くありますが、[発売
 
 原曲のかわいさが再現されています。
 
+:affiliate-block{title="Synthesizer V 2 AI 夢ノ結唱 PASTEL ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003879_img_main.jpg" asin="B0DYTFNPWM" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01003879.html"}
+
 #### 夢ノ結唱 HALO
 
 **夢ノ結唱 HALO**はバンドリ！内のバンド、[ハロー、ハッピーワールド！のVo.弦巻 こころ（CV.伊藤美来）]{.marker}さんの歌声を元にした歌声データベースです。
@@ -291,6 +299,8 @@ Synthesizer Vの歌声データベースは既に多くありますが、[発売
 
 明るく元気な歌声が印象的です。
 Synthesizer V 2ライブラリのエンジンのおかげか、既存の歌声データベースよりも自然で抑揚のある歌声に聞こえます。
+
+:affiliate-block{title="Synthesizer V 2 AI 夢ノ結唱 HALO ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003881_img_main.jpg" asin="B0DYSPSDLF" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01003881.html"}
 
 ## まとめ
 
