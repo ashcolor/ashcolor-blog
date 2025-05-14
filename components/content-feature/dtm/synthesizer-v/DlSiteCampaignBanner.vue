@@ -1,12 +1,12 @@
 <script setup lang="ts">
-const searchLink =
-    "https://www.dlsite.com/soft/campaign/bulkbuy/=/key/ahs-set202503/?order=release_d";
-const affiliateUrl = computed(() => Util.affiliateDlSiteUrl(searchLink));
+// const searchLink =
+//     "https://www.dlsite.com/soft/campaign/bulkbuy/=/key/ahs-set202503/?order=release_d";
+// const affiliateUrl = computed(() => Util.affiliateDlSiteUrl(searchLink));
 </script>
 
 <template>
     <ClientOnly>
-        <div class="flex flex-col">
+        <!-- <div class="flex flex-col">
             <a :href="affiliateUrl" target="_blank" rel="noopener noreferrer">
                 <img
                     src="https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-03-21_09-39-20_86zxfa0l.webp"
@@ -16,6 +16,6 @@ const affiliateUrl = computed(() => Util.affiliateDlSiteUrl(searchLink));
                 />
             </a>
             <div class="self-end text-sm text-slate-500">PR</div>
-        </div>
+        </div> -->
     </ClientOnly>
 </template>

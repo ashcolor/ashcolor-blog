@@ -1,7 +1,7 @@
 ---
 createdAt: "2025/03/21"
-updatedAt: "2025/03/25"
-title: "DLsiteにてSynthesizer Vセット割キャンペーン中！2本以上購入で実質19%OFF！【5/7まで】"
+updatedAt: "2025/05/14"
+title: "【終了】DLsiteにてSynthesizer Vセット割キャンペーン中！2本以上購入で実質19%OFF！"
 description: "DLsiteのSynthesizer V Studio 2 Pro販売記念キャンペーンについてまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
@@ -10,10 +10,12 @@ tags:
   - "Synthesizer V"
   - "SynthV"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-03-21_01-03-48_kamytsd2.webp"
-isRecommend: true
+isRecommend: false
 ---
 
 ## キャンペーン概要
+
+[このキャンペーンは終了しました。]{.text-red-500}
 
 **DLsite**にて[『Synthesizer V Studio 2 Pro』販売記念2本以上購入で**10％OFF**セット割キャンペーン！]{.marker}が開始されました。
 以下のリンクからキャンペーンページにアクセスできます。

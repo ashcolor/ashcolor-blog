@@ -13,6 +13,13 @@ const affiliateBlocks = [
         dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01004024.html",
     },
     {
+        title: "Synthesizer V 2 AI 夢ノ結唱 ROSE ダウンロード版",
+        imageUrl:
+            "https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003885_img_main.jpg",
+        asin: "B0DYT3QD9C",
+        dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01003885.html",
+    },
+    {
         title: "Synthesizer V 2 AI miki ダウンロード版",
         imageUrl: "https://m.media-amazon.com/images/I/51N7iKS8SHL._SL160_.jpg",
         asin: "B0F2SS4PH2",
@@ -47,20 +54,6 @@ const affiliateBlocks = [
         imageUrl: "https://m.media-amazon.com/images/I/41MhkbXDMGL._SL160_.jpg",
         asin: "B0DVGJFPC3",
         dlSiteLink: "",
-    },
-    {
-        title: "Synthesizer V 2 AI 夢ノ結唱 HALO ダウンロード版",
-        imageUrl:
-            "https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003881_img_main.jpg",
-        asin: "B0DYSPSDLF",
-        dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01003881.html",
-    },
-    {
-        title: "Synthesizer V 2 AI 夢ノ結唱 PASTEL ダウンロード版",
-        imageUrl:
-            "https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003879_img_main.jpg",
-        asin: "B0DYTFNPWM",
-        dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01003879.html",
     },
     {
         title: "Synthesizer V AI 重音テト ダウンロード版",
