@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2025/04/10"
+updatedAt: "2025/05/14"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介【Synthesizer V 2対応】"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -183,7 +183,6 @@ Synthesizer V の歌声データベースにはキャラクターのイラスト
 また、キャラクターのテイストが近いことから複数人の歌唱曲を作成する場合も小春六花・夏色花梨・花隈千冬を組み合わせて（または 3 人で）歌わせるのも良さそうです。
 
 :affiliate-block{title="Synthesizer V 小春六花 AI パッケージ版" imageUrl="https://m.media-amazon.com/images/I/51Hj+E4zFFL._SL160_.jpg" asin="B08R16FBVT"}
-
 :affiliate-block{title="Synthesizer V 小春六花 AI ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ015000/VJ014356_img_main.webp" asin="B0C3XLJZR5" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ014356.html"}
 
 :affiliate-block{title="AHS Synthesizer V AI 夏色花梨 パッケージ版" imageUrl="https://m.media-amazon.com/images/I/5149nHCP8hL._SL160_.jpg" asin="B09V11MMZR"}
@@ -207,7 +206,7 @@ ROSE 歌声は以下の動画で確認できます。
 
 ロック等の激しい曲調の音楽と相性が良いと言えるでしょう。
 
-:affiliate-block{title="Synthesizer V ROSE(ローズ) ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01002000/VJ01001167_img_main.webp" asin="B0BMTTT3V7" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001167.html"}
+:affiliate-block{title="Synthesizer V 2 AI 夢ノ結唱 ROSE ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003885_img_main.jpg" asin="B0DYT3QD9C" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01003885.html"}
 
 ### 宮舞モカ
 
@@ -269,38 +268,16 @@ Synthesizer Vの歌声データベースは既に多くありますが、[発売
 
 その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
 
-### 夢ノ結唱 PASTEL・HALO
+### 猫村いろは
 
-**夢ノ結唱**シリーズは [BanG Dream!（バンドリ！）内のユニットから生まれたキャラクターとコラボレーション]{.marker}して制作された音声合成ソフトです。
+**猫村いろは**は、[株式会社 AHSから発売されているVOCALOID2・4のライブラリ]{.marker}です。
 
-今までに**POPY**と**ROSE**が発売されていましたが、新しく**PASTEL**と**HALO**の開発・発売が決定しました。
+15周年に向けて「Synthesizer V 2 AI 猫村いろは」の制作が決定しています。
 
-:link-card{url="https://bang-dream.com/news/1816"}
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【お知らせ】<br>本日5/14は猫村いろはさんのお誕生日です！おめでとうございます✨<br>今年は「VOCALOID2 猫村いろは」発売から15周年ということで・・・なんと！<br>15周年に向けて「Synthesizer V 2 AI 猫村いろは」の制作が決定いたしました！続報をお楽しみに✨<a href="https://twitter.com/hashtag/%E7%8C%AB%E6%9D%91%E3%81%84%E3%82%8D%E3%81%AF?src=hash&amp;ref_src=twsrc%5Etfw">#猫村いろは</a> <a href="https://twitter.com/hashtag/SynthV?src=hash&amp;ref_src=twsrc%5Etfw">#SynthV</a> <a href="https://t.co/FlNZraUUtF">pic.twitter.com/FlNZraUUtF</a></p>&mdash; AHS公式@ボイスピ大好評発売中！ (@ahsoft) <a href="https://twitter.com/ahsoft/status/1922487028249460900?ref_src=twsrc%5Etfw">May 14, 2025</a></blockquote>
 
-#### 夢ノ結唱 PASTEL
-
-**夢ノ結唱 PASTEL**はバンドリ！内のバンド、[Pastel＊PalettesのVo.丸山 彩（CV.前島亜美）]{.marker}さんの歌声を元にした歌声データベースです。
-
-歌声は以下のカバー動画で確認できます。
-
-:you-tube-iframe{title="夢ノ結唱 PASTEL『しゅわりん☆どり～みん（COVER）』" videoId="bJ_UW48g338"}
-
-原曲のかわいさが再現されています。
-
-:affiliate-block{title="Synthesizer V 2 AI 夢ノ結唱 PASTEL ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003879_img_main.jpg" asin="B0DYTFNPWM" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01003879.html"}
-
-#### 夢ノ結唱 HALO
-
-**夢ノ結唱 HALO**はバンドリ！内のバンド、[ハロー、ハッピーワールド！のVo.弦巻 こころ（CV.伊藤美来）]{.marker}さんの歌声を元にした歌声データベースです。
-
-歌声は以下のカバー動画で確認できます。
-
-:you-tube-iframe{title="夢ノ結唱 HALO『えがおのオーケストラっ！（COVER）』" videoId="GFJqDBhlMwY"}
-
-明るく元気な歌声が印象的です。
-Synthesizer V 2ライブラリのエンジンのおかげか、既存の歌声データベースよりも自然で抑揚のある歌声に聞こえます。
-
-:affiliate-block{title="Synthesizer V 2 AI 夢ノ結唱 HALO ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003881_img_main.jpg" asin="B0DYSPSDLF" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01003881.html"}
+発売日やデモソングはまだ発表されていません。
+続報がありましたら、こちらの記事に追記します。
 
 ## まとめ
 
