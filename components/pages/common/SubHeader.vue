@@ -3,8 +3,8 @@ import { ACCOUNTS, BLOG_SUBTITLE } from "@/utils/const";
 </script>
 
 <template>
-    <div class="navbar min-h-0 border-b bg-base-200 py-0.5">
-        <div class="container m-auto">
+    <div class="navbar min-h-0 bg-base-200 py-0.5">
+        <div class="container m-auto flex flex-row">
             <div class="navbar-start w-full lg:w-1/2">
                 <p class="text-xs">{{ BLOG_SUBTITLE }}</p>
             </div>

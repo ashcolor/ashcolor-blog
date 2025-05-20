@@ -1,7 +1,11 @@
+import tailwindcss from "@tailwindcss/vite";
 import { BLOG_TITLE, BLOG_CATEGORIES } from "./utils/const";
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+    vite: {
+        plugins: [tailwindcss()],
+    },
     nitro: {
         prerender: {
             routes: ["/sitemap.xml"],
@@ -19,12 +23,12 @@ export default defineNuxtConfig({
             ],
         },
     },
-    css: ["@/assets/css/tailwind.css"],
+    css: ["@/assets/css/main.css"],
+
     build: {},
-    extends: "@nuxt-themes/typography",
+    // extends: "@nuxt-themes/typography",
 
     modules: [
-        "@nuxtjs/tailwindcss",
         "@nuxtjs/eslint-module",
         "@nuxtjs/google-fonts",
         "@nuxt/content",

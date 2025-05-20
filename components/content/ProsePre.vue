@@ -30,6 +30,7 @@ const props = defineProps({
 
 const isLoading = ref(true);
 const codeHtml = ref("");
+const isShell = ref(["bash", "sh", "zsh", "PowerShell", "Shell"].includes(props.language));
 
 const loadCode = async () => {
     codeHtml.value = await codeToHtml(props.code.replace(/\n$/, ""), {
@@ -47,37 +48,36 @@ onMounted(async () => {
 <template>
     <ClientOnly>
         <div class="my-4">
-            <div v-if="props.filename" class="tabs">
-                <div
-                    class="tab flex cursor-default flex-row justify-start gap-1 bg-primary text-primary-content"
+            <div class="tabs tabs-lift tabs-sm">
+                <label
+                    class="tab !bg-primary flex-row justify-start gap-1"
+                    :class="{
+                        hidden: !props.filename,
+                    }"
                 >
-                    <Icon name="mdi:file-outline"></Icon>
-                    <span>{{ props.filename }}</span>
+                    <input type="radio" class="cursor-default" checked="checked" />
+                    <Icon
+                        :name="isShell ? 'mdi:keyboard-arrow-right' : 'mdi:file-outline'"
+                        class="text-primary-content"
+                    ></Icon>
+                    <span class="text-primary-content">{{ props.filename }}</span>
+                </label>
+                <div class="tab-content">
+                    <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
+                    <div v-if="isLoading" :class="props.class" class="prose-code">読み込み中</div>
+                    <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
+                    <div v-else :class="props.class" class="prose-code" v-html="codeHtml"></div>
                 </div>
             </div>
-            <div
-                v-else-if="
-                    props.filename ||
-                    ['bash', 'sh', 'zsh', 'PowerShell', 'Shell'].includes(props.language)
-                "
-                class="tab flex cursor-default flex-row justify-start gap-1 bg-primary text-primary-content"
-            >
-                <Icon name="mdi:keyboard-arrow-right"></Icon><span>{{ props.language }}</span>
-            </div>
-            <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
-            <div v-if="isLoading" :class="props.class" class="prose-code">読み込み中</div>
-            <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
-            <div v-else :class="props.class" class="prose-code" v-html="codeHtml"></div>
         </div>
     </ClientOnly>
 </template>
 
 <style>
 .prose-code {
-    backdrop-filter: var(--prose-code-block-backdropFilter);
-    background-color: var(--prose-code-block-backgroundColor);
-    color: var(--prose-code-block-color);
-    font-size: var(--prose-code-block-fontSize);
+    background-color: #fbfbfb;
+    color: #36332e;
+    font-size: 14px;
     overflow: hidden;
     position: relative;
     width: 100%;
@@ -85,10 +85,10 @@ onMounted(async () => {
 pre {
     display: flex;
     flex: 1;
-    line-height: var(--typography-lead-relaxed);
+    line-height: 1.625;
     margin: 0;
     overflow-x: auto;
-    padding: var(--prose-code-block-pre-padding);
+    padding: 16px;
 }
 pre code {
     width: 100%;

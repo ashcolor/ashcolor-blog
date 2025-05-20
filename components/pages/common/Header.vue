@@ -13,11 +13,11 @@ const onMenuClick = () => {
 </script>
 
 <template>
-    <div class="navbar border-b bg-base-100/75 backdrop-blur">
-        <div class="container m-auto">
+    <div class="navbar shadow-sm bg-base-100/75 backdrop-blur">
+        <div class="container m-auto flex flex-row">
             <div class="navbar-start flex w-full flex-row lg:w-1/2">
-                <details ref="menuDropDownRef" class="dropdown">
-                    <summary class="btn btn-ghost px-2 sm:px-4 lg:hidden">
+                <details ref="menuDropDownRef" class="dropdown lg:hidden">
+                    <summary class="btn btn-ghost px-2 sm:px-4">
                         <Icon name="bi:list" size="24px"></Icon>
                     </summary>
                     <ul
