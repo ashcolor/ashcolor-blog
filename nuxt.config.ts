@@ -3,6 +3,9 @@ import { BLOG_TITLE, BLOG_CATEGORIES } from "./utils/const";
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+    unhead: {
+        legacy: true,
+    },
     vite: {
         plugins: [tailwindcss()],
     },
