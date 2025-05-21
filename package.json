@@ -43,7 +43,7 @@
     "lint-staged": "^15.2.0",
     "markdownlint": "^0.29.0",
     "markdownlint-cli2": "^0.11.0",
-    "nuxt": "^3.11.2",
+    "nuxt": "^3.17.4",
     "nuxt-gtag": "^0.5.7",
     "nuxt-icon": "^0.6.8",
     "nuxt-schema-org": "^3.3.2",
