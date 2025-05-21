@@ -1,0 +1,48 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@plugin "daisyui";
+@plugin "daisyui/theme" {
+    name: "mytheme";
+    default: true; /* set as default */
+    prefersdark: false;
+    color-scheme: light;
+
+    --color-primary: #535353;
+    --color-primary-content: #ffffff;
+    --color-secondary: #fde68a;
+    --color-accent: #37cdbe;
+    --color-neutral: #acacac;
+
+    --radius-selector: 0;
+    --radius-field: 0;
+    --radius-box: 0;
+}
+@theme {
+    --font-sans: "Noto Sans JP", sans-serif;
+    --font-logo: "M PLUS Rounded 1c", sans-serif;
+}
+
+body {
+    font-family: "Roboto", "sans-serif", "Hiragino Sans", "Meiryo", "Hiragino Kaku Gothic ProN";
+    overflow-x: hidden;
+}
+
+.badge {
+    text-wrap: nowrap;
+}
+
+.marker {
+    background: linear-gradient(transparent 60%, #ffff6688 60%);
+}
+
+.line-through {
+    text-decoration-line: line-through;
+}
+
+.key-black {
+    @apply bg-base-content text-base-100;
+}
+
+.border {
+    @apply border-base-300;
+}

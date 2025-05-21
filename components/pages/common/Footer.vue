@@ -5,7 +5,7 @@ const showCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
 </script>
 
 <template>
-    <footer class="footer justify-evenly bg-base-200 p-10 text-base-content">
+    <footer class="footer sm:footer-horizontal justify-evenly bg-base-200 p-10 text-base-content">
         <div class="flex w-full flex-col gap-4">
             <span class="footer-title opacity-80">BLOG</span>
             <NuxtLink
