@@ -1,3 +1,4 @@
+import { definePerson } from "nuxt-schema-org/schema";
 import tailwindcss from "@tailwindcss/vite";
 import { BLOG_TITLE, BLOG_CATEGORIES } from "./utils/const";
 
@@ -92,7 +93,13 @@ export default defineNuxtConfig({
     },
 
     schemaOrg: {
-        identity: "Person",
+        identity: definePerson({
+            name: "あっしゅからー",
+            image: "/img/author.png",
+            description: "システムエンジニア / DTMer",
+            url: "https://twitter.com/ashcolor06",
+            sameAs: ["https://github.com/ashcolor"],
+        }),
     },
 
     eslint: {
