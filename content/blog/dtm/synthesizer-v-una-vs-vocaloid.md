@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/11/01"
-updatedAt: ""
+updatedAt:
 title: "Synthesizer V AI 音街ウナ発売決定！歌声や機能をVOCALOID版と比較しながらまとめました"
 description: "Synthesizer V版とVOCALOID版の音街ウナの歌声と機能を比較しました。"
 category: "DTM"

@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/05/17"
-updatedAt: ""
+updatedAt:
 title: "Vercel(Hobby)→AWS Amplify 移行して分かった両者の違い"
 description: "VercelとAWS Amplifyの料金体系や機能の違いについて解説します。"
 category: "プログラミング"

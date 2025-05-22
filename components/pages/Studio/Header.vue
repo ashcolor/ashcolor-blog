@@ -1,8 +1,8 @@
 <script lang="ts" setup></script>
 
 <template>
-    <div class="navbar border-b bg-base-100/75 backdrop-blur">
-        <div class="container m-auto">
+    <div class="navbar shadow-sm bg-base-100/75">
+        <div class="container m-auto flex flex-row">
             <div class="navbar-start flex w-full flex-row lg:w-1/2">
                 <div class="dropdown">
                     <label tabindex="0" class="btn btn-ghost px-2 sm:px-4 lg:hidden">

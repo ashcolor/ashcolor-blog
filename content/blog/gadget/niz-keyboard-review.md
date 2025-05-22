@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/12/04"
-updatedAt: ""
+updatedAt:
 title: "Niz キーボードレビュー！長期間使って分かったメリットとデメリット"
 description: "Niz キーボードのメリットとデメリットをまとめました。"
 category: "ガジェット"

@@ -7,12 +7,8 @@ const props = withDefaults(defineProps<Props>(), {
     url: "",
 });
 
-const { data: article, pending } = await useLazyAsyncData(
-    `quote-article-card-${props.url}`,
-    () => queryContent(props.url).without(["body"]).findOne(),
-    {
-        server: false,
-    }
+const { data: article, pending } = await useLazyAsyncData(`quote-article-card-${props.url}`, () =>
+    queryCollection("blog").path(props.url).first()
 );
 </script>
 
@@ -20,14 +16,14 @@ const { data: article, pending } = await useLazyAsyncData(
     <div class="py-4">
         <ArticleCardHorizontal
             v-if="!pending && article"
-            :key="article._path"
-            :link-path="article._path"
-            :thumbnail="article.thumbnail"
+            :key="article.id"
+            :link-path="article.path"
+            :thumbnail="article.thumbnail || null"
             :title="article.title"
-            :category="article?.category"
+            :category="article.category || null"
             :tags="article.tags"
-            :created-at="article.createdAt"
-            :updated-at="article.updatedAt"
+            :created-at="article.createdAt || null"
+            :updated-at="article.updatedAt || null"
         ></ArticleCardHorizontal>
         <div v-else></div>
     </div>

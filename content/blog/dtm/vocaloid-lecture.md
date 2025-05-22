@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/06/06"
-updatedAt: ""
+updatedAt:
 title: "簡単ボカロ調声講座【VOCALOID・Synthesizer V】"
 description: "ボカロの調声方法を初心者でも分かるように簡単に説明します。"
 category: "DTM"

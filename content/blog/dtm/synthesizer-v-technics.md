@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/12/27"
-updatedAt: ""
+updatedAt:
 title: "Synthesizer V簡単で効果的な調声テクニック3選"
 description: "Synthesizer Vの簡単で効果的な調声テクニックを3つ紹介します。"
 category: "DTM"
