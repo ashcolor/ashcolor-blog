@@ -1,33 +1,35 @@
-// import { SitemapStream, streamToPromise } from "sitemap";
-// import { serverQueryContent } from "#content/server";
-// import { BLOG_CATEGORIES } from "@/utils/const";
+import { SitemapStream, streamToPromise } from "sitemap";
+import { BLOG_CATEGORIES } from "@/utils/const";
 
-// export default defineEventHandler(async (event) => {
-//     const sitemap = new SitemapStream({
-//         hostname: import.meta.env.VITE_NUXT_PUBLIC_SITE_URL,
-//     });
+export default defineEventHandler(async (event) => {
+    const sitemap = new SitemapStream({
+        hostname: import.meta.env.VITE_NUXT_PUBLIC_SITE_URL,
+    });
 
-//     sitemap.write({
-//         url: "/",
-//     });
+    sitemap.write({
+        url: "/",
+    });
 
-//     for (const category of BLOG_CATEGORIES) {
-//         sitemap.write({
-//             url: category.path,
-//         });
-//     }
+    for (const category of BLOG_CATEGORIES) {
+        sitemap.write({
+            url: category.path,
+        });
+    }
 
-//     const docs = await serverQueryContent(event).find();
-//     for (const doc of docs) {
-//         if (doc._path?.startsWith("/_")) continue;
+    const blogs = await queryCollection(event, "blog").all();
+    const others = await queryCollection(event, "other").all();
+    const docs = blogs.concat(others);
 
-//         const lastModString = doc.updatedAt || doc.createdAt;
-//         sitemap.write({
-//             url: doc._path,
-//             lastmod: lastModString ? `${lastModString.replace(/\//g, "-")}T09:00:00.000+09:00` : "",
-//         });
-//     }
-//     sitemap.end();
+    for (const doc of docs) {
+        if (doc.path?.startsWith("/_")) continue;
 
-//     return streamToPromise(sitemap);
-// });
+        const lastModString = doc.updatedAt || doc.createdAt;
+        sitemap.write({
+            url: doc.path,
+            lastmod: lastModString ? `${lastModString.replace(/\//g, "-")}T09:00:00.000+09:00` : "",
+        });
+    }
+    sitemap.end();
+
+    return streamToPromise(sitemap);
+});
