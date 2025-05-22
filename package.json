@@ -20,8 +20,8 @@
     "format:check": "prettier --check ./**/*.{ts,js,vue}",
     "lint": "eslint --max-warnings=0 --ext .ts,.js,.vue .",
     "lint:fix": "eslint --ext .ts,.js,.vue . --fix",
-    "mdlint": "markdownlint-cli2 **/*.md #node_modules #.nuxt",
-    "mdlint:fix": "markdownlint-cli2 --fix **/*.md #node_modules #.nuxt",
+    "mdlint": "markdownlint-cli2 **/*.md '#node_modules' '#.nuxt'",
+    "mdlint:fix": "markdownlint-cli2 --fix **/*.md '#node_modules' '#.nuxt'",
     "prepare": "husky install",
     "lint-staged": "lint-staged"
   },
