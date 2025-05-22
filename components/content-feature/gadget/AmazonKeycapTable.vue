@@ -1,13 +1,8 @@
 <script setup lang="ts">
-const { data, pending } = await useLazyAsyncData(
-    () => queryContent("/data/amazon-keycap").findOne(),
-    {
-        server: false,
-    }
-);
+const { data, pending } = useLazyAsyncData(() => queryCollection("keyCaps").first());
 
 const keycaps = computed(() => {
-    if (!data.value.body) return [];
+    if (!data.value?.body) return [];
     return data.value?.body;
 });
 </script>

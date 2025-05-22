@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/01/07"
-updatedAt: ""
+updatedAt:
 title: "CIDOO V65 V2レビュー！基本スペック、良い点、注意点まとめ"
 description: "CIDOO V65 V2の基本スペックから良い点、注意点をまとめました"
 category: "ガジェット"

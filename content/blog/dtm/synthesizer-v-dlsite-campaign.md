@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/07/01"
-updatedAt: ""
+updatedAt:
 title: "【終了】DLsiteにてSynthesizer Vが10%OFF！クーポン併用も可能"
 description: "DLsiteのSynthesizer V 10%OFFセールについてまとめました。"
 category: "DTM"

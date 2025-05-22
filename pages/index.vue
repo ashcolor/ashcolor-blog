@@ -14,9 +14,8 @@ useSeoMeta({
 });
 
 const { data: articleTags, pending } = await useLazyAsyncData(
-    () => {
-        return queryContent("/blog").only("tags").find();
-    },
+    "tags",
+    () => queryCollection("blog").select("tags").all(),
     {
         default: () => [],
         server: false,

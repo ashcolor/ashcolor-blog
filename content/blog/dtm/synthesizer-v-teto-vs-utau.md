@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/07/03"
-updatedAt: ""
+updatedAt:
 title: "重音テト Synthesizer V版とUTAU版の違い"
 description: "Synthesizer V版とUTAU版の重音テトの歌声とスペックを比較しました。"
 category: "DTM"

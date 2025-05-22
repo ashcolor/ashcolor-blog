@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/08/01"
-updatedAt: ""
+updatedAt:
 title: "【Python】Cloud StorageにアップロードするオブジェクトのCache-Controlを変更する"
 description: ""
 category: "プログラミング"

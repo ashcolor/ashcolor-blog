@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/09/15"
-updatedAt: ""
+updatedAt:
 title: "Notion 関数2.0アップデート！便利な使い方や注意点まとめ"
 description: "Notionの関数機能を使うときの注意点や便利な使い方についてまとめています。"
 category: "Notion"

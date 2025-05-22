@@ -1,13 +1,8 @@
 <script setup lang="ts">
-const { data, pending } = useLazyAsyncData(
-    () => queryContent("/data/synthesizer-v-singer").findOne(),
-    {
-        server: false,
-    }
-);
+const { data, pending } = useLazyAsyncData(() => queryCollection("singer").first());
 
 const singers = computed(() => {
-    if (!data.value.body) return [];
+    if (!data.value?.body) return [];
     return data.value?.body;
 });
 

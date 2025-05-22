@@ -17,10 +17,12 @@ useHead({
     ],
 });
 
-const { data: article } = await useAsyncData(() => queryContent(route.path).findOne());
+const { data: article } = await useAsyncData(route.path, () =>
+    queryCollection("blog").path(route.path).first()
+);
 
 const title = computed(() => `${article.value?.title} | ${BLOG_TITLE}`);
-const url = computed(() => `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}${article.value?._path}`);
+const url = computed(() => `${import.meta.env.VITE_NUXT_PUBLIC_SITE_URL}${article.value?.path}`);
 
 useSeoMeta({
     title: title.value,
@@ -71,10 +73,10 @@ const navigations = computed(() => {
             <ProseH1>{{ article?.title }}</ProseH1>
             <div class="flex flex-row items-center gap-2 overflow-auto text-sm text-slate-500">
                 <IconWithText v-if="article?.createdAt" name="ph:clock">
-                    {{ article?.createdAt }}
+                    {{ Util.formatDate(article.createdAt) }}
                 </IconWithText>
                 <IconWithText v-if="article?.updatedAt" name="ph:clock-clockwise">
-                    {{ article?.updatedAt }}
+                    {{ Util.formatDate(article.updatedAt) }}
                 </IconWithText>
                 <div class="flex flex-row gap-1 py-2">
                     <NuxtLink
@@ -120,14 +122,16 @@ const navigations = computed(() => {
 
                 <ProseH3>関連記事</ProseH3>
                 <BlogRelationArticles
-                    :current-path="article?._path"
+                    :current-path="article?.path"
+                    :category="article?.category"
                     :tags="article?.tags"
                 ></BlogRelationArticles>
 
                 <ProseH3>オススメ記事</ProseH3>
                 <BlogRecommendArticles
-                    :current-path="article?._path"
+                    :current-path="article?.path"
                     :category="article?.category"
+                    :tags="article?.tags"
                 ></BlogRecommendArticles>
 
                 <ProseH3>このブログを運営している人</ProseH3>

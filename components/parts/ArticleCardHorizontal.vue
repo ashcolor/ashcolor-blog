@@ -1,11 +1,11 @@
 <script setup lang="ts">
 interface Props {
     linkPath: string;
-    thumbnail: string;
+    thumbnail: string | null;
     title: string;
-    category: string;
-    createdAt: string;
-    updatedAt: string;
+    category: string | null;
+    createdAt: string | null;
+    updatedAt: string | null;
 }
 
 const props = withDefaults(defineProps<Props>(), {
@@ -13,8 +13,8 @@ const props = withDefaults(defineProps<Props>(), {
     thumbnail: "",
     title: "",
     category: "",
-    createdAt: "",
-    updatedAt: "",
+    createdAt: null,
+    updatedAt: null,
 });
 </script>
 
@@ -30,10 +30,10 @@ const props = withDefaults(defineProps<Props>(), {
             <h3 class="card-title text-base">{{ props.title }}</h3>
             <div class="flex flex-row gap-2 text-sm text-slate-500">
                 <IconWithText v-if="props.createdAt" name="ph:clock">
-                    {{ props.createdAt }}
+                    {{ Util.formatDate(props.createdAt) }}
                 </IconWithText>
                 <IconWithText v-if="props.updatedAt" name="ph:clock-clockwise">
-                    {{ props.updatedAt }}
+                    {{ Util.formatDate(props.updatedAt) }}
                 </IconWithText>
             </div>
         </div>

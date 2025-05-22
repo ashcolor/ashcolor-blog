@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/05/11"
-updatedAt: ""
+updatedAt:
 title: "Synthesizer Vの調声を学ぶ際に役立つサイトまとめ"
 description: "Synthesizer Vの調声を学ぶ際に役立つサイトをまとめました。"
 category: "DTM"

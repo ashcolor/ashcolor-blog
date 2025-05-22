@@ -27,7 +27,6 @@ export default defineNuxtConfig({
     css: ["@/assets/css/main.css"],
 
     build: {},
-    // extends: "@nuxt-themes/typography",
 
     modules: [
         "@nuxtjs/eslint-module",
@@ -54,25 +53,26 @@ export default defineNuxtConfig({
     },
 
     content: {
-        markdown: {
-            remarkPlugins: ["remark-breaks"],
-        },
-        highlight: {
-            theme: "github-dark",
-            langs: [
-                "markdown",
-                "html",
-                "css",
-                "javascript",
-                "js",
-                "jsx",
-                "ts",
-                "php",
-                "vue",
-                "python",
-                "bash",
-                "diff",
-            ],
+        build: {
+            markdown: {
+                highlight: {
+                    theme: "github-dark",
+                    langs: [
+                        "markdown",
+                        "html",
+                        "css",
+                        "javascript",
+                        "js",
+                        "jsx",
+                        "ts",
+                        "php",
+                        "vue",
+                        "python",
+                        "bash",
+                        "diff",
+                    ],
+                },
+            },
         },
     },
 

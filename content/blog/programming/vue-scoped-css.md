@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/06/12"
-updatedAt: ""
+updatedAt:
 title: "Vueのスコープ付きCSSで子コンポーネントにCSSを適用する【Vue3】"
 description: "スコープ付きCSSで子コンポーネントにCSSを適用する方法を説明します。"
 category: "プログラミング"

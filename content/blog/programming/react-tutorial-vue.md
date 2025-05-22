@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/06/22"
-updatedAt: ""
+updatedAt:
 title: "React公式チュートリアルをVueでも書いて比較してみた"
 description: "React公式チュートリアルをVueで書いて、コードを比較してみます。"
 category: "プログラミング"

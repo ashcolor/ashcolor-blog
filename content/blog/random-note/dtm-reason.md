@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/08/01"
-updatedAt: ""
+updatedAt:
 title: "DTMをはじめたきっかけ"
 description: "DTMをはじめたきっかけ"
 category: "雑記"

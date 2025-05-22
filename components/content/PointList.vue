@@ -23,7 +23,7 @@ const quotedListStyle = computed(() => {
         <div>
             <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
             <ul class="point-list flex flex-col gap-2">
-                <ContentSlot :use="$slots.default" unwrap="ul" />
+                <slot />
             </ul>
         </div>
     </div>
