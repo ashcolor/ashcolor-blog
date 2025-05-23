@@ -7,7 +7,7 @@ const props = withDefaults(defineProps<Props>(), {
     url: "",
 });
 
-const { data: article, pending } = await useLazyAsyncData(props.url, () =>
+const { data: article, pending } = await useLazyAsyncData("quote-article" + props.url, () =>
     queryCollection("blog").path(props.url).first()
 );
 </script>
