@@ -41,7 +41,7 @@ const showCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
     </footer>
     <footer class="footer footer-center rounded bg-base-200 p-10 text-base-content">
         <div>
-            <p>Copyright © 2024 あっしゅからー - All right reserved</p>
+            <p>Copyright © 2025 あっしゅからー - All right reserved</p>
         </div>
     </footer>
 </template>

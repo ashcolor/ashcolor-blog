@@ -13,20 +13,32 @@ const props = withDefaults(defineProps<Props>(), {
 
 const LIMIT = 6;
 
-const { data: articles, pending } = await useLazyAsyncData(() => {
-    const query = queryCollection("blog");
-    query.select("id", "path", "title", "category", "tags", "thumbnail", "createdAt", "updatedAt");
-    query.where("isRecommend", "=", true);
-    if (props.currentPath) {
-        query.where("path", "<>", props.currentPath);
+const { data: articles, pending } = await useLazyAsyncData(
+    "recommented-articles" + props.currentPath + props.category,
+    () => {
+        const query = queryCollection("blog");
+        query.select(
+            "id",
+            "path",
+            "title",
+            "category",
+            "tags",
+            "thumbnail",
+            "createdAt",
+            "updatedAt"
+        );
+        query.where("isRecommend", "=", true);
+        if (props.currentPath) {
+            query.where("path", "<>", props.currentPath);
+        }
+        if (props.category) {
+            query.where("category", "=", props.category);
+        }
+        query.order("createdAt", "DESC");
+        query.limit(LIMIT);
+        return query.all();
     }
-    if (props.category) {
-        query.where("category", "=", props.category);
-    }
-    query.order("createdAt", "DESC");
-    query.limit(LIMIT);
-    return query.all();
-});
+);
 </script>
 <template>
     <div v-if="pending">

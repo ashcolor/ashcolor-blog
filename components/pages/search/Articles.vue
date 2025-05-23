@@ -36,13 +36,16 @@ const {
     data: articles,
     execute: fetchArticle,
     pending,
-} = await useLazyAsyncData(() => {
-    const newQuery = query.value;
-    newQuery.order("createdAt", "DESC");
-    newQuery.skip(LIMIT * (currentPage.value - 1));
-    newQuery.limit(LIMIT);
-    return newQuery.all();
-});
+} = await useLazyAsyncData(
+    "articles" + currentPage.value + searchCategory.value + searchWord.value,
+    () => {
+        const newQuery = query.value;
+        newQuery.order("createdAt", "DESC");
+        newQuery.skip(LIMIT * (currentPage.value - 1));
+        newQuery.limit(LIMIT);
+        return newQuery.all();
+    }
+);
 
 const articleCount = computedAsync(async () => {
     const newQuery = query.value;

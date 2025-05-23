@@ -9,16 +9,28 @@ const props = withDefaults(defineProps<Props>(), {
 
 const LIMIT = 6;
 
-const { data: articles, pending } = await useLazyAsyncData("top-recent" + props.category, () => {
-    const query = queryCollection("blog");
-    query.select("id", "path", "title", "category", "tags", "thumbnail", "createdAt", "updatedAt");
-    if (props.category) {
-        query.where("category", "=", props.category);
+const { data: articles, pending } = await useLazyAsyncData(
+    "top-recent-articles" + props.category,
+    () => {
+        const query = queryCollection("blog");
+        query.select(
+            "id",
+            "path",
+            "title",
+            "category",
+            "tags",
+            "thumbnail",
+            "createdAt",
+            "updatedAt"
+        );
+        if (props.category) {
+            query.where("category", "=", props.category);
+        }
+        query.order("createdAt", "DESC");
+        query.limit(LIMIT);
+        return query.all();
     }
-    query.order("createdAt", "DESC");
-    query.limit(LIMIT);
-    return query.all();
-});
+);
 </script>
 <template>
     <div v-if="pending">

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const { data, pending } = useLazyAsyncData(() => queryCollection("keyCaps").first());
+const { data, pending } = useLazyAsyncData("key-caps", () => queryCollection("keyCaps").first());
 
 const keycaps = computed(() => {
     if (!data.value?.body) return [];

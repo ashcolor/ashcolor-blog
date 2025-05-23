@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const { data, pending } = useLazyAsyncData(() => queryCollection("singer").first());
+const { data, pending } = useLazyAsyncData("singer", () => queryCollection("singer").first());
 
 const singers = computed(() => {
     if (!data.value?.body) return [];
