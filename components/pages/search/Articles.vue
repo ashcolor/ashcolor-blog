@@ -54,6 +54,9 @@ const articleCount = computedAsync(async () => {
 });
 
 const totalPage = computed(() => {
+    if (!articleCount.value) {
+        return 1;
+    }
     return Math.ceil(articleCount.value / LIMIT);
 });
 
