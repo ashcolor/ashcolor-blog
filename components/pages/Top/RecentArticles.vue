@@ -9,19 +9,28 @@ const props = withDefaults(defineProps<Props>(), {
 
 const LIMIT = 6;
 
-const { data: articles, pending } = await useLazyAsyncData(() => {
-    const query = queryContent("/blog/");
-
-    query.limit(LIMIT);
-    query.sort({ createdAt: -1 });
-    query.without(["body"]);
-
-    if (props.category) {
-        query.where({ category: props.category });
+const { data: articles, pending } = await useLazyAsyncData(
+    "top-recent-articles" + props.category,
+    () => {
+        const query = queryCollection("blog");
+        query.select(
+            "id",
+            "path",
+            "title",
+            "category",
+            "tags",
+            "thumbnail",
+            "createdAt",
+            "updatedAt"
+        );
+        if (props.category) {
+            query.where("category", "=", props.category);
+        }
+        query.order("createdAt", "DESC");
+        query.limit(LIMIT);
+        return query.all();
     }
-
-    return query.find();
-});
+);
 </script>
 <template>
     <div v-if="pending">
@@ -29,19 +38,19 @@ const { data: articles, pending } = await useLazyAsyncData(() => {
     </div>
     <template v-else>
         <div
-            v-if="articles.length > 0"
+            v-if="articles && articles.length > 0"
             class="flex flex-col flex-wrap place-content-center gap-8 md:flex-row"
         >
             <ArticleCardVertical
                 v-for="article in articles"
-                :key="article._path"
-                :link-path="article._path"
-                :thumbnail="article.thumbnail"
+                :key="article.id"
+                :link-path="article.path"
+                :thumbnail="article.thumbnail || null"
                 :title="article.title"
-                :category="article?.category"
+                :category="article.category || null"
                 :tags="article.tags"
-                :created-at="article.createdAt"
-                :updated-at="article.updatedAt"
+                :created-at="article.createdAt || null"
+                :updated-at="article.updatedAt || null"
             ></ArticleCardVertical>
         </div>
         <div v-else>

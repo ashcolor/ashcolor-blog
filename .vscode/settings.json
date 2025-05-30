@@ -1,1 +1,4 @@
-{ "files.trimTrailingWhitespace": false }
+{
+    "files.trimTrailingWhitespace": false,
+    "postman.settings.dotenv-detection-notification-visibility": false
+}

@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/07/11"
-updatedAt: ""
+updatedAt:
 title: "Ample Guitar キースイッチ一覧"
 description: "VST音源であるAmple Guitarのキースイッチについてまとめます。"
 category: "DTM"

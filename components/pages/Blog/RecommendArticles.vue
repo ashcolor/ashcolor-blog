@@ -14,32 +14,29 @@ const props = withDefaults(defineProps<Props>(), {
 const LIMIT = 6;
 
 const { data: articles, pending } = await useLazyAsyncData(
+    "recommented-articles" + props.currentPath + props.category,
     () => {
-        const query = queryContent("/blog/");
-
-        query.limit(LIMIT);
-        query.sort({ createdAt: -1 });
-        query.where({ isRecommend: true });
-        query.without(["body"]);
-
+        const query = queryCollection("blog");
+        query.select(
+            "id",
+            "path",
+            "title",
+            "category",
+            "tags",
+            "thumbnail",
+            "createdAt",
+            "updatedAt"
+        );
+        query.where("isRecommend", "=", true);
         if (props.currentPath) {
-            query.where({
-                _path: { $ne: props.currentPath },
-            });
+            query.where("path", "<>", props.currentPath);
         }
-
         if (props.category) {
-            query.where({ category: props.category });
+            query.where("category", "=", props.category);
         }
-
-        if (props.tags.length) {
-            query.where({ tags: { $in: props.tags } });
-        }
-
-        return query.find();
-    },
-    {
-        server: false,
+        query.order("createdAt", "DESC");
+        query.limit(LIMIT);
+        return query.all();
     }
 );
 </script>
@@ -48,17 +45,17 @@ const { data: articles, pending } = await useLazyAsyncData(
         <div class="loading loading-spinner mx-auto my-8 block text-primary"></div>
     </div>
     <template v-else>
-        <div v-if="articles.length > 0" class="flex flex-col gap-8">
+        <div v-if="articles && articles.length > 0" class="flex flex-col gap-8">
             <ArticleCardHorizontal
                 v-for="article in articles"
-                :key="article._path"
-                :link-path="article._path"
-                :thumbnail="article.thumbnail"
+                :key="article.id"
+                :link-path="article.path"
+                :thumbnail="article.thumbnail || null"
                 :title="article.title"
-                :category="article?.category"
+                :category="article.category || null"
                 :tags="article.tags"
-                :created-at="article.createdAt"
-                :updated-at="article.updatedAt"
+                :created-at="article.createdAt || null"
+                :updated-at="article.updatedAt || null"
             ></ArticleCardHorizontal>
         </div>
         <div v-else>

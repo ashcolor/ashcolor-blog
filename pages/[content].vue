@@ -3,7 +3,9 @@ import { BLOG_TITLE } from "@/utils/const";
 
 const route = useRoute();
 
-const { data: article } = await useAsyncData(() => queryContent(route.path).findOne());
+const { data: article } = await useAsyncData(route.path, () =>
+    queryCollection("other").path(`/other${route.path}`).first()
+);
 
 useSeoMeta({
     title: `${article.value?.title} | ${BLOG_TITLE}`,
@@ -16,13 +18,9 @@ useSeoMeta({
         <ProseH1 class="text-center">{{ BLOG_TITLE }}</ProseH1>
         <div class="mb-8">
             <ProseH1>{{ article.title }}</ProseH1>
-            <p class="text-sm font-light">{{ article.createdAt }}</p>
         </div>
         <div class="grid grid-cols-12">
             <div class="col-span-12 flex flex-col gap-4 lg:col-span-8">
-                <div v-if="article.thumbnail" class="mx-auto mb-8">
-                    <img :src="article.thumbnail" />
-                </div>
                 <div class="col-span-4 mb-8 block lg:hidden">
                     <BlogPageToc :links="article?.body?.toc?.links || []"></BlogPageToc>
                 </div>

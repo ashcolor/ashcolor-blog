@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/04/30"
-updatedAt: ""
+updatedAt:
 title: "【神調教】お気に入りのSynthesizer Vカバー動画 10選+α"
 description: "Synthesizer Vのカバー動画を10+α紹介します。"
 category: "DTM"

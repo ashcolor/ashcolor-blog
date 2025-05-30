@@ -5,7 +5,7 @@ const showCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
 </script>
 
 <template>
-    <footer class="footer justify-evenly bg-base-200 p-10 text-base-content">
+    <footer class="footer sm:footer-horizontal justify-evenly bg-base-200 p-10 text-base-content">
         <div class="flex w-full flex-col gap-4">
             <span class="footer-title opacity-80">BLOG</span>
             <NuxtLink
@@ -41,7 +41,7 @@ const showCategories = BLOG_CATEGORIES.filter((category) => category.isShowList)
     </footer>
     <footer class="footer footer-center rounded bg-base-200 p-10 text-base-content">
         <div>
-            <p>Copyright © 2024 あっしゅからー - All right reserved</p>
+            <p>Copyright © 2025 あっしゅからー - All right reserved</p>
         </div>
     </footer>
 </template>

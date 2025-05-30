@@ -7,13 +7,12 @@ const { data, execute } = await useLazyAsyncData(
     asin.value,
     () => {
         const query = { asin: asin.value };
-        return $fetch(`/api/amazon-product-advertising?${query}`, {
+        return $fetch(`/api/amazon-product-advertising`, {
             query,
         });
     },
     {
         immediate: false,
-        server: false,
     }
 );
 

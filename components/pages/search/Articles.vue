@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import type { BlogCollectionItem, CollectionQueryBuilder } from "@nuxt/content";
 import { createReusableTemplate } from "@vueuse/core";
 
 const [DefinePaginationTemplate, PaginationTemplate] = createReusableTemplate();
@@ -10,62 +11,53 @@ const currentPage = ref(parseInt(typeof params.page === "string" ? params.page :
 const searchCategory = ref(typeof params.category === "string" ? params.category : "");
 const searchWord = ref(typeof params.word === "string" ? params.word : "");
 
-const where = computed(() => {
-    const where = {};
+const filterQuery = (query: CollectionQueryBuilder<BlogCollectionItem>) => {
     if (searchCategory.value) {
-        where.category = searchCategory.value;
+        query.where("category", "=", searchCategory.value);
     }
-
     if (searchWord.value) {
-        where.$or = [
-            {
-                title: {
-                    $regex: `/${searchWord.value}/i`,
-                },
-            },
-            {
-                tags: { $icontains: searchWord.value },
-            },
-        ];
+        query.orWhere((query) =>
+            query
+                .where("tags", "LIKE", `%${searchWord.value}%`)
+                .where("title", "LIKE", `%${searchWord.value}%`)
+        );
     }
+    return query;
+};
 
-    return where;
-});
-
-const { data: articleCount, execute: fetchCount } = await useLazyAsyncData(
-    () => {
-        const countQuery = queryContent("blog");
-        countQuery.where(where.value);
-        return countQuery.count();
-    },
-    {
-        server: false,
-    }
-);
-
-const totalPage = computed(() => {
-    return Math.ceil(articleCount.value / LIMIT);
+const query = computed(() => {
+    const query = queryCollection("blog");
+    query.select("id", "path", "title", "category", "tags", "thumbnail", "createdAt", "updatedAt");
+    filterQuery(query);
+    return query;
 });
 
 const {
     data: articles,
     execute: fetchArticle,
     pending,
-} = await useLazyAsyncData(() => {
-    const query = queryContent("blog");
+} = await useLazyAsyncData(
+    "articles" + currentPage.value + searchCategory.value + searchWord.value,
+    () => {
+        const newQuery = query.value;
+        newQuery.order("createdAt", "DESC");
+        newQuery.skip(LIMIT * (currentPage.value - 1));
+        newQuery.limit(LIMIT);
+        return newQuery.all();
+    }
+);
 
-    query.where(where.value);
+const articleCount = computedAsync(async () => {
+    const newQuery = query.value;
+    const count = await newQuery.count();
+    return count;
+});
 
-    query.limit(LIMIT);
-    query.without(["body"]);
-
-    const sort = typeof params.sort === "string" ? Util.kebabToCamelCase(params.sort) : "createdAt";
-    const orderValue = params.order === "asc" ? 1 : -1;
-    query.sort({ [sort]: orderValue });
-
-    query.skip(LIMIT * (currentPage.value - 1));
-
-    return query.find();
+const totalPage = computed(() => {
+    if (!articleCount.value) {
+        return 1;
+    }
+    return Math.ceil(articleCount.value / LIMIT);
 });
 
 const isNextPageAvailable = computed(() => {
@@ -75,7 +67,6 @@ const isNextPageAvailable = computed(() => {
 watch(currentPage, (newPage) => {
     params.page = newPage.toString();
     fetchArticle();
-    fetchCount();
 });
 
 const onClickSearchButton = () => {
@@ -83,7 +74,6 @@ const onClickSearchButton = () => {
     params.category = searchCategory.value;
     params.word = searchWord.value;
     fetchArticle();
-    fetchCount();
 };
 </script>
 <template>
@@ -146,19 +136,19 @@ const onClickSearchButton = () => {
         </div>
         <template v-else>
             <div
-                v-if="articles?.length > 0"
+                v-if="articles && articles?.length > 0"
                 class="flex flex-col flex-wrap place-content-center gap-8 md:flex-row"
             >
                 <ArticleCardVertical
                     v-for="article in articles"
-                    :key="article._path"
-                    :link-path="article._path"
-                    :thumbnail="article.thumbnail"
+                    :key="article.id"
+                    :link-path="article.path"
+                    :thumbnail="article.thumbnail || null"
                     :title="article.title"
-                    :category="article.category"
+                    :category="article.category || null"
                     :tags="article.tags"
-                    :created-at="article.createdAt"
-                    :updated-at="article.updatedAt"
+                    :created-at="article.createdAt || null"
+                    :updated-at="article.updatedAt || null"
                 ></ArticleCardVertical>
             </div>
             <div v-else>

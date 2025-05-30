@@ -1,7 +1,12 @@
+import { definePerson } from "nuxt-schema-org/schema";
+import tailwindcss from "@tailwindcss/vite";
 import { BLOG_TITLE, BLOG_CATEGORIES } from "./utils/const";
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+    vite: {
+        plugins: [tailwindcss()],
+    },
     nitro: {
         prerender: {
             routes: ["/sitemap.xml"],
@@ -19,12 +24,11 @@ export default defineNuxtConfig({
             ],
         },
     },
-    css: ["@/assets/css/tailwind.css"],
+    css: ["@/assets/css/main.css"],
+
     build: {},
-    extends: "@nuxt-themes/typography",
 
     modules: [
-        "@nuxtjs/tailwindcss",
         "@nuxtjs/eslint-module",
         "@nuxtjs/google-fonts",
         "@nuxt/content",
@@ -49,25 +53,26 @@ export default defineNuxtConfig({
     },
 
     content: {
-        markdown: {
-            remarkPlugins: ["remark-breaks"],
-        },
-        highlight: {
-            theme: "github-dark",
-            langs: [
-                "markdown",
-                "html",
-                "css",
-                "javascript",
-                "js",
-                "jsx",
-                "ts",
-                "php",
-                "vue",
-                "python",
-                "bash",
-                "diff",
-            ],
+        build: {
+            markdown: {
+                highlight: {
+                    theme: "github-dark",
+                    langs: [
+                        "markdown",
+                        "html",
+                        "css",
+                        "javascript",
+                        "js",
+                        "jsx",
+                        "ts",
+                        "php",
+                        "vue",
+                        "python",
+                        "bash",
+                        "diff",
+                    ],
+                },
+            },
         },
     },
 
@@ -88,7 +93,13 @@ export default defineNuxtConfig({
     },
 
     schemaOrg: {
-        identity: "Person",
+        identity: definePerson({
+            name: "あっしゅからー",
+            image: "/img/author.png",
+            description: "システムエンジニア / DTMer",
+            url: "https://twitter.com/ashcolor06",
+            sameAs: ["https://github.com/ashcolor"],
+        }),
     },
 
     eslint: {

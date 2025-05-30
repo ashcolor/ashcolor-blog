@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/05/31"
-updatedAt: ""
+updatedAt:
 title: "システムエンジニア/DTMerのデスク周り紹介 DTM（音楽）機器編"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。"
 category: "ガジェット"

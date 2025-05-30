@@ -1,6 +1,10 @@
 module.exports = {
     root: true,
-    extends: ["@nuxtjs/eslint-config-typescript", "plugin:tailwindcss/recommended", "prettier"],
+    extends: [
+        "@nuxtjs/eslint-config-typescript",
+        // "plugin:tailwindcss/recommended",
+        "prettier",
+    ],
     overrides: [
         {
             files: ["*.vue"],
@@ -15,7 +19,7 @@ module.exports = {
             },
         },
     ],
-    plugins: ["tailwindcss"],
+    // plugins: ["tailwindcss"],
     rules: {
         "import/named": 0,
     },

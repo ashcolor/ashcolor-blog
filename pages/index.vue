@@ -13,17 +13,14 @@ useSeoMeta({
     twitterCard: "summary_large_image",
 });
 
-const { data: articleTags, pending } = await useLazyAsyncData(
-    () => {
-        return queryContent("/blog").only("tags").find();
-    },
-    {
-        default: () => [],
-        server: false,
-    }
+const { data: articleTags, pending } = await useLazyAsyncData("tags", () =>
+    queryCollection("blog").select("tags").all()
 );
 
 const famousTags = computed(() => {
+    if (!articleTags.value) {
+        return [];
+    }
     const tags = articleTags.value?.map((article) => article.tags).flat();
     const tagCounts = new Map();
 

@@ -11,15 +11,17 @@ definePageMeta({
 
 const route = useRoute();
 
-const { data: article } = await useAsyncData(() => queryContent(route.path).findOne());
+const { data: article } = await useAsyncData(route.path, () =>
+    queryCollection("studio").path(route.path).first()
+);
 
-const links = article.value?.body.toc?.links;
+const links = article.value?.body?.toc?.links;
 </script>
 
 <template>
     <div class="grid grid-cols-12">
         <div class="col-span-12 flex flex-col gap-4 lg:col-span-8">
-            <ContentRenderer :value="article" />
+            <ContentRenderer v-if="article" :value="article" />
         </div>
         <div class="col-span-4 hidden px-4 lg:block">
             <div class="sticky top-24 flex flex-col">
