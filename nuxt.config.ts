@@ -29,7 +29,8 @@ export default defineNuxtConfig({
     build: {},
 
     modules: [
-        "@nuxtjs/eslint-module",
+        "@nuxt/eslint",
+        // "@nuxtjs/eslint-module",
         "@nuxtjs/google-fonts",
         "@nuxt/content",
         "nuxt-schema-org",
@@ -101,8 +102,7 @@ export default defineNuxtConfig({
             sameAs: ["https://github.com/ashcolor"],
         }),
     },
-
-    eslint: {
-        lintOnStart: false,
-    },
+    // eslint: {
+    // lintOnStart: false,
+    // },
 });
