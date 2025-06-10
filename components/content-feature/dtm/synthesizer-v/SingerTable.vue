@@ -6,13 +6,18 @@ const singers = computed(() => {
     return data.value?.body;
 });
 
+const versionFilter = ref<string>("");
 const languageFilter = ref<string>("");
 const genderFilter = ref<string>("");
 
-const sort = ref<string>("release");
-
 const filteredSingers = computed(() => {
     let tmpSingers = singers.value;
+
+    if (versionFilter.value) {
+        tmpSingers = tmpSingers.filter((singer) => {
+            return singer.version === versionFilter.value;
+        });
+    }
 
     if (languageFilter.value) {
         tmpSingers = tmpSingers.filter((singer) => {
@@ -28,7 +33,7 @@ const filteredSingers = computed(() => {
     }
 
     tmpSingers.sort((a, b) => {
-        return a[sort.value] < b[sort.value] ? 1 : -1;
+        return a.release < b.release ? 1 : -1;
     });
 
     return tmpSingers;
@@ -44,11 +49,15 @@ const filteredSingers = computed(() => {
             <div class="flex flex-col justify-evenly gap-2 md:flex-row">
                 <div class="form-control w-full max-w-xs">
                     <label class="label">
-                        <span class="label-text">ソート</span>
+                        <span class="label-text">バージョン</span>
                     </label>
-                    <select v-model="sort" class="select select-bordered select-sm w-full max-w-xs">
-                        <option value="release">発売日</option>
-                        <option value="company">発売元</option>
+                    <select
+                        v-model="versionFilter"
+                        class="select select-bordered select-sm w-full max-w-xs"
+                    >
+                        <option value="">すべて</option>
+                        <option value="2">2</option>
+                        <option value="1">1</option>
                     </select>
                 </div>
                 <div class="form-control w-full max-w-xs">

@@ -101,7 +101,7 @@ Niz には**キーマップ機能**があります。
 
 Niz のキーマップ変更ツールは公式が配布しています。
 
-:link-card{url="https://support.akeeyo.co.jp/hc/ja/articles/900001964603-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E6%9B%B4%E6%96%B0-%E3%82%AD%E3%83%BC%E3%83%9E%E3%83%83%E3%83%97%E5%A4%89%E6%9B%B4%E3%83%84%E3%83%BC%E3%83%AB-"}
+:link-card{url="https://support.niz.store/portal/ja/kb/articles/download#%E5%B0%82%E7%94%A8%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BB%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BB%E4%BB%95%E6%A7%98%E6%9B%B8"}
 
 キーマップ変更ツールの見た目は以下のようになっています。
 
