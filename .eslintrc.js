@@ -4,20 +4,7 @@ module.exports = {
         // "plugin:tailwindcss/recommended",
         "prettier",
     ],
-    overrides: [
-        {
-            files: ["*.vue"],
-            rules: {
-                "vue/no-v-html": 0,
-            },
-        },
-        {
-            files: ["*.vue"],
-            rules: {
-                "vue/no-multiple-template-root": 0,
-            },
-        },
-    ],
+    overrides: [],
     // plugins: ["tailwindcss"],
     rules: {
         "import/named": 0,
