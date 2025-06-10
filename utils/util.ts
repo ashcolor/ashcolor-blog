@@ -5,8 +5,7 @@ export class Util {
 
     static isValidUrl = (url: string): boolean => {
         try {
-            // eslint-disable-next-line no-new
-            new URL(url);
+            const newUrl = new URL(url);
             return true;
         } catch (err) {
             return false;

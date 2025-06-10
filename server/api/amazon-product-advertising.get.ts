@@ -27,7 +27,6 @@ export default defineEventHandler(async (event) => {
 
     try {
         const data = await amazonPaapi.GetItems(commonParameters, requestParameters);
-        // eslint-disable-next-line no-console
         console.log(data.ItemsResult);
 
         const firstItem = data?.ItemsResult?.Items[0];
@@ -39,7 +38,6 @@ export default defineEventHandler(async (event) => {
             image: primaryImage,
         };
     } catch (error) {
-        // eslint-disable-next-line no-console
         console.error(error);
 
         throw createError({
