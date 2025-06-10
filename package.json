@@ -18,8 +18,8 @@
     "postinstall": "nuxt prepare",
     "format": "prettier --write ./**/*.{ts,js,vue}",
     "format:check": "prettier --check ./**/*.{ts,js,vue}",
-    "lint": "eslint --max-warnings=0 --ext .ts,.js,.vue .",
-    "lint:fix": "eslint --ext .ts,.js,.vue . --fix",
+    "lint": "eslint . --max-warnings=0",
+    "lint:fix": "eslint . --fix",
     "mdlint": "markdownlint-cli2 **/*.md '#node_modules' '#.nuxt'",
     "mdlint:fix": "markdownlint-cli2 --fix **/*.md '#node_modules' '#.nuxt'",
     "prepare": "husky install",
@@ -27,9 +27,9 @@
   },
   "devDependencies": {
     "@nuxt-themes/typography": "^1.0.0",
+    "@nuxt/eslint": "^1.4.1",
+    "@nuxt/eslint-config": "^1.4.1",
     "@nuxt/image": "^1.7.0",
-    "@nuxtjs/eslint-config-typescript": "^12.1.0",
-    "@nuxtjs/eslint-module": "^4.1.0",
     "@nuxtjs/google-fonts": "^3.0.1",
     "@playwright/test": "^1.49.1",
     "@tailwindcss/typography": "^0.5.16",
@@ -72,5 +72,5 @@
     "textlint-rule-preset-ja-technical-writing": "^12.0.2",
     "textlint-rule-preset-jtf-style": "^3.0.1"
   },
-  "packageManager": "pnpm@8.14.0+sha256.9cebf61abd83f68177b29484da72da9751390eaad46dfc3072d266bfbb1ba7bf"
+  "packageManager": "pnpm@10.12.1"
 }
