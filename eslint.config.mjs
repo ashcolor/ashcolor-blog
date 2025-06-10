@@ -14,7 +14,7 @@ export default withNuxt([
     {
         files: ["**/*.js", "**/*.ts", "**/*.vue"],
         rules: {
-            // "@typescript-eslint/no-unused-vars": 0,
+            "@typescript-eslint/no-unused-vars": 0,
             "@typescript-eslint/no-extraneous-class": 0,
             "@typescript-eslint/no-static-only-class": 0,
             "import/named": 0,
