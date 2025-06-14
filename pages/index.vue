@@ -58,7 +58,7 @@ const onClickSearchButton = () => {
         <p>{{ BLOG_SUBTITLE }}</p>
     </div>
     <div
-        class="hero mx-[calc(50%_-_50vw)] my-8 h-[50vh] w-screen bg-[url('https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour_overall.webp')]"
+        class="hero mx-[calc(50%_-_50vw)] my-8 h-[50vh] w-screen bg-[url('https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-06-14_15-10-26_l17dnhaz.webp')]"
     >
         <div class="hero-overlay"></div>
         <div class="hero-content text-center text-neutral-content">

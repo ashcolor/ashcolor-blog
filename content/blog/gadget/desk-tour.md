@@ -9,7 +9,7 @@ tags:
   - "デュアルディスプレイ"
   - "システムエンジニア"
   - "DTM"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour_overall.webp"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-06-14_15-10-26_l17dnhaz.webp"
 isRecommend: true
 ---
 
@@ -22,7 +22,7 @@ isRecommend: true
 
 現在のデスク周りは以下のようになっています。
 
-![現在のデスク周り](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour_overall.webp)
+![現在のデスク周り](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-06-14_15-10-26_l17dnhaz.webp)
 
 デスク環境を構築する際のコンセプトは以下の通りです。
 
