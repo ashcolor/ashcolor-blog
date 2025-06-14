@@ -65,6 +65,7 @@
     "daisyui": "^5.0.35",
     "open-graph-scraper": "^6.2.2",
     "pinia": "^2.1.4",
+    "remark-breaks": "^4.0.0",
     "sqlite3": "^5.1.7",
     "tailwindcss": "^4.1.7",
     "textlint": "^14.4.2",

@@ -56,6 +56,7 @@ export default defineNuxtConfig({
     content: {
         build: {
             markdown: {
+                remarkPlugins: { "remark-breaks": {} },
                 highlight: {
                     theme: "github-dark",
                     langs: [
