@@ -1,6 +1,6 @@
 ---
 createdAt: "2025/03/18"
-updatedAt: "2025/03/24"
+updatedAt: "2025/06/14"
 title: "【2025年版】白色ガジェットまとめ【ゲーマー・DTMer向け】"
 description: "白色のガジェットを紹介します。キーボード、キーキャップ、マウス、スピーカー、ヘッドホンなどを紹介します。"
 category: "ガジェット"
@@ -10,7 +10,7 @@ tags:
   - "マウス"
   - "スピーカー"
   - "ヘッドホン"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_keycap-buy_thumbnail.webp"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-06-14_16-34-14_z9dm2oiv.webp"
 isRecommend: false
 ---
 

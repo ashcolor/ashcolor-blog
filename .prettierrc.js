@@ -35,7 +35,7 @@ module.exports = {
     bracketSpacing: true,
     arrowParens: "always",
     rangeStart: 0,
-    rangeEnd: Infinity,
+    rangeEnd: Number.POSITIVE_INFINITY,
     requirePragma: false,
     insertPragma: false,
     proseWrap: "preserve",

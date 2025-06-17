@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/05/31"
-updatedAt:
+updatedAt: "2025/06/14"
 title: "システムエンジニア/DTMerのデスク周り紹介 DTM（音楽）機器編"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。"
 category: "ガジェット"
@@ -23,21 +23,21 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_a4
 
 ## アウトプット
 
-### スピーカー：YAMAHA MSP5
+### スピーカー：YAMAHA HS3
 
-![YAMAHA MSP5](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_msp5.webp)
+![YAMAHA HS3](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-06-14_15-10-26_d74pgp3d.webp)
 
-スピーカーは**YAMAHA**の**MSP5**を使用しています。
+スピーカーは**YAMAHA**の**HS3**を使用しています。
+
+DTMでミキシングをする際に使うため、こちらのスピーカーを購入しました。
 
 モニタースピーカーだけあって、[出音はフラット]{.marker}です。
 逆に、リスニング用途として使う場合は低音が少し物足りなくなりかもしれません。
 
-DTMでミキシングをする際に使うため、こちらのスピーカーを購入しました。
+**HS Series**は、他にも多くのサイズはラインナップされていますが、H5以上になると**各スピーカーに電源が必要**になります。
+[あまり場所を取らないように、また、配線の量を減らすために、HS3を選びました。]{.marker}
 
-また、重量7.9kg・幅179mm・高さ279mm・奥行き208mmと[重くてデカい]{.marker}です。
-購入前にデスクに置くスペースが確保できるか、調べた方がいいです。
-
-:affiliate-block{title="ヤマハ YAMAHA パワードモニタースピーカーMSP5STUDIO (1本)" imageUrl="https://m.media-amazon.com/images/I/31vfUBTiSBL._SL160_.jpg" asin="B000UPFXX4"}
+:affiliate-block{title=" YAMAHA HS3W" imageUrl="https://m.media-amazon.com/images/I/31AdFPRXaEL._SL160_.jpg" asin="B0CNBL6HPT"}
 
 ### ヘッドホン：AKG K702
 

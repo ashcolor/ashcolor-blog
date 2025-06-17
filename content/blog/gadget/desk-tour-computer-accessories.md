@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/08/01"
-updatedAt: "2024/03/18"
+updatedAt: "2025/06/14"
 title: "システムエンジニア/DTMerのデスク周り紹介 PC周辺機器編"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。特にPC周辺機器について紹介します。"
 category: "ガジェット"
@@ -27,12 +27,12 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-comput
 
 ### トラックボール：Kensington：SlimBlade Pro
 
-![Kensington SlimBlade Pro](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-computer-accessories_slimblade-pro.webp)
+![Kensington SlimBlade Pro](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-06-14_16-34-33_eynrlp1l.webp)
 
 トラックボールは**Kensington**の**SlimBlade Pro**を使用しています。
-私が購入したのはAmazon.co.jp限定のボール色がグレーのモデルになります。（機能は通常版と同じです。）
+私は2024年に発売された白色モデルを使用しています。
 
-SlimBlade Proは[大玉のトラックボール]{.marker}の定番ですね。
+SlimBlade Proは[大玉のトラックボール]{.marker}の定番です。
 
 DTMをする際はMIDIキーボードを机に置くため、机のスペースが小さくなりがちです。
 トラックボールは本体を動かす必要がないため、[マウスよりも省スペース]{.marker}で使うことができて気に入っています。
@@ -46,12 +46,23 @@ SlimBlade Proは4つボタンがあり、さらに同時押しに対しても専
 他の同時押しは普通に押せば反応するのですが、上ボタンの同時だけちょっとでも押下タイミングがずれると同時押し判定にならないです。
 上記のような事情のため上ボタンの同時押しは機能を割り当てていません。
 
-<!-- ちなみにSlimBlade Proを使用する前は、**ロジクール**の**MX ERGO**を使用していました。
+Windowsであれば、**X-Mouse Button Control**を使用するのがオススメです。
+
+:link-card{url="https://x-mouse-button-control.jp.uptodown.com/windows" title="X-Mouse Button Control"}
+
+X-Mouse Button Controlは、Kensington Worksと同様に、ボタンに機能を割り当てることができるソフトウェアです。
+[同時押しやレイヤー機能などもあり、細かくカスタマイズできます]{.marker}。
+
+![X-Mouse Button Control](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-06-14_16-54-13_0syamhr4.webp)
+
+ちなみにSlimBlade Proを使用する前は、**ロジクール**の**MX ERGO**を使用していました。
 どちらのトラックボールが使いやすいか、スペックと長期使用の感想から記事をまとめてみたので、気になる方は以下の記事を参考にしてみてください。
 
-[人気のトラックボール2種を徹底比較！「Kensington SlimBlade Pro」 vs 「Logicool MX ERGO」](/blog/gadget/1) -->
+[人気のトラックボール2種を徹底比較！「Kensington SlimBlade Pro」 vs 「Logicool MX ERGO」](/blog/gadget/1)
 
-:affiliate-block{title="Kensington ケンジントン SlimBlade Pro トラックボール" imageUrl="https://m.media-amazon.com/images/I/31VX0ZB8piL._SL160_.jpg" asin="B0C5QP55YX"}
+:affiliate-block{title="Kensington SlimBlade Pro EQ" imageUrl="https://m.media-amazon.com/images/I/31eDQsPT57L._SL160_.jpg" asin="B0DMSS8WLY"}
+
+:affiliate-block{title="Kensington SlimBlade Pro" imageUrl="https://m.media-amazon.com/images/I/31VX0ZB8piL._SL160_.jpg" asin="B0C5QP55YX"}
 
 ### ゲーム用マウス：ロジクール G PRO X SUPERLIGHT ホワイト
 
@@ -187,6 +198,24 @@ Webカメラは**Anker**の**PowerConf C200**を使用しています。
 ![プライバシーシールド](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-computer-accessories_web-camera-privacy.webp)
 
 :affiliate-block{title="Anker PowerConf C200 ウェブカメラ" imageUrl="https://m.media-amazon.com/images/I/41PNelNJ2SL._SL160_.jpg" asin="B09MHPFV4Q"}
+
+### 指紋認証リーダー
+
+指紋認証リーダーは**サンワダイレクト**の**USB 指紋認証リーダー**を使用しています。
+
+![サンワダイレクト USB 指紋認証リーダー](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-06-14_15-10-26_w7vpuz1d.webp)
+
+**Windows Hello**に対応しているため、パスワードやPINコードを入力せずに[指紋認証でログイン]{.marker}できます。
+
+また、延長コードとL字型のUSB変換アダプタを使用することで、[好きな場所に配置]{.marker}できます。
+
+![好きな場所に配置できる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-06-14_15-10-26_3pg0v2do.webp)
+
+:affiliate-block{title="サンワダイレクト USB 指紋認証リーダー" imageUrl="https://m.media-amazon.com/images/I/41YplL53H5L._SL160*.jpg" asin="B09LHCBN3S"}
+
+:affiliate-block{title="UGREEN USB 延長ケーブル USB3.0 2.0M" imageUrl="https://m.media-amazon.com/images/I/412S9bYqWXL._SL160_.jpg" asin="B086ZJB2JN"}
+
+:affiliate-block{title="YFFSFDC USB変換アダプタ L型 2個セット" imageUrl="https://m.media-amazon.com/images/I/31BWBJdXV5L._SL160_.jpg" asin="B0CB8H71S7"}
 
 <!-- ### スイッチングハブ：BUFFALO LSW6-GT-5NS/WH ホワイト
 
