@@ -279,7 +279,7 @@ Synthesizer Vの歌声データベースは既に多くありますが、[発売
 
 :you-tube-iframe{title="【ついなちゃん公式デモソング】アイディール" videoId="aEwGTdxSxBc"}
 
-:affiliate-block{title="Synthesizer V 2 AI ついなちゃん ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004617_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004617.html"}
+:affiliate-block{title="Synthesizer V 2 AI ついなちゃん ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004619_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004619.html"}
 
 :affiliate-block{title="Synthesizer V 2 AI ついなちゃん パッケージ版" imageUrl="https://m.media-amazon.com/images/I/51ZrQ14BmeL._SL160_.jpg" asin="B0FFSJFBJJ"}
 
