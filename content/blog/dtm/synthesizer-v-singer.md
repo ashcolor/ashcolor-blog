@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2025/06/10"
+updatedAt: "2025/07/01"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介【Synthesizer V 2対応】"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -267,6 +267,51 @@ MegpoidはVOCALOID版でも人気のライブラリだったため、さらに�
 Synthesizer Vの歌声データベースは既に多くありますが、[発売予定の歌声データベースもいくつかあります]{.marker}。
 
 その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
+
+### ついなちゃん
+
+**ついなちゃん**は、[声優「門脇舞以」の声を元に制作された歌声データベース]{.marker}です。
+
+[ふんわりした声質でありながらもリリースの歯切れがよく、ハスキーさを持つ]{.marker}特徴があります。
+**7種類のボーカルスタイル**（Attacky/Breathy/Crispy/Soft/Idol/Dark/Whisper）を備えており、様々な曲調に対応できます。
+
+歌声は以下の動画で確認できます。
+
+:you-tube-iframe{title="【ついなちゃん公式デモソング】アイディール" videoId="aEwGTdxSxBc"}
+
+:affiliate-block{title="Synthesizer V 2 AI ついなちゃん ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004619_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004619.html"}
+
+:affiliate-block{title="Synthesizer V 2 AI ついなちゃん パッケージ版" imageUrl="https://m.media-amazon.com/images/I/51ZrQ14BmeL._SL160_.jpg" asin="B0FFSJFBJJ"}
+
+### 京町セイカ
+
+**京町セイカ**は、[声優「立花理香」の声を元に制作された歌声データベース]{.marker}です。
+
+[中域のふくよかさと高域にかけてのシャープさをあわせ持ち、素直でストレートな歌唱を得意とする]{.marker}特徴があります。
+**7種類のボーカルスタイル**（Breathy/Bright/Straight/Tight/Cute/Soft/Whisper）に対応しており、様々な表現が可能です。
+
+歌声は以下の動画で確認できます。
+
+:you-tube-iframe{title="【歌声合成ソフト】「Synthesizer V 2 AI 京町セイカ」ボーカルスタイル紹介動画" videoId="x0Vy2-aim7w"}
+
+:affiliate-block{title="Synthesizer V 2 AI 京町セイカ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004618_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004618.html"}
+
+:affiliate-block{title="Synthesizer V 2 AI 京町セイカ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41uD7e9Q4SL._SL160_.jpg" asin="B0FFSPYBJG"}
+
+### 弦巻マキ
+
+**弦巻マキ**は、[声優「田中真奈美」さんの声を元に制作された歌声データベース]{.marker}です。
+
+[アタックが速く、ハキハキと元気でかわいらしい声]{.marker}が特徴です。
+**7種類のボーカルスタイル**（Adult/Breathy/Power Pop/Twangy/Whisper/Cute/Grunge）に対応しています。
+
+歌声は以下の動画で確認できます。
+
+:you-tube-iframe{title="リセットマラソンガール / 弦巻マキ【Synthesizer V 2 AI 弦巻マキ公式デモソング】" videoId="fqCDwKXk44Y"}
+
+:affiliate-block{title="Synthesizer V 2 AI 弦巻マキ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004616_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004616.html"}
+
+:affiliate-block{title="Synthesizer V 2 AI 弦巻マキ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/51fpTr5g0KL._SL160_.jpg" asin="B0FFS82QQ9"}
 
 ### 猫村いろは
 
