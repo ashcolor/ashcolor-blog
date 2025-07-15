@@ -1,7 +1,7 @@
 ---
 createdAt: "2025/06/24"
 updatedAt:
-title: "【7/7まで】DLsiteにて「音声合成ソフト」に使える15%OFFクーポン配布中！Synthesizer V Studio 2 Proや歌声データベースも対象"
+title: "【終了】DLsiteにて「音声合成ソフト」に使える15%OFFクーポン配布中！Synthesizer V Studio 2 Proや歌声データベースも対象【7/7まで】"
 description: "DLsiteの「音声合成ソフト」に使える15%OFFクーポンについてまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
