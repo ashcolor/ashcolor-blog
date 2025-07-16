@@ -67,7 +67,7 @@ const onMenuClick = () => {
                     <li><NuxtLink to="/contact">お問い合わせ</NuxtLink></li>
                 </ul>
             </div>
-            <div class="navbar-end hidden lg:flex">
+            <div class="navbar-end">
                 <NuxtLink to="/search" aria-label="記事検索" class="btn btn-ghost">
                     <Icon name="bi:search" size="16px"></Icon>
                 </NuxtLink>
