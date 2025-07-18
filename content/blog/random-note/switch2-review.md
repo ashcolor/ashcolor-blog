@@ -92,3 +92,7 @@ Switch 2を約2週間ほど使用してみてのレビューをしました。
 劇的な進化というよりは、全体的な快適度が上がったという印象でした。
 
 ただ、[Switch 2のスペックを活かしきれていない]{.marker}ということはひしひしと感じるので、今後発売されるゲームソフトがどのような仕上がりになるのか非常に楽しみです。
+
+:affiliate-block{title="Nintendo Switch 2(日本語・国内専用)" imageUrl="https://m.media-amazon.com/images/I/71y3XnPxaeL._AC_SL1500_.jpg" asin="B0DX1BC3R8"}
+
+:affiliate-block{title="Nintendo Switch 2(日本語・国内専用) マリオカート ワールド セット" imageUrl="https://m.media-amazon.com/images/I/71YNtrqsSoL._AC_SL1500_.jpg" asin="B0DWZJBXNZ"}
