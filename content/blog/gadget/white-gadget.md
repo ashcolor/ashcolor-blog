@@ -1,6 +1,6 @@
 ---
 createdAt: "2025/03/18"
-updatedAt: "2025/06/14"
+updatedAt: "2025/08/02"
 title: "【2025年版】白色ガジェットまとめ【ゲーマー・DTMer向け】"
 description: "白色のガジェットを紹介します。キーボード、キーキャップ、マウス、スピーカー、ヘッドホンなどを紹介します。"
 category: "ガジェット"
@@ -23,6 +23,28 @@ isRecommend: false
 この記事では、[今までに購入した白色系のガジェットや購入を検討しているガジェットを紹介]{.marker}します。
 
 ## PC周辺機器
+
+### ディスプレイ
+
+#### GIGABYTE M27QA ICE
+
+ディスプレイは**GIGABYTE M27QA ICE**を使用しています。
+
+![GIGABYTE M27QA ICE](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-08-02_00-48-31_zeb9xa79.webp)
+
+[WQHD・27インチ・高リフレッシュレート、白色]{.marker}のディスプレイを探していて見つけました。
+[リフレッシュレートは165Hz]{.marker}で、ゲームをする人に向いています。
+また、映像切替用のレバーが背面右側にあり、映像の切り替えが楽なのも良かったです。
+
+一方で、白色の枠とは別に[黒色の非表示領域]{.marker}があり、その領域が結構広いです。
+商品ページでは黒色の画面が表示されているので目立ちませんが、明るい画面を表示すると気になります。
+そこで、[マスキングテープを貼って隠してみたところ]{.marker}、あまり目立たなくなりました。
+
+![ベゼルが太かったので、マスキングテープを貼って隠した](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-08-02_00-48-45_vgfoh1pv.webp)
+
+応急処置的でしたがいい感じに隠れたので、しばらくはこのまま使おうと思っています。
+
+:affiliate-block{title="GIGABYTE M27QA ICE" imageUrl="https://m.media-amazon.com/images/I/410v+7blPgL._SL160_.jpg" asin="B083TZGSD7"}
 
 ### キーボード
 
