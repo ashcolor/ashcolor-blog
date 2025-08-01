@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2025/07/01"
+updatedAt: "2025/08/02"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介【Synthesizer V 2対応】"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -262,12 +262,6 @@ MegpoidはVOCALOID版でも人気のライブラリだったため、さらに�
 
 :affiliate-block{title="Synthesizer V AI 音街ウナ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/517TJjJ5agL._SL160_.jpg" asin="B0DK972FMC"}
 
-## 発売予定の歌声データベース
-
-Synthesizer Vの歌声データベースは既に多くありますが、[発売予定の歌声データベースもいくつかあります]{.marker}。
-
-その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
-
 ### ついなちゃん
 
 **ついなちゃん**は、[声優「門脇舞以」の声を元に制作された歌声データベース]{.marker}です。
@@ -312,6 +306,12 @@ Synthesizer Vの歌声データベースは既に多くありますが、[発売
 :affiliate-block{title="Synthesizer V 2 AI 弦巻マキ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004616_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004616.html"}
 
 :affiliate-block{title="Synthesizer V 2 AI 弦巻マキ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/51fpTr5g0KL._SL160_.jpg" asin="B0FFS82QQ9"}
+
+## 発売予定の歌声データベース
+
+Synthesizer Vの歌声データベースは既に多くありますが、[発売予定の歌声データベースもいくつかあります]{.marker}。
+
+その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
 
 ### 猫村いろは
 
