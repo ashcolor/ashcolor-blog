@@ -240,9 +240,9 @@ SV2のボーカルスタイルは、SV1のときのデフォルト・Ballade・C
 
 [VOCALOIDとしても販売]{.marker}されていましたが、2024年11月27日にSynthesizer Vでも販売されました。
 
-Synthesizer Vの歌声は以下の動画で確認できます。
+歌声は以下の動画で確認できます。
 
-:you-tube-iframe{title="Synthesizer V AI 音街ウナ ボーカルスタイルデモ 【公式】" videoId="Q20-ve70gwg"}
+:you-tube-iframe{title="Synthesizer V 2 AI 音街ウナ ボーカルスタイルデモ【公式】" videoId="5ihYMcylgEE"}
 
 [VOCALOIDよりも人間味のある歌唱]{.marker}になっています。
 
