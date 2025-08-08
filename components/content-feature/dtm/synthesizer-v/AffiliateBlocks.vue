@@ -13,6 +13,32 @@ const affiliateBlocks = [
         dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01004024.html",
     },
     {
+        title: "Synthesizer V 2 AI Megpoid ダウンロード版",
+        imageUrl:
+            "https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004826_img_main.jpg",
+        asin: "",
+        dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01004826.html",
+    },
+    {
+        title: "Synthesizer V 2 AI Megpoid パッケージ版",
+        imageUrl: "https://m.media-amazon.com/images/I/412gDwzVjlL._SL160_.jpg",
+        asin: "B0FLJRJ7ZS",
+        dlSiteLink: "",
+    },
+    {
+        title: "Synthesizer V 2 AI 音街ウナ ダウンロード版",
+        imageUrl:
+            "https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004828_img_main.jpg",
+        asin: "",
+        dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01004828.html",
+    },
+    {
+        title: "Synthesizer V 2 AI 音街ウナ パッケージ版",
+        imageUrl: "https://m.media-amazon.com/images/I/41SQ0MtMCGL._SL160_.jpg",
+        asin: "B0FLJTT8WN",
+        dlSiteLink: "",
+    },
+    {
         title: "Synthesizer V 2 AI 夢ノ結唱 ROSE ダウンロード版",
         imageUrl:
             "https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003885_img_main.jpg",
