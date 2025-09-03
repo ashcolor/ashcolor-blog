@@ -1,6 +1,6 @@
 ---
 createdAt: "2024/08/01"
-updatedAt: "2025/08/16"
+updatedAt: "2025/09/03"
 title: "【2025年版】初音ミク 音声合成ソフト比較【V4X・NT】"
 description: "初音ミクの音声合成ソフトについて価格・機能・歌声を比較します。"
 category: "DTM"
@@ -32,7 +32,7 @@ isRecommend: true
 | [初音ミク V2](https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01)<br>（[アペンド](https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01a)） | 2007/8/31  | ￥16,500<br>アペンド:￥17,600 | ❌️  | ORIGINAL<br>DARK<br>SWEET<br>SOFT<br>SOLID<br>LIGHT<br>VIVID | VOCALOID2 Editor         | Windows        | アペンド別売                         |
 | [初音ミク V3](https://ec.crypton.co.jp/pages/prod/virtualsinger/mikuv3)                                                                          | 2013/9/26  | ¥17,600                       | ⭕️   | ORIGINAL<br>DARK<br>SWEET<br>SOFT<br>SOLID<br>ENGLISH        | Piapro Studio            | Windows<br>Mac |                                      |
 | [初音ミク V4X](https://ec.crypton.co.jp/pages/prod/virtualsinger/mikuv4x)                                                                        | 2016/8/31  | ￥17,600                      | ⭕️   | ORIGINAL<br>DARK<br>SWEET<br>SOFT<br>SOLID<br>ENGLISH        | Piapro Studio<br>for V4X | Windows<br>Mac | <br>中国語版あり<br>クロスシンセシス |
-| 初音ミク V6 AI                                                                                                                                   | 2024年     | 未定                          | 未定 | 未定                                                         | 未定                     | 未定           | AI機能あり                           |
+| 初音ミク V6 AI                                                                                                                                   | 2026年前半 | 未定                          | 未定 | 未定                                                         | VOCALOID6 Editor         | Windows<br>Mac | AI機能あり                           |
 | [ピアプロ<br>キャラクターズ<br>・<br>スーパーパック](https://ec.crypton.co.jp/pages/prod/virtualsinger/superpack)                                | 2024/8/30  | ¥23,100                       | ❌️  | ORIGINAL                                                     | Piapro Studio<br>for V4X | Windows<br>Mac | バンドル版                           |
 | [初音ミク NT](https://ec.crypton.co.jp/pages/prod/virtualsinger/mikunt)                                                                          | 2020/11/27 | ¥19,800                       | ❌️  | ORIGINAL<br>DARK<br>WHISPER                                  | Piapro Studio<br>for NT  | Windows<br>Mac | Automatic Control                    |
 
@@ -87,7 +87,7 @@ Ver.2からは好みの歌い方を簡単に実現できる**Automatic Control**
 ただし、[VOCALOIDエンジンの歌声ライブラリを読み込むことはできません]{.marker}。
 vsqやvsqxファイルは読み込むことができますが、一部発音の変換が行われます。（[参考](https://piaprostudio.com/?p=8203)）
 
-2024年8月現在では、Piapro Studio for NTに対応した歌声ライブラリは初音ミク NTだけです。
+Piapro Studio for NTに対応した歌声ライブラリは初音ミク NTと鏡音リン・レン NT（10月15日発売）だけです。
 他の歌声ライブラリを使用したい場合はNTを選ばない方がいいでしょう。
 
 ### VOCALOID6
@@ -124,6 +124,10 @@ VOCALOID6 AIの初音ミクにエディタが同梱されるかは、現時点�
 
 :you-tube-iframe{title="【初音ミクV4X】 ヒアミー 【歌声デモ】" videoId="5B6CrCOdIik"}
 
+### 初音ミク V6 AI
+
+:you-tube-iframe{title="【初音ミク「マジカルミライ 2025」】バーチャルシンガー製品関連ステージ" videoId="OBDReA9qwxX11vFr"}
+
 ### スーパーパック
 
 :you-tube-iframe{title="Step by Step（6 Singer Version） / Twinfield feat. 初音ミク & 鏡音リン & 鏡音レン & 巡音ルカ & MEIKO & KAITO" videoId="9zMgjlYHiOw"}
@@ -155,7 +159,7 @@ VOCALOID6 AIの初音ミクにエディタが同梱されるかは、現時点�
 ただし、英語ライブラリや各シンガーにおける歌声ライブラリのバリエーションはないので、初音ミクに特化したい場合はこちらは選ばない方がいいです。
 
 ~2024年内には、初音ミクV6 AIの発売も予定されています。~
-**初音ミクV6 AI**の発売は2025年内に延期となりました。
+**初音ミクV6 AI**の発売は2026年前半に延期となりました。
 :link-card{url="https://sonicwire.com/news/blog/2024/12/mikuv6ai"}
 
 購入を急いでいない場合は、発表を待ってから購入するのがよさそうです。
@@ -170,7 +174,7 @@ VOCALOID6 AIの初音ミクにエディタが同梱されるかは、現時点�
 
 - [基本的には、**V4X**がオススメ]{.marker}
 - 他のクリプトン製シンガーも欲しい場合は、**ピアプロキャラクターズ・スーパーパック**もあり
-- 2025年中に**初音ミクV6 AI**の発売予定あり
+- 2026年前半に**初音ミクV6 AI**の発売予定あり
 
 ::
 
