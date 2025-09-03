@@ -126,7 +126,7 @@ VOCALOID6 AIの初音ミクにエディタが同梱されるかは、現時点�
 
 ### 初音ミク V6 AI
 
-:you-tube-iframe{title="【初音ミク「マジカルミライ 2025」】バーチャルシンガー製品関連ステージ" videoId="OBDReA9qwxX11vFr"}
+:you-tube-iframe{title="【初音ミク「マジカルミライ 2025」】バーチャルシンガー製品関連ステージ" videoId="BKny3_vCNgI" start=965}
 
 ### スーパーパック
 
