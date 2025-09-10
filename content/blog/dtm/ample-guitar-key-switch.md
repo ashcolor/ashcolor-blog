@@ -59,14 +59,4 @@ Ample Metal HellrazerdのString Forceは`D#-2`-`B-2`、Capo Forceは`G#-1`
 この記事では、[Ample Guitarのキースイッチ一覧]{.marker}についてまとめました。
 参考になれば幸いです。
 
-:affiliate-block{title="AMPLE SOUND AMPLE GUITAR 7 IN 1 ELECTRIC BUNDLE" imageUrl="https://m.media-amazon.com/images/I/41Ept0BjUEL._SL160_.jpg" asin="B0CK5J1KMR"}
-
-:affiliate-block{title="AMPLE SOUND AMPLE GUITAR 5 IN 1 ACOUSTIC BUNDLE" imageUrl="https://m.media-amazon.com/images/I/51C3FjU2oDL._SL160_.jpg" asin="B0BR4ZS19T"}
-
-:affiliate-block{title="AMPLE SOUND AMPLE GUITAR TC III" imageUrl="https://m.media-amazon.com/images/I/51pk40RVJAL._SL160_.jpg" asin="B0BR4ZSY4V"}
-
-:affiliate-block{title="AMPLE SOUND AMPLE GUITAR SC III" imageUrl="https://m.media-amazon.com/images/I/51CLOuxm8uL._SL160_.jpg" asin="B0BR4XS8MP"}
-
-:affiliate-block{title="AMPLE SOUND AMPLE GUITAR LP III" imageUrl="https://m.media-amazon.com/images/I/51qDhBQdg3L._SL160_.jpg" asin="B0BR4ZNMRJ"}
-
-:affiliate-block{title="AMPLE SOUND AMPLE GUITAR T III" imageUrl="https://m.media-amazon.com/images/I/51+KOJelfxL._SL160_.jpg" asin="B0BR524T3Y"}
+<DtmAmpleGuitarPluginBoutiqueButton />

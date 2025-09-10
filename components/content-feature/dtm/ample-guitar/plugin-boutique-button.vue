@@ -1,5 +1,6 @@
 <script setup lang="ts">
-const searchLink = "https://amzn.to/49nYcbu";
+const searchLink =
+    "https://www.pluginboutique.com/manufacturers/213-Ample-Sound?a_aid=68799d2d146d8";
 </script>
 
 <template>
@@ -10,14 +11,17 @@ const searchLink = "https://amzn.to/49nYcbu";
             <div class="flex grow flex-col gap-2">
                 <div class="flex flex-col gap-2 sm:flex-row">
                     <div class="flex grow flex-col justify-end">
+                        <p class="text-center text-sm text-red-500">
+                            ＼&nbsp;25%OFF セール中&nbsp;／
+                        </p>
                         <a
                             :href="searchLink"
                             target="_blank"
                             rel="noopener noreferrer"
-                            class="btn btn-lg w-full bg-[#ffd814] hover:bg-[#ffd814]"
+                            class="btn btn-lg w-full text-white bg-[#00a3dd] hover:bg-[#007ca9]"
                         >
                             <Icon name="bi:search"></Icon>
-                            Amazon で Synthesizer V を検索
+                            Plugin BoutiqueでAmple Guitarを検索
                         </a>
                     </div>
                 </div>

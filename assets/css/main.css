@@ -46,3 +46,12 @@ body {
 .border {
     @apply border-base-300;
 }
+
+main ul {
+    list-style: disc;
+}
+
+main ul li ul {
+    padding-left: 1.5rem;
+    list-style: circle;
+}
