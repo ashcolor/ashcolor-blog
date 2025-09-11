@@ -57,6 +57,10 @@ Ample Metal HellrazerdのString Forceは`D#-2`-`B-2`、Capo Forceは`G#-1`
 ## まとめ
 
 この記事では、[Ample Guitarのキースイッチ一覧]{.marker}についてまとめました。
+
+英語にはなりますが公式マニュアルもあるので、詳細を確認したい場合は以下をご覧ください。
+:link-card{title="Ample Sound 公式マニュアル" url="https://www.amplesound.net/en/manual.asp"}
+
 参考になれば幸いです。
 
 <DtmAmpleGuitarPluginBoutiqueButton />

@@ -19,6 +19,8 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_ample-guitar_ag_lp.
 
 この記事では、[Ample Guitarの演奏モードと使用時のの注意点]{.marker}についてまとめます。
 
+以下の内容は[公式マニュアル](https://www.amplesound.net/en/manual.asp)を参考にしています。
+
 ## Ample Guitarのモード
 
 Ample Guitarには、[演奏に関する様々なモード]{.marker}が搭載されています。
@@ -127,5 +129,10 @@ Detectモードでは、`C1`~`B1`の範囲でルート音も指定できる仕�
 
 Ample Guitarは注意点も多いですが、使いこなすと非常にリアルな音を鳴らせる音源です。
 この記事が参考になれば幸いです。
+
+英語にはなりますが公式マニュアルもあるので、詳細を確認したい場合は以下をご覧ください。
+:link-card{title="Ample Sound 公式マニュアル" url="https://www.amplesound.net/en/manual.asp"}
+
+参考になれば幸いです。
 
 <DtmAmpleGuitarPluginBoutiqueButton />
