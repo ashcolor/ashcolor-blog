@@ -6,7 +6,7 @@ useSeoMeta({
     ogTitle: `${BLOG_TITLE} | ${BLOG_SUBTITLE}`,
     description: BLOG_SUBTITLE,
     ogDescription: BLOG_SUBTITLE,
-    ogImage: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour.webp",
+    ogImage: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-06-14_15-10-26_l17dnhaz.webp",
     ogUrl: import.meta.env.VITE_NUXT_PUBLIC_SITE_URL,
     ogType: "website",
     ogSiteName: BLOG_TITLE,
