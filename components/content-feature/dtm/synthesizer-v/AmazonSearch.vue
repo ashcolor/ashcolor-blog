@@ -14,7 +14,7 @@ const searchLink = "https://amzn.to/49nYcbu";
                             :href="searchLink"
                             target="_blank"
                             rel="noopener noreferrer"
-                            class="btn btn-lg w-full bg-[#ffd814] hover:bg-[#ffd814]"
+                            class="btn btn-lg w-full bg-[#ffd814] hover:bg-[#ffd814] shadow-lg"
                         >
                             <Icon name="bi:search"></Icon>
                             Amazon で Synthesizer V を検索

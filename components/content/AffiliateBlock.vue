@@ -70,7 +70,7 @@ const dlSiteCampaignText = () => {
                             ＼&nbsp;{{ amazonCampaignText() }}&nbsp;／
                         </p>
                         <a
-                            class="btn w-full bg-[#ffd814] hover:bg-[#ffd814]"
+                            class="btn w-full bg-[#ffd814] hover:bg-[#ffd814] shadow-lg"
                             :href="amazonUrl"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -83,7 +83,7 @@ const dlSiteCampaignText = () => {
                             ＼&nbsp;{{ dlSiteCampaignText() }}&nbsp;／
                         </p>
                         <a
-                            class="btn w-full bg-[#039] text-white hover:bg-[#039]"
+                            class="btn w-full bg-[#039] text-white hover:bg-[#039] shadow-lg"
                             :href="dlSiteUrl"
                             target="_blank"
                             rel="noopener noreferrer"

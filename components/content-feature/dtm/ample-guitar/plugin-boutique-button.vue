@@ -18,7 +18,7 @@ const searchLink =
                             :href="searchLink"
                             target="_blank"
                             rel="noopener noreferrer"
-                            class="btn btn-lg w-full text-white bg-[#00a3dd] hover:bg-[#007ca9]"
+                            class="btn btn-lg w-full text-white bg-[#00a3dd] hover:bg-[#007ca9] shadow-lg"
                         >
                             <Icon name="bi:search"></Icon>
                             Plugin BoutiqueでAmple Guitarを検索

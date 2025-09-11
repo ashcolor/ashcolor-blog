@@ -11,7 +11,7 @@ const affiliateUrl = computed(() => Util.affiliateDlSiteUrl(searchLink));
             <div class="flex flex-col gap-2 sm:flex-row">
                 <div class="flex grow flex-col justify-end">
                     <a
-                        class="btn btn-lg w-full bg-[#039] text-white hover:bg-[#039]"
+                        class="btn btn-lg w-full bg-[#039] text-white hover:bg-[#039] shadow-lg"
                         :href="affiliateUrl"
                         target="_blank"
                         rel="noopener noreferrer"
