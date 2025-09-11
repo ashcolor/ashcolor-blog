@@ -11,6 +11,11 @@
             </thead>
             <tbody>
                 <tr class="key-white">
+                    <td>B-1</td>
+                    <td>ピンチ・ハーモニクス</td>
+                    <td></td>
+                </tr>
+                <tr class="key-white">
                     <td>C0</td>
                     <td>サステイン</td>
                     <td></td>
