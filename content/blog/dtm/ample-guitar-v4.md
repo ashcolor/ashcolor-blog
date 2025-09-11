@@ -21,15 +21,14 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-09-10_18-54-29_i76
 
 ## アップデート方法
 
-1. 以下のリンクをクリックして`My Ample Sound`にアクセスします
+1. [My Ample Sound](https://www.amplesound.net/en/account)にアクセスします
 
-   [Ample Soundマイページ](https://www.amplesound.net/en/account)
-
-2. ユーザID（またはメールアドレス）とパスワードを入力してログインします
+2. ユーザID（またはメールアドレス）とパスワードを入力して、ログインします
 
 3. `My Updates`タブを開いて、自分の環境に合ったインストーラをダウンロードします
 
 4. ダウンロードしたインストーラを実行して、画面の指示に従ってアップデートを完了します
+
 5. Ample Guitar LPまたはAmple Guitar SCユーザの場合は`My Installers`タブから`Library Installer`をダウンロードしてダウンロードします
 
 ::call-out{type="warning"}

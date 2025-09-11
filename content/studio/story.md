@@ -467,12 +467,14 @@ _Just an italic paragraph._
 ::preview-and-code
 #preview
 
-:link-card{url="https://github.com/ashcolor/ashcolor-blog"}
+:link-card{url="https://blog.ashcolor.jp/"}
+:link-card{title="example" url="https://example.com/"}
 
 #code
 
 ```markdown
-:link-card{url="https://github.com/ashcolor/ashcolor-blog"}
+:link-card{url="https://blog.ashcolor.jp/"}
+:link-card{title="example" url="https://example.com/"}
 ```
 
 ::
