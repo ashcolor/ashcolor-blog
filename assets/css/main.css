@@ -40,7 +40,7 @@ body {
 }
 
 .key-black {
-    @apply bg-base-content text-base-100;
+    @apply bg-gray-700 text-base-100;
 }
 
 .border {
