@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2025/08/08"
+updatedAt: "2025/09/19"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介【Synthesizer V 2対応】"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -100,41 +100,9 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 :affiliate-block{title="Synthesizer V AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000376_img_main.webp" asin="B0CJ4PZFV9" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000376.html"}
 
-### 氷山キヨテル
-
-**氷山キヨテル**は、歌手「比山貴咏史」さんの声を元に制作された歌声データベースです。
-
-元々は[VOCALOID 2・VOCALOID 4のライブラリとして発売されていましたが、3月21日にSynthesizer V 2の歌声ライブラリとして発売]{.marker}されることが決まりました。
-
-歌声は以下のデモソングで確認できます。
-
-:you-tube-iframe{title="宣夜説 / wotaku feat. 氷山キヨテル" videoId="p5ZuXADFeBQ"}
-:you-tube-iframe{title="Synthesizer V AI 氷山キヨテル「夜の戸開く」" videoId="1cra1HsZofE"}
-
-VOCALOID版と比べると、[人間味が増しておりいわゆるイケボな印象]{.marker}です。
-
-[日本語収録かつキャラ絵のある男性歌声データベースはまだ少ない]{.marker}ため、どのような使われ方をするのか楽しみな歌声データベースです。
-
-:affiliate-block{title="Synthesizer V 2 AI 氷山キヨテル ダウンロード版" imageUrl="https://m.media-amazon.com/images/I/51IfKSLpZcL._SL160_.jpg" asin="B0F2SG7K27" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004026.html"}
-:affiliate-block{title="Synthesizer V 2 AI 氷山キヨテル パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41CNRe2o05L._SL160_.jpg" asin="B0DVGF9C4K"}
-
-### miki
-
-**miki**は、アーティスト「フルカワミキ」さんの声を元に制作された歌声データベースです。
-
-元々は[VOCALOID 2・VOCALOID 4のライブラリとして発売されていましたが、3月21日にSynthesizer V 2の歌声ライブラリとして発売]{.marker}されることが決まりました。
-
-歌声は以下のデモソングで確認できます。
-
-:you-tube-iframe{title="ころりんぱ - Synthesizer V AI miki公式デモソング" videoId="tU-m0vRODQE"}
-:you-tube-iframe{title="ちょむＰ - 星の海へ feat. miki" videoId="zvvUbvtleKc"}
-
-VOCALOID版のときにあった、[舌っ足らずさは少なくなり大人びた歌声になった印象]{.marker}です。
-
-:affiliate-block{title="Synthesizer V 2 AI miki ダウンロード版" imageUrl="https://m.media-amazon.com/images/I/51N7iKS8SHL._SL160_.jpg" asin="B0F2SS4PH2" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004027.html"}
-:affiliate-block{title="Synthesizer V 2 AI miki パッケージ版" imageUrl="https://m.media-amazon.com/images/I/415qpDGofBL._SL160_.jpg" asin="B0DVGV742C"}
-
 ### 小春六花・夏色花梨・花隈千冬
+
+[Synthesizer V2版の小春六花・夏色花梨・花隈千冬が2026年2月頃に発売予定です。]{.text-red-500}
 
 **小春六花**は明るく元気で、声に芯もありつつ語尾には声が抜けていく余韻もあるのが特徴の歌声ライブラリです。
 
@@ -186,7 +154,7 @@ ROSE 歌声は以下の動画で確認できます。
 
 ロック等の激しい曲調の音楽と相性が良いと言えるでしょう。
 
-:affiliate-block{title="Synthesizer V 2 AI 夢ノ結唱 ROSE ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003885_img_main.jpg" asin="B0DYT3QD9C" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01003885.html"}
+:affiliate-block{title="Synthesizer V 2 AI 夢ノ結唱 ROSE ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003885_img_main.webp" asin="B0DYT3QD9C" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01003885.html"}
 
 ### 宮舞モカ
 
@@ -194,7 +162,7 @@ ROSE 歌声は以下の動画で確認できます。
 
 文字読み上げソフト「VOICEPEAK」のナレーターとして既に発売されている、人気のキャラクターでもあります。
 
-:affiliate-block{title="Synthesizer V AI 宮舞モカ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002763_img_main.jpg" asin="B0DG8GXPYD" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002763.html"}
+:affiliate-block{title="Synthesizer V AI 宮舞モカ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002763_img_main.webp" asin="B0DG8GXPYD" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002763.html"}
 
 :affiliate-block{title="Synthesizer V AI 宮舞モカ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41SNAzetUfL._SL160_.jpg" asin="B0DFPNVB7V"}
 
@@ -206,16 +174,10 @@ ROSE 歌声は以下の動画で確認できます。
 
 VOICEPEAKではかわいらしい話し声でしたが、Synthesizer Vではボーカルスタイルによって[かわいいからかっこいいまで歌いこなしています]{.marker}。
 
-## 発売予定の歌声データベース
-
-Synthesizer Vの歌声データベースは既に多くありますが、[発売予定の歌声データベースもいくつかあります]{.marker}。
-
-その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
-
 ### Megpoid（Synthesizer V 2）
 
 Megpoid は歌手・声優の**中島愛**さんの歌声から作成された歌声データベースです。
-2025年9月12日に**Synthesizer V 2 AI Megpoid**が発売されます。
+2025年9月12日に**Synthesizer V 2 AI Megpoid**が発売されました。
 
 歌声は以下の動画で確認できます。
 
@@ -227,18 +189,18 @@ MegpoidはVOCALOID版でも人気のライブラリだったため、さらに�
 SV2のボーカルスタイルは、SV1のときのデフォルト・Ballade・Cute・Soft・Vividに加え、[**Downer・Power・Whisper**が追加]{.marker}されます。
 計8種類のボーカルスタイルを自由に組み合わせて使用できます。
 
-[追加録音を行っているとのことで、Synthesizer V 2になってさらに自然な歌声]{.marker}になっています。
+[追加録音されているとのことで、Synthesizer V 2になってさらに自然な歌声]{.marker}になっています。
 
-:affiliate-block{title="Synthesizer V 2 AI Megpoid ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004826_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004826.html"}
+:affiliate-block{title="Synthesizer V 2 AI Megpoid ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004826_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004826.html"}
 
 :affiliate-block{title="Synthesizer V 2 AI Megpoid パッケージ版" imageUrl="https://m.media-amazon.com/images/I/412gDwzVjlL._SL160_.jpg" asin="B0FLJRJ7ZS"}
 
 ### 音街ウナ（Synthesizer V 2）
 
 **音街ウナ**は、[パワフルさとかわいらしさを兼ね揃えた歌声データベース]{.marker}です。
-2025年9月12日に**Synthesizer V 2 AI 音街ウナ**が発売されます。
+2025年9月12日に**Synthesizer V 2 AI 音街ウナ**が発売されました。
 
-[VOCALOIDとしても販売]{.marker}されていましたが、2024年11月27日にSynthesizer Vでも販売されました。
+[VOCALOIDとしても販売]{.marker}されていましたが、Synthesizer Vでも販売されました。
 
 歌声は以下の動画で確認できます。
 
@@ -248,22 +210,35 @@ SV2のボーカルスタイルは、SV1のときのデフォルト・Ballade・C
 
 SV2のボーカルスタイルは、[**デフォルト・Boyish・Cute・Downer・Power・Whisper・Angel・Fragile**の8種類]{.marker}が用意されます。
 
-[追加録音を行っているとのことで、Synthesizer V 2になってさらに自然な歌声]{.marker}になっています。
+[追加録音されているとのことで、Synthesizer V 2になってさらに自然な歌声]{.marker}になっています。
 
-:affiliate-block{title="Synthesizer V 2 AI 音街ウナ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004828_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004828.html"}
+:affiliate-block{title="Synthesizer V 2 AI 音街ウナ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004828_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004828.html"}
 
 :affiliate-block{title="Synthesizer V 2 AI 音街ウナ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41SQ0MtMCGL._SL160_.jpg" asin="B0FLJTT8WN"}
 
+## 発売予定の歌声データベース
+
+Synthesizer Vの歌声データベースは既に多くありますが、[発売予定の歌声データベースもいくつかあります]{.marker}。
+
+その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。
+
 ### 猫村いろは
 
-**猫村いろは**は、[株式会社 AHSから発売されているVOCALOID2・4のライブラリ]{.marker}です。
+**猫村いろは**は、VOCALOID2・4で発売されたライブラリです。
+[歌手・声優「佳館杏ノ助」の声]{.marker}を元にしています。
 
-15周年に向けて「Synthesizer V 2 AI 猫村いろは」の制作が決定しています。
+2025年10月22日に[「Synthesizer V 2 AI 猫村いろは」が発売]{.marker}されます。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【お知らせ】<br>本日5/14は猫村いろはさんのお誕生日です！おめでとうございます✨<br>今年は「VOCALOID2 猫村いろは」発売から15周年ということで・・・なんと！<br>15周年に向けて「Synthesizer V 2 AI 猫村いろは」の制作が決定いたしました！続報をお楽しみに✨<a href="https://twitter.com/hashtag/%E7%8C%AB%E6%9D%91%E3%81%84%E3%82%8D%E3%81%AF?src=hash&amp;ref_src=twsrc%5Etfw">#猫村いろは</a> <a href="https://twitter.com/hashtag/SynthV?src=hash&amp;ref_src=twsrc%5Etfw">#SynthV</a> <a href="https://t.co/FlNZraUUtF">pic.twitter.com/FlNZraUUtF</a></p>&mdash; AHS公式@ボイスピ大好評発売中！ (@ahsoft) <a href="https://twitter.com/ahsoft/status/1922487028249460900?ref_src=twsrc%5Etfw">May 14, 2025</a></blockquote>
+歌声は以下の動画で確認できます。
 
-発売日やデモソングはまだ発表されていません。
-続報がありましたら、こちらの記事に追記します。
+:you-tube-iframe{title="Synthesizer V 2 AI 音街ウナ ボーカルスタイルデモ【公式】" videoId="-83Cv9u13-U"}
+
+[キャラクターのかわいさとは対象的なパワフルでかっこいい女性の歌声]{.marker}になっています。
+通常歌唱のほか、[Dramatic/Hard/Husky/Pop/Power Pop/Soft/Whisper の7種類のボーカルスタイル]}{.marker}が用意されています。
+
+:affiliate-block{title="Synthesizer V 2 AI 猫村いろは ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005053_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01005053.html"}
+
+:affiliate-block{title="Synthesizer V 2 AI 猫村いろは パッケージ版" imageUrl="https://m.media-amazon.com/images/I/51Epv6cuuOL._SL160_.jpg" asin="B0FRLWG93X"}
 
 ## まとめ
 
