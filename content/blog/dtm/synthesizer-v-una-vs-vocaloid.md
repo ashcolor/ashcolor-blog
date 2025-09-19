@@ -115,13 +115,13 @@ Synthesizer Vは**多言語歌声合成機能**により収録言語以外の言
 
 以上、購入の参考になれば幸いです。
 
-:affiliate-block{title="Synthesizer V AI 音街ウナ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003035_img_main.jpg" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01003035.html"}
+:affiliate-block{title="Synthesizer V AI 音街ウナ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01004000/VJ01003035_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01003035.html"}
 
 :affiliate-block{title="Synthesizer V AI 音街ウナ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/517TJjJ5agL._SL160_.jpg" asin="B0DK972FMC"}
 
-:affiliate-block{title="VOCALOID6 Voicebank AI 音街ウナ Complete" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000607_img_main.jpg" asin="B0C69CQ66G" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000607.html"}
+:affiliate-block{title="VOCALOID6 Voicebank AI 音街ウナ Complete" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000607_img_main.webp" asin="B0C69CQ66G" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000607.html"}
 
-:affiliate-block{title="VOCALOID4 Library 音街ウナ V4" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ016000/VJ015156_img_main.jpg" asin="B01HSV65G6" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ015156.html"}
+:affiliate-block{title="VOCALOID4 Library 音街ウナ V4" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ016000/VJ015156_img_main.webp" asin="B01HSV65G6" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ015156.html"}
 
 ## 参考
 
