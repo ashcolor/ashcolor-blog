@@ -94,11 +94,11 @@ const navigations = computed(() => {
         <div class="grid grid-cols-12">
             <div class="col-span-12 flex flex-col gap-4 lg:col-span-8">
                 <div class="mx-auto mb-8">
+                    <!-- @see https://github.com/nuxt/image/issues/762#issuecomment-2981356083 -->
                     <NuxtImg
-                        preload
+                        :preload="{ fetchPriority: 'high' }"
                         :src="article?.thumbnail"
                         alt="サムネイル"
-                        fetchpriority="high"
                         height="400"
                         width="800"
                         class="max-h-64 object-contain md:max-h-96"
