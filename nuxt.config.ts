@@ -1,6 +1,6 @@
 import { definePerson } from "nuxt-schema-org/schema";
 import tailwindcss from "@tailwindcss/vite";
-import { BLOG_TITLE, BLOG_CATEGORIES } from "./utils/const";
+import { BLOG_TITLE, BLOG_CATEGORIES } from "./app/utils/const";
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
@@ -35,12 +35,11 @@ export default defineNuxtConfig({
         "@nuxt/content",
         "nuxt-schema-org",
         "nuxt-gtag",
-        "nuxt-icon",
         "@pinia/nuxt",
         "@vueuse/nuxt",
         "@nuxt/image",
+        "@nuxt/icon",
     ],
-
     components: {
         dirs: [
             "~/components/content",
@@ -103,6 +102,7 @@ export default defineNuxtConfig({
             sameAs: ["https://github.com/ashcolor"],
         }),
     },
+
     // eslint: {
     // lintOnStart: false,
     // },

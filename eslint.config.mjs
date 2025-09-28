@@ -9,6 +9,7 @@ export default withNuxt([
             "vue/no-v-html": 0,
             "vue/html-self-closing": 0,
             "vue/no-required-prop-with-default": 0,
+            "vue/multi-word-component-names": 0,
         },
     },
     {
