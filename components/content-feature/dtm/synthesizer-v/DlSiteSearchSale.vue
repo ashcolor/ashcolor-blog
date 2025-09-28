@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const searchLink = "https://www.dlsite.com/soft/genres/works?genrekey=voicetool202506";
+const searchLink = "https://www.dlsite.com/soft/genres/works?genrekey=voicetool202509";
 const affiliateUrl = computed(() => Util.affiliateDlSiteUrl(searchLink));
 </script>
 
