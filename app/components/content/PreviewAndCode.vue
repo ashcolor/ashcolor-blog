@@ -36,7 +36,7 @@ const tabState = ref("preview");
                     <slot name="code" class="border-none"></slot>
                 </span>
 
-                <Icon name="clip-board"></Icon>
+                <Icon name="bi:clipboard"></Icon>
             </div>
         </div>
     </div>
