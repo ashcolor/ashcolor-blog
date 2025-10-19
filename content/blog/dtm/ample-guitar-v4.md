@@ -1,7 +1,7 @@
 ---
 createdAt: "2025/09/10"
 updatedAt: ""
-title: "Ample Guitar V4アップデート！Rifferの進化、ストラムノート追加、演奏弦の可視化など多機能化【25%オフセール中】"
+title: "Ample Guitar V4アップデート！Rifferの進化、ストラムノート追加、演奏弦の可視化など多機能化"
 description: "VST音源であるAmple GuitarのV4アップデートについてまとめます。"
 category: "DTM"
 tags:
@@ -196,7 +196,6 @@ Ample Guitar V4は大幅なアップデートが行われており、特に[Riff
 
 :you-tube-iframe{title="Ample Guitar 4 & AGLP Finger Library" videoId="x3zbKk-4Mxs"}
 
-また、[2025年10月9日までAmple Guitarシリーズが25%オフで購入]{.marker}できます。
 今回のアップデートで他の製品にはない機能が盛り沢山になったので、[個人的にかなりオススメのギター音源]{.marker}です。
 
 <DtmAmpleGuitarPluginBoutiqueButton />
