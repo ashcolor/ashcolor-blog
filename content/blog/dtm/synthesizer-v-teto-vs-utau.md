@@ -143,6 +143,6 @@ Synthesizer VとUTAUの違いは以下の通りです。
 
 参考になれば幸いです。
 
-:affiliate-block{title="Synthesizer V AI 重音テト パッケージ版" imageUrl="https://m.media-amazon.com/images/I/417GBcwOqaL._SL160_.jpg" asin="B0BYZ417DW"}
+:affiliate-block{title="Synthesizer V 2 AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005264_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01005264.html"}
 
-:affiliate-block{title="Synthesizer V AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000376_img_main.webp" asin="B0CJ4PZFV9" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000376.html"}
+:affiliate-block{title="Synthesizer V 2 AI 重音テト パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41nqMrZELUL._SL160_.jpg" asin="B0FYD5SQGZ"}

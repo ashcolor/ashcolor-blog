@@ -1,8 +1,8 @@
 ---
-createdAt: "2025/03/21"
-updatedAt: "2025/05/14"
-title: "【終了】DLsiteにてSynthesizer Vセット割キャンペーン中！2本以上購入で実質19%OFF！"
-description: "DLsiteのSynthesizer V Studio 2 Pro販売記念キャンペーンについてまとめました。"
+createdAt: "2025/11/01"
+updatedAt: ""
+title: "DLsiteにてSynthesizer Vセット割キャンペーン中！2本以上購入で10%OFF！【12/4まで】"
+description: "DLsiteのSynthesizer Vセット割キャンペーンについてまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
 tags:
@@ -15,9 +15,7 @@ isRecommend: false
 
 ## キャンペーン概要
 
-[このキャンペーンは終了しました。]{.text-red-500}
-
-**DLsite**にて[『Synthesizer V Studio 2 Pro』販売記念2本以上購入で**10％OFF**セット割キャンペーン！]{.marker}が開始されました。
+**DLsite**にて[『Synthesizer V 2 AI』新規2製品販売記念2本以上購入で**10％OFF**セット割キャンペーン！]{.marker}が開始されました。
 以下のリンクからキャンペーンページにアクセスできます。
 
 <DtmSynthesizerVDlSiteCampaignBanner></DtmSynthesizerVDlSiteCampaignBanner>
@@ -25,12 +23,9 @@ isRecommend: false
 対象商品は有料のエディタである**Synthesizer V Studio 2 Pro**と、**AHSから販売されている歌声データベース**です。
 対象商品を[2本以上まとめて購入すると、合計金額から**10%OFF**で購入]{.marker}できます。
 
-さらに、上記の商品を2本以上購入している場合を対象にした[10%OFFクーポンも配布]{.marker}されており、キャンペーンと併用可能です。
+さらに、11/10までであれば[「音声合成ソフト」に使える15%OFFクーポン]{.marker}も配布されており、キャンペーンと併用できます。
 
-![『Synthesizer V 2』関連作品10％OFFクーポン](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-03-25_13-00-08_hmgogkdj.webp)
-
-歌声データベースであれば、キャンペーン割引とクーポン割引を合わせて
-[9,680円 × 0.9 × 0.9 = **7,776 円**]{.marker}と、[実質**19%OFF**で購入]{.marker}できます。
+![「音声合成ソフト」に使える15%OFFクーポン【1回のみ利用可】](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-11-01_14-07-30_p18lpkmk.webp)
 
 ## キャンペーンの注意点
 
@@ -67,45 +62,14 @@ isRecommend: false
 
 ::
 
-本格的な楽曲制作を行う場合は歌声データベースとともに、[**Synthesizer V Studio 2 Pro**を購入することをオススメ]{.marker}します。
+本格的な楽曲制作をする場合は歌声データベースとともに、[**Synthesizer V Studio 2 Pro**を購入することをオススメ]{.marker}します。
 
 :affiliate-block{title="Synthesizer V Studio 2 Pro" imageUrl="https://m.media-amazon.com/images/I/41AMgVyK6DL._SL160_.jpg" asin="B0DVH27V2D" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004024.html"}
 
-### Synthesizer V 2 AI 氷山キヨテル
-
-**氷山キヨテル**は、歌手「比山貴咏史」さんの声を元に制作された歌声データベースです。
-
-元々は[VOCALOID 2・VOCALOID 4のライブラリとして発売されていましたが、3月21日にSynthesizer V 2の歌声データベースとして発売]{.marker}されることが決まりました。
-
-歌声は以下のデモソングで確認できます。
-
-:you-tube-iframe{title="宣夜説 / wotaku feat. 氷山キヨテル" videoId="p5ZuXADFeBQ"}
-:you-tube-iframe{title="Synthesizer V AI 氷山キヨテル「夜の戸開く」" videoId="1cra1HsZofE"}
-
-VOCALOID版と比べると、[人間味が増しておりいわゆるイケボな印象]{.marker}です。
-
-[日本語収録かつキャラ絵のある男性歌声データベースはまだ少ない]{.marker}ため、どのような使われ方をするのか楽しみな歌声データベースです。
-
-:affiliate-block{title="Synthesizer V 2 AI 氷山キヨテル" imageUrl="https://m.media-amazon.com/images/I/41CNRe2o05L._SL160_.jpg" asin="B0DVGF9C4K" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004026.html"}
-
-### Synthesizer V 2 AI miki
-
-**miki**は、アーティスト「フルカワミキ」さんの声を元に制作された歌声データベースです。
-
-元々は[VOCALOID 2・VOCALOID 4のライブラリとして発売されていましたが、3月21日にSynthesizer V 2の歌声データベースとして発売]{.marker}されることが決まりました。
-
-歌声は以下のデモソングで確認できます。
-
-:you-tube-iframe{title="ころりんぱ - Synthesizer V AI miki公式デモソング" videoId="tU-m0vRODQE"}
-:you-tube-iframe{title="ちょむＰ - 星の海へ feat. miki" videoId="zvvUbvtleKc"}
-
-VOCALOID版のときにあった、[舌っ足らずさは少なくなり大人びた歌声になった印象]{.marker}です。
-
-:affiliate-block{title="Synthesizer V 2 AI miki" imageUrl="https://m.media-amazon.com/images/I/415qpDGofBL._SL160_.jpg" asin="B0DVGV742C" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004027.html"}
-
-### 重音テト
+### 重音テト（Synthesizer V 2）
 
 **重音テト**は子供らしくも大人らしくもあり、エイジレスで癖がなくまっすぐな歌声はどんなジャンルも歌いこなします。
+2025年11月17日には**Synthesizer V 2 AI 重音テト**が発売されます。
 
 :you-tube-iframe{title="重音テト 公式デモ曲" videoId="A649fgUKz1c"}
 
@@ -115,9 +79,30 @@ VOCALOID版のときにあった、[舌っ足らずさは少なくなり大人�
 
 他の歌声データベースよりも知名度が高いことから、[リスナー目線では歌声に馴染みのある方が多い歌声データベース]{.marker}という点でオススメです。
 
-:affiliate-block{title="Synthesizer V AI 重音テト パッケージ版" imageUrl="https://m.media-amazon.com/images/I/417GBcwOqaL._SL160_.jpg" asin="B0BYZ417DW"}
+:affiliate-block{title="Synthesizer V 2 AI 重音テト パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41nqMrZELUL._SL160_.jpg" asin="B0FYD5SQGZ"}
 
-:affiliate-block{title="Synthesizer V AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000376_img_main.webp" asin="B0CJ4PZFV9" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000376.html"}
+:affiliate-block{title="Synthesizer V 2 AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005264_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01005264.html"}
+
+### Megpoid（Synthesizer V 2）
+
+Megpoid は歌手・声優の**中島愛**さんの歌声から作成された歌声データベースです。
+2025年9月12日に**Synthesizer V 2 AI Megpoid**が発売されました。
+
+歌声は以下の動画で確認できます。
+
+:you-tube-iframe{title="Synthesizer V 2 AI Megpoid スタイル紹介 公式デモ" video-id="2_4M9Po-DjI"}
+
+VOCALOID 版の Megpoid は**GUMI**というキャラクターが歌っている印象がありましたが、Synthesizer V版に関しては[**中島愛**さんの歌い方に近いように感じます]{.marker}。
+MegpoidはVOCALOID版でも人気のライブラリだったため、さらにリアルになったSynthesizer V版は特にオススメです。
+
+SV2のボーカルスタイルは、SV1のときのデフォルト・Ballade・Cute・Soft・Vividに加え、[**Downer・Power・Whisper**が追加]{.marker}されます。
+計8種類のボーカルスタイルを自由に組み合わせて使用できます。
+
+[追加録音されているとのことで、Synthesizer V 2になってさらに自然な歌声]{.marker}になっています。
+
+:affiliate-block{title="Synthesizer V 2 AI Megpoid ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004826_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004826.html"}
+
+:affiliate-block{title="Synthesizer V 2 AI Megpoid パッケージ版" imageUrl="https://m.media-amazon.com/images/I/412gDwzVjlL._SL160_.jpg" asin="B0FLJRJ7ZS"}
 
 ## Synthesizer V 2の注意点
 
@@ -138,7 +123,7 @@ Synthesizer V 2の新機能を使用したい場合は、Synthesizer V 2対応�
 
 ### 既存ユーザの特別価格について
 
-**Synthesizer V Studio Pro**を既に持っている場合は、 Synthesizer V Studio 2 Proのアップグレード版を[特別価格で購入]{.marker}することができます。
+**Synthesizer V Studio Pro**を既に持っている場合は、 Synthesizer V Studio 2 Proのアップグレード版を[特別価格で購入]{.marker}できます。
 DLsiteでの購入よりもお得に購入できるため、既存ユーザの場合は特別価格での購入をオススメします。
 
 アップグレード版については以下のページに詳しく記載されています。
@@ -147,7 +132,7 @@ DLsiteでの購入よりもお得に購入できるため、既存ユーザの�
 
 ## まとめ
 
-この記事では、[『Synthesizer V Studio 2 Pro』販売記念2本以上購入で10％OFFセット割キャンペーン！]{.marker}についてまとめました。
+この記事では、[『Synthesizer V 2 AI』新規2製品販売記念2本以上購入で10％OFFセット割キャンペーン！]{.marker}についてまとめました。
 ぜひこの機会に購入を検討してはいかがでしょうか。
 
 Synthesizer Vの歌声データベースについては、以下の記事にまとめています。

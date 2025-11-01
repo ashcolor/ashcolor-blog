@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2025/09/19"
+updatedAt: "2025/11/01"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介【Synthesizer V 2対応】"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -96,9 +96,12 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 他の歌声データベースよりも知名度が高いことから、[リスナー目線では歌声に馴染みのある方が多い歌声データベース]{.marker}という点でオススメです。
 
-:affiliate-block{title="Synthesizer V AI 重音テト パッケージ版" imageUrl="https://m.media-amazon.com/images/I/417GBcwOqaL._SL160_.jpg" asin="B0BYZ417DW"}
+また、[11月27日にはSynthesizer V 2版の重音テトも発売]{.marker}されます。
+さらに高性能化した重音テトに期待です。
 
-:affiliate-block{title="Synthesizer V AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000376_img_main.webp" asin="B0CJ4PZFV9" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000376.html"}
+:affiliate-block{title="Synthesizer V 2 AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005264_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01005264.html"}
+
+:affiliate-block{title="Synthesizer V 2 AI 重音テト パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41nqMrZELUL._SL160_.jpg" asin="B0FYD5SQGZ"}
 
 ### 小春六花・夏色花梨・花隈千冬
 
@@ -162,9 +165,9 @@ ROSE 歌声は以下の動画で確認できます。
 
 文字読み上げソフト「VOICEPEAK」のナレーターとして既に発売されている、人気のキャラクターでもあります。
 
-:affiliate-block{title="Synthesizer V AI 宮舞モカ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01003000/VJ01002763_img_main.webp" asin="B0DG8GXPYD" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01002763.html"}
+:affiliate-block{title="Synthesizer V 2 AI 宮舞モカ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004025_img_main.webp" asin="B0DG8GXPYD" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004025.html"}
 
-:affiliate-block{title="Synthesizer V AI 宮舞モカ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41SNAzetUfL._SL160_.jpg" asin="B0DFPNVB7V"}
+:affiliate-block{title="Synthesizer V 2 AI 宮舞モカ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41PMiAdWJ5L._SL160_.jpg" asin="B0DVGJFPC3"}
 
 サンプル曲を**原口沙輔**さんや**和田たけあき**さんといった有名な方々が作成しています。
 

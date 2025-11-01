@@ -1,7 +1,7 @@
 ---
-createdAt: "2025/09/28"
+createdAt: "2025/11/01"
 updatedAt:
-title: "【終了】DLsiteにて「音声合成ソフト」に使える15%OFFクーポン配布中！Synthesizer V 2 AI MegpoidやVoiSona 雨衣も対象"
+title: "DLsiteにて「音声合成ソフト」に使える15%OFFクーポン配布中！Synthesizer V 2 AI 重音テトやVoiSona 雨衣も対象【11/10まで】"
 description: "DLsiteの「音声合成ソフト」に使える15%OFFクーポンについてまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
@@ -30,6 +30,7 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-09-28_10-14-17_goa
 ::
 
 最近発売された**Synthesizer V 2 AI Megpoid**や、**VoiSona 雨衣**も対象となっています。
+また11/27に発売予定の**Synthesizer V 2 AI 重音テト**も対象となっています。
 
 「音声合成ソフト」に使えるクーポンが配布されるのは珍しいため、ぜひこの機会に購入を考えてみてはいかがでしょうか。
 
@@ -37,9 +38,11 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-09-28_10-14-17_goa
 
 <DtmSynthesizerVDlSiteSearchSale></DtmSynthesizerVDlSiteSearchSale>
 
-:affiliate-block{title="Synthesizer V AI Megpoid ダウンロード版" asin="B0CS5T4KZ4" imageUrl="https:///img.dlsite.jp/modpub/images2/work/professional/VJ01002000/VJ01001252_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001252.html"}
+:affiliate-block{title="Synthesizer V 2 AI Megpoid ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004826_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004826.html"}
 
 :affiliate-block{title="VoiSona 雨衣（買い切りDL版）" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005055_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01005055.html"}
+
+:affiliate-block{title="Synthesizer V 2 AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005264_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01005264.html"}
 
 ### 価格比較
 
@@ -61,7 +64,7 @@ AHSの場合、AHS製品を持っていれば**AHSユーザー特別版**で購�
 
 ### 有効期限
 
-クーポンの有効期限は2025/10/14 23:59:59 までとなっています。
+クーポンの有効期限は2025/11/10 23:59:59 までとなっています。
 
 ## まとめ
 
