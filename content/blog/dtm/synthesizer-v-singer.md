@@ -52,7 +52,7 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 歌声データベースの歌声を確認したい場合は、[公式サイトを確認]{.marker}するのがオススメです。
 
-:link-card{url="https://dreamtonics.com/ja/synthesizerv/"}
+:link-card{url="https://dreamtonics.com/ja/voices/"}
 
 公式サイトの下の方までスクロールすると[歌声データベースの一覧]{.marker}を確認できます。
 
