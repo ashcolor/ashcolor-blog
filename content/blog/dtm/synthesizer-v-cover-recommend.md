@@ -51,9 +51,9 @@ VOCALOID版とは違う、[Synthesizer Vのリアル指向な歌声]{.marker}が
 [原曲の透明感とマッチした調声]{.marker}をされていて、GUMIの歌声が非常に美しいです。
 上で紹介したカバーとはまた違ったGUMIの歌声を聞くことができます。
 
-:affiliate-block{title="Synthesizer V AI Megpoid パッケージ版" asin="B0CNSLGNH7" imageUrl="https://m.media-amazon.com/images/I/41PINo4+UcL._SL160_.jpg"}
+:affiliate-block{title="Synthesizer V 2 AI Megpoid ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004826_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004826.html"}
 
-:affiliate-block{title="Synthesizer V AI Megpoid ダウンロード版" asin="B0CS5T4KZ4" imageUrl="https:///img.dlsite.jp/modpub/images2/work/professional/VJ01002000/VJ01001252_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01001252.html"}
+:affiliate-block{title="Synthesizer V 2 AI Megpoid パッケージ版" imageUrl="https://m.media-amazon.com/images/I/412gDwzVjlL._SL160_.jpg" asin="B0FLJRJ7ZS"}
 
 ## 重音テト
 
@@ -75,9 +75,9 @@ VOCALOID版とは違う、[Synthesizer Vのリアル指向な歌声]{.marker}が
 このカバーは、[UTAUの重音テトとSynthesizer Vの重音テトのデュエット]{.marker}になっています。
 UTAUとSynthesizer Vのそれぞれの良さを同時に楽しむことができます。
 
-:affiliate-block{title="Synthesizer V AI 重音テト パッケージ版" imageUrl="https://m.media-amazon.com/images/I/417GBcwOqaL._SL160_.jpg" asin="B0BYZ417DW"}
+:affiliate-block{title="Synthesizer V 2 AI 重音テト パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41nqMrZELUL._SL160_.jpg" asin="B0FYD5SQGZ"}
 
-:affiliate-block{title="Synthesizer V AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000376_img_main.webp" asin="B0CJ4PZFV9" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01000376.html"}
+:affiliate-block{title="Synthesizer V 2 AI 重音テト ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005264_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01005264.html"}
 
 ## 花隈千冬
 

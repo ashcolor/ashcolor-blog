@@ -13,6 +13,18 @@ const affiliateBlocks = [
         dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01004024.html",
     },
     {
+        title: "Synthesizer V 2 AI 重音テト ダウンロード版",
+        imageUrl:
+            "https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005264_img_main.webp",
+        asin: "",
+        dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01005264.html",
+    },
+    {
+        title: "Synthesizer V 2 AI 重音テト パッケージ版",
+        imageUrl: "https://m.media-amazon.com/images/I/41nqMrZELUL._SL160_.jpg",
+        asin: "B0BYZ417DW",
+    },
+    {
         title: "Synthesizer V 2 AI Megpoid ダウンロード版",
         imageUrl:
             "https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004826_img_main.webp",
@@ -46,30 +58,6 @@ const affiliateBlocks = [
         dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01003885.html",
     },
     {
-        title: "Synthesizer V 2 AI miki ダウンロード版",
-        imageUrl: "https://m.media-amazon.com/images/I/51N7iKS8SHL._SL160_.jpg",
-        asin: "B0F2SS4PH2",
-        dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01004027.html",
-    },
-    {
-        title: "Synthesizer V 2 AI miki パッケージ版",
-        imageUrl: "https://m.media-amazon.com/images/I/415qpDGofBL._SL160_.jpg",
-        asin: "B0DVGV742C",
-        dlSiteLink: "",
-    },
-    {
-        title: "Synthesizer V 2 AI 氷山キヨテル ダウンロード版",
-        imageUrl: "https://m.media-amazon.com/images/I/51IfKSLpZcL._SL160_.jpg",
-        asin: "B0F2SG7K27",
-        dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01004026.html",
-    },
-    {
-        title: "Synthesizer V 2 AI 氷山キヨテル パッケージ版",
-        imageUrl: "https://m.media-amazon.com/images/I/41CNRe2o05L._SL160_.jpg",
-        asin: "B0DVGF9C4K",
-        dlSiteLink: "",
-    },
-    {
         title: "Synthesizer V 2 AI 宮舞モカ ダウンロード版",
         imageUrl: "https://m.media-amazon.com/images/I/51hpu2HZ8+L._SL160_.jpg",
         asin: "B0F2SMJP7B",
@@ -80,18 +68,6 @@ const affiliateBlocks = [
         imageUrl: "https://m.media-amazon.com/images/I/41MhkbXDMGL._SL160_.jpg",
         asin: "B0DVGJFPC3",
         dlSiteLink: "",
-    },
-    {
-        title: "Synthesizer V AI 重音テト ダウンロード版",
-        imageUrl:
-            "https://img.dlsite.jp/modpub/images2/work/professional/VJ01001000/VJ01000376_img_main.webp",
-        asin: "B0CJ4PZFV9",
-        dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01000376.html",
-    },
-    {
-        title: "Synthesizer V AI 重音テト パッケージ版",
-        imageUrl: "https://m.media-amazon.com/images/I/417GBcwOqaL._SL160_.jpg",
-        asin: "B0BYZ417DW",
     },
 ];
 </script>

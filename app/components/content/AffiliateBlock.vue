@@ -30,9 +30,9 @@ const amazonCampaignText = () => {
 };
 
 const dlSiteCampaignText = () => {
-    const endDate = new Date("2025-05-07T13:59:00");
+    const endDate = new Date("2025-12-04T23:59:00");
     if (new Date() < endDate && props.title.includes("Synthesizer V")) {
-        return "Synthesizer V 2販売記念キャンペーン中！";
+        return "セット割キャンペーン中！";
     }
     return false;
 };
