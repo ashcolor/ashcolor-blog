@@ -16,7 +16,7 @@
                         <li><NuxtLink to="/studio/tool">記事作成ツール</NuxtLink></li>
                     </ul>
                 </div>
-                <NuxtLink to="/" class="btn btn-ghost px-2 font-logo text-xl normal-case sm:px-4">{{
+                <NuxtLink to="/" class="btn btn-ghost px-2 text-xl normal-case sm:px-4">{{
                     BLOG_TITLE
                 }}</NuxtLink>
             </div>
