@@ -3,7 +3,7 @@ createdAt: "2023/08/25"
 updatedAt: "2024/01/19"
 title: "NuxtJSを使ってブログを作ってみた【Nuxt Content/TailwindCSS/daisyUI】"
 description: "NuxtJSを使用してブログを作成した際の技術スタック・メリット・デメリットを紹介します。"
-category: "システム開発"
+category: "WEBシステム開発"
 subCategory: "Nuxt.js"
 tags:
   - "NuxtJS"
@@ -218,7 +218,7 @@ VSCodeには様々な拡張機能があります。
 
 他にも[markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)を使えば、「見出しの数字が飛んでいないか？」「不要な改行が入っていないか？」といったマークダウンの文法のミスを見つけやすくできます。
 
-拡張機能によるチェックはシステム開発の際に役に場面が多かったですが、ブログのライティングの際も[スペルや文法へ意識を取られることなく記事の内容を考えることに集中できる]{.marker}ため、文章を書くときも便利だと感じました。
+拡張機能によるチェックはコーディングの際に役に場面が多かったですが、ブログのライティングの際も[スペルや文法へ意識を取られることなく記事の内容を考えることに集中できる]{.marker}ため、文章を書くときも便利だと感じました。
 
 WordPressもVSCodeで記事を作成することもできます。
 しかし、WordPressの元々のエディタはグラフィカルに記事を作成できるというメリットがあるため、わざわざ時間をかけてVSCodeに移行するメリットは少ないと感じました。

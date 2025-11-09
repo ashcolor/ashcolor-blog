@@ -3,7 +3,7 @@ createdAt: "2024/06/22"
 updatedAt:
 title: "React公式チュートリアルをVueでも書いて比較してみた"
 description: "React公式チュートリアルをVueで書いて、コードを比較してみます。"
-category: "システム開発"
+category: "WEBシステム開発"
 subCategory: ""
 tags:
   - "React.js"

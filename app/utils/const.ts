@@ -11,7 +11,7 @@ export const BLOG_CATEGORIES = [
     },
     {
         key: "programming",
-        name: "システム開発",
+        name: "WEBシステム開発",
         path: "/blog/programming",
         thumbnail:
             "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-computer-accessories_key-cap.webp",
