@@ -8,7 +8,7 @@ tags:
   - "キーボード"
   - "EPOMAKER"
 thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_cidoo-v65-keyboard-review_cidoo-v65-keyboard-review-1.webp"
-isRecommend: false
+isRecommend: true
 ---
 
 2024年1月、65%キーボードである**CIDOO V65 V2**を購入しました。
