@@ -31,7 +31,7 @@ const navigations = computed(() => {
 
 <template>
     <BreadCrumb :navigations="navigations"></BreadCrumb>
-    <ProseH1 class="my-4 text-center text-3xl">{{ categoryName }}</ProseH1>
+    <ProseH1 class="my-4 text-center text-4xl">{{ categoryName }}</ProseH1>
     <div
         class="hero mx-[calc(50%_-_50vw)] my-8 h-96 w-screen"
         :style="`background-image: url(${categoryThumbnail})`"

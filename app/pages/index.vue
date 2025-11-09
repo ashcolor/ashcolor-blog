@@ -53,7 +53,7 @@ const onClickSearchButton = () => {
 </script>
 
 <template>
-    <ProseH1 class="my-4 text-center text-3xl">{{ BLOG_TITLE }}</ProseH1>
+    <ProseH1 class="my-4 text-center text-4xl">{{ BLOG_TITLE }}</ProseH1>
     <div class="text-center text-slate-500">
         <p>{{ BLOG_SUBTITLE }}</p>
     </div>
