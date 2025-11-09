@@ -3,7 +3,7 @@ createdAt: "2023/08/25"
 updatedAt: "2024/01/19"
 title: "NuxtJSを使ってブログを作ってみた【Nuxt Content/TailwindCSS/daisyUI】"
 description: "NuxtJSを使用してブログを作成した際の技術スタック・メリット・デメリットを紹介します。"
-category: "WEBシステム開発"
+category: "システム開発"
 subCategory: "Nuxt.js"
 tags:
   - "NuxtJS"

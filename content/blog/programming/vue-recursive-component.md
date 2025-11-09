@@ -3,7 +3,7 @@ createdAt: "2024/01/29"
 updatedAt: "2024/02/19"
 title: "Vueで再帰的コンポーネントを作成する方法【Vue3】"
 description: "Vue3で再帰的コンポーネントを作成する方法を解説します。"
-category: "WEBシステム開発"
+category: "システム開発"
 subCategory: "Vue.js"
 tags:
   - "Vue.js"

@@ -3,7 +3,7 @@ createdAt: "2024/04/08"
 updatedAt:
 title: "手軽に使えるVueプレイグラウンド環境。Vue SFC Playground解説"
 description: "Vue公式のプレイグラウンド環境であるVue SFC Playgroundの機能や使い方・メリットについて説明します。"
-category: "WEBシステム開発"
+category: "システム開発"
 subCategory: "Vue.js"
 tags:
   - "Vue.js"

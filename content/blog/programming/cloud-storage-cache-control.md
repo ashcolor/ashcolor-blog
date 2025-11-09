@@ -3,7 +3,7 @@ createdAt: "2023/08/01"
 updatedAt:
 title: "【Python】Cloud StorageにアップロードするオブジェクトのCache-Controlを変更する"
 description: ""
-category: "WEBシステム開発"
+category: "システム開発"
 subCategory: "Cloud Storage"
 tags:
   - "Python"
