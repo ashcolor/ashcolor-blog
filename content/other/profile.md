@@ -30,7 +30,7 @@ description: "運営者情報"
 ::point-list
 
 - ガジェット
-- プログラミング
+- システム開発
 - DTM
 
 ::
