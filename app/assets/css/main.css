@@ -17,12 +17,10 @@
     --radius-field: 0;
     --radius-box: 0;
 }
-@theme {
-    --font-logo: "M PLUS Rounded 1c", sans-serif;
-}
 
 body {
-    font-family: "Roboto", "sans-serif", "Hiragino Sans", "Meiryo", "Hiragino Kaku Gothic ProN";
+    font-family:
+        "Roboto", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "sans-serif";
     overflow-x: hidden;
 }
 

@@ -1,6 +1,5 @@
-import { definePerson } from "nuxt-schema-org/schema";
 import tailwindcss from "@tailwindcss/vite";
-import { BLOG_TITLE, BLOG_CATEGORIES } from "./app/utils/const";
+import { definePerson } from "nuxt-schema-org/schema";
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
@@ -31,7 +30,6 @@ export default defineNuxtConfig({
     modules: [
         "@nuxt/eslint",
         // "@nuxtjs/eslint-module",
-        "@nuxtjs/google-fonts",
         "@nuxt/content",
         "nuxt-schema-org",
         "nuxt-gtag",
@@ -74,13 +72,6 @@ export default defineNuxtConfig({
                     ],
                 },
             },
-        },
-    },
-
-    googleFonts: {
-        text: BLOG_TITLE + BLOG_CATEGORIES.map((category) => category.name).join(""),
-        families: {
-            "M+PLUS+Rounded+1c": true,
         },
     },
 

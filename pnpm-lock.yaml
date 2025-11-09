@@ -87,9 +87,6 @@ importers:
       '@nuxt/image':
         specifier: ^1.11.0
         version: 1.11.0(db0@0.3.2(better-sqlite3@11.10.0)(sqlite3@5.1.7))(ioredis@5.8.0)(magicast@0.3.5)
-      '@nuxtjs/google-fonts':
-        specifier: ^3.0.1
-        version: 3.2.0(magicast@0.3.5)
       '@playwright/test':
         specifier: ^1.49.1
         version: 1.52.0
@@ -1258,9 +1255,6 @@ packages:
 
   '@nuxtjs/color-mode@3.5.2':
     resolution: {integrity: sha512-cC6RfgZh3guHBMLLjrBB2Uti5eUoGM9KyauOaYS9ETmxNWBMTvpgjvSiSJp1OFljIXPIqVTJ3xtJpSNZiO3ZaA==}
-
-  '@nuxtjs/google-fonts@3.2.0':
-    resolution: {integrity: sha512-cGAjDJoeQ2jm6VJCo4AtSmKO6KjsbO9RSLj8q261fD0lMVNMZCxkCxBkg8L0/2Vfgp+5QBHWVXL71p1tiybJFw==}
 
   '@nuxtjs/mdc@0.17.4':
     resolution: {integrity: sha512-I5ZYUWVlE2xZAkfBG6B0/l2uddDZlr8X2WPVMPYNY4zocobBjMgykj4aqYXHY+N35HRYsa+IpuUCf30bR8xCbA==}
@@ -4318,9 +4312,6 @@ packages:
   globby@14.1.0:
     resolution: {integrity: sha512-0Ia46fDOaT7k4og1PDW4YbodWWr3scS2vAr2lTbsplOt2WkKp0vQbkI9wKis/T5LV/dqPjO3bpS/z6GTJB82LA==}
     engines: {node: '>=18'}
-
-  google-fonts-helper@3.7.3:
-    resolution: {integrity: sha512-dENZeK6RMvkCOFoKbLbS+pyoDgpmk4U6BYmfXnztMar2d8SjEG6valxql/Lkyi7bu5F+3FTdE+gAEYSYZ5zzMA==}
 
   gopd@1.2.0:
     resolution: {integrity: sha512-ZUKRh6/kUFoAiTAtTYPZJ3hw9wNxx+BIBOijnlG9PnrJsCcSjs1wyyD6vJpaYtgnzDrKYRSqf3OO6Rfa93xsRg==}
@@ -9648,14 +9639,6 @@ snapshots:
     transitivePeerDependencies:
       - magicast
 
-  '@nuxtjs/google-fonts@3.2.0(magicast@0.3.5)':
-    dependencies:
-      '@nuxt/kit': 3.19.2(magicast@0.3.5)
-      google-fonts-helper: 3.7.3
-      pathe: 1.1.2
-    transitivePeerDependencies:
-      - magicast
-
   '@nuxtjs/mdc@0.17.4(magicast@0.3.5)':
     dependencies:
       '@nuxt/kit': 4.1.2(magicast@0.3.5)
@@ -13197,13 +13180,6 @@ snapshots:
       path-type: 6.0.0
       slash: 5.1.0
       unicorn-magic: 0.3.0
-
-  google-fonts-helper@3.7.3:
-    dependencies:
-      deepmerge: 4.3.1
-      hookable: 5.5.3
-      ofetch: 1.4.1
-      ufo: 1.6.1
 
   gopd@1.2.0: {}
 

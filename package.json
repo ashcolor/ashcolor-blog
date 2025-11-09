@@ -35,7 +35,6 @@
     "@nuxt/eslint-config": "^1.4.1",
     "@nuxt/icon": "2.0.0",
     "@nuxt/image": "^1.11.0",
-    "@nuxtjs/google-fonts": "^3.0.1",
     "@playwright/test": "^1.49.1",
     "@tailwindcss/typography": "^0.5.16",
     "@types/color": "^3.0.3",
