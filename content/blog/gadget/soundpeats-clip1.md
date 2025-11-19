@@ -1,8 +1,8 @@
 ---
 createdAt: "2025/11/21"
 updatedAt:
-title: "SOUNDPEATS Clip1 レビュー！基本スペック、良い点、注意点まとめ"
-description: "CIDOO V65 V2の基本スペックから良い点、注意点をまとめました"
+title: "SOUNDPEATS Clip1 正直レビュー！イヤーカフ型で「ながら聴き」に最適なイヤホン"
+description: "SOUNDPEATS Clip1の基本スペックからレビュー、向いている人をまとめました"
 category: "ガジェット"
 tags:
   - "イヤホン"
