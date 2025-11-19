@@ -1,5 +1,5 @@
 ---
-createdAt: "2025/11/20"
+createdAt: "2025/11/21"
 updatedAt:
 title: "SOUNDPEATS Clip1 レビュー！基本スペック、良い点、注意点まとめ"
 description: "CIDOO V65 V2の基本スペックから良い点、注意点をまとめました"
