@@ -19,8 +19,7 @@
 }
 
 body {
-    font-family:
-        "Roboto", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "sans-serif";
+    font-family: "Roboto", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
     overflow-x: hidden;
 }
 
