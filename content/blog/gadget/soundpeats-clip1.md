@@ -183,4 +183,4 @@ Air Pods Pro 3、TechnicsのAZ-100と並べると以下のようになります�
 キャッチコピーが「"ながら聴き"の新定番」なだけあって、[日常を過ごしながら音楽を聴く使い方にぴったり]{.marker}と感じました。
 カナル型のイヤホンとは明確に特徴が異なるので、場面によって使い分けながら使っていきたい製品です。
 
-:affiliate-block{title="SOUNDPEATS Clip1" imageUrl="https://m.media-amazon.com/images/I/31cZCfc+brL._SL160_.jpg" asin="B0F998HQ51"}
+:affiliate-block{title="SOUNDPEATS Clip1" imageUrl="https://m.media-amazon.com/images/I/31cZCfc+brL._SL160_.jpg" asin="B0FXX19B5Q"}
