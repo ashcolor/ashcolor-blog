@@ -5,7 +5,7 @@ const affiliateUrl = computed(() => Util.affiliateDlSiteUrl(searchLink));
 
 <template>
     <ClientOnly>
-        <div class="flex flex-col">
+        <!-- <div class="flex flex-col">
             <a :href="affiliateUrl" target="_blank" rel="noopener noreferrer">
                 <img
                     src="https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-11-01_14-05-51_37xr2xmt.webp"
@@ -15,6 +15,6 @@ const affiliateUrl = computed(() => Util.affiliateDlSiteUrl(searchLink));
                 />
             </a>
             <div class="self-end text-sm text-slate-500">PR</div>
-        </div>
+        </div> -->
     </ClientOnly>
 </template>
