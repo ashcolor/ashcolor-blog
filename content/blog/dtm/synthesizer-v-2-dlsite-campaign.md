@@ -1,7 +1,7 @@
 ---
 createdAt: "2025/11/01"
-updatedAt: ""
-title: "DLsiteにてSynthesizer Vセット割キャンペーン中！2本以上購入で10%OFF！【12/4まで】"
+updatedAt: "2025/12/04"
+title: "【終了】DLsiteにてSynthesizer Vセット割キャンペーン中！2本以上購入で10%OFF！"
 description: "DLsiteのSynthesizer Vセット割キャンペーンについてまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
@@ -14,6 +14,8 @@ isRecommend: false
 ---
 
 ## キャンペーン概要
+
+[このキャンペーンは12/4に終了しました。]{.text-red-500}
 
 **DLsite**にて[『Synthesizer V 2 AI』新規2製品販売記念2本以上購入で**10％OFF**セット割キャンペーン！]{.marker}が開始されました。
 以下のリンクからキャンペーンページにアクセスできます。
