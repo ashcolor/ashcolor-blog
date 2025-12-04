@@ -1,7 +1,7 @@
 ---
-createdAt: "2025/11/01"
+createdAt: "2025/12/04"
 updatedAt:
-title: "DLsiteにて「音声合成ソフト」に使える15%OFFクーポン配布中！Synthesizer V 2 AI 重音テトやVoiSona 雨衣も対象【11/10まで】"
+title: "DLsiteにて「音声合成ソフト」に使える15%OFFクーポン配布中！Synthesizer V 2 AI 重音テトやVoiSona 雨衣も対象【12/11まで】"
 description: "DLsiteの「音声合成ソフト」に使える15%OFFクーポンについてまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
@@ -64,7 +64,7 @@ AHSの場合、AHS製品を持っていれば**AHSユーザー特別版**で購�
 
 ### 有効期限
 
-クーポンの有効期限は2025/11/10 23:59:59 までとなっています。
+クーポンの有効期限は2025/12/11 23:59:59 までとなっています。
 
 ## まとめ
 
