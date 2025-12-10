@@ -64,7 +64,7 @@ const isShowModal = ref(false);
             loading="lazy"
             @click="isShowModal = true"
         />
-        <p v-if="alt" class="text-sm font-thin">{{ props.alt }}</p>
+        <p v-if="alt" class="text-sm text-slate-500">{{ props.alt }}</p>
         <dialog
             v-if="isShowModal"
             id="my_modal_1"

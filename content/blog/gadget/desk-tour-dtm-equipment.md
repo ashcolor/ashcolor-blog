@@ -1,7 +1,7 @@
 ---
-createdAt: "2024/05/31"
-updatedAt: "2025/06/14"
-title: "システムエンジニア/DTMerのデスク周り紹介 DTM（音楽）機器編"
+createdAt: "2025/12/08"
+updatedAt: ""
+title: "エンジニア/DTMerのデスクツアー DTM（音楽）機器編 白色デバイスと配線を隠すコツ"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。"
 category: "ガジェット"
 tags:
@@ -90,20 +90,22 @@ SEシリーズはイヤホンを装着する際に**SHURE掛け**と呼ばれる
 
 :affiliate-block{title="AZLA SednaEarfit MAX" imageUrl="https://m.media-amazon.com/images/I/316gW8n9HVL._SL160_.jpg" asin="B0B48P171D"}
 
-### マイク：オーディオテクニカ AT2020
+### マイク：オーディオテクニカ AT2020 CWH
 
-![オーディオテクニカ AT2020](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_at2020.webp)
+![オーディオテクニカ AT2020 CWH](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-12-10_22-37-13_naja2npv.webp)
 
-マイクは**オーディオテクニカ**の**AT2020**を使用しています。
-
-入門用のコンデンサーマイクとして人気のモデルです。
+マイクは**オーディオテクニカ**の**AT2020 CWH**を使用しています。
+定番マイクAT2020の白色モデルです。
 
 通話用にしか使っていませんが、[音質は通話に使うにはもったいないぐらい音質が良い]{.marker}です。
 
 コンデンサーマイクは保管に気を付けなくてはいけないのですが、四六時中普通に出しっぱなしにしています。
-3年ほどこの状態ですが、今のところは特に問題はないです。
+今のところは特に問題はないです。
 
-:affiliate-block{title="オーディオテクニカ AT2020 コンデンサーマイク" imageUrl="https://m.media-amazon.com/images/I/31YdCgBVbAL._SL160_.jpg" asin="B0006H92QK"}
+白色のモデルは黒色のモデルよりも値段が高いですが、[ポップフィルターとショックマウントが付属]{.marker}します。
+付属品も含めて真っ白な見た目で気に入っています。
+
+:affiliate-block{title="オーディオテクニカ AT2020 CWH" imageUrl="https://m.media-amazon.com/images/I/41KsAa0eUjL._SL160_.jpg" asin="B0DG2GLMS2"}
 
 ### マイクアーム：KTSOULマイクアーム 白色
 
@@ -129,18 +131,6 @@ KTSOULのマイクアームは、以下の点が良かったです。
 
 :affiliate-block{title=" CLASSIC PRO XLR Microphone Cable 3m" imageUrl="https://m.media-amazon.com/images/I/31Ze6E7TlfL._SL160_.jpg" asin="B08GLHP6QS"}
 
-### ポップガード：micawber U型ポップガード
-
-![micawber U型ポップガード](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-dtm_pop-guard.webp)
-
-ポップガードは**micawber**の**U型ポップガード**を使用しています。
-
-[U型ということでマイクに沿うそうな形をしている]{.marker}ので、邪魔になりづらいです。
-
-「吹かれ」の防止とツバの飛散から守るために使用しています。
-
-:affiliate-block{title="micawber U型ポップガード" imageUrl="https://m.media-amazon.com/images/I/51T744NnhDL._SL160_.jpg" asin="B086C68BDW"}
-
 ## DTM用品
 
 ### オーディオインターフェイス：Steinberg UR44
@@ -154,9 +144,11 @@ KTSOULのマイクアームは、以下の点が良かったです。
 インプット端子も豊富ですが、私の場合は録音はほぼしないので通話用にマイクだけ接続をしています。
 
 オーディオインターフェイスの設置場所は画像の通り、[デスク裏にはがせる粘着テープで固定]{.marker}しています。
-デスク裏に設置することでオーディオインターフェイスの裏側から伸びるコードを見えなくすることができ、見た目がシンプルになるので気に入っています。
+デスク裏に設置すると、オーディオインターフェイスの裏側から伸びるコードを隠すことができます。
 
 :affiliate-block{title="Steinberg オーディオインターフェース UR44" imageUrl="https://m.media-amazon.com/images/I/41foSlwU58L._SL160_.jpg" asin="B00GRSDKI8"}
+
+:affiliate-block{title="3M 両面テープ 平滑面用 幅15mm 長さ1m スコッチ KRG-15 プレミアゴールド" imageUrl="https://m.media-amazon.com/images/I/41qBV-CKPJL._SL160_.jpg" asin="B017SFJ91K"}
 
 ### キーボード：ROLAND A-49
 

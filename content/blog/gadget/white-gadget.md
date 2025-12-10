@@ -1,6 +1,6 @@
 ---
 createdAt: "2025/03/18"
-updatedAt: "2025/08/02"
+updatedAt: "2025/12/10"
 title: "【2025年版】白色ガジェットまとめ【ゲーマー・DTMer向け】"
 description: "白色のガジェットを紹介します。キーボード、キーキャップ、マウス、スピーカー、ヘッドホンなどを紹介します。"
 category: "ガジェット"
@@ -34,15 +34,12 @@ isRecommend: true
 
 [WQHD・27インチ・高リフレッシュレート、白色]{.marker}のディスプレイを探していて見つけました。
 [リフレッシュレートは165Hz]{.marker}で、ゲームをする人に向いています。
+
 また、映像切替用のレバーが背面右側にあり、映像の切り替えが楽なのも良かったです。
 
-一方で、白色の枠とは別に[黒色の非表示領域]{.marker}があり、その領域が結構広いです。
-商品ページでは黒色の画面が表示されているので目立ちませんが、明るい画面を表示すると気になります。
-そこで、[マスキングテープを貼って隠してみたところ]{.marker}、あまり目立たなくなりました。
+以下の記事でレビューしているので詳しく知りたい方はご覧ください。
 
-![ベゼルが太かったので、マスキングテープを貼って隠した](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-08-02_00-48-45_vgfoh1pv.webp)
-
-応急処置的でしたがいい感じに隠れたので、しばらくはこのまま使おうと思っています。
+:quote-article-card{url="/blog/gadget/gigabyte-m27qa-ice"}
 
 :affiliate-block{title="GIGABYTE M27QA ICE" imageUrl="https://m.media-amazon.com/images/I/410v+7blPgL._SL160_.jpg" asin="B083TZGSD7"}
 
@@ -197,12 +194,13 @@ AKGのヘッドホンは[音場が広く、フラットな音質]{.marker}をし
 
 ### マイク
 
-マイクは**オーディオテクニカ AT2020**を使用しています。
+マイクは**オーディオテクニカ AT2020 CWH**を使用しています。
+定番マイクAT2020の白色モデルです。
 
-:affiliate-block{title="オーディオテクニカ AT2020" imageUrl="https://m.media-amazon.com/images/I/31b8C+rzkuL._SL160_.jpg" asin="B0DG2GLMS2"}
+:affiliate-block{title="オーディオテクニカ AT2020 CWH" imageUrl="https://m.media-amazon.com/images/I/31b8C+rzkuL._SL160_.jpg" asin="B0DG2GLMS2"}
 
-定番なモデルなだけあって、[音質が良い]{.marker}です。
-最近、白色のモデルが発売されたので、白色が欲しい方はこちらを選びましょう。
+白色のモデルは黒色のモデルよりも値段が高いですが、[ポップフィルターとショックマウントが付属]{.marker}します。
+付属品も含めて真っ白な見た目で気に入っています。
 
 ### マイクアーム
 
