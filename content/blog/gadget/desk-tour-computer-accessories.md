@@ -1,7 +1,7 @@
 ---
-createdAt: "2023/08/01"
-updatedAt: "2025/06/14"
-title: "システムエンジニア/DTMerのデスク周り紹介 PC周辺機器編"
+createdAt: "2025/12/10"
+updatedAt: ""
+title: "エンジニア/DTMerのデスクツアー PC周辺機器編 こだわりのKeychronキーボードとKensingtonの大玉トラックボール"
 description: "システムエンジニア/DTMerのデスク周りを紹介します。特にPC周辺機器について紹介します。"
 category: "ガジェット"
 tags:
@@ -16,7 +16,7 @@ tags:
   - "Kensington"
   - "ロジクール"
   - "Keychron"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-computer-accessories_key-cap.webp"
+thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-12-10_22-33-46_fdzwsz7v.webp"
 ---
 
 この記事では、[職業：システムエンジニア、趣味：DTM]{.marker}な私のデスクの、[PC周辺機器]{.marker}について紹介していきます。
@@ -93,25 +93,26 @@ X-Mouse Button Controlは、Kensington Worksと同様に、ボタンに機能を
 
 ## キーボード関連
 
-### キーボード：Keychron K6 Pro
+### キーボード：Keychron Q2 Max
 
-![Keychron K6 Pro](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-computer-accessories_keychron-2.webp)
+キーボードは**Keychron**の**Q2 Max**を使用しています。
 
-キーボードは**Keychron**の**K6 Pro**を使用しています。
+![Keychron Q2 Max](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-12-10_22-34-12_vpxuzdky.webp)
 
 Keychronはメカニカルキーボードを販売している会社で、[たくさんのレイアウトのキーボードを販売]{.marker}しています。
 ベーシックモデルのKシリーズは60%、65%、70%、75%、80%、96%、フルとあらゆるサイズのモデルが用意されています。
 
 さらに、薄型モデルや配列違い（JIS、US）、軸違いもあり、自分好みのキーボードを見つけることができます。
 
-私が使用しているK6 Proは**K Proシリーズ**の**65%キーボード**になります。
-K6 Proシリーズの特徴は以下の通りです。
+私が使用しているQ2 Maxは**Q2 Max シリーズ**の**65%キーボード**になります。
+Q2 Maxシリーズの特徴は以下の通りです。
 
-::point-list{title="Keychron K Proシリーズの特徴"}
+::point-list{title="Keychron Q Maxシリーズの特徴"}
 
-- Kシリーズの特徴を継承、無線/有線接続可、Mac/Windows対応、ホットスワップ可
-- VIAによるキーのカスタムが可能
-- Qシリーズと比べると安価で軽量
+- メタルボディと大幅に強化された音響フォーム
+- 有線、2.4 GHz無線、3台のBluetooth接続
+- ホットスワップ可
+- VIAによるキーカスタム
 
 ::
 
@@ -125,42 +126,51 @@ VIAは主に自作キーボードを作成する際に使用するソフトウ�
 一応、Windowsだったら[AutoHotkey](https://www.autohotkey.com/)、Macだったら[Karabiner-Elements](https://karabiner-elements.pqrs.org/)を使うとキーを押下したときの挙動を変更することが可能です。
 しかし、ソフトウェア側では「Fnキーはリマップができない」、「PCごとにキー設定をする必要がある」といったデメリットがあります。
 
-VIAなら[Fnキーも自由な場所に配置]{.marker}することができますし、[キー設定はハードウェア側に記録]{.marker}されるためPCごとの設定も不要です。
+VIAなら[Fnキーも自由な場所に配置]{.marker}できますし、[キー設定はハードウェア側に記録]{.marker}されるためPCごとの設定も不要です。
 
 自分にベストなレイアウト・キー配置が分かっている方は、豊富なレイアウト・VIAによるキー配置のできるK Proシリーズは非常にオススメです。
 
-:affiliate-block{title="Keychron K6 Pro QMK/VIA ワイヤレスメカニカルキーボード" imageUrl="https://m.media-amazon.com/images/I/412nx+nlgiL._SL160_.jpg" asin="B09W2B6L12"}
+:affiliate-block{title="Keychron Q2 US配列 カーボンブラック Gateron Jupiterメカニカル赤軸" imageUrl="https://m.media-amazon.com/images/I/31Hz0PKM57L._SL160_.jpg" asin="B0B4PXSB8M"}
 
-### キーキャップ：XVX PBTキーキャップセット（ホワイト/グリーン）
+### キーキャップ：ミルクミニマリストホワイトテーマ
 
-![XVX PBTキーキャップセット（ホワイト/グリーン）](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-computer-accessories_key-cap.webp)
+キーキャップも全て白色にしたかったので、**ミルクミニマリストホワイトテーマ**を使用しています。
 
-キーキャップは**XVX**というメーカーの**PBTキーキャップセット**を使用しています。
+写真だとオフホワイトのような色合いですが、[実物は真っ白に近い]{.marker}です。
 
-私の愛用しているキーボード「Keychron K6 Pro」の唯一と言っていい不満点は、キーキャップの色を選択できないことです。
+通常のキーの他に牛乳や目玉焼きがプリントされたキーも付属されていて、かわいいです。
 
-キーキャップの色は白系にしたかったため、交換用のキーキャップを探してみたところこちらを見つけました。
+:affiliate-block{title="ミルクミニマリストホワイトテーマ" imageUrl="https://m.media-amazon.com/images/I/51PyTQjlpbL._SL160_.jpg" asin="B09S8DQFGK"}
 
-数は[189キーでサイズ違いや色違いなども入っていて充実]{.marker}しており、[PBT・ダブルショット]{.marker}で品質もとてもいいです。
-お値段も品質に対して安価でとても気に入っています。
+### キースイッチ：Kailh Super Speed Switch / Silver
 
-:affiliate-block{title="XVX キーキャップセット（ホワイト/グリーン）" imageUrl="https://m.media-amazon.com/images/I/41uKVVwmICL._SL160_.jpg" asin="B0BM4Q3YP4"}
+キースイッチは**Kailh**の**Super Speed Switch / Silver**を使用しています。
+
+[押下圧が38gと非常に軽い押し心地のキースイッチ]{.marker}です。
+
+また、Speed Switchということで他のスイッチと比べて[かなり短いストロークで動作]{.marker}します。
+ゲーム向きと言われていますが、個人的にはタイピングも軽いタッチで素早く入力できるので気に入っています。
+
+:affiliate-block{title="Kailh Super Speed Switch Silver 38gf" imageUrl="https://m.media-amazon.com/images/I/416Xhvx--XL._SL160_.jpg" asin="B0B9WVM6VL"}
 
 ## ディスプレイ関連
 
-### ディスプレイ：IODATA GigaCrysta WQHD 23.8インチ EX-LDGCQ241DB
+### ディスプレイ：GIGABYTE M27QA ICE
 
-ディスプレイは**IODATA**の**GigaCrysta WQHD 23.8インチ**を使用しています。
+ディスプレイは**GIGABYTE M27QA ICE**を使用しています。
 
-![IODATA GigaCrysta WQHD 23.8インチ](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-computer-accessories_display.webp)
+![GIGABYTE M27QA ICE](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-08-02_00-48-31_zeb9xa79.webp)
 
-[高さ調整と縦横回転が可能]{.marker}があったので購入しました。
-ただ、後からモニターアームを使用するようになったので、そこにこだわる必要はなかったです。
+[WQHD・27インチ・高リフレッシュレート、白色]{.marker}のディスプレイを探していて見つけました。
+[リフレッシュレートは165Hz]{.marker}で、ゲームをする人に向いています。
 
-[WQHD]{.marker}ということでFullHDよりも解像度が高いです。
-[リフレッシュレートは60Hz]{.marker}なので、FPSゲームをする場合は別の高リフレッシュレートのディスプレイを検討した方がいいです。
+また、映像切替用のレバーが背面右側にあり、映像の切り替えが楽なのも良かったです。
 
-:affiliate-block{title="IODATA ゲーミングモニター 23.8インチ GigaCrysta WQHD EX-LDGCQ241DB" imageUrl="https://m.media-amazon.com/images/I/51YdNZAyWFL._SL160_.jpg" asin="B07CHF4XC7"}
+以下の記事でレビューしているので詳しく知りたい方はご覧ください。
+
+:quote-article-card{url="/blog/gadget/gigabyte-m27qa-ice"}
+
+:affiliate-block{title="GIGABYTE M27QA ICE" imageUrl="https://m.media-amazon.com/images/I/410v+7blPgL._SL160_.jpg" asin="B083TZGSD7"}
 
 ### モニターアーム：エルゴトロン LX デスクマウント モニターアーム マットブラック
 
@@ -191,7 +201,7 @@ VIAなら[Fnキーも自由な場所に配置]{.marker}することができま�
 
 Webカメラは**Anker**の**PowerConf C200**を使用しています。
 
-ビデオ会議用に使用しているのですが、[2Kの高画質]{.marker}ということもあって通話に使用する分には充分にきれいな画質で撮影することができます。
+ビデオ会議用に使用しているのですが、[2Kの高画質]{.marker}ということもあって通話に使用する分には充分にきれいな画質で撮影できます。
 
 また、[プライバシーシールド]{.marker}があるため、使用しないときは物理的にカメラにカバーをすることができて安心です。
 
