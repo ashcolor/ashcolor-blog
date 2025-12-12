@@ -17,9 +17,9 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-12-10_22-28-27_0e6
 
 この記事では、[職業：システムエンジニア、趣味：DTM]{.marker}な私のデスクの、[デスク周辺のアイテム]{.marker}を紹介していきます。
 
-## デスク関係
+## デスク
 
-### デスク：FlexiSpot E7H
+### 昇降デスク：FlexiSpot E7H
 
 デスクは**FlexiSpot E7H**という昇降デスクを使用しています。
 
@@ -39,6 +39,17 @@ Amazonには横幅100～140cmまでのモデルしかありませんが、[公�
 
 また、FlexiSpotは頻繁にセールを行っていて、私の場合はブラックフライデーセールの際に**15% OFF**でE7Hを購入できました。
 モデルによっては30% OFFになる場合もあるので、[購入の際はセールの有無を確認するのがオススメ]{.marker}です。
+
+### カグスベール
+
+FlexiSpot E7Hの足には**カグスベール**という製品を付けています。
+
+FlexiSpot E7Hは非常に重いデスクですが、このカグスベールを付けることによって[床と足との摩擦を減りデスクの移動が楽]{.marker}になります。
+
+移動のしやすさで言えばキャスターの方が便利ですが、[キャスターの場合は昇降の最低の高さが高くなるというデメリット]{.marker}があります。
+コスパも良いことから自分はカグスベールを選びました。
+
+:affiliate-block{title="ニチアス カグスベール 重量用 2個入 2個セット" imageUrl="https://m.media-amazon.com/images/I/41V8hTL9ojL._SL160_.jpg" asin="B086LJTMXG"}
 
 ### サイドデスク、収納：IKEA アレクス
 
@@ -74,7 +85,9 @@ Amazonには横幅100～140cmまでのモデルしかありませんが、[公�
 
 :affiliate-block{title="IKEA(イケア) ALEX アレクス 収納ユニット - ホワイト" imageUrl="https://m.media-amazon.com/images/I/21LeUrMnxlL._SL160_.jpg" asin="B0CCVJ97FJ"}
 
-### 椅子：オカムラ コンテッサ
+## 椅子
+
+### オフィスチェア：オカムラ コンテッサ
 
 椅子はオカムラのコンテッサを使用しています。
 
