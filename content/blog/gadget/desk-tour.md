@@ -171,7 +171,7 @@ isRecommend: true
 
 :quote-article-card{url="/blog/gadget/desk-tour-dtm-equipment"}
 
-### 小物編
+### 小物・収納編
 
 その他の小物について紹介します。
 

@@ -120,7 +120,7 @@ Logicool G PRO X SUPERLIGHTのときはmicroUSBでしたが、[SUPERLIGHT 2か�
 
 昨年、白色モデルが発売されたので、即購入しました。
 
-以下の記事でレビューを行っているので、参考にしてみてください。
+以下の記事でレビューしているので、参考にしてみてください。
 
 :quote-article-card{url="/blog/gadget/trackball-comparison"}
 
@@ -146,7 +146,7 @@ Webカメラは、**Logicool C920**がオススメです。
 
 デスクは、**IKEA LINNMON**を使用しています。
 
-:affiliate-block{title="IKEA(イケア) LINNMON" imageUrl="https://m.media-amazon.com/images/I/21cQbvENNnL._SL160_.jpg" asin="B00JEY92FM"}
+:affiliate-block{title="IKEA LINNMON" imageUrl="https://m.media-amazon.com/images/I/21cQbvENNnL._SL160_.jpg" asin="B00JEY92FM"}
 
 正直、[足が貧弱で安定感がなく天板もたわむ]{.marker}ので、用途を選びそうです。
 その代わり非常に軽いので、あまり重いものを置かないのであれば使い勝手はいいです。
