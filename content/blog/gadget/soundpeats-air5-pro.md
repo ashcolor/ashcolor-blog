@@ -157,7 +157,7 @@ Clip1と同様に[アプリを使用するにはメールアドレスでの登�
 
 価格帯を考えると、[音質やノイズキャンセリングの性能のコスパは良い]{.marker}と感じました。
 
-## SOUNDPEATS Air5 Pro+が気になる点
+## SOUNDPEATS Air5 Pro+の気になる点
 
 ::point-list{title="SOUNDPEATS Air5 Pro+の気になる点" listStyle="👎️"}
 
