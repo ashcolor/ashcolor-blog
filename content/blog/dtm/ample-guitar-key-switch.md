@@ -63,4 +63,4 @@ Ample Metal HellrazerdのString Forceは`D#-2`-`B-2`、Capo Forceは`G#-1`
 
 参考になれば幸いです。
 
-<DtmAmpleGuitarPluginBoutiqueButton />
+<DtmAmpleGuitarPluginBoutiqueButton></DtmAmpleGuitarPluginBoutiqueButton>

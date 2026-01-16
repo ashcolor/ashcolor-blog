@@ -17,7 +17,7 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_ample-guitar_ag_lp.
 
 一方で、[目的の機能や音を出すのに苦労することが多い音源]{.marker}でもあります。
 
-この記事では、[Ample Guitarの演奏モードと使用時のの注意点]{.marker}についてまとめます。
+この記事では、[Ample Guitarの演奏モードと使用時の注意点]{.marker}についてまとめます。
 
 以下の内容は[公式マニュアル](https://www.amplesound.net/en/manual.asp)を参考にしています。
 
@@ -135,4 +135,4 @@ Ample Guitarは注意点も多いですが、使いこなすと非常にリア�
 
 参考になれば幸いです。
 
-<DtmAmpleGuitarPluginBoutiqueButton />
+<DtmAmpleGuitarPluginBoutiqueButton></DtmAmpleGuitarPluginBoutiqueButton>

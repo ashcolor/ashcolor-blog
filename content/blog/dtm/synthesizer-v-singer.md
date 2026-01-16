@@ -231,7 +231,7 @@ SV2のボーカルスタイルは、[**デフォルト・Boyish・Cute・Downer�
 :you-tube-iframe{title="Synthesizer V 2 AI 音街ウナ ボーカルスタイルデモ【公式】" videoId="-83Cv9u13-U"}
 
 [キャラクターのかわいさとは対象的なパワフルでかっこいい女性の歌声]{.marker}になっています。
-通常歌唱のほか、[Dramatic/Hard/Husky/Pop/Power Pop/Soft/Whisper の7種類のボーカルスタイル]}{.marker}が用意されています。
+通常歌唱のほか、[Dramatic/Hard/Husky/Pop/Power Pop/Soft/Whisper の7種類のボーカルスタイル]{.marker}が用意されています。
 
 :affiliate-block{title="Synthesizer V 2 AI 猫村いろは ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005053_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01005053.html"}
 

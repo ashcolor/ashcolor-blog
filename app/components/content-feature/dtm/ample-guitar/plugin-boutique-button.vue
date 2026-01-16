@@ -11,9 +11,9 @@ const searchLink =
             <div class="flex grow flex-col gap-2">
                 <div class="flex flex-col gap-2 sm:flex-row">
                     <div class="flex grow flex-col justify-end">
-                        <p class="text-center text-sm text-red-500">
+                        <!-- <p class="text-center text-sm text-red-500">
                             ＼&nbsp;25%OFF セール中&nbsp;／
-                        </p>
+                        </p> -->
                         <a
                             :href="searchLink"
                             target="_blank"

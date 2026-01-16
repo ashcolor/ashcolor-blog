@@ -34,7 +34,7 @@ const msg = ref("Hello World!");
 
 <style scoped>
 .parent p {
-  <!-- 適用されない -- >
+  /* 適用されない */
   background-color: red;
 }
 </style>

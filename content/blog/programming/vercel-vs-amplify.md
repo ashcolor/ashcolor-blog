@@ -131,7 +131,7 @@ AWSのユーザがなくてもアクセスできるため、融通が効きま�
 
 この記事では、[Vercel(Hobbyプラン) からAWS Amplifyに移行したときのコストや機能の違いを解説]{.marker}しました。
 
-小規模なサイトであれば、[Amplifyの方がコストを抑えられる]{.marker}一方で、[Vercelの方がVercel botやVercel botといった便利な機能がある]{.marker}ことが分かりました。
+小規模なサイトであれば、[Amplifyの方がコストを抑えられる]{.marker}一方で、[Vercelの方がVercel botやVercel Toolbarといった便利な機能がある]{.marker}ことが分かりました。
 
 必要に応じて使い分けるのが良さそうです。
 Node環境をデプロイする際の、プラットフォーム選択の参考になれば幸いです。

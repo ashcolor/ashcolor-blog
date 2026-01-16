@@ -187,7 +187,7 @@ CIDOO V65 V2はUSBケーブルをパソコンに接続しただけではモー�
 
 ::
 
-::point-list{title="注意点" list-style="⚠️"}
+::point-list{title="注意点" listStyle="⚠️"}
 
 - 角度調節用の足がない
 - ノブが硬い

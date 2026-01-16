@@ -166,11 +166,11 @@ Rifferの上部に表示される[コードを選択したときに現れるコ�
 ### プリセットの追加
 
 [全てのプリセットがV4用に再設計]{.marker}されました。
-各プリセットには新しいRifferフレーズが含まれているため、[プリセットを選択するだけでエフェクトのかかった完全な状態でリフを再生]{.marker]することができます。
+各プリセットには新しいRifferフレーズが含まれているため、[プリセットを選択するだけでエフェクトのかかった完全な状態でリフを再生]{.marker}することができます。
 
 ### Guitar Proファイルの互換性サポート
 
-[Guitar Proファイルの互換性がサポート]{.marker]されました。
+[Guitar Proファイルの互換性がサポート]{.marker}されました。
 Guitar Proはギターのタブ譜作成ソフトです。
 
 GUitar Proを使っている方は、Guitar Proで作成したタブ譜を`Tab Reader`画面で読み込むことができます。
@@ -198,4 +198,4 @@ Ample Guitar V4は大幅なアップデートが行われており、特に[Riff
 
 今回のアップデートで他の製品にはない機能が盛り沢山になったので、[個人的にかなりオススメのギター音源]{.marker}です。
 
-<DtmAmpleGuitarPluginBoutiqueButton />
+<DtmAmpleGuitarPluginBoutiqueButton></DtmAmpleGuitarPluginBoutiqueButton>

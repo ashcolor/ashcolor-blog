@@ -2,7 +2,7 @@
 createdAt: "2025/11/09"
 updatedAt: ""
 title: "27インチ白色ゲーミングモニター GIGABYTE M27QA ICE レビュー"
-description: ""
+description: "27インチ白色ゲーミングモニター GIGABYTE M27QA ICE をレビューしました。良かったところや気になる点を紹介"
 category: "ガジェット"
 tags:
   - "GIGABYTE"
