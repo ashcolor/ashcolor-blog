@@ -1,7 +1,7 @@
 ---
 createdAt: "2025/12/04"
 updatedAt:
-title: "DLsiteにて「音声合成ソフト」に使える15%OFFクーポン配布中！Synthesizer V 2 AI 重音テトやVoiSona 雨衣も対象【12/11まで】"
+title: "【終了】DLsiteにて「音声合成ソフト」に使える15%OFFクーポン配布中！Synthesizer V 2 AI 重音テトやVoiSona 雨衣も対象"
 description: "DLsiteの「音声合成ソフト」に使える15%OFFクーポンについてまとめました。"
 category: "DTM"
 subCategory: "Synthesizer V"
