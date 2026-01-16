@@ -1,6 +1,6 @@
 ---
 createdAt: "2026/01/16"
-updatedAt:
+updatedAt: ""
 title: "SOUNDPEATS Air5 Pro+ 正直レビュー！高機能・高音質・高コスパだが、ケースからの取り出しに難あり"
 description: "SOUNDPEATS Air5 Pro+の基本スペックからレビュー、向いている人をまとめました"
 category: "ガジェット"

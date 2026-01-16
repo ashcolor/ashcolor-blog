@@ -2,7 +2,7 @@
 createdAt: "2025/12/08"
 updatedAt: ""
 title: "エンジニア/DTMerのデスクツアー 自作PC編 仕事にもDTMにも使っている自作PCの構成"
-description: "システムエンジニア/DTMerのデスク周りを紹介します。この記事では自作PCについて紹介します。"
+description: "システムエンジニア/DTMerの自作PCについて紹介します。使用パーツやWindowsとMac OSの比較など"
 category: "ガジェット"
 tags:
   - "デスク周り"
