@@ -58,7 +58,7 @@ X-Mouse Button Controlは、Kensington Worksと同様に、ボタンに機能を
 ちなみにSlimBlade Proを使用する前は、**ロジクール**の**MX ERGO**を使用していました。
 どちらのトラックボールが使いやすいか、スペックと長期使用の感想から記事をまとめてみたので、気になる方は以下の記事を参考にしてみてください。
 
-[人気のトラックボール2種を徹底比較！「Kensington SlimBlade Pro」 vs 「Logicool MX ERGO」](/blog/gadget/1)
+[人気のトラックボール2種を徹底比較！「Kensington SlimBlade Pro」 vs 「Logicool MX ERGO」](/blog/gadget/trackball-comparison)
 
 :affiliate-block{title="Kensington SlimBlade Pro EQ" imageUrl="https://m.media-amazon.com/images/I/31eDQsPT57L._SL160_.jpg" asin="B0DMSS8WLY"}
 

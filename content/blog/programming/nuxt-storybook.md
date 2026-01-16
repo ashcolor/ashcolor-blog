@@ -2,7 +2,7 @@
 createdAt: "2023/11/22"
 updatedAt: "2024/03/18"
 title: "Nuxt3にStorybookを導入する方法"
-description: "NuxtJSを使用してブログを作成した際の技術スタック・メリット・デメリットを紹介します。"
+description: "Nuxt3にStorybookを導入する方法をまとめました。Pinia、TailwindCSSとの連携方法についても解説します。"
 category: "システム開発"
 subCategory: "Nuxt.js"
 tags:

@@ -2,7 +2,7 @@
 createdAt: "2024/04/12"
 updatedAt: ""
 title: "マイクアームレビュー【CLASSIC PRO → KTSOUL】"
-description: "CLASSIC PROマイクアームとKTSOULマイクアームをの良かった点と不満点をまとめました。】"
+description: "CLASSIC PROマイクアームとKTSOULマイクアームの良かった点と不満点をまとめました。"
 category: "ガジェット"
 tags:
   - "マイクアーム"

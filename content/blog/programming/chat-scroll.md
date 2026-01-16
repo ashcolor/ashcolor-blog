@@ -285,5 +285,3 @@ DOMの追加は`DOMNodeInserted`でも検知できるようですが、こちら
 - [MDN Web Docs | scroll イベント](https://developer.mozilla.org/ja/docs/Web/API/Document/scroll_event)
 - [MDN Web Docs | ResizeObserver](https://developer.mozilla.org/ja/docs/Web/API/ResizeObserver)
 - [MDN Web Docs | MutationObserver](https://developer.mozilla.org/ja/docs/Web/API/MutationObserver)
-
-### 出典

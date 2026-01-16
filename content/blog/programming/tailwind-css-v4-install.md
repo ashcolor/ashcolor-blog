@@ -60,10 +60,12 @@ npm install tailwindcss@next @tailwindcss/vite@next
 `vite-config.js`を以下の内容で作成
 
 ```js [vite-config.js]
-import tailwindcss from '@tailwindcss/vite'
-import { defineConfig } from 'vite'export default defineConfig({
+import tailwindcss from "@tailwindcss/vite";
+import { defineConfig } from "vite";
+
+export default defineConfig({
   plugins: [tailwindcss()],
-})
+});
 ```
 
 `style.css`の先頭に以下を追加

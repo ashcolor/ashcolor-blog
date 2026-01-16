@@ -2,7 +2,7 @@
 createdAt: "2023/08/01"
 updatedAt:
 title: "【Python】Cloud StorageにアップロードするオブジェクトのCache-Controlを変更する"
-description: ""
+description: "PythonでCloud StorageにアップロードするオブジェクトのCache-Controlを変更する方法を解説します。"
 category: "システム開発"
 subCategory: "Cloud Storage"
 tags:
@@ -13,7 +13,7 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_cloud-stora
 
 ## 概要
 
-PythonでCloud StorageにアップロードするオブジェクトのCache-Controlを変更する方法に記載します。
+PythonでCloud StorageにアップロードするオブジェクトのCache-Controlを変更する方法を記載します。
 
 [公式のドキュメント](https://cloud.google.com/storage/docs/viewing-editing-metadata?hl=ja#edit)にPythonのサンプルコードがなく、詰まるポイントがあったので注意点についても解説します。
 
@@ -88,7 +88,7 @@ x-goog-meta-cache-controlに設定されてしまっています。
 ## まとめ
 
 オブジェクトのCache-Controlを変更する方法について解説しました。
-設定値はCLIからコンソールから確認することができるため、正しく設定されているか確認をしましょう。
+設定値はCLIやコンソールから確認することができるため、正しく設定されているか確認をしましょう。
 
 ## 参考
 
