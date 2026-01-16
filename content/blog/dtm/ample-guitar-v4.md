@@ -198,4 +198,4 @@ Ample Guitar V4は大幅なアップデートが行われており、特に[Riff
 
 今回のアップデートで他の製品にはない機能が盛り沢山になったので、[個人的にかなりオススメのギター音源]{.marker}です。
 
-<DtmAmpleGuitarPluginBoutiqueButton />
+<DtmAmpleGuitarPluginBoutiqueButton></DtmAmpleGuitarPluginBoutiqueButton>

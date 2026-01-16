@@ -53,7 +53,7 @@ Taylor 714 CEというギターをサンプリングしていて、とにかく�
 
 アーティキュレーションを活かした演奏と元の音色の良さで、本物のギターと遜色ない素敵な演奏になっているのでぜひ一度聴いてみてください。
 
-<DtmAmpleGuitarPluginBoutiqueButton />
+<DtmAmpleGuitarPluginBoutiqueButton></DtmAmpleGuitarPluginBoutiqueButton>
 
 ### MUSIC LAB：Real Guitar 4
 
@@ -81,7 +81,7 @@ Ample Guitarシリーズは自由度が高い分、初めて使うときは挙�
 
 :quote-article-card{url="/blog/dtm/ample-guitar"}
 
-<DtmAmpleGuitarPluginBoutiqueButton />
+<DtmAmpleGuitarPluginBoutiqueButton></DtmAmpleGuitarPluginBoutiqueButton>
 
 ## ピアノ
 
