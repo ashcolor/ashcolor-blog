@@ -11,3 +11,9 @@ dist
 /blob-report/
 /playwright/.cache/
 .data
+
+settings.local.json
+
+.vscode
+.idea
+.DS_Store
