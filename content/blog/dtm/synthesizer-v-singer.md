@@ -178,7 +178,7 @@ ROSE 歌声は以下の動画で確認できます。
 
 VOICEPEAKではかわいらしい話し声でしたが、Synthesizer Vではボーカルスタイルによって[かわいいからかっこいいまで歌いこなしています]{.marker}。
 
-### Megpoid（Synthesizer V 2）
+### Megpoid
 
 Megpoid は歌手・声優の**中島愛**さんの歌声から作成された歌声データベースです。
 2025年9月12日に**Synthesizer V 2 AI Megpoid**が発売されました。
@@ -199,7 +199,7 @@ SV2のボーカルスタイルは、SV1のときのデフォルト・Ballade・C
 
 :affiliate-block{title="Synthesizer V 2 AI Megpoid パッケージ版" imageUrl="https://m.media-amazon.com/images/I/412gDwzVjlL._SL160_.jpg" asin="B0FLJRJ7ZS"}
 
-### 音街ウナ（Synthesizer V 2）
+### 音街ウナ
 
 **音街ウナ**は、[パワフルさとかわいらしさを兼ね揃えた歌声データベース]{.marker}です。
 2025年9月12日に**Synthesizer V 2 AI 音街ウナ**が発売されました。
