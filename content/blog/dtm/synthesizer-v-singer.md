@@ -1,6 +1,6 @@
 ---
 createdAt: "2023/10/02"
-updatedAt: "2025/12/11"
+updatedAt: "2026/03/22"
 title: "Synthesizer V歌声データベース一覧！発売予定やオススメを紹介【Synthesizer V 2対応】"
 description: "Synthesizer Vの歌声データベースを一覧にして紹介しています。また、選び方やオススメの歌声データベースも紹介しています。"
 category: "DTM"
@@ -105,19 +105,20 @@ Synthesizer V の合成エンジンは非常に高品質で、男声のボーカ
 
 ### 小春六花・夏色花梨・花隈千冬
 
-[Synthesizer V2版の小春六花・夏色花梨・花隈千冬が2026年2月頃に発売予定です。]{.text-red-500}
+2026年3月5日に[Synthesizer V 2版の小春六花・夏色花梨・花隈千冬が発売]{.marker}されました。
+Synthesizer V 2になり、さらに自然で表現力豊かな歌声になっています。
 
 **小春六花**は明るく元気で、声に芯もありつつ語尾には声が抜けていく余韻もあるのが特徴の歌声ライブラリです。
 
-:you-tube-iframe{title="小春六花 公式デモ曲" videoId="ywrpv1KyTcg"}
+:you-tube-iframe{title="デラシネ / 小春六花 (SynthesizerV2)【公式デモソング】" videoId="Nt2liDCZE2M"}
 
 **夏色花梨**は伸びのある高音と幅広い音域が特徴の歌声ライブラリです。
 
-:you-tube-iframe{title="夏色花梨 公式デモ曲" videoId="iCnoQv8STv0"}
+:you-tube-iframe{title="終身恋用契約 / めろくる feat. 夏色花梨(SynthesizerV2)【公式デモソング】" videoId="gym49-mEvHI"}
 
 **花隈千冬**は低音が豊かで、ブレス感のある声が特徴の歌声ライブラリです。
 
-:you-tube-iframe{title="花隈千冬 公式デモ曲" videoId="SrGf6Q-U5Q8"}
+:you-tube-iframe{title="深夜ラジオにおいでよ feat.花隈千冬(SynthesizerV2)【公式デモソング】 / TOKOTOKO（西沢さんP）" videoId="cpq1Z_uh1Jg"}
 
 小春六花・夏色花梨・花隈千冬は**TOKYO 6**が企画する**小樽潮風高校 Project**のキャラクターです。
 
@@ -133,14 +134,14 @@ Synthesizer V の歌声データベースにはキャラクターのイラスト
 
 また、キャラクターのテイストが近いことから複数人の歌唱曲を作成する場合も小春六花・夏色花梨・花隈千冬を組み合わせて（または 3 人で）歌わせるのも良さそうです。
 
-:affiliate-block{title="Synthesizer V 小春六花 AI パッケージ版" imageUrl="https://m.media-amazon.com/images/I/51Hj+E4zFFL._SL160_.jpg" asin="B08R16FBVT"}
-:affiliate-block{title="Synthesizer V 小春六花 AI ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ015000/VJ014356_img_main.webp" asin="B0C3XLJZR5" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ014356.html"}
+:affiliate-block{title="Synthesizer V 2 AI 小春六花 ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005815_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01005815.html"}
+:affiliate-block{title="Synthesizer V 2 AI 小春六花 パッケージ版" imageUrl="https://m.media-amazon.com/images/I/81hWDQQMCIL._SL160_.jpg" asin="B0GLNJQG94"}
 
-:affiliate-block{title="AHS Synthesizer V AI 夏色花梨 パッケージ版" imageUrl="https://m.media-amazon.com/images/I/5149nHCP8hL._SL160_.jpg" asin="B09V11MMZR"}
-:affiliate-block{title="AHS Synthesizer V AI 夏色花梨 ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ016000/VJ015246_img_main.webp" asin="B0CJ4P3VL8" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ015246.html"}
+:affiliate-block{title="Synthesizer V 2 AI 夏色花梨 ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005816_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01005816.html"}
+:affiliate-block{title="Synthesizer V 2 AI 夏色花梨 パッケージ版" imageUrl="https://m.media-amazon.com/images/I/81p3hW0-o-L._SL160_.jpg" asin="B0GLNPPKZQ"}
 
-:affiliate-block{title="AHS Synthesizer V AI 花隈千冬 パッケージ版" imageUrl="https://m.media-amazon.com/images/I/516T+vuRP0L._SL160_.jpg" asin="B0BFHQH22Q"}
-:affiliate-block{title="AHS Synthesizer V AI 花隈千冬 ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ016000/VJ015663_img_main.webp" asin="B0CJ4PZFSZ" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ015663.html"}
+:affiliate-block{title="Synthesizer V 2 AI 花隈千冬 ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005817_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01005817.html"}
+:affiliate-block{title="Synthesizer V 2 AI 花隈千冬 パッケージ版" imageUrl="https://m.media-amazon.com/images/I/71JN3yXwyrL._SL160_.jpg" asin="B0GLNNFKY6"}
 
 ### 夢ノ結唱 ROSE
 
@@ -218,30 +219,6 @@ SV2のボーカルスタイルは、[**デフォルト・Boyish・Cute・Downer�
 :affiliate-block{title="Synthesizer V 2 AI 音街ウナ ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01005000/VJ01004828_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01004828.html"}
 
 :affiliate-block{title="Synthesizer V 2 AI 音街ウナ パッケージ版" imageUrl="https://m.media-amazon.com/images/I/41SQ0MtMCGL._SL160_.jpg" asin="B0FLJTT8WN"}
-
-### 猫村いろは
-
-**猫村いろは**は、VOCALOID2・4で発売されたライブラリです。
-[歌手・声優「佳館杏ノ助」の声]{.marker}を元にしています。
-
-2025年10月22日に[「Synthesizer V 2 AI 猫村いろは」が発売]{.marker}されます。
-
-歌声は以下の動画で確認できます。
-
-:you-tube-iframe{title="Synthesizer V 2 AI 音街ウナ ボーカルスタイルデモ【公式】" videoId="-83Cv9u13-U"}
-
-[キャラクターのかわいさとは対象的なパワフルでかっこいい女性の歌声]{.marker}になっています。
-通常歌唱のほか、[Dramatic/Hard/Husky/Pop/Power Pop/Soft/Whisper の7種類のボーカルスタイル]{.marker}が用意されています。
-
-:affiliate-block{title="Synthesizer V 2 AI 猫村いろは ダウンロード版" imageUrl="https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005053_img_main.webp" dlSiteLink="https://www.dlsite.com/soft/work/=/product_id/VJ01005053.html"}
-
-:affiliate-block{title="Synthesizer V 2 AI 猫村いろは パッケージ版" imageUrl="https://m.media-amazon.com/images/I/51Epv6cuuOL._SL160_.jpg" asin="B0FRLWG93X"}
-
-<!-- ## 発売予定の歌声データベース
-
-Synthesizer Vの歌声データベースは既に多くありますが、[発売予定の歌声データベースもいくつかあります]{.marker}。
-
-その中でも[注目度の高い歌声データベース]{.marker}についてまとめます。 -->
 
 ## まとめ
 

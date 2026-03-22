@@ -69,6 +69,45 @@ const affiliateBlocks = [
         asin: "B0DVGJFPC3",
         dlSiteLink: "",
     },
+    {
+        title: "Synthesizer V 2 AI 小春六花 ダウンロード版",
+        imageUrl:
+            "https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005815_img_main.webp",
+        asin: "",
+        dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01005815.html",
+    },
+    {
+        title: "Synthesizer V 2 AI 小春六花 パッケージ版",
+        imageUrl: "https://m.media-amazon.com/images/I/81hWDQQMCIL._SL160_.jpg",
+        asin: "B0GLNJQG94",
+        dlSiteLink: "",
+    },
+    {
+        title: "Synthesizer V 2 AI 夏色花梨 ダウンロード版",
+        imageUrl:
+            "https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005816_img_main.webp",
+        asin: "",
+        dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01005816.html",
+    },
+    {
+        title: "Synthesizer V 2 AI 夏色花梨 パッケージ版",
+        imageUrl: "https://m.media-amazon.com/images/I/81p3hW0-o-L._SL160_.jpg",
+        asin: "B0GLNPPKZQ",
+        dlSiteLink: "",
+    },
+    {
+        title: "Synthesizer V 2 AI 花隈千冬 ダウンロード版",
+        imageUrl:
+            "https://img.dlsite.jp/modpub/images2/work/professional/VJ01006000/VJ01005817_img_main.webp",
+        asin: "",
+        dlSiteLink: "https://www.dlsite.com/soft/work/=/product_id/VJ01005817.html",
+    },
+    {
+        title: "Synthesizer V 2 AI 花隈千冬 パッケージ版",
+        imageUrl: "https://m.media-amazon.com/images/I/71JN3yXwyrL._SL160_.jpg",
+        asin: "B0GLNNFKY6",
+        dlSiteLink: "",
+    },
 ];
 </script>
 
