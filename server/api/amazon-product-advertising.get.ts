@@ -22,7 +22,7 @@ export default defineEventHandler(async (event) => {
 
     const requestParameters = {
         ItemIds: [asin],
-        Resources: ["ItemInfo.Title", "Offers.Listings.Price", "Images.Primary.Medium"],
+        Resources: ["ItemInfo.Title", "OffersV2.Listings.Price", "Images.Primary.Medium"],
     };
 
     try {
@@ -32,7 +32,7 @@ export default defineEventHandler(async (event) => {
         const firstItem = data?.ItemsResult?.Items[0];
 
         const primaryImage = firstItem?.Images?.Primary;
-        const price = firstItem?.Offers?.Listings[0]?.Price?.DisplayAmount;
+        const price = firstItem?.OffersV2?.Listings[0]?.Price?.DisplayAmount;
         return {
             price,
             image: primaryImage,
