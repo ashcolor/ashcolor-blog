@@ -14,6 +14,14 @@ isRecommend: false
 
 ## はじめに
 
+::call-out{type="warning"}
+
+最新バージョンである**Synthesizer V 2**の無料版については、以下の記事を参考にしてください。
+
+:quote-article-card{url="/blog/dtm/synthesizer-v-2-light"}
+
+::
+
 **Synthesizer V**は、**Dreamtonics**が開発する歌声合成ソフトウェアです。
 
 Synthesizer Vは有料のソフトウェアですが、[無料で利用できるエディタと歌声データベース]{.marker}も配布されています。
