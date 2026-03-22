@@ -5,7 +5,7 @@
 
 ## ドキュメント
 
-- [NuxtJS 3](https://nuxt.com/)
+- [NuxtJS 4](https://nuxt.com/)
 - [Nuxt Content](https://content.nuxtjs.org/guide/writing/content-directory/)
 - [Nuxt SEO](https://nuxtseo.com/)
 - [tailwindcss](https://tailwindcss.com/)
