@@ -1,24 +1,8 @@
-<script setup lang="ts">
+﻿<script setup lang="ts">
 const title = ref("");
 const asin = ref("");
 const dlSiteLink = ref("");
-
-const { data, execute } = await useLazyAsyncData(
-    asin.value,
-    () => {
-        const query = { asin: asin.value };
-        return $fetch(`/api/amazon-product-advertising`, {
-            query,
-        });
-    },
-    {
-        immediate: false,
-    }
-);
-
-const imageUrl = computed(() => {
-    return data.value?.image?.Medium?.URL;
-});
+const imageUrl = ref("");
 
 const code = computed(() => {
     const affiliateBlockProps = {
@@ -70,6 +54,17 @@ const code = computed(() => {
                 </label>
                 <label class="form-control w-full">
                     <div class="label">
+                        <span class="label-text">画像URL</span>
+                    </div>
+                    <input
+                        v-model="imageUrl"
+                        type="text"
+                        placeholder="https://example.com/image.webp"
+                        class="input input-bordered w-full"
+                    />
+                </label>
+                <label class="form-control w-full">
+                    <div class="label">
                         <span class="label-text"
                             ><a class="link" href="https://www.dlsite.com" target="_blank">DLsite</a
                             >用リンク</span
@@ -83,8 +78,8 @@ const code = computed(() => {
                     />
                 </label>
             </div>
-            <div class="text-center">
-                <button class="btn btn-primary btn-wide" @click="execute()">生成</button>
+            <div class="text-sm text-slate-500">
+                Amazon 商品情報の自動取得は廃止しました。必要なら画像URLを手入力してください。
             </div>
         </div>
         <div class="place-self-center"><Icon name="fa:angle-double-down" size="16px"></Icon></div>
