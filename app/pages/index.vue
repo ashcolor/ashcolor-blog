@@ -6,7 +6,8 @@ useSeoMeta({
     ogTitle: `${BLOG_TITLE} | ${BLOG_SUBTITLE}`,
     description: BLOG_SUBTITLE,
     ogDescription: BLOG_SUBTITLE,
-    ogImage: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-12-10_22-25-37_bngk8eai.webp",
+    ogImage:
+        "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-12-10_22-25-37_bngk8eai.webp",
     ogUrl: import.meta.env.VITE_NUXT_PUBLIC_SITE_URL,
     ogType: "website",
     ogSiteName: BLOG_TITLE,
@@ -58,7 +59,7 @@ const onClickSearchButton = () => {
         <p>{{ BLOG_SUBTITLE }}</p>
     </div>
     <div
-        class="hero mx-[calc(50%_-_50vw)] my-8 h-[50vh] w-screen bg-[url('https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-12-10_22-25-37_bngk8eai.webp')]"
+        class="hero mx-[calc(50%_-_50vw)] my-8 h-[50vh] w-screen bg-[url('https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-12-10_22-25-37_bngk8eai.webp')]"
     >
         <div class="hero-overlay"></div>
         <div class="hero-content text-center text-neutral-content">

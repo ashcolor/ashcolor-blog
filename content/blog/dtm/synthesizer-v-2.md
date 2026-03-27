@@ -9,7 +9,7 @@ tags:
   - "Synthesizer V"
   - "Synthesizer V 2"
   - "SynthV"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-02-13_13-22-59_ylm6fzii.webp"
+thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-02-13_13-22-59_ylm6fzii.webp"
 isRecommend: true
 ---
 
@@ -48,7 +48,7 @@ AIによる生成ということで、生成時間がある程度かかること
 
 Synthesizer V 2では、各ボーカルスタイルに対して[「ピッチ」「声色」「発音」のパラメータが加わり]{.marker}、ボーカルスタイルごとに[それぞれのパラメータをどのくらい適用するかを調整できる]{.marker}ようになりました。
 
-![ボーカルスタイルパネル](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-01-24_03-26-33_790b88x3.webp)
+![ボーカルスタイルパネル](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-01-24_03-26-33_790b88x3.webp)
 
 以下の動画で実際にパラメータを変更しているところを確認できます。
 
@@ -67,7 +67,7 @@ Synthesizer V 2では新たに[「タイミング」も生成できる]{.marker}
 [UIは大きく変更になり全てのパラメータに対して一括でリテイクを生成できる]{.marker}ようになりました。
 ボタンも大きくなり、使い勝手が向上しています。
 
-![AIリテイクパネル](https://d2s4ypph6g1t06.cloudfront.net/img/sp/2025-01-24_03-38-12_c6ww998j.webp)
+![AIリテイクパネル](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/sp/2025-01-24_03-38-12_c6ww998j.webp)
 
 AIリテイク生成時のパラメータは、XYパッドのようなもので[「Vibrant」「Refined」「Stable」「Raw」をコントロール]{.marker}できるようになりました。
 無難なテイクを生成したい場合は「Stable」、思い切った変化をさせたい場合は「Raw」に近づけるなど、ニュアンスの違いを加えたテイクを生成できます。
@@ -85,7 +85,7 @@ AIリテイク生成時のパラメータは、XYパッドのようなもので[
 
 Synthesizer V 2では、[画面下部に音素パネルが表示]{.marker}されるようになり、[音素のタイミングと音量をドラッグするだけで調整できる]{.marker}ようになりました。
 
-![音素パネル](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-01-24_03-26-33_jp93c458.webp)
+![音素パネル](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-01-24_03-26-33_jp93c458.webp)
 
 以下の動画で音素の調整をしているところを確認できます。
 
@@ -100,7 +100,7 @@ Synthesizer V 2では、[画面下部に音素パネルが表示]{.marker}され
 Synthesizer V 2では、[ピアノロール上にピッチ制御点を追加]{.marker}でき、[制御点を通るピッチカーブが自動生成]{.marker}されるようになります。
 ピッチ制御点をドラッグすると[生成されたピッチカーブがリアルタイムで表示]{.marker}されるため、再生せずにどのようなピッチになるか知ることができます。
 
-![スマートピッチコントロール](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-01-24_03-26-33_78vwaxen.webp)
+![スマートピッチコントロール](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-01-24_03-26-33_78vwaxen.webp)
 
 以下の動画でスマートピッチコントロールを使用しているところを確認できます。
 
@@ -131,7 +131,7 @@ Synthesizer V 2では、歌声データベースのアクティベーション�
 
 [購入した製品はDreamtonicsアカウントと紐づく]{.marker}ようになり、先に製品をアクティベーションしてしまえば、Synthesizer V Studio 2からアカウントにログインすると[一括で歌声データベースのインストール]{.marker}できます。
 
-![ライセンスパネル](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-03-24_17-12-02_e68g26k2.webp)
+![ライセンスパネル](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-03-24_17-12-02_e68g26k2.webp)
 
 これで新しくPCを購入した場合でも、[アカウントにログインするだけで歌声データベースを楽にインストール]{.marker}できます。
 
@@ -142,7 +142,7 @@ Synthesizer V 2では、歌声データベースのアクティベーション�
 現行のSynthesizer Vでは、ノートのモードとして、**歌唱**・**ラップ**・**マニュアル**を選択することができました。
 Synthesizer V 2では、[マニュアルが廃止]{.marker}され、歌唱・ラップしか選択できません。
 
-![Synthesizer V 2のノートのモード](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-03-24_17-09-37_4d6y0zc2.webp)
+![Synthesizer V 2のノートのモード](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-03-24_17-09-37_4d6y0zc2.webp)
 
 マニュアルモードでは、[ピッチ変化のタイミング・ビブラードの開始タイミングや周波数を細かく調整]{.marker}することができました。
 Synthesizer V 2では、[上記の細かい調整をスマートピッチコントロールで代用]{.marker}することになります。

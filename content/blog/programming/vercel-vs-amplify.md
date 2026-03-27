@@ -8,7 +8,7 @@ subCategory: "Vue.js"
 tags:
   - "Vercel"
   - "Amplify"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_vercel-vs-amplify_vercel-amplify.webp"
+thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/programming_vercel-vs-amplify_vercel-amplify.webp"
 ---
 
 ## はじめに
@@ -92,14 +92,14 @@ Vercelの便利な機能として**Vercel Toolbar**があります。
 Vercel Toolbarは、[デプロイ環境に表示される開発支援ツール]{.marker}です。
 コメントやブランチ切り替えといった機能を、画面下部のツールから簡単に行うことができます。
 
-![Vercel Toolbarから打ち込んだコメント](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_vercel-vs-amplify_vercel1.webp)
+![Vercel Toolbarから打ち込んだコメント](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/programming_vercel-vs-amplify_vercel1.webp)
 
 #### PRへの表示
 
 VercelはGitHubと連携する設定をするだけでGitHubのリポジトリに**Vercel bot**が設定されます。
 GitHubにプッシュするとPRのコメントでVercel botが表示されます。
 
-![Vercel bot](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_vercel-vs-amplify_vercel2.webp)
+![Vercel bot](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/programming_vercel-vs-amplify_vercel2.webp)
 
 ここでは[ビルドの進捗やPrevier環境のURL等が表示]{.marker}されるようになっており、マージ後の作業にすぐに取り掛かることができます。
 

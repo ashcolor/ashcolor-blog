@@ -12,7 +12,7 @@ tags:
   - "Ample Guitar"
   - "MODO BASS"
   - "BFD"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_thumbnail.webp"
+thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_thumbnail.webp"
 ---
 
 ## はじめに
@@ -38,7 +38,7 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_thumbnail.we
 
 ### Ample Sound：Ample Guitar T
 
-![Ample Guitar T](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_ag_t.webp)
+![Ample Guitar T](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_ag_t.webp)
 
 最近お気に入りの**Ample Sound**社が出しているアコースティックギター音源です。
 
@@ -57,7 +57,7 @@ Taylor 714 CEというギターをサンプリングしていて、とにかく�
 
 ### MUSIC LAB：Real Guitar 4
 
-![Real Guitar 4](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_real_guitar.webp)
+![Real Guitar 4](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_real_guitar.webp)
 
 **MUSIC LAB**社のアコースティック音源にです。
 
@@ -70,7 +70,7 @@ Real Guitarシリーズは[起動が早い]{.marker}のと、[コード演奏の
 
 ### Ample Sound：Ample Guitar LP Library
 
-![Ample Guitar LP](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_ag_lp.webp)
+![Ample Guitar LP](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_ag_lp.webp)
 
 Ample Guitar Tと同じく**Ample Sound**社のエレキギター音源です。
 
@@ -87,7 +87,7 @@ Ample Guitarシリーズは自由度が高い分、初めて使うときは挙�
 
 ### XLN Audio：Addictive Keys
 
-![Addictive Keys](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_addictive_keys.webp)
+![Addictive Keys](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_addictive_keys.webp)
 
 Addictive Drumsで有名な**XLN Audio**社のピアノ音源です。
 
@@ -103,7 +103,7 @@ Addictive Drumsで有名な**XLN Audio**社のピアノ音源です。
 
 ### Synth1
 
-![Synth1](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_synth1.webp)
+![Synth1](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_synth1.webp)
 
 20年以上前からある無料のシンセサイザー音源です。
 
@@ -113,7 +113,7 @@ Addictive Drumsで有名な**XLN Audio**社のピアノ音源です。
 
 ### Magical 8bit Plug
 
-![Magical 8bit Plug](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_magical_8bit_plug.webp)
+![Magical 8bit Plug](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_magical_8bit_plug.webp)
 
 8bitサウンドの定番となっている無料のシンセサイザー音源です。
 
@@ -124,7 +124,7 @@ GUIも出音もシンプルでとにかく使いやすいです。
 
 ### XLN Audio：Addictive Drums 2
 
-![Addictive Drums 2](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_addictive_drums_2.webp)
+![Addictive Drums 2](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_addictive_drums_2.webp)
 
 **XLN Audio**社のドラム音源です。
 
@@ -150,7 +150,7 @@ GUIも出音もシンプルでとにかく使いやすいです。
 
 ### FXpansion：BFD 3
 
-![BFD 3](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_bfd_3.webp)
+![BFD 3](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_bfd_3.webp)
 
 **FXpansion**社のドラム音源です。
 
@@ -167,7 +167,7 @@ GUIも出音もシンプルでとにかく使いやすいです。
 
 ### Native Instruments：Battery 4
 
-![Battery 4](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_battery_4.webp)
+![Battery 4](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_battery_4.webp)
 
 **Native Instruments**社のドラム・サンプラーです。
 
@@ -182,7 +182,7 @@ Batteryは主に[打ち込み系の曲のドラム]{.marker}に使っていま�
 
 ### IK Multimedia MODO BASS
 
-![MODO BASS](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_modo_bass.webp)
+![MODO BASS](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_modo_bass.webp)
 
 **IK Multimedia**社のベース音源です。
 
@@ -200,7 +200,7 @@ Batteryは主に[打ち込み系の曲のドラム]{.marker}に使っていま�
 
 ### Native Instruments：KOMPLETE 7 ELEMENTS
 
-![KOMPLETE7 ELEMENTS](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_kontact_4.webp)
+![KOMPLETE7 ELEMENTS](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_kontact_4.webp)
 
 **Native Instruments**社の総合音源です。
 
@@ -218,7 +218,7 @@ KOMPLETEシリーズは最も有名な総合音源と言ってもいいでしょ
 
 ### YAMAHA：VOCALOID
 
-![V4 Editor for Cubase](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_vocaloid_cubase.webp)
+![V4 Editor for Cubase](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_vocaloid_cubase.webp)
 
 説明不要なくらい有名な**YAMAHA**社の合成音声です。
 
@@ -238,7 +238,7 @@ KOMPLETEシリーズは最も有名な総合音源と言ってもいいでしょ
 
 ### Dreamtonics：Synthesizer V
 
-![Synthesizer V](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_synthesizer_v.webp)
+![Synthesizer V](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_synthesizer_v.webp)
 
 最近のお気に入りの**Dreamtonics**社の合成音声音源です。
 

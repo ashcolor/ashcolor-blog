@@ -5,7 +5,8 @@ export const BLOG_CATEGORIES = [
         key: "gadget",
         name: "ガジェット",
         path: "/blog/gadget",
-        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-12-10_22-25-37_bngk8eai.webp",
+        thumbnail:
+            "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-12-10_22-25-37_bngk8eai.webp",
         iconName: "bi:keyboard",
         isShowList: true,
     },
@@ -14,7 +15,7 @@ export const BLOG_CATEGORIES = [
         name: "システム開発",
         path: "/blog/programming",
         thumbnail:
-            "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-computer-accessories_key-cap.webp",
+            "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-computer-accessories_key-cap.webp",
         iconName: "bi:code-slash",
         isShowList: true,
     },
@@ -22,7 +23,8 @@ export const BLOG_CATEGORIES = [
         key: "dtm",
         name: "DTM",
         path: "/blog/dtm",
-        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_my-vst_thumbnail.webp",
+        thumbnail:
+            "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_thumbnail.webp",
         iconName: "bi:music-note-beamed",
         isShowList: true,
     },
@@ -30,7 +32,8 @@ export const BLOG_CATEGORIES = [
         key: "notion",
         name: "Notion",
         path: "/blog/notion",
-        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/notion_formulas_thumbnail.webp",
+        thumbnail:
+            "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/notion_formulas_thumbnail.webp",
         iconName: "",
         isShowList: false,
     },
@@ -38,7 +41,8 @@ export const BLOG_CATEGORIES = [
         key: "random-note",
         name: "雑記",
         path: "/blog/random-note",
-        thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-12-10_22-25-37_bngk8eai.webp",
+        thumbnail:
+            "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-12-10_22-25-37_bngk8eai.webp",
         iconName: "",
         isShowList: false,
     },
@@ -64,7 +68,7 @@ export const ACCOUNTS = [
     },
 ];
 
-export const IMAGE_PATH_BASE = "https://d2s4ypph6g1t06.cloudfront.net";
+export const IMAGE_PATH_BASE = "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev";
 
 export const AMAZON_ASSOCIATE_ID = "ashcolor-22";
 export const DLSITE_ASSOCIATE_ID = "ashcolor";

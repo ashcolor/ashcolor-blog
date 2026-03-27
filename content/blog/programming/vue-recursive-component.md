@@ -7,7 +7,7 @@ category: "システム開発"
 subCategory: "Vue.js"
 tags:
   - "Vue.js"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_vue-define-model_vue.webp"
+thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/programming_vue-define-model_vue.webp"
 isRecommend: false
 ---
 
@@ -34,7 +34,7 @@ Vue.jsで再帰的コンポーネントを作成するのは簡単です。
 再帰的コンポーネントの例として、ディレクトリ構造を表現するコンポーネントを作成します。
 コンポーネントの見た目は以下のようになります。
 
-![今回作成するコンポーネント](https://d2s4ypph6g1t06.cloudfront.net/img/pc/programming_vue-recursive-component_sample.webp)
+![今回作成するコンポーネント](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/programming_vue-recursive-component_sample.webp)
 
 ディレクトリ構造を再現する再帰的コンポーネント`DirectoryTree.vue`は、以下のように作成しました。
 （CSSは一部省略）

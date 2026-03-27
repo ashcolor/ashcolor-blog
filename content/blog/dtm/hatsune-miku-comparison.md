@@ -8,7 +8,7 @@ tags:
   - "初音ミク"
   - "VOCALOID"
   - "Piapro Studio"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-08-01_23-19-43_gxv49pz6.webp"
+thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2024-08-01_23-19-43_gxv49pz6.webp"
 isRecommend: true
 ---
 

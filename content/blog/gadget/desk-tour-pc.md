@@ -14,7 +14,7 @@ tags:
   - "Windows"
   - "NZXT"
   - "Intel"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_thumbnail.webp"
+thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-pc_thumbnail.webp"
 ---
 
 この記事では、[職業：システムエンジニア、趣味：DTM]{.marker}な私のデスクの、[自作PC]{.marker}について紹介していきます。
@@ -25,13 +25,13 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_thu
 
 ### PCケース：NZXT H510 White & Black
 
-![NZXT H510 White & Black](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_nzxt.webp)
+![NZXT H510 White & Black](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-pc_nzxt.webp)
 
 PCケースは**NZXT**の**H510**を使用しています。
 
 H510は片面だけガラスパネルになっていて、PCの内部が見える構造になっています。
 
-![ガラスパネル](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_nzxt-2.webp)
+![ガラスパネル](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-pc_nzxt-2.webp)
 
 購入理由は[全体的に白かったから]{.marker}です。
 
@@ -131,7 +131,7 @@ OS用のSSDとして**Western Digital**の**SSD 1TB SN580**を使用していま
 
 ### グラボ：MSI GeForce RTX 3060
 
-![MSI GeForce RTX 3060](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_graphic-board.webp)
+![MSI GeForce RTX 3060](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-pc_graphic-board.webp)
 
 グラフィックボードは**MSI**の**GeForce RTX 3060**を使用しています。
 
@@ -144,7 +144,7 @@ Apex Legendsをたまにプレイしますが、最高グラフィックにし�
 
 ### キャプチャーボード：AVerMedia Live Gamer HD 2 C988
 
-![AVerMedia Live Gamer HD 2 C988](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-pc_capture-board.webp)
+![AVerMedia Live Gamer HD 2 C988](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-pc_capture-board.webp)
 
 キャプチャーボードは**AVerMedia**の**Live Gamer HD 2 C988**を使用しています。
 

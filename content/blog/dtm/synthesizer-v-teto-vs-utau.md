@@ -10,7 +10,7 @@ tags:
   - "SynthV"
   - "UTAU"
   - "重音テト"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-07-03_11-12-53_5gjbhdib.webp"
+thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2024-07-03_11-12-53_5gjbhdib.webp"
 isRecommend: false
 ---
 

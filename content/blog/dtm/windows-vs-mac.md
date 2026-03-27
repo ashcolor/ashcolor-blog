@@ -12,7 +12,7 @@ tags:
   - "Synthesizer V"
   - "SynthV"
   - "CeVIO AI"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_windows-vs-mac_thumbnail.webp"
+thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_windows-vs-mac_thumbnail.webp"
 ---
 
 VOCALOID楽曲の制作をする際に、最初に必要になるのは[パソコン]{.marker}です。
@@ -31,7 +31,7 @@ VOCALOID楽曲の制作をする際に、最初に必要になるのは[パソ�
 
 を使用しているという結果でした。
 
-![2018年1月に行ったWindows vs Macのアンケート調査結果](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2024-06-30_11-16-53_3r6bqdof.webp)
+![2018年1月に行ったWindows vs Macのアンケート調査結果](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2024-06-30_11-16-53_3r6bqdof.webp)
 
 （[DTM STATION](https://www.dtmstation.com/archives/52009485.html)より）
 

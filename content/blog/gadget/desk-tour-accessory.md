@@ -11,7 +11,7 @@ tags:
   - "エレコム"
   - "山崎実業"
   - "Anker"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_echo-show.webp"
+thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-accessory_echo-show.webp"
 ---
 
 この記事では、[職業：システムエンジニア、趣味：DTM]{.marker}な私のデスクの、[デスク周辺の小物]{.marker}を紹介していきます。
@@ -20,7 +20,7 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-access
 
 ### ケーブルトレー：プラス Garage 白
 
-![プラス Garage 白](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_cable-tray.webp)
+![プラス Garage 白](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-accessory_cable-tray.webp)
 
 現在はFlexiSpot純正のケーブルトレーを使用していますが、以前は**プラス**の**Garage**を使用しています。
 
@@ -35,21 +35,21 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-access
 
 ### ケーブルクリップ：VIAKY ケーブルホルダー
 
-![VIAKY ケーブルホルダー](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_cable-holder.webp)
+![VIAKY ケーブルホルダー](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-accessory_cable-holder.webp)
 
 ケーブルクリップとして**VIAKY**の**ケーブルホルダー**を使用しています。
 
 こちらの良いところはマグネットが付いていることです。
 私の場合は、キーボードやマウスのケーブルをケーブルホルダーで束ねて[PCケースにくっつけて収納]{.marker}しています。
 
-![ケーブルをPCケースにくっつけられる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_cable-holder-2.webp)
+![ケーブルをPCケースにくっつけられる](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-accessory_cable-holder-2.webp)
 
 クリーニングクロスやメガネクリーナーに装着して、PCケースにくっつけるということもできます。
 
 デスクの脚にマグネットが付くようであれば[ケーブルをデスクの脚に這わせられます]{.marker}。
 ケーブルタイよりも手軽に付け外しができるので便利です。
 
-![ケーブルをデスクの脚に這わせる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-12-12_22-13-03_0dnoqrh8.webp)
+![ケーブルをデスクの脚に這わせる](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-12-12_22-13-03_0dnoqrh8.webp)
 
 :affiliate-block{title="VIAKY ケーブルクリップ ケーブルホルダー ホワイト 10個入り" imageUrl="https://m.media-amazon.com/images/I/21st2+UVXVL._SL160_.jpg" asin="B0BF4WKSDW"}
 
@@ -71,9 +71,9 @@ thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-access
 
 Switch2の収納と、プロコンやリモコンの収納には**山崎実業**の**リモコンラック**を使っています。
 
-![プロコンとリモコンの収納](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-12-12_22-39-55_7eeq2ozm.webp)
+![プロコンとリモコンの収納](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-12-12_22-39-55_7eeq2ozm.webp)
 
-![Switch2の収納](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-12-12_22-39-55_jweawotc.webp)
+![Switch2の収納](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-12-12_22-39-55_jweawotc.webp)
 
 特に[Switch2はシンデレラフィット]{.marker}します。
 マウント式でデスクの横に簡単に取り付けられるので、[デスクの上になるべくものを置きたくない方にオススメ]{.marker}です。
@@ -84,7 +84,7 @@ Switch2の収納と、プロコンやリモコンの収納には**山崎実業**
 
 Mac miniは**Fasgear**の**VESAマウント ブラケット**を使用して、モニター裏に取り付けています。
 
-![Mac miniをモニターの裏に配置](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-12-12_22-46-52_uxgaurfj.webp)
+![Mac miniをモニターの裏に配置](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-12-12_22-46-52_uxgaurfj.webp)
 
 [置き場所も取りませんし、配線もスッキリ]{.marker}します。
 
@@ -100,7 +100,7 @@ Mac miniは**Fasgear**の**VESAマウント ブラケット**を使用して、�
 
 ### ヘッドホンハンガー：NZXT PUCK White
 
-![ヘッドホンハンガー：NZXT PUCK White](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_headphone-hanger.webp)
+![ヘッドホンハンガー：NZXT PUCK White](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-accessory_headphone-hanger.webp)
 
 ヘッドホンハンガーとして**NZXT**の**PUCK**を使用しています。
 
@@ -117,7 +117,7 @@ Mac miniは**Fasgear**の**VESAマウント ブラケット**を使用して、�
 名前の通りマグネットシートが付属しているため、[マグネットに対応したところに浮かせて設置]{.marker}できます。
 私の場合はデスクの脚の部分に取り付けています。
 
-![デスクの脚に設置](https://d2s4ypph6g1t06.cloudfront.net/img/pc/2025-12-12_22-29-53_66qhrpkn.webp)
+![デスクの脚に設置](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-12-12_22-29-53_66qhrpkn.webp)
 
 :affiliate-block{title="山崎実業 マグネット ダストボックス" imageUrl="https://m.media-amazon.com/images/I/21n5oG7avuL._SL160_.jpg" asin="B099WQ1J4V"}
 
@@ -135,14 +135,14 @@ PCやデスクの脚といった金属面に何かを配置したい場合は、
 
 ### ティッシュケース：山崎実業 マグネットティッシュケース
 
-![山崎実業 マグネットティッシュケース](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_tissue-case.webp)
+![山崎実業 マグネットティッシュケース](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-accessory_tissue-case.webp)
 
 ティッシュケースとして**山崎実業**の**マグネットティッシュケース**を使用しています。
 
 こちらのティッシュケースの裏にはマグネットが付いているため、金属部分に取り付けることができます。
 私の場合はPCケースの側面に貼り付けるようにしてティッシュを配置しています。
 
-![PCケースにティッシュケースを貼り付けている](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_tissue-case-2.webp)
+![PCケースにティッシュケースを貼り付けている](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-accessory_tissue-case-2.webp)
 
 また、以前はデスク裏に取り出し口が下になるように取り付けていたのですが、重力の影響で[ティッシュを取り出す際にティッシュが破けてしまう]{.marker}ことが分かったので、取り付け場所を変更しました。
 
@@ -150,14 +150,14 @@ PCやデスクの脚といった金属面に何かを配置したい場合は、
 
 ### オットマン：不二貿易 収納ベンチ 収納ボックス
 
-![不二貿易 収納ベンチ 収納ボックス](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_ottoman.webp)
+![不二貿易 収納ベンチ 収納ボックス](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-accessory_ottoman.webp)
 
 オットマンは**不二貿易**の**収納ベンチ 収納ボックス**を仕様しています。
 
 このオットマンは内部が空洞になっていて、[収納ボックスとしても使うことができます]{.marker}。
 普段はオットマンとして使用するので邪魔になることはなく、机の下に置いているので中に収納したものをすぐに取り出せて便利です。
 
-![オットマンの中に収納できる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_ottoman-2.webp)
+![オットマンの中に収納できる](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-accessory_ottoman-2.webp)
 
 耐荷重は80kgとのことなので。簡易的な椅子としても使用することができます。
 
@@ -167,7 +167,7 @@ PCやデスクの脚といった金属面に何かを配置したい場合は、
 
 ### USB充電器：Anker PowerPort III
 
-![Anker PowerPort III](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_power-chargerr.webp)
+![Anker PowerPort III](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-accessory_power-chargerr.webp)
 
 USB充電器は**Anker**の**PowerPort III**を使用しています。
 
@@ -179,7 +179,7 @@ USB充電器と言えば安定のAnkerなので特筆することはあまりな
 
 ### 充電用ケーブル：Anker PowerLine III Flow
 
-![Anker PowerLine III Flow](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_usb-cable.webp)
+![Anker PowerLine III Flow](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-accessory_usb-cable.webp)
 
 充電用ケーブルは**Ankerの**PowerLine III Flow\*\*を使用しています。
 
@@ -194,7 +194,7 @@ USBケーブルは全てこれにしたいくらいお気に入りのケーブ�
 
 ### スマートディスプレイ：Amazon Echo Show 5 サンドストーン
 
-![Amazon Echo Show 5](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_desk-tour-accessory_echo-show.webp)
+![Amazon Echo Show 5](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-accessory_echo-show.webp)
 
 スマートディスプレイとして**Amazon**の**Echo Show 5**を使用しています。
 

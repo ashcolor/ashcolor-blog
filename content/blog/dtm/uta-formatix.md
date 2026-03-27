@@ -9,7 +9,7 @@ tags:
   - "Synthesizer V"
   - "CeVIO AI"
   - "UTAU"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_uta-formatix_thumbnail.webp"
+thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_uta-formatix_thumbnail.webp"
 isRecommend: false
 ---
 
@@ -42,21 +42,21 @@ UtaFormatixを使ってプロジェクトデータを変換する手順を説明
 
 1. ファイルアップロード領域に変換するファイルをドロップするか、クリックしてファイルを選択します。
 
-   ![プロジェクトインポート](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_uta-formatix_step1.webp)
+   ![プロジェクトインポート](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_uta-formatix_step1.webp)
 
 1. 出力形式を選択します。
 
-   ![出力形式を選ぶ](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_uta-formatix_step2.webp)
+   ![出力形式を選ぶ](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_uta-formatix_step2.webp)
 
 1. 必要に応じて設定を変更します。（基本的にはそのままで大丈夫です。）
    `次へ`ボタンをクリックします。
 
-   ![設定](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_uta-formatix_step3.webp)
+   ![設定](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_uta-formatix_step3.webp)
 
 1. 処理が完了しました。
    `エクスポート`ボタンをクリックするとファイルをダウンロードすることができます。
 
-   ![エクスポート](https://d2s4ypph6g1t06.cloudfront.net/img/pc/dtm_uta-formatix_step4.webp)
+   ![エクスポート](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_uta-formatix_step4.webp)
 
 ### 設定項目について
 

@@ -10,7 +10,7 @@ tags:
   - "Logicool"
   - "SlimBlade Pro"
   - "MX ERGO S"
-thumbnail: "https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_thumbnail.webp"
+thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_trackball-comparison_thumbnail.webp"
 isRecommend: true
 ---
 
@@ -49,21 +49,21 @@ isRecommend: true
 
 **SlimBlade Pro**と**MX ERGO S**のスペックは以下のようになります。
 
-| 項目                           | SlimBlade Pro                                                                                                            | MX ERGO S                                                                                                    |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| 外観                           | ![Kensington SlimBlade Pro](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_slimblade-pro.webp) | ![Logicool MX ERGO S](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_mx-ergo.webp) |
-| メーカー                       | ケンジントン                                                                                                             | ロジクール                                                                                                   |
-| 価格                           | 17,500円（販売価格）                                                                                                     | 19,580円（直販価格）                                                                                         |
-| 色                             | レッド<br>グレー（Amazon.co.jp限定）<br>ホワイト（Amazon.co.jp限定）                                                     | グラファイト                                                                                                 |
-| ボタン数                       | [4個<br>（同時押しを含めると8個]{.marker}）                                                                              | [6個<br>（左・中央・右クリック、サイドボタン3個]{.marker}）                                                  |
-| 通信方法                       | Bluetooth<br>2.4GHzワイヤレス接続<br>有線接続                                                                            | Bluetooth<br>2.4GHzワイヤレス接続                                                                            |
-| 充電端子                       | USB Type-C                                                                                                               | USB Type-C                                                                                                   |
-| チルト機能<br>（横スクロール） | なし                                                                                                                     | [あり]{.marker}                                                                                              |
-| 重量                           | 285g                                                                                                                     | 259g                                                                                                         |
-| ボタンカスタマイズ             | 可能                                                                                                                     | 可能                                                                                                         |
-| 接続数                         | 3<br>(各接続方式につき1)                                                                                                 | 2                                                                                                            |
-| 充電の持ち                     | 4ヶ月                                                                                                                    | 4ヶ月                                                                                                        |
-| その他                         |                                                                                                                          | [静音仕様]{.marker}                                                                                          |
+| 項目                           | SlimBlade Pro                                                                                                                          | MX ERGO S                                                                                                                  |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 外観                           | ![Kensington SlimBlade Pro](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_trackball-comparison_slimblade-pro.webp) | ![Logicool MX ERGO S](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_trackball-comparison_mx-ergo.webp) |
+| メーカー                       | ケンジントン                                                                                                                           | ロジクール                                                                                                                 |
+| 価格                           | 17,500円（販売価格）                                                                                                                   | 19,580円（直販価格）                                                                                                       |
+| 色                             | レッド<br>グレー（Amazon.co.jp限定）<br>ホワイト（Amazon.co.jp限定）                                                                   | グラファイト                                                                                                               |
+| ボタン数                       | [4個<br>（同時押しを含めると8個]{.marker}）                                                                                            | [6個<br>（左・中央・右クリック、サイドボタン3個]{.marker}）                                                                |
+| 通信方法                       | Bluetooth<br>2.4GHzワイヤレス接続<br>有線接続                                                                                          | Bluetooth<br>2.4GHzワイヤレス接続                                                                                          |
+| 充電端子                       | USB Type-C                                                                                                                             | USB Type-C                                                                                                                 |
+| チルト機能<br>（横スクロール） | なし                                                                                                                                   | [あり]{.marker}                                                                                                            |
+| 重量                           | 285g                                                                                                                                   | 259g                                                                                                                       |
+| ボタンカスタマイズ             | 可能                                                                                                                                   | 可能                                                                                                                       |
+| 接続数                         | 3<br>(各接続方式につき1)                                                                                                               | 2                                                                                                                          |
+| 充電の持ち                     | 4ヶ月                                                                                                                                  | 4ヶ月                                                                                                                      |
+| その他                         |                                                                                                                                        | [静音仕様]{.marker}                                                                                                        |
 
 ::call-out{type="info"}
 
@@ -97,7 +97,7 @@ MX ERGOの旧型ではmicro-USBが採用されていましたが、新型であ�
 
 #### SlimBlade Pro
 
-![SlimBlade Pro ボタン](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_slimblade-pro.webp)
+![SlimBlade Pro ボタン](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_trackball-comparison_slimblade-pro.webp)
 
 SlimBlade Proは[ボタンが4個]{.marker}あり、各ボタンに自由に機能を割り当てることができます。
 左クリック・右クリックの概念はないため、好みの場所のボタンに任意の機能を割り当てることができます。
@@ -115,7 +115,7 @@ SlimBlade Proは[ボタンが4個]{.marker}あり、各ボタンに自由に機�
 MX ERGO Sは左・右クリックとカスタマイズ可能な中央ボタン、サイドボタンが3個の[計6個のボタン]{.marker}があります。
 サイドボタンは左クリックの左側に2個、ボールの近くに1つあります。
 
-![MX ERGO S サイドボタン](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_mx-ergo-button.webp)
+![MX ERGO S サイドボタン](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_trackball-comparison_mx-ergo-button.webp)
 
 ちなみに[ホイール下にあるボタンは接続先の変更専用のボタンのため機能を割り当てることはできません]{.marker}。
 
@@ -139,7 +139,7 @@ MX ERGO Sは6ボタンあり、ジェスチャー機能の完成度も高く非�
 
 チルト機能とはホイールを左右に動かすことによって[左右にスクロール]{.marker}ができる機能です。
 
-![MX ERGO S チルト機能](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_mxergo-tilt.webp)
+![MX ERGO S チルト機能](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_trackball-comparison_mxergo-tilt.webp)
 
 チルト機能のないマウスを使って左右スクロールをする場合は、スクロールバーを掴んで動かすかShiftキーを押しながらホイール動作をする必要があります。
 
@@ -155,11 +155,11 @@ MX ERGO Sは6ボタンあり、ジェスチャー機能の完成度も高く非�
 
 SlimBlade Proは[ボールをそのまま持ち上げることができます]{.marker}。
 
-![SlimBlade Pro 簡単にボールが取れる](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_slimblade-ball.webp)
+![SlimBlade Pro 簡単にボールが取れる](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_trackball-comparison_slimblade-ball.webp)
 
 一方でMX ERGO Sは[背面の板を外した後に穴に棒を差し込んでボールを押し出すことによってボールを取り出すことができます]{.marker}。
 
-![MX ERGO S 裏側から押してボールを外す](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_mxergo-ball.webp)
+![MX ERGO S 裏側から押してボールを外す](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_trackball-comparison_mxergo-ball.webp)
 
 ボールの取り外しに慣れると時間はかかりませんが、ペン等の細い棒状のものがないとボールを外せないのが少し不便です。
 
@@ -180,7 +180,7 @@ Logicool Flowは以下のような機能です。
 
 ### ボールの大きさについて
 
-![←SlimBlade Proのボール、MX ERGO Sのボール→](https://d2s4ypph6g1t06.cloudfront.net/img/pc/gadget_trackball-comparison_ball.webp)
+![←SlimBlade Proのボール、MX ERGO Sのボール→](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_trackball-comparison_ball.webp)
 
 ボールの大きさよる使いやすさの違いは[個人差が大きい]{.marker}印象です。
 

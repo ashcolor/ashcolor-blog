@@ -6,6 +6,11 @@ export default defineNuxtConfig({
     vite: {
         plugins: [tailwindcss()],
     },
+    runtimeConfig: {
+        r2AccountId: "",
+        r2AccessKeyId: "",
+        r2SecretAccessKey: "",
+    },
     nitro: {
         prerender: {
             routes: ["/sitemap.xml"],
