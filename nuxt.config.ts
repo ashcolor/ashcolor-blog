@@ -16,9 +16,8 @@ export default defineNuxtConfig({
             routes: ["/sitemap.xml"],
         },
         cloudflare: {
-            wrangler: {
-                compatibility_flags: ["nodejs_compat"],
-            },
+            deployConfig: true,
+            nodeCompat: true,
         },
     },
     app: {
