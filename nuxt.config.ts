@@ -15,6 +15,11 @@ export default defineNuxtConfig({
         prerender: {
             routes: ["/sitemap.xml"],
         },
+        cloudflare: {
+            wrangler: {
+                compatibility_flags: ["nodejs_compat"],
+            },
+        },
     },
     app: {
         head: {
