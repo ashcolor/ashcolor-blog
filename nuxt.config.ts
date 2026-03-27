@@ -4,7 +4,6 @@ import { definePerson } from "nuxt-schema-org/schema";
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
     vite: {
-        compatibilityDate: "2025-07-15",
         plugins: [tailwindcss()],
     },
     runtimeConfig: {
