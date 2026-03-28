@@ -12,7 +12,7 @@ tags:
   - "ワークチェア"
   - "サイドデスク"
   - "ニトリ"
-thumbnail: "https://img.blog.ashcolor.jp/img/pc/2025-12-10_22-28-27_0e6sg13x.webp"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/2025-12-10_22-28-27_0e6sg13x.webp"
 ---
 
 この記事では、[職業：システムエンジニア、趣味：DTM]{.marker}な私のデスクの、[デスク周辺のアイテム]{.marker}を紹介していきます。
@@ -53,7 +53,7 @@ FlexiSpot E7Hは非常に重いデスクですが、このカグスベールを�
 
 ### サイドデスク、収納：IKEA アレクス
 
-![IKEA アレクス](https://img.blog.ashcolor.jp/img/pc/gadget_desk-tour-desk_alex.webp)
+![IKEA アレクス](https://img-blog.ashcolor.jp/img/pc/gadget_desk-tour-desk_alex.webp)
 
 サイドデスクと収納スペースとして**IKEA**の**アレクス**を使用しています。
 
@@ -78,7 +78,7 @@ FlexiSpot E7Hは非常に重いデスクですが、このカグスベールを�
 また、私が購入したものは[背面の右下には穴が空いていて、コードを通すことができます]{.marker}。
 ただ、IKEAに掲載されている画像を見る限りでは背面に穴が空いていないため、構造が変わったのかもしれません。
 
-![IKEA アレクス 背面に穴が空いている](https://img.blog.ashcolor.jp/img/pc/gadget_desk-tour-desk_alex-2.webp)
+![IKEA アレクス 背面に穴が空いている](https://img-blog.ashcolor.jp/img/pc/gadget_desk-tour-desk_alex-2.webp)
 
 アレクスの上にはゲーム用のマウスやサブのキーボード・お菓子・ウェットティッシュなど、たまに使うモノを雑多に置いています。
 [メインデスクにモノを置かないようにすることで作業スペースを確保]{.marker}できます。

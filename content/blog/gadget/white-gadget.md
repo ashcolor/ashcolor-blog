@@ -10,7 +10,7 @@ tags:
   - "マウス"
   - "スピーカー"
   - "ヘッドホン"
-thumbnail: "https://img.blog.ashcolor.jp/img/pc/2025-06-14_16-34-14_z9dm2oiv.webp"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/2025-06-14_16-34-14_z9dm2oiv.webp"
 isRecommend: true
 ---
 
@@ -30,7 +30,7 @@ isRecommend: true
 
 ディスプレイは**GIGABYTE M27QA ICE**を使用しています。
 
-![GIGABYTE M27QA ICE](https://img.blog.ashcolor.jp/img/pc/2025-08-02_00-48-31_zeb9xa79.webp)
+![GIGABYTE M27QA ICE](https://img-blog.ashcolor.jp/img/pc/2025-08-02_00-48-31_zeb9xa79.webp)
 
 [WQHD・27インチ・高リフレッシュレート、白色]{.marker}のディスプレイを探していて見つけました。
 [リフレッシュレートは165Hz]{.marker}で、ゲームをする人に向いています。
@@ -97,7 +97,7 @@ VIAによるキーマップの変更も可能です。
 :affiliate-block{title="ミルクミニマリストホワイトテーマ" imageUrl="https://m.media-amazon.com/images/I/51PyTQjlpbL._SL160_.jpg" asin="B09S8DQFGK"}
 
 写真だとオフホワイトのような色合いですが、[実物は真っ白に近い]{.marker}です。
-![ミルクミニマリストホワイトテーマ](https://img.blog.ashcolor.jp/img/pc/gadget_keycap-buy_thumbnail.webp)
+![ミルクミニマリストホワイトテーマ](https://img-blog.ashcolor.jp/img/pc/gadget_keycap-buy_thumbnail.webp)
 
 通常のキーの他に牛乳や目玉焼きがプリントされたキーも付属されていて、かわいいです。
 

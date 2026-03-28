@@ -9,14 +9,14 @@ tags:
   - "Synthesizer V"
   - "SynthV"
   - "VoiSona"
-thumbnail: "https://img.blog.ashcolor.jp/img/pc/2025-09-28_10-14-17_goa9ewt9.webp"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/2025-09-28_10-14-17_goa9ewt9.webp"
 ---
 
 ## 「音声合成ソフト」に使える15%OFFクーポン
 
 **DLsite**にて[「音声合成ソフト」に使える15%OFFクーポン]{.marker}が配布されました。
 
-![「音声合成ソフト」に使える15%OFFクーポン](https://img.blog.ashcolor.jp/img/pc/2025-09-28_10-13-06_18xzlpir.webp)
+![「音声合成ソフト」に使える15%OFFクーポン](https://img-blog.ashcolor.jp/img/pc/2025-09-28_10-13-06_18xzlpir.webp)
 
 対象商品の例は以下の通りです。
 

@@ -9,7 +9,7 @@ tags:
   - "Synthesizer V"
   - "Synthesizer V 2"
   - "SynthV"
-thumbnail: "https://img.blog.ashcolor.jp/img/pc/2025-02-13_13-22-59_ylm6fzii.webp"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/2025-02-13_13-22-59_ylm6fzii.webp"
 isRecommend: false
 ---
 
@@ -102,7 +102,7 @@ Synthesizer V 2では、[歌声データベースの**7日間トライアル**]{
 歌声データベースのトライアルは、Synthesizer V Studio 2の**ライセンス管理**画面から開始できます。
 「**トライアル対象製品**」タブを選択すると、トライアル可能な歌声データベースの一覧が表示されます。
 
-![ライセンス管理画面のトライアル対象製品](https://img.blog.ashcolor.jp/img/pc/2026-03-22_16-20-13_rnkfxjqx.webp)
+![ライセンス管理画面のトライアル対象製品](https://img-blog.ashcolor.jp/img/pc/2026-03-22_16-20-13_rnkfxjqx.webp)
 
 [「7日間の試用を開始」ボタンを押すだけで、すぐにトライアルを開始]{.marker}できます。
 

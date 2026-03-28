@@ -7,7 +7,7 @@ category: "システム開発"
 subCategory: "Vue.js"
 tags:
   - "Vue.js"
-thumbnail: "https://img.blog.ashcolor.jp/img/pc/programming_vue-define-model_vue.webp"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/programming_vue-define-model_vue.webp"
 isRecommend: false
 ---
 

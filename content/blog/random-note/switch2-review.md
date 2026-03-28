@@ -8,7 +8,7 @@ tags:
   - "Switch 2"
   - "Nintendo"
   - "Splatoon"
-thumbnail: "https://img.blog.ashcolor.jp/img/pc/2025-07-15_11-10-58_s8t5fssa.webp"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/2025-07-15_11-10-58_s8t5fssa.webp"
 isRecommend: false
 ---
 
@@ -35,7 +35,7 @@ isRecommend: false
 進化を最初に感じたのはゲームプレイ時に最初に現れる[Splatoon 3のロゴが回転しているところ]{.marker}です。
 [リフレッシュレートが上がった]{.marker}からか、ロゴの回転がぬるぬる動いていました。
 
-![このロゴがぬるぬる動く](https://img.blog.ashcolor.jp/img/pc/2025-07-15_11-10-58_swbg20up.webp)
+![このロゴがぬるぬる動く](https://img-blog.ashcolor.jp/img/pc/2025-07-15_11-10-58_swbg20up.webp)
 
 その他の部分に関しては、進化を感じたというよりは[不満がなくなった]{.marker}という印象です。
 
@@ -54,7 +54,7 @@ Splatoonを高画質でプレイできるのはSplatoon 4が出てからにな�
 今までマリオカートシリーズをあまりプレイしていなかった自分でも、明らかに[グラフィックが美しい]{.marker}なと感じました。
 特にワールドは道中コースが多く、きれいな背景を見ながらプレイすることができます。
 
-![背景がきれい](https://img.blog.ashcolor.jp/img/pc/2025-07-15_11-10-58_swu5wahl.webp)
+![背景がきれい](https://img-blog.ashcolor.jp/img/pc/2025-07-15_11-10-58_swu5wahl.webp)
 
 ただし、マリオカートワールドもリフレッシュレートは60Hzとのことで、ぬるぬる感はありませんでした。
 [Switch 2本体は120Hzのリフレッシュレートに対応している]{.marker}のに、ゲーム側が対応していないのは残念だなと思いました。

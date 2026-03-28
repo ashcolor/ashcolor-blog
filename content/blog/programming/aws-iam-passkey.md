@@ -8,7 +8,7 @@ subCategory: "AWS"
 tags:
   - "AWS"
   - "Windows"
-thumbnail: "https://img.blog.ashcolor.jp/img/pc/2024-08-22_11-12-41_nvre36gj.webp"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/2024-08-22_11-12-41_nvre36gj.webp"
 isRecommend: false
 ---
 
@@ -50,7 +50,7 @@ Windows側の設定をします。
 
 1. Windowsの`設定`→`アカウント`→`サインイン オプション`を開く
 
-   ![サインイン オプション](https://img.blog.ashcolor.jp/img/pc/2024-08-22_11-14-36_ini076zj.webp)
+   ![サインイン オプション](https://img-blog.ashcolor.jp/img/pc/2024-08-22_11-14-36_ini076zj.webp)
 
 1. `指紋認証 (Windows Hello)`の項目の`セットアップ`をクリック
 
@@ -64,11 +64,11 @@ Windows側の設定をします。
 
 1. デバイス名を入力、MFA deviceに`パスキーまたはセキュリティキー`が選択されていることを確認して`次へ`をクリック
 
-   ![デバイスオプション `パスキーまたはセキュリティキー`が追加されている](https://img.blog.ashcolor.jp/img/pc/2024-08-22_11-12-41_nvre36gj.webp)
+   ![デバイスオプション `パスキーまたはセキュリティキー`が追加されている](https://img-blog.ashcolor.jp/img/pc/2024-08-22_11-12-41_nvre36gj.webp)
 
 1. `Windows セキュリティ`ウィンドウが表示されるので、`指紋`が選択されていることを確認して指紋認証リーダーにタッチ
 
-   ![Windows セキュリティ](https://img.blog.ashcolor.jp/img/pc/2024-08-22_11-42-42_0rgu010w.webp)
+   ![Windows セキュリティ](https://img-blog.ashcolor.jp/img/pc/2024-08-22_11-42-42_0rgu010w.webp)
 
 1. `保存されたパスキー`ウィンドウが表示されたら、`OK`をクリック
 

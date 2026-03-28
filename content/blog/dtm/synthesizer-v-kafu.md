@@ -9,7 +9,7 @@ tags:
   - "Synthesizer V"
   - "SynthV"
   - "可不"
-thumbnail: "https://img.blog.ashcolor.jp/img/pc/dtm_synthesizer-v_thumbnail.webp"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/dtm_synthesizer-v_thumbnail.webp"
 ---
 
 2024年4月12日、SynthV版の可不である**音楽的同位体 可不(KAFU) collaboration with Synthesizer V AI**の発売が~延期~になりました。

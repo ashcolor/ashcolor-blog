@@ -8,7 +8,7 @@ tags:
   - "イヤホン"
   - "SOUNDPEATS"
   - "SOUNDPEATS Air5 Pro+"
-thumbnail: "https://img.blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_wy43hcc2.webp"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_wy43hcc2.webp"
 isRecommend: false
 ---
 
@@ -52,9 +52,9 @@ isRecommend: false
 - イヤーチップ（S/M/L）
 - 取扱説明書、アプリ説明書、ステッカー
 
-![箱の中身](https://img.blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_1kpgbpbq.webp)
+![箱の中身](https://img-blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_1kpgbpbq.webp)
 
-![同梱物](https://img.blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_1e1ahqa5.webp)
+![同梱物](https://img-blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_1e1ahqa5.webp)
 
 ## レビュー
 
@@ -63,7 +63,7 @@ isRecommend: false
 [耳の穴に差し込むカナル型のイヤホン]{.marker}です。
 AppleのAirPodsシリーズのように下方に伸びる軸があります。
 
-![本体](https://img.blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_82hhbaai.webp)
+![本体](https://img-blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_82hhbaai.webp)
 
 本体の重量は[片耳で**5g**と非常に軽量]{.marker}です。
 Apple AirPods Pro 3が**5.55g**なので、それよりも軽いです。
@@ -87,13 +87,13 @@ Apple AirPods Pro 3が**5.55g**なので、それよりも軽いです。
 [ケースは一般的なワイヤレスイヤホン程度の大きさ]{.marker}です。
 Apple AirPods Pro 3と並べると以下のようになります。
 
-![上から見たAir5 Pro+とApple AirPods Pro 3](https://img.blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_fpg4ntnf.webp)
+![上から見たAir5 Pro+とApple AirPods Pro 3](https://img-blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_fpg4ntnf.webp)
 
-![横から見たAir5 Pro+とApple AirPods Pro 3](https://img.blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_sawf127q.webp)
+![横から見たAir5 Pro+とApple AirPods Pro 3](https://img-blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_sawf127q.webp)
 
 フタが大きく開く作りとなっており、[イヤホンの取り出しがしやすいです]{.marker}。
 
-![ケース](https://img.blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_wmamxtxw.webp)
+![ケース](https://img-blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_wmamxtxw.webp)
 
 ただ欠点として、[ケースに入れたときの本体の向きと装着時のイヤホンの向きが逆]{.marker}になっています。
 ケースから取り出した後にイヤホンを持ち直すか、イヤホンを取り出すときに手をねじるようにする必要があります。
@@ -131,8 +131,8 @@ Apple AirPods Pro 3ほどは良くないですが、Technics EAH-AZ100と同程�
 Clip1と同様に[アプリを使用するにはメールアドレスでの登録が必須]{.marker}です。
 ただオフラインで設定するためだけに登録が必要なのは面倒です。
 
-![アプリの設定画面1](https://img.blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_gpi13c65.webp)
-![アプリの設定画面2](https://img.blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_rmgnsun7.webp)
+![アプリの設定画面1](https://img-blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_gpi13c65.webp)
+![アプリの設定画面2](https://img-blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_rmgnsun7.webp)
 
 [EQは**10バンド**となっており、カスタマイズ性は十分]{.marker}にあります。
 
@@ -140,7 +140,7 @@ Clip1と同様に[アプリを使用するにはメールアドレスでの登�
 割り当てられる機能は、**音量調整/再生・一時停止/ゲームモード/前・次のトラック/ノイズキャンセリング/音声アシスト**となっています。
 [カスタマイズ性は非常に高い]{.marker}です。
 
-![ダイナミックEQ設定](https://img.blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_w98apkqw.webp)
+![ダイナミックEQ設定](https://img-blog.ashcolor.jp/img/pc/2026-01-10_21-39-19_w98apkqw.webp)
 
 リスニングモードの切替時は女性の英語アナウンスが流れます。
 [アナウンスの種類や音量は変更できない]{.marker}ようです。

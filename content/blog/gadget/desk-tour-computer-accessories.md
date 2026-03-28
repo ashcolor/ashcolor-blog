@@ -16,7 +16,7 @@ tags:
   - "Kensington"
   - "ロジクール"
   - "Keychron"
-thumbnail: "https://img.blog.ashcolor.jp/img/pc/2025-12-10_22-33-46_fdzwsz7v.webp"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/2025-12-10_22-33-46_fdzwsz7v.webp"
 ---
 
 この記事では、[職業：システムエンジニア、趣味：DTM]{.marker}な私のデスクの、[PC周辺機器]{.marker}について紹介していきます。
@@ -27,7 +27,7 @@ thumbnail: "https://img.blog.ashcolor.jp/img/pc/2025-12-10_22-33-46_fdzwsz7v.web
 
 ### トラックボール：Kensington：SlimBlade Pro
 
-![Kensington SlimBlade Pro](https://img.blog.ashcolor.jp/img/pc/2025-06-14_16-34-33_eynrlp1l.webp)
+![Kensington SlimBlade Pro](https://img-blog.ashcolor.jp/img/pc/2025-06-14_16-34-33_eynrlp1l.webp)
 
 トラックボールは**Kensington**の**SlimBlade Pro**を使用しています。
 私は2024年に発売された白色モデルを使用しています。
@@ -40,7 +40,7 @@ DTMをする際はMIDIキーボードを机に置くため、机のスペース�
 SlimBlade Proは4つボタンがあり、さらに同時押しに対しても専用ソフトウェアを使用することで機能を割り当てることができるため、合計[8つの機能を割り当てる]{.marker}ことができます。
 また、アクティブなアプリケーションによって、実行する機能を切り替えることもできます。
 
-![Kensington Works](https://img.blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_kensington-works.webp)
+![Kensington Works](https://img-blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_kensington-works.webp)
 
 ただ、[上側のボタン2つの同時押しのみ機能せず]{.marker}に各ボタンの機能が実行されることが頻繁にあります。
 他の同時押しは普通に押せば反応するのですが、上ボタンの同時だけちょっとでも押下タイミングがずれると同時押し判定にならないです。
@@ -53,7 +53,7 @@ Windowsであれば、**X-Mouse Button Control**を使用するのがオスス�
 X-Mouse Button Controlは、Kensington Worksと同様に、ボタンに機能を割り当てることができるソフトウェアです。
 [同時押しやレイヤー機能などもあり、細かくカスタマイズできます]{.marker}。
 
-![X-Mouse Button Control](https://img.blog.ashcolor.jp/img/pc/2025-06-14_16-54-13_0syamhr4.webp)
+![X-Mouse Button Control](https://img-blog.ashcolor.jp/img/pc/2025-06-14_16-54-13_0syamhr4.webp)
 
 ちなみにSlimBlade Proを使用する前は、**ロジクール**の**MX ERGO**を使用していました。
 どちらのトラックボールが使いやすいか、スペックと長期使用の感想から記事をまとめてみたので、気になる方は以下の記事を参考にしてみてください。
@@ -66,7 +66,7 @@ X-Mouse Button Controlは、Kensington Worksと同様に、ボタンに機能を
 
 ### ゲーム用マウス：ロジクール G PRO X SUPERLIGHT ホワイト
 
-![ロジクール G PRO X SUPERLIGHT ホワイト](https://img.blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_g-pro.webp)
+![ロジクール G PRO X SUPERLIGHT ホワイト](https://img-blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_g-pro.webp)
 
 ゲーム用のマウスは**ロジクール**の**G PRO X SUPERLIGHT**を使用しています。
 
@@ -80,7 +80,7 @@ X-Mouse Button Controlは、Kensington Worksと同様に、ボタンに機能を
 
 ### マウスパッド：ロジクール MP10GR グラファイト
 
-![ロジクール MP10GR グラファイト](https://img.blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_mouse-pad.webp)
+![ロジクール MP10GR グラファイト](https://img-blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_mouse-pad.webp)
 
 マウスを使う際のマウスパッドは**ロジクール**の**MP10GR**を使用しています。
 
@@ -97,7 +97,7 @@ X-Mouse Button Controlは、Kensington Worksと同様に、ボタンに機能を
 
 キーボードは**Keychron**の**Q2 Max**を使用しています。
 
-![Keychron Q2 Max](https://img.blog.ashcolor.jp/img/pc/2025-12-10_22-34-12_vpxuzdky.webp)
+![Keychron Q2 Max](https://img-blog.ashcolor.jp/img/pc/2025-12-10_22-34-12_vpxuzdky.webp)
 
 Keychronはメカニカルキーボードを販売している会社で、[たくさんのレイアウトのキーボードを販売]{.marker}しています。
 ベーシックモデルのKシリーズは60%、65%、70%、75%、80%、96%、フルとあらゆるサイズのモデルが用意されています。
@@ -118,7 +118,7 @@ Q2 Maxシリーズの特徴は以下の通りです。
 
 特に便利だと感じるのは[VIAによるキーのカスタムが可能]{.marker}な点です。
 
-![VIA](https://img.blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_via.webp)
+![VIA](https://img-blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_via.webp)
 
 VIAは主に自作キーボードを作成する際に使用するソフトウェアで、[パソコン上からキーマップを自由に変更]{.marker}することができます。
 例えば、「Caps Lockキーに別の機能を割り当てる」、「FnとAltキーの位置を入れ替える」といったことをすることができます。
@@ -159,7 +159,7 @@ VIAなら[Fnキーも自由な場所に配置]{.marker}できますし、[キー
 
 ディスプレイは**GIGABYTE M27QA ICE**を使用しています。
 
-![GIGABYTE M27QA ICE](https://img.blog.ashcolor.jp/img/pc/2025-08-02_00-48-31_zeb9xa79.webp)
+![GIGABYTE M27QA ICE](https://img-blog.ashcolor.jp/img/pc/2025-08-02_00-48-31_zeb9xa79.webp)
 
 [WQHD・27インチ・高リフレッシュレート、白色]{.marker}のディスプレイを探していて見つけました。
 [リフレッシュレートは165Hz]{.marker}で、ゲームをする人に向いています。
@@ -174,7 +174,7 @@ VIAなら[Fnキーも自由な場所に配置]{.marker}できますし、[キー
 
 ### モニターアーム：エルゴトロン LX デスクマウント モニターアーム マットブラック
 
-![エルゴトロン LX デスクマウント モニターアーム](https://img.blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_monitor-arm.webp)
+![エルゴトロン LX デスクマウント モニターアーム](https://img-blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_monitor-arm.webp)
 
 モニターアームは**エルゴトロン**の**LX デスクマウント モニターアーム**を使用しています。
 
@@ -185,7 +185,7 @@ VIAなら[Fnキーも自由な場所に配置]{.marker}できますし、[キー
 
 ### モニターアーム：エルゴトロン LX デスクマウント 延長用アーム マットブラック
 
-![エルゴトロン LX デスクマウント 延長用アーム](https://img.blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_monitor-arm-2.webp)
+![エルゴトロン LX デスクマウント 延長用アーム](https://img-blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_monitor-arm-2.webp)
 
 モニターを上下に配置する際、[上側のディスプレイの高さが足りなかった]{.marker}ので購入しました。
 
@@ -197,7 +197,7 @@ VIAなら[Fnキーも自由な場所に配置]{.marker}できますし、[キー
 
 ### Webカメラ：Anker PowerConf C200
 
-![Anker PowerConf C200](https://img.blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_web-camera.webp)
+![Anker PowerConf C200](https://img-blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_web-camera.webp)
 
 Webカメラは**Anker**の**PowerConf C200**を使用しています。
 
@@ -205,7 +205,7 @@ Webカメラは**Anker**の**PowerConf C200**を使用しています。
 
 また、[プライバシーシールド]{.marker}があるため、使用しないときは物理的にカメラにカバーをすることができて安心です。
 
-![プライバシーシールド](https://img.blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_web-camera-privacy.webp)
+![プライバシーシールド](https://img-blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_web-camera-privacy.webp)
 
 :affiliate-block{title="Anker PowerConf C200 ウェブカメラ" imageUrl="https://m.media-amazon.com/images/I/41PNelNJ2SL._SL160_.jpg" asin="B09MHPFV4Q"}
 
@@ -213,13 +213,13 @@ Webカメラは**Anker**の**PowerConf C200**を使用しています。
 
 指紋認証リーダーは**サンワダイレクト**の**USB 指紋認証リーダー**を使用しています。
 
-![サンワダイレクト USB 指紋認証リーダー](https://img.blog.ashcolor.jp/img/pc/2025-06-14_15-10-26_w7vpuz1d.webp)
+![サンワダイレクト USB 指紋認証リーダー](https://img-blog.ashcolor.jp/img/pc/2025-06-14_15-10-26_w7vpuz1d.webp)
 
 **Windows Hello**に対応しているため、パスワードやPINコードを入力せずに[指紋認証でログイン]{.marker}できます。
 
 また、延長コードとL字型のUSB変換アダプタを使用することで、[好きな場所に配置]{.marker}できます。
 
-![好きな場所に配置できる](https://img.blog.ashcolor.jp/img/pc/2025-06-14_15-10-26_3pg0v2do.webp)
+![好きな場所に配置できる](https://img-blog.ashcolor.jp/img/pc/2025-06-14_15-10-26_3pg0v2do.webp)
 
 :affiliate-block{title="サンワダイレクト USB 指紋認証リーダー" imageUrl="https://m.media-amazon.com/images/I/41YplL53H5L._SL160*.jpg" asin="B09LHCBN3S"}
 

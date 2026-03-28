@@ -7,7 +7,7 @@ category: "ガジェット"
 tags:
   - "GIGABYTE"
   - "モニター"
-thumbnail: "https://img.blog.ashcolor.jp/img/pc/2025-11-09_11-06-06_9h21jzc9.webp"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/2025-11-09_11-06-06_9h21jzc9.webp"
 isRecommend: true
 ---
 
@@ -34,7 +34,7 @@ isRecommend: true
 実際に使ってみたところ[満足度は高く、購入して良かった]{.marker}なと思っています。
 現在はこのモニタを2枚使用してデュアルディスプレイ環境にしています。
 
-![デュアルディスプレイで使用](https://img.blog.ashcolor.jp/img/pc/2025-11-09_11-13-42_41rexajj.webp)
+![デュアルディスプレイで使用](https://img-blog.ashcolor.jp/img/pc/2025-11-09_11-13-42_41rexajj.webp)
 
 後述しますが、非表示エリアにはマスキングテープを張って黒色を目立たなくしています。
 
@@ -89,7 +89,7 @@ GIGABYTE M27QA ICEのディスプレイ用の[入力端子は、**HDMI 2.0 x 2**
 
 モニタの裏には**設定用のレバー**と**KVMボタン**が搭載されています。
 
-![KVMスイッチとレバー](https://img.blog.ashcolor.jp/img/pc/2025-11-09_11-06-06_vg1dnev3.webp)
+![KVMスイッチとレバー](https://img-blog.ashcolor.jp/img/pc/2025-11-09_11-06-06_vg1dnev3.webp)
 
 この設定用の[レバーの使い勝手が良かった]{.marker}です。
 以前使っていたモニタは設定用のボタンが複数あり、モニタ裏のボタンの位置を感触を頼りに探すのが面倒でした。
@@ -115,11 +115,11 @@ GIGABYTE M27QA ICEのディスプレイ用の[入力端子は、**HDMI 2.0 x 2**
 ベゼル自体は細いですが、ベゼルの内側には非表示エリアがあります。
 [この非表示エリアは常に黒く、ベゼルの白色との対比も相まって目立ちます]{.marker}。
 
-![黒い部分が非表示エリア](https://img.blog.ashcolor.jp/img/pc/2025-11-09_11-06-06_9h21jzc9.webp)
+![黒い部分が非表示エリア](https://img-blog.ashcolor.jp/img/pc/2025-11-09_11-06-06_9h21jzc9.webp)
 
 どうしても気になったので、今は[非表示エリアにマスキングテープ貼る]{.marker}ことで非表示エリアを白くしています。
 
-![非表示エリアにマスキングテープを貼った](https://img.blog.ashcolor.jp/img/pc/2025-11-09_11-06-06_zvqmtiab.webp)
+![非表示エリアにマスキングテープを貼った](https://img-blog.ashcolor.jp/img/pc/2025-11-09_11-06-06_zvqmtiab.webp)
 
 白と黒の境界部分の目立ちが軽減されて見やすくなりました。
 
@@ -137,7 +137,7 @@ GIGABYTE M27QA ICEのディスプレイ用の[入力端子は、**HDMI 2.0 x 2**
 モニタの電源は内蔵されておらず、外部電源となります。
 この[外部電源が大きい]{.marker}ので場所を取ります。
 
-![外部電源は大きい](https://img.blog.ashcolor.jp/img/pc/2025-11-09_11-13-42_lwxzz3j1.webp)
+![外部電源は大きい](https://img-blog.ashcolor.jp/img/pc/2025-11-09_11-13-42_lwxzz3j1.webp)
 
 私の場合はケーブルトレーに収納しましたが、配線をきれいにしたい場合はどのように配置するか考えておいたほうがよさそうです。
 

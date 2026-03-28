@@ -8,7 +8,7 @@ tags:
   - "イヤホン"
   - "SOUNDPEATS"
   - "SOUNDPEATS Clip1"
-thumbnail: "https://img.blog.ashcolor.jp/img/pc/2025-11-19_10-57-43_3bzan8bg.webp"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/2025-11-19_10-57-43_3bzan8bg.webp"
 isRecommend: false
 ---
 
@@ -48,13 +48,13 @@ isRecommend: false
 - Type-C 充電ケーブル
 - 取扱説明書、ステッカー
 
-![外箱](https://img.blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_y00l1vz3.webp)
+![外箱](https://img-blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_y00l1vz3.webp)
 
-![同梱物一覧](https://img.blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_t26noa5r.webp)
+![同梱物一覧](https://img-blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_t26noa5r.webp)
 
 ちなみに[取扱説明書は上箱の裏にひっそりと入っています]{.marker}。
 
-![取扱説明書は上箱の裏](https://img.blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_flc57xc9.webp)
+![取扱説明書は上箱の裏](https://img-blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_flc57xc9.webp)
 
 ## レビュー
 
@@ -62,7 +62,7 @@ isRecommend: false
 
 [**イヤーカフ型**のため、輪っか状の形]{.marker}になっています。
 
-![本体](https://img.blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_prt9imwz.webp)
+![本体](https://img-blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_prt9imwz.webp)
 
 本体の重量は[片耳で**約5g**と大きさの割に軽く感じました]{.marker}。
 ちなみにAir Pods Pro 3が**5.55g**、TechnicsのAZ-100は**5.9g**なので、これらよりも軽量です。
@@ -90,9 +90,9 @@ isRecommend: false
 [ケースはかなり大きめ]{.marker}です。
 Air Pods Pro 3、TechnicsのAZ-100と並べると以下のようになります。
 
-![Clip1、AZ-100、Air Pods Pro 3](https://img.blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_6bm7vzy4.webp)
+![Clip1、AZ-100、Air Pods Pro 3](https://img-blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_6bm7vzy4.webp)
 
-![Clip1、AZ-100、Air Pods Pro 3](https://img.blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_4d1l9sgk.webp)
+![Clip1、AZ-100、Air Pods Pro 3](https://img-blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_4d1l9sgk.webp)
 
 [高さも厚さもあるため、ポケットに入れるのは向いていない]{.marker}と感じました。
 
@@ -129,16 +129,16 @@ Air Pods Pro 3、TechnicsのAZ-100と並べると以下のようになります�
 [アプリを使用するにはメールアドレスでの登録が必須]{.marker}のようです。
 ここは面倒だなと感じました。
 
-![メールアドレスので登録は必須](https://img.blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_k0ejbc2x.webp)
+![メールアドレスので登録は必須](https://img-blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_k0ejbc2x.webp)
 
 [EQは**10バンド**となっており、カスタマイズ性は十分]{.marker}にあります。
 
-![EQは10バンド](https://img.blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_ayu33x9m.webp)
+![EQは10バンド](https://img-blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_ayu33x9m.webp)
 
 前述の通り[シングルタップでの操作ができません]{.marker}。
 そのためタッチセンサーに割当できるのは、左/右、ダブルタップ/トリプルタップの4種類だけです。
 
-![タッチセンサーに割り当てられるのは4種類のみ](https://img.blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_0nye4sq4.webp)
+![タッチセンサーに割り当てられるのは4種類のみ](https://img-blog.ashcolor.jp/img/pc/2025-11-19_10-45-45_0nye4sq4.webp)
 
 ### 音漏れ
 
