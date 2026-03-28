@@ -8,7 +8,7 @@ const affiliateUrl = computed(() => Util.affiliateDlSiteUrl(searchLink));
         <!-- <div class="flex flex-col">
             <a :href="affiliateUrl" target="_blank" rel="noopener noreferrer">
                 <img
-                    src="https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-11-01_14-05-51_37xr2xmt.webp"
+                    src="https://img.blog.ashcolor.jp/img/pc/2025-11-01_14-05-51_37xr2xmt.webp"
                     alt="DLsiteで購入"
                     class="w-full"
                     loading="lazy"

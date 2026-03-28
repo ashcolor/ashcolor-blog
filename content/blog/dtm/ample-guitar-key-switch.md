@@ -7,7 +7,7 @@ category: "DTM"
 tags:
   - "ギター音源"
   - "Ample Guitar"
-thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_ample-guitar_ag_lp.webp"
+thumbnail: "https://img.blog.ashcolor.jp/img/pc/dtm_ample-guitar_ag_lp.webp"
 ---
 
 ## はじめに
@@ -25,7 +25,7 @@ thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_ample
 現在のモードは、[`Strummer`タブの左下にある`Strummer Mode Toggle`ボタンの表示で確認できます]{.marker}。
 ボタンがオフだとMainモード、オンだとStrummerモードです。
 
-![Strummer Mode Toggleがオンの状態](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2024-07-11_16-12-24_f6en3cap.webp)
+![Strummer Mode Toggleがオンの状態](https://img.blog.ashcolor.jp/img/pc/2024-07-11_16-12-24_f6en3cap.webp)
 
 ## キースイッチ一覧
 

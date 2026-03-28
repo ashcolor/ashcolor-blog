@@ -8,7 +8,7 @@ subCategory: ""
 tags:
   - "React.js"
   - "Vue.js"
-thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/programming_react-vue_react-vue.webp"
+thumbnail: "https://img.blog.ashcolor.jp/img/pc/programming_react-vue_react-vue.webp"
 isRecommend: true
 ---
 
@@ -23,7 +23,7 @@ Reactの公式チュートリアルはこちらです。
 
 :link-card{url="https://ja.react.dev/learn/tutorial-tic-tac-toe"}
 
-![Reactの公式チュートリアル 三目並べ](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/programming_react-vue_tic-tac-toe.webp)
+![Reactの公式チュートリアル 三目並べ](https://img.blog.ashcolor.jp/img/pc/programming_react-vue_tic-tac-toe.webp)
 
 ## 作成したコードについて
 

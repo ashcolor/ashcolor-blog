@@ -9,7 +9,7 @@ tags:
   - "Synthesizer V"
   - "SynthV"
   - "音街ウナ"
-thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2024-11-01_20-45-17_xrcgi29h.webp"
+thumbnail: "https://img.blog.ashcolor.jp/img/pc/2024-11-01_20-45-17_xrcgi29h.webp"
 isRecommend: false
 ---
 

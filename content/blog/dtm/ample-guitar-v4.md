@@ -7,7 +7,7 @@ category: "DTM"
 tags:
   - "ギター音源"
   - "Ample Guitar"
-thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-09-10_18-54-29_i76zad5j.webp"
+thumbnail: "https://img.blog.ashcolor.jp/img/pc/2025-09-10_18-54-29_i76zad5j.webp"
 ---
 
 ## はじめに
@@ -66,7 +66,7 @@ Ample Guitar V4の主なアップデート内容は以下の通りです。
 [Ample Guitar LPに指弾きライブラリが追加]{.marker}されました。
 ピックアップ選択で`Finger`を選択することで指弾きの音が鳴ります。
 
-![Fingerが追加](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-09-10_18-54-46_vp2lqvwd.webp)
+![Fingerが追加](https://img.blog.ashcolor.jp/img/pc/2025-09-10_18-54-46_vp2lqvwd.webp)
 
 指弾きのサウンドは以下の動画で確認できます。
 
@@ -88,7 +88,7 @@ V4アップデートの目玉は[`Riffer`の大幅進化]{.marker}です。
 
 以下がV4のRifferの画面です。
 
-![V4のRiffer](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-09-10_18-54-29_i76zad5j.webp)
+![V4のRiffer](https://img.blog.ashcolor.jp/img/pc/2025-09-10_18-54-29_i76zad5j.webp)
 
 以前の`Riffer`とは大きく変化していることが一目見ただけで分かると思います。
 追加された機能について詳しくみていきます。
@@ -106,7 +106,7 @@ V4アップデートの目玉は[`Riffer`の大幅進化]{.marker}です。
 
 `Piano Roll`モードでは通常のノートに加えて、[Strum Noteを配置]{.marker}できるようになりました。
 
-![Strum Note](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-09-10_20-47-35_myinj1yx.webp)
+![Strum Note](https://img.blog.ashcolor.jp/img/pc/2025-09-10_20-47-35_myinj1yx.webp)
 
 `Strum Note`は[ストローク演奏をするためのノート]{.marker}です。
 ピアノロール上部でコードを指定したあとに、`Strum`ツールでピアノロール上をクリックすると`Strum Note`が配置されます。
@@ -117,7 +117,7 @@ V4アップデートの目玉は[`Riffer`の大幅進化]{.marker}です。
 
 Rifferの上部に表示される[コードを選択したときに現れるコードシステムが新しくなりました]{.marker}。
 
-![コードシステム](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-09-10_19-18-51_7ba72tsf.webp)
+![コードシステム](https://img.blog.ashcolor.jp/img/pc/2025-09-10_19-18-51_7ba72tsf.webp)
 
 以下の要素が表示されており、[直感的にコードを選択]{.marker}できるようになっています。
 
@@ -132,7 +132,7 @@ Rifferの上部に表示される[コードを選択したときに現れるコ�
 `Piano Roll`モードでは[演奏弦が可視化]{.marker}されるようになりました。
 ノートとノートを結ぶ線が表示され、[各ノートがどの弦で演奏されるかが分かる]{.marker}ようになっています。
 
-![演奏弦の可視化](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-09-10_20-48-42_nn2b9fef.webp)
+![演奏弦の可視化](https://img.blog.ashcolor.jp/img/pc/2025-09-10_20-48-42_nn2b9fef.webp)
 
 また、[`Shift`キーを押しながらノートをクリックすると、演奏弦を変更]{.marker}できます。
 スライドやハンマリングを指定する際の演奏弦の指定が簡単にできるようになっています。
@@ -142,7 +142,7 @@ Rifferの上部に表示される[コードを選択したときに現れるコ�
 `Riffer`画面で読み込むことができる[リフサンプルが大幅に追加]{.marker}されました。
 [奏法別、音源別にリフサンプルが用意]{.marker}されており、ざっと見た感じ500以上はありそうです。
 
-![リフサンプル一覧](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-09-10_19-29-15_qcbd2r7e.webp)
+![リフサンプル一覧](https://img.blog.ashcolor.jp/img/pc/2025-09-10_19-29-15_qcbd2r7e.webp)
 
 各リフは今回追加された機能が豊富に使われているため、[Rifferでできることを確認するのに最適]{.marker}です。
 慣れないうちはリフサンプルを参考にしながらRifferの使い方を覚えるのが良さそうです。
@@ -152,7 +152,7 @@ Rifferの上部に表示される[コードを選択したときに現れるコ�
 `Piano Roll`モードの下部に[MIDI CC/ベロシティーエディターが追加]{.marker}されました。
 [ベンドやモジュレーション、ベロシティー等のMIDI CCを編集できます]{.marker}。
 
-![MIDI CC/ベロシティーエディター](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-09-10_19-32-02_vbqhg5u0.webp)
+![MIDI CC/ベロシティーエディター](https://img.blog.ashcolor.jp/img/pc/2025-09-10_19-32-02_vbqhg5u0.webp)
 
 [CC Curveプリセット]{.marker}という機能も用意されており、特定のノートを選択したあとにCC Curveプリセットをクリックするとあらかじめ用意されたCCカーブが適用されます。
 

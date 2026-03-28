@@ -9,7 +9,7 @@ tags:
   - "JavaScript"
   - "TypeScript"
   - "Vue.js"
-thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/programming_chat-scroll_thumbnail.webp"
+thumbnail: "https://img.blog.ashcolor.jp/img/pc/programming_chat-scroll_thumbnail.webp"
 isRecommend: true
 ---
 
@@ -24,7 +24,7 @@ SlackやLINE、ChatGPTのようなチャットのUIでは最新のメッセー�
 
 ### 動作イメージ
 
-![動作イメージ](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/video/programming_chat-scroll_chat-scroll.gif)
+![動作イメージ](https://img.blog.ashcolor.jp/video/programming_chat-scroll_chat-scroll.gif)
 
 この機能をVue.jsで実装したので、実装方法を記載します。
 

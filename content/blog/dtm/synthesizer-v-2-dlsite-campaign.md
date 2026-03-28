@@ -9,7 +9,7 @@ tags:
   - "Synthesizer V 2"
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-03-21_01-03-48_kamytsd2.webp"
+thumbnail: "https://img.blog.ashcolor.jp/img/pc/2025-03-21_01-03-48_kamytsd2.webp"
 isRecommend: false
 ---
 
@@ -27,7 +27,7 @@ isRecommend: false
 
 さらに、11/10までであれば[「音声合成ソフト」に使える15%OFFクーポン]{.marker}も配布されており、キャンペーンと併用できます。
 
-![「音声合成ソフト」に使える15%OFFクーポン【1回のみ利用可】](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-11-01_14-07-30_p18lpkmk.webp)
+![「音声合成ソフト」に使える15%OFFクーポン【1回のみ利用可】](https://img.blog.ashcolor.jp/img/pc/2025-11-01_14-07-30_p18lpkmk.webp)
 
 ## キャンペーンの注意点
 

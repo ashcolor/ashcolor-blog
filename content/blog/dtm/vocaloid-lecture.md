@@ -9,7 +9,7 @@ tags:
   - "Synthesizer V"
   - "SynthV"
   - "Piapro Studio"
-thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2024-07-01_13-22-44_tgz4bcxz.webp"
+thumbnail: "https://img.blog.ashcolor.jp/img/pc/2024-07-01_13-22-44_tgz4bcxz.webp"
 isRecommend: true
 ---
 
@@ -35,15 +35,15 @@ VOCALOIDやSynthesizer Vを購入したものの、[調声に苦労している�
 
 #### 調声前
 
-![基本の調声前](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_vocaloid-lecture_before.webp)
+![基本の調声前](https://img.blog.ashcolor.jp/img/pc/dtm_vocaloid-lecture_before.webp)
 
-:custom-audio{title="基本の調声前" src="https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/audio/dtm_vocaloid-lecture_before.mp3"}
+:custom-audio{title="基本の調声前" src="https://img.blog.ashcolor.jp/audio/dtm_vocaloid-lecture_before.mp3"}
 
 #### 調声後
 
-![基本の調声後](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_vocaloid-lecture_after.webp)
+![基本の調声後](https://img.blog.ashcolor.jp/img/pc/dtm_vocaloid-lecture_after.webp)
 
-:custom-audio{title="基本の調声後" src="https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/audio/dtm_vocaloid-lecture_after.mp3"}
+:custom-audio{title="基本の調声後" src="https://img.blog.ashcolor.jp/audio/dtm_vocaloid-lecture_after.mp3"}
 
 調声を行ったことによって、[歌い方の違和感]{.marker}が減ったかと思います。
 具体的に何を行ったのか説明していきます。
@@ -84,7 +84,7 @@ VOCALOIDやSynthesizer Vを購入したものの、[調声に苦労している�
 
 母音だけを消す場合は音素の修正を行い、[「a」「i」「u」「e」「o」を消してください]{.marker}。
 
-![「わたし」の「し」の母音を消している](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_vocaloid-lecture_boin.webp)
+![「わたし」の「し」の母音を消している](https://img.blog.ashcolor.jp/img/pc/dtm_vocaloid-lecture_boin.webp)
 
 音素の編集方法は音声合成ソフトによって異なります。
 音声合成ソフトの操作方法を確認してみてください。
@@ -93,7 +93,7 @@ VOCALOIDやSynthesizer Vを購入したものの、[調声に苦労している�
 
 [「**ない**」「**あい**」「**もう**」「**まう**」といった発音は、後ろの母音のタイミングを遅らせた方が自然]{.marker}に聞こえます。
 
-![「歌い」の「い」のタイミングを遅らせている](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_vocaloid-lecture_ai.webp)
+![「歌い」の「い」のタイミングを遅らせている](https://img.blog.ashcolor.jp/img/pc/dtm_vocaloid-lecture_ai.webp)
 
 ### しゃくり
 
@@ -102,7 +102,7 @@ VOCALOIDやSynthesizer Vを購入したものの、[調声に苦労している�
 ボカロで再現する場合、[ノートの最初を32～8分音符分ほど分割して最初のノートを半音～全音ほど下げます]{.marker}。
 特に次のノートに向けて音程が上がる場合に、しゃくりを付けると自然になることが多いです。
 
-![しゃくりを付けている](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_vocaloid-lecture_shakuri.webp)
+![しゃくりを付けている](https://img.blog.ashcolor.jp/img/pc/dtm_vocaloid-lecture_shakuri.webp)
 
 しゃくりは簡単かつ効果的なテクニックなので、必ず覚えておきましょう。
 
@@ -118,7 +118,7 @@ AIによるしゃくりが自然であれば、しゃくりを入れる必要は
 
 簡単に済ますのであれば、ソフトに付属されている[オートビブラートだけ設定すればOK]{.marker}です。
 
-![長い音符にビブラートを付けている](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_vocaloid-lecture_vibrato.webp)
+![長い音符にビブラートを付けている](https://img.blog.ashcolor.jp/img/pc/dtm_vocaloid-lecture_vibrato.webp)
 
 こだわりたい場合は、ビブラートの開始タイミング・速さ・強さを調整します。
 
@@ -129,7 +129,7 @@ AIによるしゃくりが自然であれば、しゃくりを入れる必要は
 
 [VOCALOIDの場合は`br1`、Synthesizer Vの場合は`br` と打ち込むと息を吸い込む音がします]{.marker}。
 
-![フレーズの最初に「br1」のノートを置いてブレスを付ける](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_vocaloid-lecture_breath.webp)
+![フレーズの最初に「br1」のノートを置いてブレスを付ける](https://img.blog.ashcolor.jp/img/pc/dtm_vocaloid-lecture_breath.webp)
 
 ## 応用の調声
 
@@ -144,7 +144,7 @@ AIによるしゃくりが自然であれば、しゃくりを入れる必要は
 ボカロで再現する場合は、[ノートの最後を分割して、最後のノートの音程を上下]{.marker}させます。
 もしくは[ピッチパラメーターのオートメーションを書いてノートの最後で音程を上下]{.marker}させます。
 
-![フォールとヒーカップの打ち込み例](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_vocaloid-lecture_fall.webp)
+![フォールとヒーカップの打ち込み例](https://img.blog.ashcolor.jp/img/pc/dtm_vocaloid-lecture_fall.webp)
 
 フォールやヒーカップを付与すると、[感情的に歌っているように聞こえます]{.marker}。
 サビの盛り上がる部分など、ここぞというときに使うと効果的です。
@@ -190,7 +190,7 @@ Synthesizer Vの場合の方法は以下の記事にまとめてあるので、�
 
 [**コンプレッサー**は、音量の大きい波形を圧縮するエフェクト]{.marker}です。
 
-![Cubase付属 Compressor](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2024-07-01_14-06-36_l2ci43m3.webp)
+![Cubase付属 Compressor](https://img.blog.ashcolor.jp/img/pc/2024-07-01_14-06-36_l2ci43m3.webp)
 
 コンプレッサーをかけることで、[音量バランスが整い歌に安定感]{.marker}が出ます。
 また、子音が強調されることにより[発音が聞き取りやすくなる効果]{.marker}もあります。
@@ -201,7 +201,7 @@ Synthesizer Vの場合の方法は以下の記事にまとめてあるので、�
 
 [**イコライザー**は、特定の周波数の音量を大きくしたり下げたりするエフェクト]{.marker}です。
 
-![Cubase付属 StudioEQ](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2024-07-01_14-09-20_i3q5vorl.webp)
+![Cubase付属 StudioEQ](https://img.blog.ashcolor.jp/img/pc/2024-07-01_14-09-20_i3q5vorl.webp)
 
 [歌声が籠もって聞こえる場合や、歌声に変化を持たせたい場合]{.marker}はイコライザーをかけます。
 音声合成ソフト側のパラメータでも声色は変わりますが、イコライザーの方が細かく調整できて便利です。
@@ -210,7 +210,7 @@ Synthesizer Vの場合の方法は以下の記事にまとめてあるので、�
 
 [**ディエッサー**は、特定の周波数だけを圧縮するエフェクト]{.marker}です。
 
-![Cubase付属 DeEsser](https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2024-07-01_14-06-36_z3ydk24b.webp)
+![Cubase付属 DeEsser](https://img.blog.ashcolor.jp/img/pc/2024-07-01_14-06-36_z3ydk24b.webp)
 
 歌声中の[**さ行**が耳につく場合にディエッサーをかけることで、不快な高音を抑えて聞き取りやすい歌声]{.marker}にできます。
 音声合成ソフト側で特定の発音を修正するのは大変ですが、エフェクトはトラック全体にかけるだけなので簡単です。

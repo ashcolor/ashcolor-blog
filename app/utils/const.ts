@@ -5,8 +5,7 @@ export const BLOG_CATEGORIES = [
         key: "gadget",
         name: "ガジェット",
         path: "/blog/gadget",
-        thumbnail:
-            "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-12-10_22-25-37_bngk8eai.webp",
+        thumbnail: "https://img.blog.ashcolor.jp/img/pc/2025-12-10_22-25-37_bngk8eai.webp",
         iconName: "bi:keyboard",
         isShowList: true,
     },
@@ -15,7 +14,7 @@ export const BLOG_CATEGORIES = [
         name: "システム開発",
         path: "/blog/programming",
         thumbnail:
-            "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/gadget_desk-tour-computer-accessories_key-cap.webp",
+            "https://img.blog.ashcolor.jp/img/pc/gadget_desk-tour-computer-accessories_key-cap.webp",
         iconName: "bi:code-slash",
         isShowList: true,
     },
@@ -23,8 +22,7 @@ export const BLOG_CATEGORIES = [
         key: "dtm",
         name: "DTM",
         path: "/blog/dtm",
-        thumbnail:
-            "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_my-vst_thumbnail.webp",
+        thumbnail: "https://img.blog.ashcolor.jp/img/pc/dtm_my-vst_thumbnail.webp",
         iconName: "bi:music-note-beamed",
         isShowList: true,
     },
@@ -32,8 +30,7 @@ export const BLOG_CATEGORIES = [
         key: "notion",
         name: "Notion",
         path: "/blog/notion",
-        thumbnail:
-            "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/notion_formulas_thumbnail.webp",
+        thumbnail: "https://img.blog.ashcolor.jp/img/pc/notion_formulas_thumbnail.webp",
         iconName: "",
         isShowList: false,
     },
@@ -41,8 +38,7 @@ export const BLOG_CATEGORIES = [
         key: "random-note",
         name: "雑記",
         path: "/blog/random-note",
-        thumbnail:
-            "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2025-12-10_22-25-37_bngk8eai.webp",
+        thumbnail: "https://img.blog.ashcolor.jp/img/pc/2025-12-10_22-25-37_bngk8eai.webp",
         iconName: "",
         isShowList: false,
     },
@@ -68,7 +64,7 @@ export const ACCOUNTS = [
     },
 ];
 
-export const IMAGE_PATH_BASE = "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev";
+export const IMAGE_PATH_BASE = "https://img.blog.ashcolor.jp";
 
 export const AMAZON_ASSOCIATE_ID = "ashcolor-22";
 export const DLSITE_ASSOCIATE_ID = "ashcolor";

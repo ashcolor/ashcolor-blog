@@ -8,7 +8,7 @@ subCategory: "Synthesizer V"
 tags:
   - "Synthesizer V"
   - "SynthV"
-thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/dtm_synthesizer-v_thumbnail.webp"
+thumbnail: "https://img.blog.ashcolor.jp/img/pc/dtm_synthesizer-v_thumbnail.webp"
 ---
 
 ## はじめに

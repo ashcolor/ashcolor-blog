@@ -10,7 +10,7 @@ tags:
   - "SynthV"
   - "Megpoid"
   - "GUMI"
-thumbnail: "https://pub-dd46e443a5d24074b8c2dd88f691a324.r2.dev/img/pc/2024-11-01_20-45-17_tn0gmth7.webp"
+thumbnail: "https://img.blog.ashcolor.jp/img/pc/2024-11-01_20-45-17_tn0gmth7.webp"
 isRecommend: false
 ---
 
