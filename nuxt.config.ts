@@ -18,6 +18,15 @@ export default defineNuxtConfig({
         cloudflare: {
             deployConfig: true,
             nodeCompat: true,
+            wrangler: {
+                d1_databases: [
+                    {
+                        binding: "DB",
+                        database_name: "ashcolor-blog",
+                        database_id: "ca7dbda4-eff8-4c06-976b-78c83c51316c",
+                    },
+                ],
+            },
         },
     },
     app: {
