@@ -3,6 +3,7 @@ import { definePerson } from "nuxt-schema-org/schema";
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+    compatibilityDate: "2025-07-15",
     vite: {
         plugins: [tailwindcss()],
     },
@@ -12,14 +13,15 @@ export default defineNuxtConfig({
         r2SecretAccessKey: "",
     },
     nitro: {
+        compatibilityDate: "2025-07-15",
         prerender: {
             routes: ["/sitemap.xml"],
         },
         preset: "cloudflare_module",
         cloudflare: {
             deployConfig: true,
-            nodeCompat: true,
             wrangler: {
+                compatibility_flags: ["nodejs_compat_v2"],
                 d1_databases: [
                     {
                         binding: "DB",
