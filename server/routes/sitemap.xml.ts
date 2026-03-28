@@ -1,5 +1,4 @@
 import { SitemapStream, streamToPromise } from "sitemap";
-import { serverQueryContent } from "#content/server";
 import { BLOG_CATEGORIES } from "@/utils/const";
 
 export default defineEventHandler(async (event) => {
@@ -17,13 +16,16 @@ export default defineEventHandler(async (event) => {
         });
     }
 
-    const docs = await serverQueryContent(event).find();
+    const blogs = await queryCollection(event, "blog").all();
+    const others = await queryCollection(event, "other").all();
+    const docs = blogs.concat(others);
+
     for (const doc of docs) {
-        if (doc._path?.startsWith("/_")) continue;
+        if (doc.path?.startsWith("/_")) continue;
 
         const lastModString = doc.updatedAt || doc.createdAt;
         sitemap.write({
-            url: doc._path,
+            url: doc.path,
             lastmod: lastModString ? `${lastModString.replace(/\//g, "-")}T09:00:00.000+09:00` : "",
         });
     }

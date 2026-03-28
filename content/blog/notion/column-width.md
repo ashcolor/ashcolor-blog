@@ -1,12 +1,12 @@
 ---
 createdAt: "2023/09/21"
-updatedAt: ""
-title: "Notionのデータベースの列幅をチェックボックス以外でも最小にする方法"
+updatedAt: "2024/05/24"
+title: "Notionのデータベースの列幅をチェックボックス以外で最小にする方法"
 description: "Notionのデータベースの列幅をチェックボックス以外でも最小にする方法を紹介します。"
 category: "Notion"
 tags:
   - "Notion"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/formulas/thumbnail.png"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/notion_formulas_thumbnail.webp"
 ---
 
 この記事ではNotionのデータベースのカラム幅を[どのプロパティでも最小にする方法]{.marker}を紹介します。
@@ -18,11 +18,11 @@ Notionのデータベースを編集していて、「カラムの幅をもっ�
 
 チェックボックスの場合
 
-![チェックボックスの場合の最小カラム幅](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/column-width/checkbox.png "aaa")
+![チェックボックスの場合の最小カラム幅](https://img-blog.ashcolor.jp/img/pc/notion_column-width_checkbox.webp "aaa")
 
 チェックボックス以外（セレクト）の場合
 
-![チェックボックス以外（セレクト）の場合の最小カラム幅](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/column-width/selectbox.png)
+![チェックボックス以外（セレクト）の場合の最小カラム幅](https://img-blog.ashcolor.jp/img/pc/notion_column-width_selectbox.webp)
 
 例えば、セレクトボックスの項目を「優先度」として、選択肢を「高」「中」「低」にしたい、というときにも、通常の方法ではカラム幅を1文字分にすることができません。
 
@@ -30,24 +30,28 @@ Notionのデータベースを編集していて、「カラムの幅をもっ�
 
 ## 方法
 
-チェックボックス以外のプロパティで列幅を最小にする方法は以下の通りです。
+（2024年5月24日 追記）
 
-1. 列幅を最小化したいプロパティの種類を**チェックボックス**にする
-1. 列の幅を最小にする
-1. プロパティの種類を**元のプロパティの種類に戻す**
+Notion公式からの情報で、[`alt`または`opt`キーを押しながらプロパティ列の幅を変更すると、最小化できる]{.marker}ことが判明しました。
 
-チェックボックス以外のプロパティの場合でも[一度チェックボックスにした状態でカラム幅を狭くしておけば、元のプロパティの種類に戻しても列幅は維持]{.marker}されたままになります。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">データベースをよりシンプルに見せたい時はありませんか？<br><br>「alt / opt」キーを押しながらプロパティ列の幅を最小化できます↔️ <a href="https://t.co/OPd8WwOUno">pic.twitter.com/OPd8WwOUno</a></p>&mdash; Notion Japan 🇯🇵 (@NotionJP) <a href="https://twitter.com/NotionJP/status/1793763838720188537?ref_src=twsrc%5Etfw">May 23, 2024</a></blockquote>
 
-また、[プロパティの中身はプロパティの種類を変更しても内部的には保持]{.marker}されているため、既にレコードが追加済みのデータベースであっても、情報が消えることはありません・
+簡単にできるようになりましたね。
 
-**セレクトで列幅が最小**
-![チェックボックス以外（セレクト）でも列幅が最小](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/column-width/select-box-after.png "完成")
+以下は従来の方法です。
 
-## 注意点
+~チェックボックス以外のプロパティで列幅を最小にする方法は以下の通りです。~
 
-上記の手順を行った後に[再度列幅を変更すると、通常プロパティの最小列幅に強制的に戻ってしまいます]{.marker}。
+1. ~列幅を最小化したいプロパティの種類を**チェックボックス**にする~
+1. ~列の幅を最小にする~
+1. ~プロパティの種類を**元のプロパティの種類に戻す**~
 
-一度列幅を設定したら列幅を変更しないようにしましょう。
+~チェックボックス以外のプロパティの場合でも[一度チェックボックスにした状態でカラム幅を狭くしておけば、元のプロパティの種類に戻しても列幅は維持]{.marker}されたままになります。~
+
+~また、[プロパティの中身はプロパティの種類を変更しても内部的には保持]{.marker}されているため、既にレコードが追加済みのデータベースであっても、情報が消えることはありません~
+
+~**セレクトで列幅が最小**~
+![チェックボックス以外（セレクト）でも列幅が最小](https://img-blog.ashcolor.jp/img/pc/notion_column-width_select-box-after.webp "完成")
 
 ## まとめ
 
@@ -56,13 +60,10 @@ Notionのデータベースを編集していて、「カラムの幅をもっ�
 ::point-list{title="列幅の最小値について"}
 
 - 列幅の最小値はチェックボックスのみ異なる
-- チェックボックス以外のプロパティでも、一度チェックボックスにすれば列幅を最小になる
-- 再度列幅を編集すると列幅は元に戻る
+- `alt / opt`キーを押しながらプロパティ列の幅を変更すると、最小化できる
 
 ::
 
-チェックボックス以外の場合でも列幅を最小にしたい需要は多いです。
+チェックボックス以外の場合でも列幅を最小にしたい需要は多かったですが、公式のアップデートによって簡単に実現できるようになりました。
 
-今までだと1文字のタグを表示したいときや、関数を使って条件にあったレコードに絵文字を表示したいときなどに上記の方法を使用しています。
-
-ぜひ公式のアップデートで仕様として実装してくれたら嬉しいですね。
+1文字のタグを表示したいときや、関数を使って条件にあったレコードに絵文字を表示したいときなど、ぜひ活用してみてください。

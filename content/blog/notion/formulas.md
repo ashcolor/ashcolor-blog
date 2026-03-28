@@ -1,13 +1,13 @@
 ---
 createdAt: "2023/09/15"
-updatedAt: ""
-title: "Notion 関数2.0アップデート！関数を使うときの注意点や便利な使い方をまとめてみた"
+updatedAt:
+title: "Notion 関数2.0アップデート！便利な使い方や注意点まとめ"
 description: "Notionの関数機能を使うときの注意点や便利な使い方についてまとめています。"
 category: "Notion"
 tags:
   - "Notion"
   - "Formulas"
-thumbnail: "https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/formulas/thumbnail.png"
+thumbnail: "https://img-blog.ashcolor.jp/img/pc/notion_formulas_thumbnail.webp"
 isRecommend: true
 ---
 
@@ -62,7 +62,7 @@ Notion関数の編集時は構文のサジェストが常に表示されてい�
 
 ① のパターンの場合で関数の編集画面を開いたときのみ、その行の[出力結果のプレビュー]{.marker}が表示されます
 
-![出力結果のプレビュー](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/formulas/preview.png)
+![出力結果のプレビュー](https://img-blog.ashcolor.jp/img/pc/notion_formulas_preview.webp)
 
 関数の構文を入力した時点でプレビューに出力結果が表示されて便利です。
 基本的には① の方法で関数の編集を行うことをオススメします。
@@ -72,7 +72,7 @@ Notion関数の編集時は構文のサジェストが常に表示されてい�
 出力結果を複数行で表示したい場合は、[改行したい部分に`\n`を入れます]{.marker}。
 （例： `"Hello" + "\n" + "World"`）
 
-![出力結果に改行を含める](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/formulas/n.png)
+![出力結果に改行を含める](https://img-blog.ashcolor.jp/img/pc/notion_formulas_n.webp)
 
 厳密には構文内に直接改行を入れても反映されますが構文が見辛くなるため、`\n`を使った改行がオススメです。
 
@@ -123,7 +123,7 @@ Notionの日付プロパティの表示形式は`プロパティを変更`から
 書式設定文字列に文字列を指定することで表示形式をカスタマイズすることができます。
 使用することができる文字列は以下のようなものがあります。
 
-:::collapse-card{title="formatDateで使える書式（クリックで展開）"}
+::collapse-card{title="formatDateで使える書式（クリックで展開）"}
 
 | 書式             | 表示  | 説明                                     |
 | ---------------- | ----- | ---------------------------------------- |
@@ -145,7 +145,7 @@ Notionの日付プロパティの表示形式は`プロパティを変更`から
 | A<br>a           | 午後  | 午前または午後                           |
 | z                | GMT+9 | タイムゾーン                             |
 
-:::
+::
 
 #### 使用例
 
@@ -161,7 +161,7 @@ formatDate(prop("作成日時"),"YYYY/MM/DD(ddd)")
 formatDate(prop("作成日時"),"YYYY/MM/DD(ddd) ah時")
 ```
 
-![日付の表示形式をカスタマイズ](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/formulas/date.png)
+![日付の表示形式をカスタマイズ](https://img-blog.ashcolor.jp/img/pc/notion_formulas_date.webp)
 
 日付の表示形式をカスタマイズすることによって、必要な情報だけを表示することができます。
 データベースの表示をすっきり見せることができるので日付プロパティは積極的に表示形式をカスタマイズしていきましょう。
@@ -175,7 +175,7 @@ formatDate(prop("作成日時"),"YYYY/MM/DD(ddd) ah時")
 | link  | ラベルテキストとURLからハイパーリンクを作成します。 |
 | style | テキストに書式や色を設定します。                    |
 
-#### 使用例
+#### リンクボタンの表示：使用例
 
 以下はURLプロパティのURLに対してリンクボタンを作成した例です。
 
@@ -184,7 +184,7 @@ link("🔗URLを開く",prop("URL"))
   .style("blue", "blue_background")
 ```
 
-![リンクボタンの表示](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/formulas/link.png)
+![リンクボタンの表示](https://img-blog.ashcolor.jp/img/pc/notion_formulas_link.webp)
 
 `link`でURLをリンク化して`style`で文字色を青、背景色を灰色にすることでボタンのようにみせています。
 
@@ -224,7 +224,7 @@ prop("時間")
 )
 ```
 
-![タイプ別に時間を足して表示](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/formulas/work.png)
+![タイプ別に時間を足して表示](https://img-blog.ashcolor.jp/img/pc/notion_formulas_work.webp)
 
 このように関数では関連データベースのプロパティを参照して自由に表示させることができます。
 複数プロパティの参照となると構文が多少は複雑になりますが、関数2.0からは改行やコメントを使えば以前よりは格段に書きやすくなっています。
@@ -253,7 +253,7 @@ ifs(
 )
 ```
 
-![バリデーション](https://ashcolor-blog.s3.ap-northeast-1.amazonaws.com/img/blog/notion/formulas/validation.png)
+![バリデーション](https://img-blog.ashcolor.jp/img/pc/notion_formulas_validation.webp)
 
 生年月日は未来の日付の場合に、メールアドレスはメールアドレスの正規表現に一致しない場合に、エラーメッセージを表示させるようにしています。
 上記のバリデーションとデータベースのフィルター機能を使えば、入力内容に誤りがあるレコードだけを簡単に見つけることができます。

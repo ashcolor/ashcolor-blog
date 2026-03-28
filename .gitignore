@@ -6,3 +6,14 @@ node_modules
 .output
 .env
 dist
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+.data
+
+settings.local.json
+
+.vscode
+.idea
+.DS_Store

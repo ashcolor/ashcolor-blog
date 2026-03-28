@@ -1,5 +1,8 @@
 {
-    "MD009": false,
-    "MD013": false,
-    "MD033": false
+    "no-trailing-spaces": false,
+    "line-length": false,
+    "no-duplicate-heading": false,
+    "no-inline-html": false,
+    "no-bare-urls": false,
+    "link-fragments": false
 }

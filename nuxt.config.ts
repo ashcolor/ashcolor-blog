@@ -1,8 +1,33 @@
-// https://v3.nuxtjs.org/api/configuration/nuxt.config
+import tailwindcss from "@tailwindcss/vite";
+import { definePerson } from "nuxt-schema-org/schema";
+
+// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+    vite: {
+        plugins: [tailwindcss()],
+    },
+    runtimeConfig: {
+        r2AccountId: "",
+        r2AccessKeyId: "",
+        r2SecretAccessKey: "",
+    },
     nitro: {
         prerender: {
             routes: ["/sitemap.xml"],
+        },
+        preset: "cloudflare_module",
+        cloudflare: {
+            deployConfig: true,
+            nodeCompat: true,
+            wrangler: {
+                d1_databases: [
+                    {
+                        binding: "DB",
+                        database_name: "ashcolor-blog",
+                        database_id: "ca7dbda4-eff8-4c06-976b-78c83c51316c",
+                    },
+                ],
+            },
         },
     },
     app: {
@@ -11,29 +36,27 @@ export default defineNuxtConfig({
                 lang: "ja",
                 prefix: "og: http://ogp.me/ns#",
             },
-            script: [
-                {
-                    src: "https://platform.twitter.com/widgets.js",
-                    defer: true,
-                },
+            link: [
+                { rel: "icon", href: "/icon-192x192.png" },
+                { rel: "apple-touch-icon", href: "/apple-touch-icon-180x180.png" },
             ],
         },
     },
-    css: ["@/assets/css/tailwind.css"],
+    css: ["@/assets/css/main.css"],
+
     build: {},
-    extends: "@nuxt-themes/typography",
 
     modules: [
-        "@nuxtjs/tailwindcss",
-        "@nuxtjs/eslint-module",
-        "@nuxtjs/google-fonts",
+        "@nuxt/eslint",
+        // "@nuxtjs/eslint-module",
         "@nuxt/content",
-        "nuxt-simple-robots",
+        "nuxt-schema-org",
         "nuxt-gtag",
         "@pinia/nuxt",
         "@vueuse/nuxt",
+        "@nuxt/image",
+        "@nuxt/icon",
     ],
-
     components: {
         dirs: [
             "~/components/content",
@@ -47,28 +70,27 @@ export default defineNuxtConfig({
     },
 
     content: {
-        // https://content.nuxtjs.org/api/configuration
-        markdown: {
-            remarkPlugins: ["remark-breaks"],
-        },
-        highlight: {
-            theme: {
-                default: "github-light",
-                dark: "github-dark",
+        build: {
+            markdown: {
+                remarkPlugins: { "remark-breaks": {} },
+                highlight: {
+                    theme: "github-dark",
+                    langs: [
+                        "markdown",
+                        "html",
+                        "css",
+                        "javascript",
+                        "js",
+                        "jsx",
+                        "ts",
+                        "php",
+                        "vue",
+                        "python",
+                        "bash",
+                        "diff",
+                    ],
+                },
             },
-            preload: ["vue"],
-        },
-    },
-
-    eslint: {
-        // yarn dev開始にlintを実行するか
-        lintOnStart: false,
-    },
-
-    googleFonts: {
-        families: {
-            "M+PLUS+Rounded+1c": true,
-            "Noto+Sans+JP": true,
         },
     },
 
@@ -76,7 +98,22 @@ export default defineNuxtConfig({
         id: "G-Z20F8MTC2Q",
     },
 
-    devtools: {
-        enabled: false,
+    site: {
+        url: "https://blog.ashcolor.jp",
+        name: "あっしゅからーのブログ",
     },
+
+    schemaOrg: {
+        identity: definePerson({
+            name: "あっしゅからー",
+            image: "/img/author.png",
+            description: "システムエンジニア / DTMer",
+            url: "https://twitter.com/ashcolor06",
+            sameAs: ["https://github.com/ashcolor"],
+        }),
+    },
+
+    // eslint: {
+    // lintOnStart: false,
+    // },
 });
