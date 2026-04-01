@@ -11,7 +11,7 @@
     ]
   },
   "scripts": {
-    "build": "nuxt build && node scripts/patch-wrangler.mjs",
+    "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
