@@ -38,6 +38,7 @@ function formatJaDatetime(createdAt: Date): string {
                 photos,
                 video,
                 tweetUrl,
+                proxyImage,
             }"
         >
             <a
@@ -116,7 +117,7 @@ function formatJaDatetime(createdAt: Date): string {
                         <source
                             v-for="variant in video.variants"
                             :key="variant.src"
-                            :src="variant.src"
+                            :src="proxyImage(variant.src)"
                             :type="variant.type"
                         />
                     </video>
