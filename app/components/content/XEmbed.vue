@@ -36,6 +36,7 @@ function formatJaDatetime(createdAt: Date): string {
                 text,
                 createdAt,
                 photos,
+                video,
                 tweetUrl,
             }"
         >
@@ -101,6 +102,24 @@ function formatJaDatetime(createdAt: Date): string {
                         class="m-0 h-full w-full object-cover"
                         :style="photos.length === 1 ? 'max-height: 300px' : 'max-height: 150px'"
                     />
+                </div>
+
+                <!-- 動画 -->
+                <div v-if="video" class="mb-3 overflow-hidden rounded-xl">
+                    <video
+                        controls
+                        :poster="video.posterProxied"
+                        class="m-0 w-full"
+                        style="max-height: 300px"
+                        @click.prevent.stop
+                    >
+                        <source
+                            v-for="variant in video.variants"
+                            :key="variant.src"
+                            :src="variant.src"
+                            :type="variant.type"
+                        />
+                    </video>
                 </div>
 
                 <!-- フッター -->
