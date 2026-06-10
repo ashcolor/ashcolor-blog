@@ -64,6 +64,7 @@ export default defineNuxtConfig({
     scripts: {
         registry: {
             xEmbed: {},
+            youtubePlayer: {},
         },
     },
     components: {
