@@ -13,7 +13,7 @@ isRecommend: true
 
 2023年9月8日、[Notionの関数機能が2.0にアップデート]{.marker}されました🎉
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Introducing: Formulas 2.0 🦾<br><br>• Redesigned multi-line editor<br>• Syntax and error highlighting<br>• Colorful, rich data outputs<br>• Powerful new functions <a href="https://t.co/sbrLZxT31F">pic.twitter.com/sbrLZxT31F</a></p>&mdash; Notion (@NotionHQ) <a href="https://twitter.com/NotionHQ/status/1699828805408550971?ref_src=twsrc%5Etfw">September 7, 2023</a></blockquote>
+:x-embed{tweet-id="1699828805408550971"}
 
 この記事では関数機能を使うときの注意点と、基本的な用途のサンプルを紹介します。
 

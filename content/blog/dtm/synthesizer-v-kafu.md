@@ -55,7 +55,7 @@ SynthV版の可不は**2023年7月7日**に発表されました。
 
 **2023年12月23日**、公式Xにて突然の[発売延期が発表]{.marker}されました。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【お知らせ】<br>音楽的同位体 可不(KAFU) collaboration with Synthesizer V AI / The Right Stuff ver.の発売延期についてお知らせを掲載しました。<a href="https://t.co/A14D0JnuZv">https://t.co/A14D0JnuZv</a><br><br>詳細は画像をご覧ください。（音楽的同位体運営スタッフ） <a href="https://t.co/JjFyPgablJ">pic.twitter.com/JjFyPgablJ</a></p>&mdash; 音楽的同位体 公式【可不・星界・裏命・狐子・羽累】 (@musicalisotope) <a href="https://twitter.com/musicalisotope/status/1738363800066355499?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote>
+:x-embed{tweet-id="1738363800066355499"}
 
 延期のお知らせには、発売が延期になる旨だけが記載されていました。
 [新たな発売時期や延期の理由が明らかにされていません]{.marker}でした。
@@ -64,7 +64,7 @@ SynthV版の可不は**2023年7月7日**に発表されました。
 
 **2024年4月12日**、公式Xにて[発売延期についての経緯等が詳しく発表]{.marker}されました。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「音楽的同位体 可不(KAFU) <br> collaboration with Synthesizer V AI / The Right Stuff ver.」<br>発売延期についてのご報告になります。<a href="[https://twitter.com/hashtag/音楽的同位体?src=hash&amp;ref_src=twsrc^tfw](https://twitter.com/hashtag/%E9%9F%B3%E6%A5%BD%E7%9A%84%E5%90%8C%E4%BD%8D%E4%BD%93?src=hash&amp;ref_src=twsrc%5Etfw)">#音楽的同位体</a> <a href="[https://twitter.com/hashtag/可不?src=hash&amp;ref_src=twsrc^tfw](https://twitter.com/hashtag/%E5%8F%AF%E4%B8%8D?src=hash&amp;ref_src=twsrc%5Etfw)">#可不</a> <a href="[https://twitter.com/hashtag/KAMITSUBAKI_STUDIO?src=hash&amp;ref_src=twsrc^tfw](https://twitter.com/hashtag/KAMITSUBAKI_STUDIO?src=hash&amp;ref_src=twsrc%5Etfw)">#KAMITSUBAKI_STUDIO</a> <a href="https://t.co/rNUNSP7pUA">[pic.twitter.com/rNUNSP7pUA](http://pic.twitter.com/rNUNSP7pUA)</a></p>— PIEDPIPER (@PIEDPIPER2045) <a href="[https://twitter.com/PIEDPIPER2045/status/1778731096445968819?ref_src=twsrc^tfw](https://twitter.com/PIEDPIPER2045/status/1778731096445968819?ref_src=twsrc%5Etfw)">April 12, 2024</a></blockquote>
+:x-embed{tweet-id="1778731096445968819"}
 
 上記のポストには、発売延期に至った経緯が詳しく書いてあります。
 
@@ -72,7 +72,7 @@ SynthV版の可不は**2023年7月7日**に発表されました。
 
 **2024年4月17日**、花譜さん本人が延期についてのポストを投稿しました。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Synthesizer Vの可不ちゃんについて、発売をお待たせしていて申し訳ありません。<br><br>新しい可不ちゃんの開発が本格的に開始される前に、頂いたボイスサンプルを聴かせていただき、プロデューサーさん、運営さん達と一緒に、自分が納得が行くものを選びました。… <a href="https://t.co/488FLMV7Zh">https://t.co/488FLMV7Zh</a></p>&mdash; 花譜-KAF- (@virtual_kaf) <a href="https://twitter.com/virtual_kaf/status/1780530573502751130?ref_src=twsrc%5Etfw">April 17, 2024</a></blockquote>
+:x-embed{tweet-id="1780530573502751130"}
 
 花譜さん本人の気持ちが綴られています。
 
@@ -80,7 +80,7 @@ SynthV版の可不は**2023年7月7日**に発表されました。
 
 **2025年1月19日**、発売中止のお知らせが出ました。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「音楽的同位体 可不(KAFU) collaboration with Synthesizer V AI / The Right Stuff ver.」 発売中止についてのご報告<br><br> <a href="https://twitter.com/hashtag/%E9%9F%B3%E6%A5%BD%E7%9A%84%E5%90%8C%E4%BD%8D%E4%BD%93?src=hash&amp;ref_src=twsrc%5Etfw">#音楽的同位体</a> <a href="https://twitter.com/hashtag/%E5%8F%AF%E4%B8%8D?src=hash&amp;ref_src=twsrc%5Etfw">#可不</a> <a href="https://twitter.com/hashtag/KAMITSUBAKI_STUDIO?src=hash&amp;ref_src=twsrc%5Etfw">#KAMITSUBAKI_STUDIO</a> <a href="https://t.co/2IMADqPwKZ">pic.twitter.com/2IMADqPwKZ</a></p>&mdash; 音楽的同位体 公式【可不・星界・裏命・狐子・羽累】 (@musicalisotope) <a href="https://twitter.com/musicalisotope/status/1880933223728906699?ref_src=twsrc%5Etfw">January 19, 2025</a></blockquote>
+:x-embed{tweet-id="1880933223728906699"}
 
 Dreamtonics社及びAHS社との試行錯誤を進めていましたが、花譜さん本人の意向や目標を満たすことが難しかったとのことです。
 
@@ -103,7 +103,7 @@ Synthesizer Vの歌声合成はリアル指向となっているため、[想像
 CeVIO AI版の可不は歌声の方向性についてアンケートが取られました。
 アンケート結果では本人に近い歌声の票が多かったものの、[最終的には花譜さん意見で本人の歌声とは離れた歌声]{.marker}に決まりました。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">花譜の音楽的同位体「可不」について、今の私の気持ちをお話します。<a href="https://twitter.com/hashtag/%E8%8A%B1%E8%AD%9C?src=hash&amp;ref_src=twsrc%5Etfw">#花譜</a> <a href="https://twitter.com/hashtag/%E5%8F%AF%E4%B8%8D?src=hash&amp;ref_src=twsrc%5Etfw">#可不</a> <a href="https://twitter.com/hashtag/KAFU?src=hash&amp;ref_src=twsrc%5Etfw">#KAFU</a> <a href="https://twitter.com/hashtag/CeVIO?src=hash&amp;ref_src=twsrc%5Etfw">#CeVIO</a> <a href="https://twitter.com/hashtag/KAMITSUBAKI_STUDIO?src=hash&amp;ref_src=twsrc%5Etfw">#KAMITSUBAKI_STUDIO</a> <a href="https://t.co/z8unJdRnPg">pic.twitter.com/z8unJdRnPg</a></p>&mdash; 花譜-KAF- (@virtual_kaf) <a href="https://twitter.com/virtual_kaf/status/1318145530577395718?ref_src=twsrc%5Etfw">October 19, 2020</a></blockquote>
+:x-embed{tweet-id="1318145530577395718"}
 
 前々から[本人と音声合成ソフトの間で、差別化をしたいという意図]{.marker}があったように感じます。
 

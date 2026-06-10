@@ -34,7 +34,7 @@ Notionのデータベースを編集していて、「カラムの幅をもっ�
 
 Notion公式からの情報で、[`alt`または`opt`キーを押しながらプロパティ列の幅を変更すると、最小化できる]{.marker}ことが判明しました。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">データベースをよりシンプルに見せたい時はありませんか？<br><br>「alt / opt」キーを押しながらプロパティ列の幅を最小化できます↔️ <a href="https://t.co/OPd8WwOUno">pic.twitter.com/OPd8WwOUno</a></p>&mdash; Notion Japan 🇯🇵 (@NotionJP) <a href="https://twitter.com/NotionJP/status/1793763838720188537?ref_src=twsrc%5Etfw">May 23, 2024</a></blockquote>
+:x-embed{tweet-id="1793763838720188537"}
 
 簡単にできるようになりましたね。
 
