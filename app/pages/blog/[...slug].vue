@@ -99,28 +99,36 @@ const navigations = computed(() => {
 
                 <div class="divider"></div>
 
-                <SnsShareContainer :title="title" :url="url"></SnsShareContainer>
+                <!-- ファーストビュー外のコンポーネントは画面に入ってから hydration し、
+                     初期描画（LCP）のメインスレッドブロックを避ける -->
+                <LazySnsShareContainer
+                    :title="title"
+                    :url="url"
+                    hydrate-on-visible
+                ></LazySnsShareContainer>
 
                 <div class="divider"></div>
 
-                <BlogAmazonCampaignPr></BlogAmazonCampaignPr>
+                <LazyBlogAmazonCampaignPr hydrate-on-visible></LazyBlogAmazonCampaignPr>
 
                 <ProseH3>関連記事</ProseH3>
-                <BlogRelationArticles
+                <LazyBlogRelationArticles
                     :current-path="article?.path"
                     :category="article?.category"
                     :tags="article?.tags"
-                ></BlogRelationArticles>
+                    hydrate-on-visible
+                ></LazyBlogRelationArticles>
 
                 <ProseH3>オススメ記事</ProseH3>
-                <BlogRecommendArticles
+                <LazyBlogRecommendArticles
                     :current-path="article?.path"
                     :category="article?.category"
                     :tags="article?.tags"
-                ></BlogRecommendArticles>
+                    hydrate-on-visible
+                ></LazyBlogRecommendArticles>
 
                 <ProseH3>このブログを運営している人</ProseH3>
-                <BlogProfile></BlogProfile>
+                <LazyBlogProfile hydrate-on-visible></LazyBlogProfile>
             </div>
             <div class="col-span-4 hidden px-4 lg:block">
                 <div class="sticky top-24 flex flex-col">
