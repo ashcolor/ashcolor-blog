@@ -15,7 +15,7 @@ thumbnail: "https://img-blog.ashcolor.jp/img/pc/dtm_zundamon_cevio_zundamon_logo
 [「CeVIO AI ずんだもん ソングボイス」の発売が決定]{.marker}しました🎉
 発売日は6月20日となります。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【お知らせ】『CeVIO AI ずんだもん ソングボイス』『CeVIO AI 四国めたん ソングボイス』6月20日(木)発売決定！<br><br>気になる製品情報はこちら　→　<a href="https://t.co/GYk6C91aOg">https://t.co/GYk6C91aOg</a> <a href="https://t.co/zAVSg6lBBT">[pic.twitter.com/zAVSg6lBBT](http://pic.twitter.com/zAVSg6lBBT)</a></p>— CeVIOプロジェクト スタッフ公式 (@CeVIO_st) <a href="[https://twitter.com/CeVIO_st/status/1792752704261087283?ref_src=twsrc^tfw](https://twitter.com/CeVIO_st/status/1792752704261087283?ref_src=twsrc%5Etfw)">May 21, 2024</a></blockquote>
+:x-embed{tweet-id="1792752704261087283"}
 
 また、合わせて**VoiSona**にもずんだもんが登場します。
 

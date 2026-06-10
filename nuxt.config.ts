@@ -58,10 +58,20 @@ export default defineNuxtConfig({
         "@vueuse/nuxt",
         "@nuxt/image",
         "@nuxt/icon",
+        "@nuxt/scripts",
     ],
+
+    scripts: {
+        registry: {
+            xEmbed: {},
+        },
+    },
     components: {
         dirs: [
-            "~/components/content",
+            {
+                path: "~/components/content",
+                global: true,
+            },
             "~/components/pages",
             "~/components/parts",
             {

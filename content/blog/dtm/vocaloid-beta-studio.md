@@ -30,7 +30,7 @@ thumbnail: "https://img-blog.ashcolor.jp/img/pc/dtm_vocaloid-beta-studio_thumbna
 
 2023年08月23日、ヤマハ株式会社から**VOCALOID β-STUDIO**のコンセプト動画が発表されました。
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">VOCALOID β-STUDIOのコンセプト動画を公開しました。<br>数量限定で無償配布するVST/AUプラグイン、&quot;VX-β&quot;の紹介動画にもなっています。<br>使用感に関する皆様のご意見をお待ちしております。<br>ハッシュタグをぜひご活用ください。<a href="https://twitter.com/hashtag/vx_beta?src=hash&amp;ref_src=twsrc%5Etfw">#vx_beta</a> <a href="https://t.co/TXBn5nsFsf">pic.twitter.com/TXBn5nsFsf</a></p>&mdash; VOCALOID β-STUDIO (@vocaloid_beta) <a href="https://twitter.com/vocaloid_beta/status/1693858033397309904?ref_src=twsrc%5Etfw">August 22, 2023</a></blockquote>
+:x-embed{tweet-id="1693858033397309904"}
 
 動画の中でVOCALOID β-STUDIOについて、
 
@@ -53,7 +53,7 @@ VX-βは[VST3,AU形式]{.marker}のためDAWに読み込んで使用します。
 
 後述しますが、Cubaseの場合はCubase上のピアノロールで完結できる一方で、[他のDAWの場合はシーケンスファイルをロードして使います]{.marker}。
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">【その他のDAW】<br>なお、Cubaseに関してはAI、LEを含むすべてのシリーズでご使用いただけます。<br>Cubase以外のDAWソフトウェアにおいては、他の歌声合成プラグインのシーケンスファイルを読み込むことで使用が可能です。<a href="https://t.co/UhezbH7KHm">https://t.co/UhezbH7KHm</a><br>[3/5]-2 <a href="https://t.co/DPT41bJtIY">pic.twitter.com/DPT41bJtIY</a></p>&mdash; VOCALOID β-STUDIO (@vocaloid_beta) <a href="https://twitter.com/vocaloid_beta/status/1694229898804797829?ref_src=twsrc%5Etfw">August 23, 2023</a></blockquote>
+:x-embed{tweet-id="1694229898804797829"}
 
 Cubase以外のDAWでどこまで操作できるかが不明なため、Cubase以外のDAWを使用している場合は注意が必要です。
 
@@ -63,9 +63,9 @@ Cubase以外のDAWでどこまで操作できるかが不明なため、Cubase�
 
 現時点では以下の2つの試聴動画が公開されています。
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">YAMAHA社の研究機関 VOCALOID β-STUDIO がリリースする新たな歌声合成プラグイン「VX-β」の開発に少しだけお力添えしました<br><br>試験段階のゲキヤク / カゼヒキを使用したのですが、表現性・操作性ともに驚異的で、ボカロの豊かで明るい可能性を感じました<br><br>早く実装されてほしいです 切実に⚡️<a href="https://twitter.com/hashtag/vx_beta?src=hash&amp;ref_src=twsrc%5Etfw">#vx_beta</a> <a href="https://t.co/2v4ng7aEnD">https://t.co/2v4ng7aEnD</a> <a href="https://t.co/WWSFtjX1NJ">pic.twitter.com/WWSFtjX1NJ</a></p>&mdash; 平田義久 (@yoshihisahirata) <a href="https://twitter.com/yoshihisahirata/status/1693941763432669648?ref_src=twsrc%5Etfw">August 22, 2023</a></blockquote>
+:x-embed{tweet-id="1693941763432669648"}
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">ヤマハ VOCALOID β-STUDIOが試作したプラグイン<br>「VX-β」<a href="https://twitter.com/hashtag/vx_beta?src=hash&amp;ref_src=twsrc%5Etfw">#vx_beta</a><br>を使用した試聴動画です。<br><br>VOCALOID β-STUDIO公式サイト<a href="https://t.co/OvMS8UnsRt">https://t.co/OvMS8UnsRt</a><br><br>Music : 稲葉曇<br>Vocal : nagiβ &amp; カゼヒキβ<br><br>full ver.は秋頃公開予定です。<br><br>ヤマハ株式会社様からβ版のプラグイン提供を受け制作しています <a href="https://t.co/CeWiV9bHQr">pic.twitter.com/CeWiV9bHQr</a></p>&mdash; 稲葉曇 (@inabakumori) <a href="https://twitter.com/inabakumori/status/1693925990924439591?ref_src=twsrc%5Etfw">August 22, 2023</a></blockquote>
+:x-embed{tweet-id="1693925990924439591"}
 
 第一印象はとしては[人間味がある歌い方]{.marker}だと感じました。
 
@@ -82,7 +82,7 @@ Cubase以外のDAWでどこまで操作できるかが不明なため、Cubase�
 
 VX-βのUI上で一番大きなノブである**Power**を操作すると、単純な音量ではなく、音色やピッチの挙動も含めた歌声の強弱感が変化するようです。
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">【Power】<br>VX-βには16個のパラメーターが搭載され、なかでも特筆すべきは&quot;Power&quot;です。<br>Powerを操作すると、単純な音量ではなく、音色やピッチの挙動も含めた歌声の強弱感がガラリと変化します。<br>囁くような声から強くハリのある声まで、ダイナミックかつ繊細にニュアンスを表現できます。<br>[5/5] <a href="https://t.co/M1HttWrhlg">pic.twitter.com/M1HttWrhlg</a></p>&mdash; VOCALOID β-STUDIO (@vocaloid_beta) <a href="https://twitter.com/vocaloid_beta/status/1694231070156394893?ref_src=twsrc%5Etfw">August 23, 2023</a></blockquote>
+:x-embed{tweet-id="1694231070156394893"}
 
 過去のVOCALOIDの調整では「力強く歌わせたい」、となったときには[音量・ピッチ・声質のパラメータをそれぞれ変更する必要がありました]{.marker}。
 それがひとつのノブを操作するだけでそれぞれのパラメータがうまい具合に変化してくれるのであれば、[調整作業の効率・概念が大きく変わる]{.marker}かもしれません。
@@ -91,7 +91,7 @@ VX-βのUI上で一番大きなノブである**Power**を操作すると、単�
 
 VX-βでは[再生しながらツマミを動かしてもリアルタイムで歌声に変化が起きている]{.marker}ことが確認できます。
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">【リアルタイムパラメーター】<br>従来の多くの歌声合成では、各種パラメーターはレンダリングを待たないと反映されませんでした。<br>VX-βはこの常識を打ち破り、様々な楽器音源と同様、DAWでの再生中にパラメーターを自在に変更できます。<br>VX-βの歌手たちは、あなたの思いに即座に応答します。<br>[4/5] <a href="https://t.co/9L3jedSu1Q">pic.twitter.com/9L3jedSu1Q</a></p>&mdash; VOCALOID β-STUDIO (@vocaloid_beta) <a href="https://twitter.com/vocaloid_beta/status/1694230242112786911?ref_src=twsrc%5Etfw">August 23, 2023</a></blockquote>
+:x-embed{tweet-id="1694230242112786911"}
 
 今までの合成音声ではパラメータを変更するとレンダリング処理は走り、[処理が完了するまでは再生が反映されない仕様]{.marker}でした。
 リアルタイムでパラメータが変更できるので[調整の試行錯誤が格段に楽]{.marker}になりますし。大幅に打ち込みの時間を減らせるかもしれません。
@@ -100,7 +100,7 @@ VX-βでは[再生しながらツマミを動かしてもリアルタイムで�
 
 VX-βはVOCALOID用のエディターが存在せず、全てCubaseのピアノロール上で調整を完結させることができるようです。
 
-<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="ja" dir="ltr">「nagiβ」歌声試聴<br>CubaseのMIDIエディター内で調声しています…！ <a href="https://t.co/jLfoThH8mp">pic.twitter.com/jLfoThH8mp</a></p>&mdash; 稲葉曇 (@inabakumori) <a href="https://twitter.com/inabakumori/status/1693926663699214346?ref_src=twsrc%5Etfw">August 22, 2023</a></blockquote>
+:x-embed{tweet-id="1693926663699214346"}
 
 上記の動画の中では、ノートの他にCubase上で設定したオートメーションが歌声に反映されていることが確認できます。
 
@@ -123,7 +123,7 @@ VX-βがCubaseで調整を完結できるのであれば単純に時短にもな
 
 また、以下に気になる記載がありました。
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">【ボイスバンク】<br>VX-βには個性あふれる9個のボイスバンクが標準搭載されています。<br>さらにその中のmultiβ-Nには、一つのボイスバンク内に17人の歌手が含まれており、パラメーターで切り替えながらの使用ができます。<br>様々な歌声とともにイメージを広げ、自在な音楽制作をお楽しみください。<br>[2/5] <a href="https://t.co/olMUBmx8QK">pic.twitter.com/olMUBmx8QK</a></p>&mdash; VOCALOID β-STUDIO (@vocaloid_beta) <a href="https://twitter.com/vocaloid_beta/status/1694228747455705199?ref_src=twsrc%5Etfw">August 23, 2023</a></blockquote>
+:x-embed{tweet-id="1694228747455705199"}
 
 ボイスバンクの一つ、**multiβ-N**は、[一つのボイスバンク内に17人の歌手が含まれており、パラメーターで切り替えながらの使用ができる]{.marker}とのことです。
 過去のVOCALOID製品でも複数の歌声ライブラリを滑らかにブレンドする**クロスシンセシス**という機能がありましたが、それは同一の歌手内だけでした。
@@ -136,7 +136,7 @@ VX-βがCubaseで調整を完結できるのであれば単純に時短にもな
 
 VOCALOID β-STUDIOではクリエイターの募集を開始しました。
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">VOCALOID β-STUDIOへの参加申し込み受付を開始しました。<br>今後、不定期に募集を行い、抽選に当選された方に加え、 アンケートの回答を元に決定された当選者の方に、研究段階の歌声合成技術によるDAWプラグイン”VX-β”を無償で配付いたします。<br>公式Webサイト内、”JOIN”よりお申し込みください。<br>[1/3]</p>&mdash; VOCALOID β-STUDIO (@vocaloid_beta) <a href="https://twitter.com/vocaloid_beta/status/1693835388983427264?ref_src=twsrc%5Etfw">August 22, 2023</a></blockquote>
+:x-embed{tweet-id="1693835388983427264"}
 
 VX-βはVOCALOID β-STUDIOへの参加申し込みをして、[抽選に当選された方]{.marker}と[アンケートの回答を元に決定された当選者の方]{.marker}に無償で配布されるようです。
 
@@ -156,7 +156,7 @@ VX-βの利用規約には「**Google Analytics による操作情報の収集**
 
 VX-βを使って制作していただいた[楽曲の公開については、[各ボイスバンクのキャラクター利用規約](https://vocaloid.beta.yamaha.com/character_guideline/)の範囲内であれば自由]{.marker}とのことです。
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">VX-βを使って制作していただいた楽曲は、各ボイスバンクのキャラクター利用規約<a href="https://t.co/wmCR6XNX3F">https://t.co/wmCR6XNX3F</a><br>の範囲内で、ご自由に公開していただくことができます。<br>また、商用利用可能なボイスバンクも多数あります。<br>ぜひ様々なシーンでご利用ください。<br>[2/3]</p>&mdash; VOCALOID β-STUDIO (@vocaloid_beta) <a href="https://twitter.com/vocaloid_beta/status/1693835569896517702?ref_src=twsrc%5Etfw">August 22, 2023</a></blockquote>
+:x-embed{tweet-id="1693835569896517702"}
 
 また、[ボイスバンクによっては商用利用も可能]{.marker}とのことです。
 VX-βを使用した楽曲を公開される場合は利用規約をよく読んだ上で投稿しましょう。
@@ -165,7 +165,7 @@ VX-βを使用した楽曲を公開される場合は利用規約をよく読ん
 
 VX-βプラグインは、[VOCALOID6に無料で付属]{.marker}することが決定しました。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【ご報告】<br>VOCALOID β-STUDIO期間中は皆様のご協力をいただき、本当にありがとうございました。<br>本日をもって本アカウントの運用はクローズし、今後の告知・活動報告は <a href="https://twitter.com/vocaloid_yamaha?ref_src=twsrc%5Etfw">@vocaloid_yamaha</a> から発信いたします。<br>最後に、皆様へのお知らせがあります。ぜひ動画をご覧ください。 <a href="https://t.co/ZGwXiqy4TU">pic.twitter.com/ZGwXiqy4TU</a></p>&mdash; VOCALOID β-STUDIO (@vocaloid_beta) <a href="https://twitter.com/vocaloid_beta/status/1813815973004099876?ref_src=twsrc%5Etfw">July 18, 2024</a></blockquote>
+:x-embed{tweet-id="1813815973004099876"}
 
 現在VOCALOID6を使用されているユーザーにも、配布予定とのことです。
 付属開始時期や配布方法は現時点では不明のため、分かりましたら追記します。

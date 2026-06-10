@@ -20,7 +20,7 @@ isRecommend: false
 
 TailwindCSS v4では、ViteプロジェクトにTailwind CSSを導入する際に必要な設定が減り、今までよりも簡単にインストールできるようになりました。
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Playing with an early Tailwind CSS v4 alpha in a <a href="https://twitter.com/vite_js?ref_src=twsrc%5Etfw">@vite_js</a> project —<br><br>🚫 No `postcss.config.js file<br>🚫 No `tailwind.config.js` file<br>🚫 No configuring `content` globs<br>🚫 No `@​tailwind` directives in your CSS<br><br>The future is clean ✨<br><br>Hoping to open-source this week for the bold 🤙🏻 <a href="https://t.co/zY7vyF1iTs">pic.twitter.com/zY7vyF1iTs</a></p>&mdash; Adam Wathan (@adamwathan) <a href="https://twitter.com/adamwathan/status/1764383146559017048?ref_src=twsrc%5Etfw">March 3, 2024</a></blockquote>
+:x-embed{tweet-id="1764383146559017048"}
 
 この記事では、実際にVIteプロジェクトにTailwindCSS v4-alphaを導入して、設定方法の変更点を確認します。
 

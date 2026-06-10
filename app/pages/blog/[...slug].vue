@@ -36,21 +36,6 @@ useSeoMeta({
     twitterCard: "summary_large_image",
 });
 
-useHead({
-    script: [
-        {
-            tagPosition: "bodyClose",
-            type: "text/javascript",
-            src: "https://platform.twitter.com/widgets.js",
-            defer: true,
-            onload: () => {
-                if (!twttr) return;
-                twttr.widgets.load();
-            },
-        },
-    ],
-});
-
 const navigations = computed(() => {
     return [
         {

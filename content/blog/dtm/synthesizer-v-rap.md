@@ -14,7 +14,7 @@ isRecommend: false
 
 2023/10/26、Synthesizer V Studio のバージョン 1.10.0 にて、[日本語ラップ機能]{.marker}が搭載されました。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本日、Synthesizer V AI歌声データベースのアップデータを公開いたします。<br><br>今回のアップデートでは、日本語でのラップに対応できるようになりました。 <a href="https://t.co/pr3eyRLcrB">pic.twitter.com/pr3eyRLcrB</a></p>&mdash; Dreamtonics 公式 (@dreamtonics_jp) <a href="https://twitter.com/dreamtonics_jp/status/1717451009960849761?ref_src=twsrc%5Etfw">October 26, 2023</a></blockquote>
+:x-embed{tweet-id="1717451009960849761"}
 
 この記事では、ラップ機能について詳しく解説します。
 
@@ -43,7 +43,7 @@ Synthesizer V のラップ機能について、公式では以下のように説
 
 ただし、TOKYO6 の[**小春六花 AI**,**夏色花梨 AI**, **花隈千冬 AI**は未対応]{.marker}で、次回アップデートでの対応を予定しているとのことです。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本日Synthesizer V AI ライブラリの日本語ラップ対応のアップデートが行われましたが弊社キャラクターライブラリ（小春六花、夏色花梨、花隈千冬）については、次回アップデートでの対応を予定しております。<a href="https://twitter.com/hashtag/SynthesizerV?src=hash&amp;ref_src=twsrc%5Etfw">#SynthesizerV</a> <a href="https://twitter.com/hashtag/%E5%B0%8F%E6%98%A5%E5%85%AD%E8%8A%B1?src=hash&amp;ref_src=twsrc%5Etfw">#小春六花</a> <a href="https://twitter.com/hashtag/%E5%A4%8F%E8%89%B2%E8%8A%B1%E6%A2%A8?src=hash&amp;ref_src=twsrc%5Etfw">#夏色花梨</a> <a href="https://twitter.com/hashtag/%E8%8A%B1%E9%9A%88%E5%8D%83%E5%86%AC?src=hash&amp;ref_src=twsrc%5Etfw">#花隈千冬</a> <a href="https://t.co/lNpJVx0dc3">https://t.co/lNpJVx0dc3</a></p>&mdash; TOKYO6 Information (@tokyo6info) <a href="https://twitter.com/tokyo6info/status/1717456112856031479?ref_src=twsrc%5Etfw">October 26, 2023</a></blockquote>
+:x-embed{tweet-id="1717456112856031479"}
 
 ## ラップ機能の使い方
 

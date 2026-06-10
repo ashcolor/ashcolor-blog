@@ -151,7 +151,7 @@ Synthesizer V の歌声データベースにはキャラクターのイラスト
 
 ROSE 歌声は以下の動画で確認できます。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Synthesizer V AI 夢ノ結唱発売にあたり<br>ブシロードミュージックさんからご提供頂いたので<br>昨日公開されたRoseliaの新曲<br>「VIOLET LINE」をROSEに歌わせてみました！<br>パラメータも特に弄ってないのにこのクオリティは本当にびっくり...！<br>是非聴き比べてみてください！！<a href="https://twitter.com/hashtag/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA?src=hash&amp;ref_src=twsrc%5Etfw">#バンドリ</a> <a href="https://twitter.com/hashtag/%E5%A4%A2%E3%83%8E%E7%B5%90%E5%94%B1?src=hash&amp;ref_src=twsrc%5Etfw">#夢ノ結唱</a> <a href="https://twitter.com/hashtag/synthV?src=hash&amp;ref_src=twsrc%5Etfw">#synthV</a> <a href="https://t.co/FCdXB7jXiC">pic.twitter.com/FCdXB7jXiC</a></p>&mdash; 藤永龍太郎 (@RyutaroFujinaga) <a href="https://twitter.com/RyutaroFujinaga/status/1723279400748122427?ref_src=twsrc%5Etfw">November 11, 2023</a></blockquote>
+:x-embed{tweet-id="1723279400748122427"}
 
 今までの歌声データベースにはない、[迫力のある力強い歌声]{.marker}が特徴となっています。
 また、[高音でも裏声になりづらい]{.marker}ため、音域の広い楽曲を歌わせるのにも向いています。
