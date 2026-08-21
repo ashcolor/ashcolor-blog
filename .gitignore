@@ -17,3 +17,6 @@ settings.local.json
 .vscode
 .idea
 .DS_Store
+
+.claude
+.playwright-cli
