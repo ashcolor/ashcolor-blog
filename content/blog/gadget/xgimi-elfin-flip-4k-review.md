@@ -15,6 +15,8 @@ isRecommend: true
 **XGIMI Elfin Flip 4K**はコンパクトながらも4K出力ができるプロジェクターです。
 元々はMakuakeでの応援購入のみで発売していましたが、[2026年8月20日から一般販売もスタート]{.marker}しました。
 
+:affiliate-block{title="XGIMI Elfin Flip 4K" imageUrl="https://m.media-amazon.com/images/I/51cWbIlJJOL._SL160_.jpg" asin="B0H3ZH5N7P"}
+
 私はMakuakeで購入して以来、ほとんど毎日のように使っています。
 この記事では、[実際に購入して使ってみての正直な感想]{.marker}をまとめます。
 
@@ -97,6 +99,8 @@ Elfin Flip 4Kは[オートフォーカスや自動台形補正が速い]{.marker
 
 Bluetoothで他のスピーカーに接続できるため、音質が気になる場合はサウンドバーを別途導入するのがよさそうです。
 
+:affiliate-block{title="Bose TV Speaker テレビスピーカー" imageUrl="https://m.media-amazon.com/images/I/613yylItGIL._SL160_.jpg" asin="B088G48JR7"}
+
 ### 本体
 
 本体は[厚さ約7.8cm・重量約1.55kgとかなりコンパクト]{.marker}にまとまっています。
@@ -112,6 +116,10 @@ Elfin Flip 4Kについて調べているときに見つけたのですが、重�
 
 プロジェクターは投映場所を加味して設置場所を考える必要がありますが、ダクトレールに取り付けてしまえば場所を取りません。
 私はまだ試していませんが、近日中に導入しようと考えています。
+
+:affiliate-block{title="Kalos ダクトレール ライティングレール 1m" imageUrl="https://m.media-amazon.com/images/I/31GyWbhdxXL._SL160_.jpg" asin="B0B2RMNBMR"}
+
+:affiliate-block{title="プロジェクター/スピーカーマウント ダクトレールフィクサー" imageUrl="https://m.media-amazon.com/images/I/51v+tkL97aL._SL160_.jpg" asin="B0FNCTM3QP"}
 
 ### リモコン
 
@@ -175,7 +183,8 @@ Elfin Flip 4Kのリモコンはこちらです。
 以前はAnker Nebula Capsule Airを使っていたのですが、[動作のもっさり感や突然の強制終了、明るさ不足]{.marker}に不満がありました。
 Elfin Flip 4Kに買い替えてからは[すべての不満が解消されています]{.marker}。
 
-次のステップとしてサウンドバーの導入やダクトレールへの設置も考えていて、これからも末永く使っていく予定です。
+次のステップとしてサウンドバーの導入やダクトレールへの設置も考えています。
+これからも末永く使っていく予定です。
 
 :affiliate-block{title="XGIMI Elfin Flip 4K" imageUrl="https://m.media-amazon.com/images/I/51cWbIlJJOL._SL160_.jpg" asin="B0H3ZH5N7P"}
 
