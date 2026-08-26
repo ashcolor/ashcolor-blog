@@ -15,7 +15,7 @@ const props = withDefaults(defineProps<Props>(), {
         :href="props.url"
         target="_blank"
         rel="noopener noreferrer"
-        class="btn btn-primary my-4 w-full sm:w-auto"
+        class="btn btn-primary my-4 w-full"
     >
         {{ props.title }}
     </NuxtLink>
