@@ -85,7 +85,7 @@ AI機能のクレジット消費の有無は以下の通りです。
 | ビデオコンポーザー                                                                      | **あり**       |
 | ステムスプリッター                                                                      | なし           |
 
-[公式サイト](https://acestudio.ai/jp/pricing/?cl=general)だとステムスプリッターもクレジット消費ありと記載されていましたが、私が試した限りでは消費なしでした。
+<a href="https://acestudio.ai/jp/pricing/?via=ashcolor27" target="_blank" rel="noopener noreferrer">公式サイト</a>だとステムスプリッターもクレジット消費ありと記載されていましたが、私が試した限りでは消費なしでした。
 
 AI機能を試しに使ってみて消費されたクレジットは以下の通りでした。
 プロンプトや出力によって幅があると思いますが、参考までに載せておきます。
@@ -309,9 +309,9 @@ AI音声生成は1分ほど、AI動画生成は1時間ほどかかることが�
 
 [紹介した機能以外にも多くの機能が搭載]{.marker}されています。
 
-- [AIボイスチェンジャー](https://acestudio.ai/jp/ai-voice-changer/?cl=general)：音声データを別の歌声や楽器に変換する機能
-- [AIボイスクローニング](https://acestudio.ai/jp/custom-voice/?cl=general)：自分の歌声をAIシンガー化して歌わせられる機能
-- [ビデオコンポーザー](https://acestudio.ai/jp/video-composer/?cl=general)：動画に合ったBGMやSEをAI生成する機能
+- <a href="https://acestudio.ai/jp/ai-voice-changer/?via=ashcolor27" target="_blank" rel="noopener noreferrer">AIボイスチェンジャー</a>：音声データを別の歌声や楽器に変換する機能
+- <a href="https://acestudio.ai/jp/custom-voice/?via=ashcolor27" target="_blank" rel="noopener noreferrer">AIボイスクローニング</a>：自分の歌声をAIシンガー化して歌わせられる機能
+- <a href="https://acestudio.ai/jp/video-composer/?via=ashcolor27" target="_blank" rel="noopener noreferrer">ビデオコンポーザー</a>：動画に合ったBGMやSEをAI生成する機能
 
 今回は試しきれませんでしたが、公式サイトに紹介されているので参考にしてみてください。
 
@@ -340,7 +340,8 @@ DAWや音楽制作の経験がない人でも、[音楽理論の知識なしで�
 - プロンプト・指定通りの出力にならないことがある
 - AI音声生成にはクレジットがかかる
 - 本格的な楽曲制作には外部連携が必要
-  ::
+
+::
 
 AI音声生成には[短くても1分ほどの時間がかかります]{.marker}。
 また、出力クオリティにはばらつきがあり再生成が必要になることもあります。
@@ -359,7 +360,8 @@ DAWの基本機能はあるものの物足りなさを感じるため、本格�
 - 楽曲制作に慣れているが、アイデアが欲しい
 - AI楽器による自然な音を打ち込みで得たい
 - 楽曲制作にAIを活用していきたい
-  ::
+
+::
 
 AI機能を前面に出した音楽制作プラットフォームは今までなかったため、[音楽制作の未来を感じるソフトウェア]{.marker}だと感じました。
 一方で、ソフトウェアとしての完成度は高いものの、AI音声生成がまだ発展途上である印象も感じました。
@@ -370,4 +372,4 @@ AI機能を前面に出した音楽制作プラットフォームは今までな
 ACE Studioが気になった方は以下のリンクで[クーポンコード**ASHCOLOR**を入力すると5%OFF]{.marker}になります。
 ぜひチェックしてみてください。
 
-:link-button{title="ACE Studio 公式サイトはこちら" url="https://acestudio.ai/jp/?via=ashcolor27"}
+:link-button{title="ACE Studio 公式サイト" url="https://acestudio.ai/jp/?via=ashcolor27"}
