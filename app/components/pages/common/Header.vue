@@ -2,6 +2,9 @@
 import { BLOG_TITLE, BLOG_CATEGORIES } from "@/utils/const";
 
 const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowList);
+// daisyUIのmenuはaria-current付きリンクを背景色で強調するため、active表示を打ち消す
+const menuLinkClass =
+    "aria-[current=page]:bg-transparent! aria-[current=page]:hover:bg-base-content/10! aria-[current=page]:text-inherit! aria-[current=page]:shadow-none!";
 const menuDropDownRef = ref<HTMLDetailsElement | null>(null);
 
 const onMenuClick = () => {
@@ -32,7 +35,7 @@ const onMenuClick = () => {
                                     :key="category.name"
                                     class="link-hover link"
                                 >
-                                    <NuxtLink :to="category.path">
+                                    <NuxtLink :to="category.path" :class="menuLinkClass">
                                         <Icon :name="category.iconName" />{{ category.name }}
                                     </NuxtLink>
                                 </li>
@@ -42,10 +45,14 @@ const onMenuClick = () => {
                             <div class="menu-title">INFORMATION</div>
                             <ul>
                                 <li>
-                                    <NuxtLink to="/profile">運営者情報</NuxtLink>
+                                    <NuxtLink to="/profile" :class="menuLinkClass"
+                                        >運営者情報</NuxtLink
+                                    >
                                 </li>
                                 <li>
-                                    <NuxtLink to="/contact">お問い合わせ</NuxtLink>
+                                    <NuxtLink to="/contact" :class="menuLinkClass"
+                                        >お問い合わせ</NuxtLink
+                                    >
                                 </li>
                             </ul>
                         </li>
@@ -64,13 +71,13 @@ const onMenuClick = () => {
                         :key="category.name"
                         class="link-hover link"
                     >
-                        <NuxtLink :to="category.path">
+                        <NuxtLink :to="category.path" :class="menuLinkClass">
                             <Icon :name="category.iconName" />
                             {{ category.name }}</NuxtLink
                         >
                     </li>
-                    <li><NuxtLink to="/profile">運営者情報</NuxtLink></li>
-                    <li><NuxtLink to="/contact">お問い合わせ</NuxtLink></li>
+                    <li><NuxtLink to="/profile" :class="menuLinkClass">運営者情報</NuxtLink></li>
+                    <li><NuxtLink to="/contact" :class="menuLinkClass">お問い合わせ</NuxtLink></li>
                 </ul>
             </div>
             <div class="navbar-end">
