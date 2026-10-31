@@ -1,6 +1,8 @@
 import tailwindcss from "@tailwindcss/vite";
 import { readdirSync } from "node:fs";
 import { definePerson } from "nuxt-schema-org/schema";
+import { fileURLToPath } from "node:url";
+import rehypeUnwrapBlockParagraph from "./content-plugins/rehype-unwrap-block-paragraph.mjs";
 
 // crawlLinks だけではトップから辿れない記事が漏れるため、content/blog 配下の全記事を prerender 対象にする
 const blogRoutes = readdirSync("content/blog", { recursive: true, encoding: "utf-8" })
@@ -29,6 +31,8 @@ export default defineNuxtConfig({
             deployConfig: true,
             wrangler: {
                 compatibility_flags: ["nodejs_compat_v2"],
+                // 末尾スラッシュなしの URL（canonical・sitemap）を redirect せず直接返す
+                assets: { html_handling: "drop-trailing-slash" },
                 d1_databases: [
                     {
                         binding: "DB",
@@ -93,6 +97,19 @@ export default defineNuxtConfig({
         build: {
             markdown: {
                 remarkPlugins: { "remark-breaks": {} },
+                rehypePlugins: {
+                    // content のパースは instance、MDC のランタイム import は src を参照する
+                    "rehype-unwrap-block-paragraph": {
+                        instance: rehypeUnwrapBlockParagraph,
+                        // 生成コードに埋め込まれるため、Windows でもバックスラッシュにならないようにする
+                        src: fileURLToPath(
+                            new URL(
+                                "./content-plugins/rehype-unwrap-block-paragraph.mjs",
+                                import.meta.url
+                            )
+                        ).replaceAll("\\", "/"),
+                    },
+                },
                 highlight: {
                     theme: "github-dark",
                     langs: [
@@ -116,6 +133,8 @@ export default defineNuxtConfig({
 
     gtag: {
         id: "G-Z20F8MTC2Q",
+        // app/plugins/gtag-lazy.client.ts で遅延初期化する
+        initMode: "manual",
     },
 
     site: {
