@@ -1,9 +1,8 @@
 <script setup lang="ts">
-const { data, pending } = await useAsyncData("singer", () => queryCollection("singer").first());
+const { data, pending } = await useAsyncData("singer", () => queryCollection("singer").all());
 
 const singers = computed(() => {
-    if (!data.value?.body) return [];
-    return data.value?.body;
+    return data.value ?? [];
 });
 
 const versionFilter = ref<string>("");
@@ -11,7 +10,7 @@ const languageFilter = ref<string>("");
 const genderFilter = ref<string>("");
 
 const filteredSingers = computed(() => {
-    let tmpSingers = singers.value;
+    let tmpSingers = [...singers.value];
 
     if (versionFilter.value) {
         tmpSingers = tmpSingers.filter((singer) => {
