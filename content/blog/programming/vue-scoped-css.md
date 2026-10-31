@@ -91,5 +91,4 @@ Vue3でも動作しますが、非推奨となっています。
 ## 参考
 
 - [Vue.js:deepセレクター](https://ja.vuejs.org/api/sfc-css-features#deep-selectors)
-- [vuejs/rfcs 0023-scoped-styles-changes.md
-  ](https://github.com/vuejs/rfcs/blob/master/active-rfcs/0023-scoped-styles-changes.md)
+- [vuejs/rfcs 0023-scoped-styles-changes.md](https://github.com/vuejs/rfcs/blob/master/active-rfcs/0023-scoped-styles-changes.md)

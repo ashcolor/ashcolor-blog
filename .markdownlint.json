@@ -4,5 +4,6 @@
     "no-duplicate-heading": false,
     "no-inline-html": false,
     "no-bare-urls": false,
-    "link-fragments": false
+    "link-fragments": false,
+    "table-column-style": false
 }

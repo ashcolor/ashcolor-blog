@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD001 MD018 MD024 -->
+<!-- markdownlint-disable MD001 MD018 MD024 MD025 -->
 
 # マークダウン一覧
 
