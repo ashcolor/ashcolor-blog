@@ -30,9 +30,6 @@ const { stop } = useIntersectionObserver(
             :src="isVisible ? props.src : undefined"
             class="max-h-[48rem] min-h-0 grow-0 border"
             preload="none"
-            autoplay
-            loop
-            muted
             playsinline
             controls
         />

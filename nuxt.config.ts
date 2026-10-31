@@ -22,6 +22,10 @@ export default defineNuxtConfig({
     },
     nitro: {
         compatibilityDate: "2025-07-15",
+        // dev の fs キャッシュだと /blog（ファイル）と /blog/xxx（ディレクトリ）が衝突して ENOENT になるため memory にする
+        devStorage: {
+            "cache:nuxt:payload": { driver: "memory" },
+        },
         prerender: {
             crawlLinks: true,
             routes: ["/", "/sitemap.xml", ...blogRoutes],
@@ -30,7 +34,7 @@ export default defineNuxtConfig({
         cloudflare: {
             deployConfig: true,
             wrangler: {
-                compatibility_flags: ["nodejs_compat_v2"],
+                compatibility_flags: ["nodejs_compat"],
                 // 末尾スラッシュなしの URL（canonical・sitemap）を redirect せず直接返す
                 assets: { html_handling: "drop-trailing-slash" },
                 d1_databases: [
