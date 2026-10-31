@@ -20,3 +20,6 @@ settings.local.json
 
 .claude
 .playwright-cli
+
+.wrangler
+.screenshots.local
