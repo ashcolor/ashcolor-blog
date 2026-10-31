@@ -1,5 +1,11 @@
 import tailwindcss from "@tailwindcss/vite";
+import { readdirSync } from "node:fs";
 import { definePerson } from "nuxt-schema-org/schema";
+
+// crawlLinks だけではトップから辿れない記事が漏れるため、content/blog 配下の全記事を prerender 対象にする
+const blogRoutes = readdirSync("content/blog", { recursive: true, encoding: "utf-8" })
+    .filter((file) => file.endsWith(".md"))
+    .map((file) => `/blog/${file.replaceAll("\\", "/").replace(/\.md$/, "")}`);
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
@@ -15,7 +21,8 @@ export default defineNuxtConfig({
     nitro: {
         compatibilityDate: "2025-07-15",
         prerender: {
-            routes: ["/sitemap.xml"],
+            crawlLinks: true,
+            routes: ["/", "/sitemap.xml", ...blogRoutes],
         },
         preset: "cloudflare_module",
         cloudflare: {
