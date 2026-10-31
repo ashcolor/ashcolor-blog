@@ -34,7 +34,7 @@ export default defineNuxtConfig({
         cloudflare: {
             deployConfig: true,
             wrangler: {
-                compatibility_flags: ["nodejs_compat_v2"],
+                compatibility_flags: ["nodejs_compat"],
                 // 末尾スラッシュなしの URL（canonical・sitemap）を redirect せず直接返す
                 assets: { html_handling: "drop-trailing-slash" },
                 d1_databases: [
