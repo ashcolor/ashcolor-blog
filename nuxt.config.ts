@@ -1,6 +1,7 @@
 import tailwindcss from "@tailwindcss/vite";
 import { readdirSync } from "node:fs";
 import { definePerson } from "nuxt-schema-org/schema";
+import rehypeUnwrapBlockParagraph from "./content-plugins/rehype-unwrap-block-paragraph.mjs";
 
 // crawlLinks だけではトップから辿れない記事が漏れるため、content/blog 配下の全記事を prerender 対象にする
 const blogRoutes = readdirSync("content/blog", { recursive: true, encoding: "utf-8" })
@@ -95,6 +96,9 @@ export default defineNuxtConfig({
         build: {
             markdown: {
                 remarkPlugins: { "remark-breaks": {} },
+                rehypePlugins: {
+                    "rehype-unwrap-block-paragraph": { instance: rehypeUnwrapBlockParagraph },
+                },
                 highlight: {
                     theme: "github-dark",
                     langs: [
