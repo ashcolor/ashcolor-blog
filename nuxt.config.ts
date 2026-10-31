@@ -1,6 +1,7 @@
 import tailwindcss from "@tailwindcss/vite";
 import { readdirSync } from "node:fs";
 import { definePerson } from "nuxt-schema-org/schema";
+import { fileURLToPath } from "node:url";
 import rehypeUnwrapBlockParagraph from "./content-plugins/rehype-unwrap-block-paragraph.mjs";
 
 // crawlLinks だけではトップから辿れない記事が漏れるため、content/blog 配下の全記事を prerender 対象にする
@@ -97,7 +98,17 @@ export default defineNuxtConfig({
             markdown: {
                 remarkPlugins: { "remark-breaks": {} },
                 rehypePlugins: {
-                    "rehype-unwrap-block-paragraph": { instance: rehypeUnwrapBlockParagraph },
+                    // content のパースは instance、MDC のランタイム import は src を参照する
+                    "rehype-unwrap-block-paragraph": {
+                        instance: rehypeUnwrapBlockParagraph,
+                        // 生成コードに埋め込まれるため、Windows でもバックスラッシュにならないようにする
+                        src: fileURLToPath(
+                            new URL(
+                                "./content-plugins/rehype-unwrap-block-paragraph.mjs",
+                                import.meta.url
+                            )
+                        ).replaceAll("\\", "/"),
+                    },
                 },
                 highlight: {
                     theme: "github-dark",
