@@ -60,7 +60,7 @@ const onMenuClick = () => {
                 </details>
                 <NuxtLink
                     to="/"
-                    class="btn btn-ghost px-2 text-xl normal-case aria-[current=page]:bg-transparent! aria-[current=page]:shadow-none! aria-[current=page]:hover:bg-base-content/10! sm:px-4"
+                    class="btn btn-ghost px-2 text-xl normal-case aria-[current=page]:bg-transparent! aria-[current=page]:border-transparent! aria-[current=page]:shadow-none!aria-[current=page]:hover:bg-base-content/10! sm:px-4"
                     >{{ BLOG_TITLE }}</NuxtLink
                 >
             </div>
