@@ -40,6 +40,7 @@
     "@types/color": "^3.0.3",
     "@types/node": "^20.11.25",
     "autoprefixer": "^10.4.14",
+    "baseline-browser-mapping": "^2.11.34",
     "eslint": "^9.28.0",
     "eslint-config-prettier": "^10.1.5",
     "husky": "^8.0.3",
@@ -53,7 +54,8 @@
     "sass": "^1.63.4",
     "shiki": "^1.15.2",
     "sitemap": "^7.1.1",
-    "typescript": "^5.4.2"
+    "typescript": "^5.4.2",
+    "wrangler": "^4.156.0"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.600.0",

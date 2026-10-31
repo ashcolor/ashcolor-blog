@@ -22,6 +22,10 @@ export default defineNuxtConfig({
     },
     nitro: {
         compatibilityDate: "2025-07-15",
+        // dev の fs キャッシュだと /blog（ファイル）と /blog/xxx（ディレクトリ）が衝突して ENOENT になるため memory にする
+        devStorage: {
+            "cache:nuxt:payload": { driver: "memory" },
+        },
         prerender: {
             crawlLinks: true,
             routes: ["/", "/sitemap.xml", ...blogRoutes],
