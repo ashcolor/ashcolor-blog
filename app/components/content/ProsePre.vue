@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import { codeToHtml } from "shiki";
-
 const props = defineProps({
     code: {
         type: String,
@@ -28,49 +26,33 @@ const props = defineProps({
     },
 });
 
-const isLoading = ref(true);
-const codeHtml = ref("");
 const isShell = ref(["bash", "sh", "zsh", "PowerShell", "Shell"].includes(props.language));
-
-const loadCode = async () => {
-    codeHtml.value = await codeToHtml(props.code.replace(/\n$/, ""), {
-        lang: props.language,
-        theme: "github-dark",
-    });
-    isLoading.value = false;
-};
-
-onMounted(async () => {
-    await loadCode();
-});
 </script>
 
 <template>
-    <ClientOnly>
-        <div class="my-4">
-            <div class="tabs tabs-lift tabs-sm">
-                <label
-                    class="tab !bg-primary flex-row justify-start gap-1"
-                    :class="{
-                        hidden: !props.filename,
-                    }"
-                >
-                    <input type="radio" class="cursor-default" checked="checked" />
-                    <Icon
-                        :name="isShell ? 'mdi:keyboard-arrow-right' : 'mdi:file-outline'"
-                        class="text-primary-content"
-                    ></Icon>
-                    <span class="text-primary-content">{{ props.filename }}</span>
-                </label>
-                <div class="tab-content">
-                    <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
-                    <div v-if="isLoading" :class="props.class" class="prose-code">読み込み中</div>
-                    <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
-                    <div v-else :class="props.class" class="prose-code" v-html="codeHtml"></div>
+    <div class="my-4">
+        <div class="tabs tabs-lift tabs-sm">
+            <label
+                class="tab !bg-primary flex-row justify-start gap-1"
+                :class="{
+                    hidden: !props.filename,
+                }"
+            >
+                <input type="radio" class="cursor-default" checked="checked" />
+                <Icon
+                    :name="isShell ? 'mdi:keyboard-arrow-right' : 'mdi:file-outline'"
+                    class="text-primary-content"
+                ></Icon>
+                <span class="text-primary-content">{{ props.filename }}</span>
+            </label>
+            <div class="tab-content">
+                <!-- eslint-disable-next-line tailwindcss/no-custom-classname -->
+                <div class="prose-code">
+                    <pre :class="props.class" class="prose-pre"><slot /></pre>
                 </div>
             </div>
         </div>
-    </ClientOnly>
+    </div>
 </template>
 
 <style>
@@ -81,6 +63,10 @@ onMounted(async () => {
     overflow: hidden;
     position: relative;
     width: 100%;
+}
+.prose-pre {
+    background-color: #24292e;
+    color: #e1e4e8;
 }
 pre {
     display: flex;

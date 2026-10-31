@@ -54,7 +54,6 @@
     "nuxt-schema-org": "^7.0.1",
     "prettier": "^3.9.10",
     "sass": "^1.107.1",
-    "shiki": "^4.5.0",
     "sitemap": "^10.0.0",
     "typescript": "^6.0.3",
     "wrangler": "^4.156.0"
