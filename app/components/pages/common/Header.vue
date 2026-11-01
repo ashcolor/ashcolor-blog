@@ -2,9 +2,9 @@
 import { BLOG_TITLE, BLOG_CATEGORIES } from "@/utils/const";
 
 const headerCategories = BLOG_CATEGORIES.filter((category) => category.isShowList);
-// daisyUIのmenuはaria-current付きリンクを背景色で強調するため、アイコンも含めた下線表示に置き換える
+// daisyUIのmenuはaria-current付きリンクを背景色で強調するため、active表示を打ち消す
 const menuLinkClass =
-    "aria-[current=page]:bg-transparent! aria-[current=page]:hover:bg-base-content/10! aria-[current=page]:text-inherit! aria-[current=page]:rounded-none! aria-[current=page]:shadow-[inset_0_-2px_0_0_currentColor]";
+    "aria-[current=page]:bg-transparent! aria-[current=page]:hover:bg-base-content/10! aria-[current=page]:text-inherit! aria-[current=page]:shadow-none!";
 const menuDropDownRef = ref<HTMLDetailsElement | null>(null);
 
 const onMenuClick = () => {
@@ -60,7 +60,7 @@ const onMenuClick = () => {
                 </details>
                 <NuxtLink
                     to="/"
-                    class="btn btn-ghost px-2 text-xl normal-case aria-[current=page]:bg-transparent! aria-[current=page]:shadow-none! aria-[current=page]:hover:bg-base-content/10! sm:px-4"
+                    class="btn btn-ghost px-2 text-xl normal-case aria-[current=page]:bg-transparent! aria-[current=page]:border-transparent! aria-[current=page]:shadow-none!aria-[current=page]:hover:bg-base-content/10! sm:px-4"
                     >{{ BLOG_TITLE }}</NuxtLink
                 >
             </div>
